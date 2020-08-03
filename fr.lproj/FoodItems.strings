@@ -1,0 +1,12 @@
+/* 
+  FoodItems.strings
+  NotPho
+
+  Created by Dimitri Bouniol on 8/2/20.
+  Copyright © 2020 Linh Bouniol. All rights reserved.
+*/
+
+/* These represent the individual item button on each page that often lead to other pages. `.Subtitle` should be the translated text, while `.AccessibilitySubtitle` will be the VoiceOver equivalent. */
+
+/* Grilled Pork Sandwich */
+"grilledPorkBanhMi.Subtitle" = "Sandwich au Porc Grillé";
