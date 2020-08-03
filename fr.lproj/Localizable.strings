@@ -1,0 +1,12 @@
+/* 
+  Strings.strings
+  NotPho
+
+  Created by Dimitri Bouniol on 8/2/20.
+  Copyright © 2020 Linh Bouniol. All rights reserved.
+*/
+
+/* Test Strings */
+"Test String" = "French Test String";
+
+/* ... */
