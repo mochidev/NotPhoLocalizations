@@ -9,4 +9,7 @@
 /* Test Strings */
 "Test String" = "French Test String";
 
+/* The Heading for Note sections */
+"Note.Heading" = "Remarquer";
+
 /* ... */

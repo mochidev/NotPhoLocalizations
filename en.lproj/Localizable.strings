@@ -9,6 +9,9 @@
 /* Test Strings */
 "Test String" = "English Test String";
 
+/* The Heading for Note sections */
+"Note.Heading" = "Note";
+
 /**************************
     Banh Mi Page
  **************************/
