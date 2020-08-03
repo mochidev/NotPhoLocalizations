@@ -16,8 +16,119 @@
     Banh Mi Page
  **************************/
 
+/* Banh Mi Page Title - Should Be in Vietnamese */
+"BanhMi.Page.Title" = "Bánh Mì Thịt Nướng";
+
+/* Banh Mi Page Subtitle - This is the translation */
+"BanhMi.Page.Subtitle" = "Grilled Pork Bánh Mì";
+
+/* Banh Mi Page Title (VoiceOver) */
+"BanhMi.Page.AccessibilityTitle" = "Grilled Pork Banh Mi";
+
+/* Banh Mi Main Image (VoiceOver) */
+"BanhMi.Main.Image" = "Info";
+
+/* Banh Mi Main Image Action Hint (VoiceOver) */
+"BanhMi.Main.Image.Hint" = "Scroll down to learn more.";
+
 /* Banh Mi Introduction */
 "BanhMi.Introduction" = "##Bánh Mì## (sandwiches) are a very popular dish among the street vendors in Vietnam. There are many versions of ##Bánh Mì## (sandwich); the traditional ##Bánh Mì## (sandwich) is typically made with cold cuts along with mayo or liver pâté, but ##Thịt Nướng## (grilled pork) is also very popular. What makes ##Bánh Mì## (sandwich) unique though is not just the meat and spread, but the iconic ##Đồ Chua## (pickled carrot and daikon). It gives ##Bánh Mì## (sandwich) a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make ##Bánh Mì## (sandwich) a great food item to be enjoyed any time of the day.";
 
 /* Banh Mi Introduction (VoiceOver) */
 "BanhMi.Introduction.Accessibility" = "Banh mi are a very popular dish among the street vendors in Vietnam. There are many versions of banh mi; the traditional banh mi is typically made with cold cuts along with mayo or liver pâté, but grilled pork is also very popular. What makes banh mi unique though is not just the meat and spread, but the iconic pickled carrot and daikon. It gives banh mi a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make banh mi a great food item to be enjoyed any time of the day.";
+
+/* Banh Mi Components/Ingredients Header */
+"BanhMi.Components.Ingredients.Header" = "Components/Ingredients";
+
+/* Banh Mi Ingredients Baguette Amount */
+"BanhMi.Ingredients.Baguette.Amount" = "One 10-in long loaf";
+
+/* Banh Mi Ingredients Baguette Amount (VoiceOver) */
+"BanhMi.Ingredients.Baguette.AccessibilityAmount" = "1 10 inch long loaf";
+
+/* Banh Mi Ingredients Pickles Amount */
+"BanhMi.Ingredients.Pickles.Amount" = "2 tbsp, drained";
+
+/* Banh Mi Ingredients GrilledPork Amount */
+"BanhMi.Ingredients.GrilledPork.Amount" = "4-6 oz";
+
+/* Banh Mi Ingredients GrilledPork Amount (VoiceOver) */
+"BanhMi.Ingredients.GrilledPork.AccessibilityAmount" = "4 to 6 ounces";
+
+/* Banh Mi Ingredients Mayo Amount */
+"BanhMi.Ingredients.Mayo.Amount" = "2 tsp, spread";
+
+/* Banh Mi Ingredients Mayo Amount (VoiceOver) */
+"BanhMi.Ingredients.Mayo.AccessibilityAmount" = "2 teaspoons, spread";
+
+/* Banh Mi Ingredients Cucumber Amount */
+"BanhMi.Ingredients.Cucumber.Amount" = "4-5 round slices";
+
+/* Banh Mi Ingredients Cucumber Amount (VoiceOver) */
+"BanhMi.Ingredients.Cucumber.AccessibilityAmount" = "4 to 5 round slices";
+
+/* Banh Mi Ingredients Cilantro Amount */
+"BanhMi.Ingredients.Cilantro.Amount" = "2-3 stems with leaves";
+
+/* Banh Mi Ingredients Cilantro Amount (VoiceOver) */
+"BanhMi.Ingredients.Cilantro.AccessibilityAmount" = "2 to 3 stems with leaves";
+
+/* Banh Mi Ingredients Jalapeno Amount */
+"BanhMi.Ingredients.Jalapeno.Amount" = "(optional)";
+
+/* Banh Mi Instructions Header */
+"BanhMi.Instructions.Header" = "Instructions";
+
+/* Banh Mi Instructions 1 */
+"BanhMi.Instructions.1" = "Cut the ##Bánh Mì## (baguette) in half lengthwise.";
+
+/* Banh Mi Instructions 1 Accessibility (VoiceOver) */
+"BanhMi.Instructions.1.Accessibility" = "Cut the baguette in half lengthwise.";
+
+/* Banh Mi Instructions 2 */
+"BanhMi.Instructions.2" = "Spread ##Sốt Mayonnaise## (mayo) on both sides of the ##Bánh Mì## (baguette).";
+
+/* Banh Mi Instructions 2 Accessibility (VoiceOver) */
+"BanhMi.Instructions.2.Accessibility" = "Spread mayo on both sides of the baguette.";
+
+/* Banh Mi Instructions 3 */
+"BanhMi.Instructions.3" = "Arrange some thinly sliced ##Thịt Nướng## (grilled pork) on the bottom half of the ##Bánh Mì## (baguette).";
+
+/* Banh Mi Instructions 3 Accessibility (VoiceOver) */
+"BanhMi.Instructions.3.Accessibility" = "Arrange some thinly sliced grilled pork on the bottom half of the baguette.";
+
+/* Banh Mi Instructions 4 */
+"BanhMi.Instructions.4" = "Add some ##Đồ Chua## (pickled carrot and daikon), sliced ##Dưa Leo## (cucumbers) and ##Ngò## (cilantro).";
+
+/* Banh Mi Instructions 4 Accessibility (VoiceOver) */
+"BanhMi.Instructions.4.Accessibility" = "Add some pickled carrot and daikon, sliced cucumbers and cilantro.";
+
+/* Banh Mi Instructions 5 */
+"BanhMi.Instructions.5" = "A few slices of ##Ớt## (jalapeño) can optionally be added if you like spicy food.";
+
+/* Banh Mi Instructions 5 Accessibility (VoiceOver) */
+"BanhMi.Instructions.5.Accessibility" = "A few slices of jalapeño can optionally be added if you like spicy food.";
+
+/* Banh Mi Instructions 6 */
+"BanhMi.Instructions.6" = "Place the top half of the ##Bánh Mì## (baguette) on top to complete the sandwich.";
+
+/* Banh Mi Instructions 6 Accessibility (VoiceOver) */
+"BanhMi.Instructions.6.Accessibility" = "Place the top half of the baguette on top to complete the sandwich.";
+
+/* Banh Mi HowTo Header */
+"BanhMi.HowTo.Header" = "How To";
+
+/* Banh Mi HowTo 1 */
+"BanhMi.HowTo.1" = "##Bánh Mì## is eaten like any sandwich, and typically wrapped in paper to enable easy eating on the go.";
+
+/* Banh Mi HowTo 1 Accessibility (VoiceOver) */
+"BanhMi.HowTo.1.Accessibility" = "Banh Mi is eaten like any sandwich, and typically wrapped in paper to enable easy eating on the go.";
+
+/* Banh Mi HowTo 2 */
+"BanhMi.HowTo.2" = "If you aren't accustomed to eating sandwiches made from baguette, you can eat the sandwich bottom-side up, so the hard, crispy top shell of the baguette does not cut the top of your palate.";
+
+/* Banh Mi HowTo 3 */
+"BanhMi.HowTo.3" = "Using your palm to gently press on the ##Bánh Mì## (sandwich) to break up the shell ahead of time can also make it easier to eat if your gums are sensitive.";
+
+/* Banh Mi HowTo 3 Accessibility (VoiceOver) */
+"BanhMi.HowTo.3.Accessibility" = "Using your palm to gently press on the Banh Mi (sandwich) to break up the shell ahead of time can also make it easier to eat if your gums are sensitive.";
