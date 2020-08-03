@@ -6,9 +6,6 @@
   Copyright © 2020 Linh Bouniol. All rights reserved.
 */
 
-/* Test Strings */
-"Test String" = "English Test String";
-
 /* The Heading for Note sections */
 "Note.Heading" = "Note";
 
@@ -202,3 +199,151 @@
 
 /* Egg Rolls How To 4 (VoiceOver) */
 "EggRolls.HowTo.4.Accessibility" = "Dip the wrap into mixed fish sauce and enjoy.";
+
+/**************************
+    Vermicelli Page
+ **************************/
+
+/* Vermicelli Page Title - Should Be in Vietnamese */
+"Vermicelli.Page.Title" = "Bún Thịt Nướng Chả Giò";
+
+/* Vermicelli Page Subtitle - This is the translation */
+"Vermicelli.Page.Subtitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
+
+/* Vermicelli Page Title (VoiceOver) */
+"Vermicelli.Page.AccessibilityTitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
+
+/* Vermicelli Main Image (VoiceOver) */
+"Vermicelli.Main.Image" = "Info";
+
+/* Vermicelli Main Image Action Hint (VoiceOver) */
+"Vermicelli.Main.Image.Hint" = "Scroll down to learn more.";
+
+/* Vermicelli Introduction */
+"Vermicelli.Introduction" = "##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles) is a popular cold noodle dish packed with flavors that come from sweet and savory ##Thịt Nướng## (grilled pork), savory and crispy ##Chả Giò## (egg rolls), ##Rau## (fresh greens), ##Đồ Chua## (pickled carrot and daikon), and ##Nước Mắm Chấm## (mixed fish sauce), full of umami flavor that brings it all together. This dish is great to be enjoyed any time, especially during a hot summer.";
+
+/* Vermicelli Introduction (VoiceOver) */
+"Vermicelli.Introduction.Accessibility" = "Grilled pork and egg roll vermicelli noodles is a popular cold noodle dish packed with flavors that come from sweet and savory grilled pork, savory and crispy egg rolls, fresh greens, pickled carrot and daikon, and mixed fish sauce, full of umami flavor that brings it all together. This dish is great to be enjoyed any time, especially during a hot summer.";
+
+/* Vermicelli Components Ingredients Header */
+"Vermicelli.Components.Ingredients.Header" = "Components/Ingredients";
+
+/* Vermicelli Ingredients Vermicelli Noodles Amount */
+"Vermicelli.Ingredients.VermicelliNoodles.Amount" = "4-5 oz, cooked";
+
+/* Vermicelli Ingredients Vermicelli Noodles Amount (VoiceOver) */
+"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount" = "4 to 5 ounces, cooked";
+
+/* Vermicelli Ingredients EggRolls Amount */
+"Vermicelli.Ingredients.EggRolls.Amount" = "2 rolls";
+
+/* Vermicelli Ingredients Grilled Pork Amount */
+"Vermicelli.Ingredients.GrilledPork.Amount" = "4-6 oz";
+
+/* Vermicelli Ingredients Grilled Pork Amount (VoiceOver) */
+"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount" = "4 to 6 ounces";
+
+/* Vermicelli Ingredients Pickles Amount */
+"Vermicelli.Ingredients.Pickles.Amount" = "2 tbsp, drained";
+
+/* Vermicelli Ingredients Leafy Greens Amount */
+"Vermicelli.Ingredients.LeafyGreens.Amount" = "assortment";
+
+/* Vermicelli Ingredients Cucumber Amount */
+"Vermicelli.Ingredients.Cucumber.Amount" = "½ cucumber, sliced";
+
+/* Vermicelli Ingredients Cucumber Amount (VoiceOver) */
+"Vermicelli.Ingredients.Cucumber.AccessibilityAmount" = "half a cucumber, sliced";
+
+/* Vermicelli Ingredients Bean Sprouts Amount */
+"Vermicelli.Ingredients.BeanSprouts.Amount" = "small handful";
+
+/* Vermicelli Ingredients Mixed Fish Sauce Amount */
+"Vermicelli.Ingredients.MixedFishSauce.Amount" = "½ cup";
+
+/* Vermicelli Ingredients Mixed Fish Sauce Amount (VoiceOver) */
+"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount" = "half a cup";
+
+/* Vermicelli Ingredients Scallion & Oil Garnish Amount */
+"Vermicelli.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
+
+/* Vermicelli Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
+"Vermicelli.Ingredients.ScallionsOil.AccessibilityAmount" = "1 to 2 tablespoons";
+
+/* Vermicelli Ingredients Peanut Amount */
+"Vermicelli.Ingredients.Peanut.Amount" = "2 tsp, crushed (optional)";
+
+/* Vermicelli Ingredients Peanut Amount (VoiceOver) */
+"Vermicelli.Ingredients.Peanut.AccessibilityAmount" = "2 teaspoons, crushed (optional)";
+
+/* Vermicelli Instructions Header */
+"Vermicelli.Instructions.Header" = "Instructions";
+
+/* Vermicelli Instructions 1 */
+"Vermicelli.Instructions.1" = "Chop up some ##Rau Xà Lách## (lettuce) and arrange it in a bowl.";
+
+/* Vermicelli Instructions 1 (VoiceOver) */
+"Vermicelli.Instructions.1.Accessibility" = "Chop up some lettuce and arrange it in a bowl.";
+
+/* Vermicelli Instructions 2 */
+"Vermicelli.Instructions.2" = "Add the ##Bún## (vermicelli rice noodles) on top of the chopped ##Rau Xà Lách## (lettuce). (Cook the ##Bún## (vermicelli rice noodles) according to the instructions on the package.)";
+
+/* Vermicelli Instructions 2 (VoiceOver) */
+"Vermicelli.Instructions.2.Accessibility" = "Add the vermicelli rice noodles on top of the chopped lettuce. Cook the vermicelli rice noodles according to the instructions on the package.";
+
+/* Vermicelli Instructions 3 */
+"Vermicelli.Instructions.3" = "Arrange some ##Tía Tô## (perilla leaves), ##Húng Lũi## (mint), ##Giá Đậu## (bean sprouts), ##Đồ Chua## (pickled carrot and daikon), and ##Ngò## (cilantro) on one half of the bowl.";
+
+/* Vermicelli Instructions 3 (VoiceOver) */
+"Vermicelli.Instructions.3.Accessibility" = "Arrange some perilla leaves, mint, bean sprouts, pickled carrot and daikon, and cilantro on one half of the bowl.";
+
+/* Vermicelli Instructions 4 */
+"Vermicelli.Instructions.4" = "Cut the ##Thịt Nướng## (grilled pork) into thin slices and add to the other half of the bowl.";
+
+/* Vermicelli Instructions 4 (VoiceOver) */
+"Vermicelli.Instructions.4.Accessibility" = "Cut the grilled pork into thin slices and add to the other half of the bowl.";
+
+/* Vermicelli Instructions 5 */
+"Vermicelli.Instructions.5" = "Add the ##Mỡ Hành## (scallion and oil garnish) on top of the ##Cơm Tấm## (broken rice) and ##Thịt Nướng## (grilled pork).";
+
+/* Vermicelli Instructions 5 (VoiceOver) */
+"Vermicelli.Instructions.5.Accessibility" = "Add the scallion and oil garnish on top of the broken rice and grilled pork.";
+
+/* Vermicelli Instructions 6 */
+"Vermicelli.Instructions.6" = "Add the ##Chả Giò## (egg rolls) next to the ##Thịt Nướng## (grilled pork). (You can cut each ##Chả Giò## (egg roll) into thirds to make them easier to eat.)";
+
+/* Vermicelli Instructions 6 (VoiceOver) */
+"Vermicelli.Instructions.6.Accessibility" = "Add the egg rolls next to the grilled pork. You can cut each egg roll into thirds to make them easier to eat.";
+
+/* Vermicelli Instructions 7 */
+"Vermicelli.Instructions.7" = "Sprinkle on some crushed ##Đậu Phộng## (peanuts). (##Đậu Phộng## (peanuts) are optional if you don’t like them or are allergic.)";
+
+/* Vermicelli Instructions 7 (VoiceOver) */
+"Vermicelli.Instructions.7.Accessibility" = "Sprinkle on some crushed peanuts. Peanuts are optional if you don’t like them or are allergic.";
+
+/* Vermicelli Note 1 */
+"Vermicelli.Note.1" = "Remember, like many Asian dishes, ##Bún## (vermicelli noodle) dishes are typically eaten with chopsticks, so make sure each component is bite size and ready to eat!";
+
+/* Vermicelli Note 1 (VoiceOver) */
+"Vermicelli.Note.1.Accessibility" = "Remember, like many Asian dishes, vermicelli noodle dishes are typically eaten with chopsticks, so make sure each component is bite size and ready to eat!";
+
+/* Vermicelli How To Header */
+"Vermicelli.HowTo.Header" = "How To";
+
+/* Vermicelli How To 1 */
+"Vermicelli.HowTo.1" = "Pour the entire ##Nước Mắm Chấm## (mixed fish sauce) into the bowl and toss everything together, and enjoy like a salad.";
+
+/* Vermicelli How To 1 (VoiceOver) */
+"Vermicelli.HowTo.1.Accessibility" = "Pour the entire mixed fish sauce into the bowl and toss everything together, and enjoy like a salad.";
+
+/* Vermicelli How To 2 */
+"Vermicelli.HowTo.2" = "Or, drizzle enough ##Nước Mắm Chấm## (mixed fish sauce) into the bowl so that the noodles and greens are well coated and flavored, then use the rest of the ##Nước Mắm Chấm## (mixed fish sauce) as a dipping sauce for the ##Thịt Nướng## (grilled pork) and ##Chả Giò## (egg rolls).";
+
+/* Vermicelli How To 2 (VoiceOver) */
+"Vermicelli.HowTo.2.Accessibility" = "Or, drizzle enough mixed fish sauce into the bowl so that the noodles and greens are well coated and flavored, then use the rest of the mixed fish sauce as a dipping sauce for the grilled pork and egg rolls.";
+
+/* Vermicelli How To 3 */
+"Vermicelli.HowTo.3" = "The amount of ##Nước Mắm Chấm## (mixed fish sauce) you serve is up to you, but always have extra available — it's not uncommon to enjoy as much as half a cup at a time!";
+
+/* Vermicelli How To 3 (VoiceOver) */
+"Vermicelli.HowTo.3.Accessibility" = "The amount of mixed fish sauce you serve is up to you, but always have extra available — it's not uncommon to enjoy as much as half a cup at a time!";
