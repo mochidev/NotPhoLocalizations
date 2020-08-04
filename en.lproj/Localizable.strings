@@ -1100,3 +1100,136 @@
 
 /* Mayo Used In Header */
 "Mayo.UsedIn.Header" = "Used In";
+
+/**************************
+    Mixed Fish Sauce Page
+ **************************/
+
+/* Mixed Fish Sauce Title - Should Be in Vietnamese */
+"MixedFishSauce.Page.Title" = "Nước Mắm Chấm";
+
+/* Mixed Fish Sauce Subtitle - This is the translation */
+"MixedFishSauce.Page.Subtitle" = "Mixed Fish Sauce";
+
+/* Mixed Fish Sauce Title (VoiceOver) */
+"MixedFishSauce.Page.AccessibilityTitle" = "Mixed Fish Sauce";
+
+/* Mixed Fish Sauce Main Image (VoiceOver) */
+"MixedFishSauce.Main.Image" = "Info";
+
+/* Mixed Fish Sauce Introduction 1 */
+"MixedFishSauce.Introduction.1" = "##Nước Mắm Chấm## (fish sauce dip), or more simply ##Nước Chấm## (dipping sauce), but also know as ##Nước Mắm Pha## (mixed fish sauce), all refer to the same sweet, tangy, and savory dipping sauce that is paired with many Vietnamese dishes. ##Nước Mắm Chấm## can add plenty of flavor to even a “boring” dish. As my husband always says, most Vietnamese dishes are simply a ##Nước Mắm Chấm## delivery mechanism — suffice to say, he has become a huge fan of ##Nước Mắm Chấm## since I introduced it to him.";
+
+/* Mixed Fish Sauce Introduction 1 (VoiceOver) */
+"MixedFishSauce.Introduction.1.Accessibility" = "Mixed fish sauce refers to a sweet, tangy, and savory dipping sauce that is paired with many Vietnamese dishes. Mixed fish sauce can add plenty of flavor to even a “boring” dish. As my husband always says, most Vietnamese dishes are simply a mixed fish sauce delivery mechanism — suffice to say, he has become a huge fan of mixed fish sauce since I introduced it to him.";
+
+/* Mixed Fish Sauce Introduction 2 */
+"MixedFishSauce.Introduction.2" = "This recipe yields 1 ½ cups.";
+
+/* Mixed Fish Sauce Introduction 2 (VoiceOver) */
+"MixedFishSauce.Introduction.2.Accessibility" = "This recipe yields one and a half cups.";
+
+/* Mixed Fish Sauce Ingredients Header */
+"MixedFishSauce.Ingredients.Header" = "Ingredients";
+
+/* Mixed Fish Sauce Ingredients Fish Sauce Amount */
+"MixedFishSauce.FishSauce.Amount" = "5 tbsp";
+
+/* Mixed Fish Sauce Ingredients Lime Amount */
+"MixedFishSauce.Lime.Amount" = "6 tbsp, juiced";
+
+/* Mixed Fish Sauce Ingredients Water Amount */
+"MixedFishSauce.Water.Amount" = "200 mL";
+
+/* Mixed Fish Sauce Ingredients Garlic Amount */
+"MixedFishSauce.Garlic.Amount" = "2-3 cloves, minced";
+
+/* Mixed Fish Sauce Ingredients Garlic Amount (VoiceOVer) */
+"MixedFishSauce.Garlic.AccessibilityAmount" = "2 to 3 cloves, minced";
+
+/* Mixed Fish Sauce Ingredients Sugar Amount */
+"MixedFishSauce.Sugar.Amount" = "156 g";
+
+/* Mixed Fish Sauce Ingredients Salt Amount */
+"MixedFishSauce.Salt.Amount" = "½ tsp";
+
+/* Mixed Fish Sauce Ingredients Salt Amount (VoiceOVer) */
+"MixedFishSauce.Salt.AccessibilityAmount" = "half a teaspoon";
+
+/* Mixed Fish Sauce Ingredients Chili Amount */
+"MixedFishSauce.Chili.Amount" = "½ tsp, chopped or minced";
+
+/* Mixed Fish Sauce Ingredients Chili Amount (VoiceOVer) */
+"MixedFishSauce.Chili.AccessibilityAmount" = "half a teaspoon, chopped or minced";
+
+/* Mixed Fish Sauce Instructions Header */
+"MixedFishSauce.Instructions.Header" = "Instructions";
+
+/* Mixed Fish Sauce Instructions Step 1 */
+"MixedFishSauce.Instructions.Step.1" = "Step 1";
+
+/* Mixed Fish Sauce Instructions Step 1 Part 1 */
+"MixedFishSauce.Instructions.Step.1.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Nước Chanh## (lime juice), and ##Nước## (water) in to a bowl";
+
+/* Mixed Fish Sauce Instructions Step 1 Part 1 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.1.Part.1.Accessibility" = "Add fish sauce, lime juice, and water in to a bowl.";
+
+/* Mixed Fish Sauce Instructions Step 1 Note 1 */
+"MixedFishSauce.Instructions.Step.1.Note.1" = "##Nước Mắm Chấm## (mixed fish sauce) tastes the best with ##Nước Chanh## (lime juice); however, it tends to spoil after 1 week.";
+
+/* Mixed Fish Sauce Instructions Step 1 Note 1 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.1.Note.1.Accessibility" = "Mixed fish sauce tastes the best with lime juice; however, it tends to spoil after 1 week.";
+
+/* Mixed Fish Sauce Instructions Step 1 Note 2 */
+"MixedFishSauce.Instructions.Step.1.Note.2" = "Substitute ##Nước Chanh## (lime juice) with ##Giấm Trắng## (white vinegar) will last much longer (about 1 month).";
+
+/* Mixed Fish Sauce Instructions Step 1 Note 2 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.1.Note.2.Accessibility" = "Substitute lime juice with white vinegar will last much longer (about 1 month).";
+
+/* Mixed Fish Sauce Instructions Step 1 Note 3 */
+"MixedFishSauce.Instructions.Step.1.Note.3" = "Store the ##Nước Mắm Chấm## (mixed fish sauce) in the refrigerator.";
+
+/* Mixed Fish Sauce Instructions Step 1 Note 3 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.1.Note.3.Accessibility" = "Store the mixed fish sauce in the refrigerator.";
+
+/* Mixed Fish Sauce Instructions Step 1 Note 4 */
+"MixedFishSauce.Instructions.Step.1.Note.4" = "Label and date your ##Nước Mắm Chấm## (mixed fish sauce) so it doesn’t over stay its welcome in your refrigerator.";
+
+/* Mixed Fish Sauce Instructions Step 1 Note 4 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.1.Note.4.Accessibility" = "Label and date your mixed fish sauce so it doesn’t over stay its welcome in your refrigerator.";
+
+/* Mixed Fish Sauce Instructions Step 2 */
+"MixedFishSauce.Instructions.Step.2" = "Step 2";
+
+/* Mixed Fish Sauce Instructions Step 2 Part 1 */
+"MixedFishSauce.Instructions.Step.2.Part.1" = "Minced the ##Tỏi## (garlic) and add it in to the bowl.";
+
+/* Mixed Fish Sauce Instructions Step 2 Part 1 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.2.Part.1.Accessibility" = "Minced the garlic and add it in to the bowl.";
+
+/* Mixed Fish Sauce Instructions Step 3 */
+"MixedFishSauce.Instructions.Step.3" = "Step 3";
+
+/* Mixed Fish Sauce Instructions Step 3 Part 1 */
+"MixedFishSauce.Instructions.Step.3.Part.1" = "Add ##Đường## (sugar), ##Muối## (salt), and ##Ớt Đỏ## (chili) in to the bowl.";
+
+/* Mixed Fish Sauce Instructions Step 3 Part 1 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.3.Part.1.Accessibility" = "Add sugar, salt, and chili in to the bowl.";
+
+/* Mixed Fish Sauce Instructions Step 3 Note 1 */
+"MixedFishSauce.Instructions.Step.3.Note.1" = "Chili paste can be found in most groceries; the jar often has a picture of a rooster on it and a green cap.";
+
+/* Mixed Fish Sauce Instructions Step 3 Note 2 */
+"MixedFishSauce.Instructions.Step.3.Note.2" = "If you can’t find chili paste, any fresh chilis will do, or you can skip it all together if you don’t like spicy things.";
+
+/* Mixed Fish Sauce How To Header */
+"MixedFishSauce.HowTo.Header" = "How To";
+
+/* Mixed Fish Sauce How To 1 */
+"MixedFishSauce.HowTo.1" = "##Nước Mắm Chấm## (mixed fish sauce) is used as a dipping sauce to add flavor to your dish.";
+
+/* Mixed Fish Sauce How To 1 (VoiceOver) */
+"MixedFishSauce.HowTo.1.Accessibility" = "Mixed fish sauce is used as a dipping sauce to add flavor to your dish.";
+
+/* Mixed Fish Sauce Used In Header */
+"MixedFishSauce.UsedIn.Header" = "Used In";
