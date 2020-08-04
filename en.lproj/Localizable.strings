@@ -997,3 +997,106 @@
 
 /* Grilled Pork UsedIn Header */
 "GrilledPork.UsedIn.Header" = "Used In";
+
+/**************************
+    Mayo Page
+ **************************/
+
+/* Mayo Title - Should Be in Vietnamese */
+"Mayo.Page.Title" = "Sốt Mayonnaise";
+
+/* Mayo Subtitle - This is the translation */
+"Mayo.Page.Subtitle" = "Mayonnaise";
+
+/* Mayo Title (VoiceOver) */
+"Mayo.Page.AccessibilityTitle" = "Mayonnaise";
+
+/* Mayo Main Image (VoiceOver) */
+"Mayo.Main.Image" = "Info";
+
+/* Mayo Introduction */
+"Mayo.Introduction" = "##Sốt Mayonnaise## (mayonnaise sauce) was brought to Vietnam through the French influence and it is mainly used in ##Bánh Mì## (sandwich).";
+
+/* Mayo Introduction (VoiceOver) */
+"Mayo.Introduction.Accessibility" = "Mayonnaise sauce was brought to Vietnam through the French influence and it is mainly used in banh mi.";
+
+/* Mayo Ingredients Header */
+"Mayo.Ingredients.Header" = "Ingredients";
+
+/* Mayo Ingredients EggYolk Amount */
+"Mayo.Ingredients.EggYolk.Amount" = "2 egg yolks";
+
+/* Mayo Ingredients Oil Amount */
+"Mayo.Ingredients.Oil.Amount" = "1 cup, canola or olive";
+
+/* Mayo Ingredients Salt Amount */
+"Mayo.Ingredients.Salt.Amount" = "½ tsp";
+
+/* Mayo Ingredients Salt Amount (VoiceOver) */
+"Mayo.Ingredients.Salt.AccessibilityAmount" = "half a teaspoon";
+
+/* Mayo Instructions Header */
+"Mayo.Instructions.Header" = "Instructions";
+
+/* Mayo Instructions Step 1 */
+"Mayo.Instructions.Step.1" = "Step 1";
+
+/* Mayo Instructions Step 1 Part 1 */
+"Mayo.Instructions.Step.1.Part.1" = "Place the ##Lòng Đỏ Trứng## (egg yolks) in a bowl.";
+
+/* Mayo Instructions Step 1 Part 1 (VoiceOver) */
+"Mayo.Instructions.Step.1.Part.1.Accessibility" = "Place the egg yolks in a bowl.";
+
+/* Mayo Instructions Step 1 Part 2 */
+"Mayo.Instructions.Step.1.Part.2" = "Whisk the ##Lòng Đỏ Trứng## (egg yolks) together on low to medium power with a hand mixer.";
+
+/* Mayo Instructions Step 1 Part 2 (VoiceOver) */
+"Mayo.Instructions.Step.1.Part.2.Accessibility" = "Whisk the egg yolks together on low to medium power with a hand mixer.";
+
+/* Mayo Instructions Step 2 */
+"Mayo.Instructions.Step.2" = "Step 2";
+
+/* Mayo Instructions Step 2 Part 1 */
+"Mayo.Instructions.Step.2.Part.1" = "While the ##Lòng Đỏ Trứng## (egg yolks) are whisking, slowly incorporate the ##Dầu## (oil).";
+
+/* Mayo Instructions Step 2 Part 1 (VoiceOver) */
+"Mayo.Instructions.Step.2.Part.1.Accessibility" = "While the egg yolks are whisking, slowly incorporate the oil.";
+
+/* Mayo Instructions Step 2 Note 1 */
+"Mayo.Instructions.Step.2.Note.1" = "Adding the ##Dầu## (oil) should take 2-3 minutes.";
+
+/* Mayo Instructions Step 2 Note 1 (VoiceOver) */
+"Mayo.Instructions.Step.2.Note.1.Accessibility" = "Adding the oil should take 2 to 3 minutes.";
+
+/* Mayo Instructions Step 2 Note 2 */
+"Mayo.Instructions.Step.2.Note.2" = "If the ##Dầu## (oil) is added too quickly, it will not combine well with the ##Lòng Đỏ Trứng## (egg yolks).";
+
+/* Mayo Instructions Step 2 Note 2 (VoiceOver) */
+"Mayo.Instructions.Step.2.Note.2.Accessibility" = "If the oil is added too quickly, it will not combine well with the egg yolks.";
+
+/* Mayo Instructions Step 2 Note 3 */
+"Mayo.Instructions.Step.2.Note.3" = "Olive oil also works well.";
+
+/* Mayo Instructions Step 3 */
+"Mayo.Instructions.Step.3" = "Step 3";
+
+/* Mayo Instructions Step 3 Part 1 */
+"Mayo.Instructions.Step.3.Part.1" = "Add the ##Muối## (salt) to the mixture.";
+
+/* Mayo Instructions Step 3 Part 1 (VoiceOver) */
+"Mayo.Instructions.Step.3.Part.1.Accessibility" = "Add the salt to the mixture.";
+
+/* Mayo Instructions Step 3 Part 2 */
+"Mayo.Instructions.Step.3.Part.2" = "Whisk for another 30 seconds.";
+
+/* Mayo How To Header */
+"Mayo.HowTo.Header" = "How To";
+
+/* Mayo How To 1 */
+"Mayo.HowTo.1" = "Spread some ##Sốt Mayonnaise## (mayonnaise) on a piece of toasted ##Bánh Mì## (baguette) and enjoy.";
+
+/* Mayo How To 1 (VoiceOver) */
+"Mayo.HowTo.1.Accessibility" = "Spread some mayonnaise on a piece of toasted baguette and enjoy.";
+
+/* Mayo Used In Header */
+"Mayo.UsedIn.Header" = "Used In";
