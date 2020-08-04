@@ -1233,3 +1233,34 @@
 
 /* Mixed Fish Sauce Used In Header */
 "MixedFishSauce.UsedIn.Header" = "Used In";
+
+/**************************
+    Leafy Greens Page
+ **************************/
+
+/* Leafy Greens Title - Should Be in Vietnamese */
+"LeafyGreens.Page.Title" = "Rau";
+
+/* Leafy Greens Subtitle - This is the translation */
+"LeafyGreens.Page.Subtitle" = "Leafy Greens";
+
+/* Leafy Greens Title (VoiceOver) */
+"LeafyGreens.Page.AccessibilityTitle" = "Leafy Greens";
+
+/* Leafy Greens Main Image (VoiceOver) */
+"LeafyGreens.Main.Image" = "Info";
+
+/* Leafy Greens Introduction */
+"LeafyGreens.Introduction" = "Herbs and leafy greens add such a wonderful aroma and flavor to foods that they have become an essential ingredient in Vietnamese food. Some dishes will have the herbs and leafy greens incorporated, but most will be accompanied by a side plate of them. These are just a few of the common ones that are typically found in a dish.";
+
+/* Leafy Greens Ingredients Header */
+"LeafyGreens.Ingredients.Header" = "Ingredients";
+
+/* Leafy Greens How To Header */
+"LeafyGreens.HowTo.Header" = "How To";
+
+/* Leafy Greens How To 1 */
+"LeafyGreens.HowTo.1" = "These leafy greens are to be enjoyed raw and are often used as garnishes.";
+
+/* Leafy Greens Used In Header */
+"LeafyGreens.UsedIn.Header" = "Used In";
