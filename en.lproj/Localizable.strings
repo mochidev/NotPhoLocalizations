@@ -849,3 +849,151 @@
 
 /* Pickles Used In Header */
 "Pickles.UsedIn.Header" = "Used In";
+
+/**************************
+    Grilled Pork Page
+ **************************/
+
+/* Grilled Pork Title - Should Be in Vietnamese */
+"GrilledPork.Page.Title" = "Thịt Nướng";
+
+/* Grilled Pork Subtitle - This is the translation */
+"GrilledPork.Page.Subtitle" = "Grilled Pork";
+
+/* Grilled Pork Title (VoiceOver) */
+"GrilledPork.Page.AccessibilityTitle" = "Grilled Pork";
+
+/* Grilled Pork Main Image (VoiceOver) */
+"GrilledPork.Main.Image" = "Info";
+
+/* Grilled Pork Introduction 1 */
+"GrilledPork.Introduction.1" = "##Thịt Nướng## (grilled meat) is short for ##Thịt Heo Nướng##, meaning “grilled pork meat”, but often the ##Heo## (pork) is omitted. This grilled meat is sweet, salty, and savory, and can be paired with lots of dishes. It is so tasty that it can even be eaten with plain white rice.";
+
+/* Grilled Pork Introduction 1 (VoiceOver) */
+"GrilledPork.Introduction.1.Accessibility" = "Grilled pork is a sweet, salty, and savory entree, and can be paired with lots of dishes. It is so tasty that it can even be eaten with plain white rice.";
+
+/* Grilled Pork Introduction 2 */
+"GrilledPork.Introduction.2" = "This recipe is perfect with beef and chicken as well, and it serves two.";
+
+/* Grilled Pork Ingredients Header */
+"GrilledPork.Ingredients.Header" = "Ingredients";
+
+/* Grilled Pork Ingredients Raw Pork Amount */
+"GrilledPork.Ingredients.RawPork.Amount" = "½ lb";
+
+/* Grilled Pork Ingredients Raw Pork Amount (VoiceOver) */
+"GrilledPork.Ingredients.RawPork.AccessibilityAmount" = "half a pound";
+
+/* Grilled Pork Ingredients Lemongrass Amount */
+"GrilledPork.Ingredients.Lemongrass.Amount" = "½ tbsp";
+
+/* Grilled Pork Ingredients Lemongrass Amount (VoiceOver) */
+"GrilledPork.Ingredients.Lemongrass.AccessibilityAmount" = "half a tablespoon";
+
+/* Grilled Pork Ingredients Fish Sauce Amount */
+"GrilledPork.Ingredients.FishSauce.Amount" = "2 tbsp";
+
+/* Grilled Pork Ingredients Garlic Amount */
+"GrilledPork.Ingredients.Garlic.Amount" = "1 clove";
+
+/* Grilled Pork Ingredients Shallot Amount */
+"GrilledPork.Ingredients.Shallot.Amount" = "1 whole";
+
+/* Grilled Pork Ingredients Salt Amount */
+"GrilledPork.Ingredients.Salt.Amount" = "2 tbsp";
+
+/* Grilled Pork Ingredients Black Pepper Amount */
+"GrilledPork.Ingredients.BlackPepper.Amount" = "1 tsp";
+
+/* Grilled Pork Ingredients Black Pepper (VoiceOver) */
+"GrilledPork.Ingredients.BlackPepper.AccessibilityAmount" = "1 teaspoon";
+
+/* Grilled Pork Ingredients Oil Amount */
+"GrilledPork.Ingredients.Oil.Amount" = "1-2 tsp";
+
+/* Grilled Pork Ingredients Oil (VoiceOver) */
+"GrilledPork.Ingredients.Oil.AccessibilityAmount" = "1 to 2 teaspoons";
+
+/* Grilled Pork Instructions Header */
+"GrilledPork.Instructions.Header" = "Instructions";
+
+/* Grilled Pork Instructions Step 1 */
+"GrilledPork.Instructions.Step.1" = "Step 1";
+
+/* Grilled Pork Instructions Step 1 Part 1 */
+"GrilledPork.Instructions.Step.1.Part.1" = "Place the ##Thịt Heo## (pork) in the bowl.";
+
+/* Grilled Pork Instructions Step 1 Part 1 (VoiceOver) */
+"GrilledPork.Instructions.Step.1.Part.1.Accessibility" = "Place the pork in the bowl.";
+
+/* Grilled Pork Instructions Step 1 Part 2 */
+"GrilledPork.Instructions.Step.1.Part.2" = "Add the ##Nước Mắm## (fish sauce), ##Muối## (salt) and ##Tiêu Đen## (black pepper) to the bowl.";
+
+/* Grilled Pork Instructions Step 1 Part 2 (VoiceOver) */
+"GrilledPork.Instructions.Step.1.Part.2.Accessibility" = "Add the fish sauce, salt and black pepper to the bowl.";
+
+/* Grilled Pork Instructions Step 1 Note */
+"GrilledPork.Instructions.Step.1.Note" = "This recipe also works well with beef and chicken.";
+
+/* Grilled Pork Instructions Step 2 */
+"GrilledPork.Instructions.Step.2" = "Step 2";
+
+/* Grilled Pork Instructions Step 2 Part 1 */
+"GrilledPork.Instructions.Step.2.Part.1" = "Mince the ##Tỏi## (garlic), ##Xả## (lemongrass), and ##Hẹ Tây## (shallot).";
+
+/* Grilled Pork Instructions Step 2 Part 1 (VoiceOver) */
+"GrilledPork.Instructions.Step.2.Part.1.Accessibility" = "Mince the garlic, lemon-grass, and shallot.";
+
+/* Grilled Pork Instructions Step 2 Part 2 */
+"GrilledPork.Instructions.Step.2.Part.2" = "Add them to the bowl.";
+
+/* Grilled Pork Instructions Step 2 Note */
+"GrilledPork.Instructions.Step.2.Note" = "If you are making a large amount, consider using a food processor.";
+
+/* Grilled Pork Instructions Step 3 */
+"GrilledPork.Instructions.Step.3" = "Step 3";
+
+/* Grilled Pork Instructions Step 3 Part 1 */
+"GrilledPork.Instructions.Step.3.Part.1" = "Mix the contents in the bowl thoroughly.";
+
+/* Grilled Pork Instructions Step 3 Part 2 */
+"GrilledPork.Instructions.Step.3.Part.2" = "Let the ##Thịt Heo## (pork) marinate for at least 30 minutes.";
+
+/* Grilled Pork Instructions Step 3 Part 1 (VoiceOver) */
+"GrilledPork.Instructions.Step.3.Part.2.Accessibility" = "Let the pork marinate for at least 30 minutes.";
+
+/* Grilled Pork Instructions Step 4 */
+"GrilledPork.Instructions.Step.4" = "Step 4";
+
+/* Grilled Pork Instructions Step 4 Part 1 */
+"GrilledPork.Instructions.Step.4.Part.1" = "In a medium-high heat skillet, add 1-2 tablespoons of cooking oil.";
+
+/* Grilled Pork Instructions Step 4 Part 1 (VoiceOVer) */
+"GrilledPork.Instructions.Step.4.Part.1.Accessibility" = "In a medium-high heat skillet, add 1 to 2 tablespoons of cooking oil.";
+
+/* Grilled Pork Instructions Step 4 Part 2 */
+"GrilledPork.Instructions.Step.4.Part.2" = "Add the pre-marinated pork to the skillet.";
+
+/* Grilled Pork Instructions Step 4 Part 3 */
+"GrilledPork.Instructions.Step.4.Part.3" = "Cook until the internal temperature of the ##Thịt Heo## (pork) is at least 145ºF.";
+
+/* Grilled Pork Instructions Step 4 Part 3 (VoiceOVer) */
+"GrilledPork.Instructions.Step.4.Part.3.Accessibility" = "Cook until the internal temperature of the pork is at least 145ºF.";
+
+/* Grilled Pork Instructions Step 4 Note */
+"GrilledPork.Instructions.Step.4.Note" = "For best result, cook the pork on a grill.";
+
+/* Grilled Pork Instructions Step 4 Note (VoiceOver) */
+"GrilledPork.Instructions.Step.4.Note.Accessibility" = "For best result, cook the pork on a grill.";
+
+/* Grilled Pork How To Header */
+"GrilledPork.HowTo.Header" = "How To";
+
+/* Grilled Pork How To 1 */
+"GrilledPork.HowTo.1" = "##Thịt Nướng## (grilled pork) is a great source of protein in many dishes, and can even be enjoyed as a meal by itself.";
+
+/* Grilled Pork How To 1 (VoiceOver) */
+"GrilledPork.HowTo.1.Accessibility" = "Grilled pork is a great source of protein in many dishes, and can even be enjoyed as a meal by itself.";
+
+/* Grilled Pork UsedIn Header */
+"GrilledPork.UsedIn.Header" = "Used In";
