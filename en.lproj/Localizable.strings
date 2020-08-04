@@ -564,3 +564,128 @@
 
 /* Crepe How To 7 (VoiceOver) */
 "Crepe.HowTo.7.Accessibility" = "For a less messy experience, tear up lettuce, perilla, mint, Thai basil, and cilantro over your plate, pour Nước Mắm Chấm (mixed fish sauce) over everything, and enjoy with chopsticks.";
+
+/**************************
+    Broken Rice Page
+ **************************/
+
+/* Broken Rice Title - Should Be in Vietnamese */
+"BrokenRice.Page.Title" = "Cơm Tấm Thịt Nướng Chả";
+
+/* Broken Rice Subtitle - This is the translation */
+"BrokenRice.Page.Subtitle" = "Broken Rice with Grilled Pork & Egg Meatloaf";
+
+/* Broken Rice Title (VoiceOver) */
+"BrokenRice.Page.AccessibilityTitle" = "Broken Rice with Grilled Pork & Egg Meatloaf";
+
+/* Broken Rice Main Image (VoiceOver) */
+"BrokenRice.Main.Image" = "Info";
+
+/* Broken Rice Main Image Action Hint (VoiceOver) */
+"BrokenRice.Main.Image.Hint" = "Scroll down to learn more.";
+
+/* Broken Rice Introduction */
+"BrokenRice.Introduction" = "##Cơm Tấm## (broken rice) was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of ##Cơm Tấm## (broken rice) dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, ##Chả Trứng## (steamed egg meatloaf), fresh vegetables, pickles, and ##Nước Mắm Chấm## (mixed fish sauce) on the side.";
+
+/* Broken Rice Introduction (VoiceOver) */
+"BrokenRice.Introduction.Accessibility" = "Broken rice was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of broken rice dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, steamed egg meatloaf, fresh vegetables, pickles, and mixed fish sauce on the side.";
+
+/* Broken Rice Components/Ingredients Header */
+"BrokenRice.Components.Ingredients.Header" = "Components/Ingredients";
+
+/* Broken Rice Ingredients Rice Amount */
+"BrokenRice.Ingredients.Rice.Amount" = "6 oz, cooked";
+
+/* Broken Rice Ingredients Grilled Pork Amount */
+"BrokenRice.Ingredients.GrilledPork.Amount" = "4-6 oz";
+
+/* Broken Rice Ingredients Grilled Pork Amount (VoiceOver) */
+"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount" = "4 to 6 ounces";
+
+/* Broken Rice Ingredients Egg Meatloaf Amount */
+"BrokenRice.Ingredients.EggMeatloaf.Amount" = "3-4 oz";
+
+/* Broken Rice Ingredients Egg Meatloaf Amount (VoiceOver) */
+"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount" = "3 to 4 ounces";
+
+/* Broken Rice Ingredients Pickles Amount */
+"BrokenRice.Ingredients.Pickles.Amount" = "2 tbsp, drained";
+
+/* Broken Rice Ingredients Pickles Amount */
+"BrokenRice.Ingredients.Cucumber.Amount" = "3 slices";
+
+/* Broken Rice Ingredients Pickles Amount */
+"BrokenRice.Ingredients.Tomato.Amount" = "2 slices";
+
+/* Broken Rice Ingredients Scallion & Oil Garnish Amount */
+"BrokenRice.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
+
+/* Broken Rice Ingredients Scallion & Oil Garnish Amount (VoiceOVer) */
+"BrokenRice.Ingredients.ScallionsOil.AccessibilityAmount" = "1 to 2 tablespoons";
+
+/* Broken Rice Ingredients Mixed Fish Sauce Amount */
+"BrokenRice.Ingredients.MixedFishSauce.Amount" = "½ cup";
+
+/* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOVer) */
+"BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount" = "half a cup";
+
+/* Broken Rice Instructions Header */
+"Broken.Rice.Instructions.Header" = "Instructions";
+
+/* Broken Rice Instructions 1 */
+"Broken.Rice.Instructions.1" = "Scoop the ##Cơm Tấm## (cooked broken rice) into a small bowl, then invert the bowl over a plate to form the rice into a half-sphere shape.";
+
+/* Broken Rice Ingredients Instructions 1 (VoiceOVer) */
+"Broken.Rice.Instructions.1.Accessibility" = "Scoop the cooked broken rice into a small bowl, then invert the bowl over a plate to form the rice into a half-sphere shape.";
+
+/* Broken Rice Instructions 2 */
+"Broken.Rice.Instructions.2" = "Arrange the ##Thịt Nướng## (grilled pork) and ##Chả Trứng## (steamed egg meatloaf) on the plate next to the ##Cơm Tấm## (cooked broken rice).";
+
+/* Broken Rice Ingredients Instructions 2 (VoiceOVer) */
+"Broken.Rice.Instructions.2.Accessibility" = "Arrange the grilled pork and steamed egg meatloaf on the plate next to the cooked broken rice.";
+
+/* Broken Rice Instructions 3 */
+"Broken.Rice.Instructions.3" = "Cut the ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato) and arrange them along the side of the plate.";
+
+/* Broken Rice Ingredients Instructions 3 (VoiceOVer) */
+"Broken.Rice.Instructions.3.Accessibility" = "Cut the cucumber and tomato and arrange them along the side of the plate.";
+
+
+/* Broken Rice Instructions 4 */
+"Broken.Rice.Instructions.4" = "Drain the ##Đồ Chua## (pickles) and place them next to the slices of ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato).";
+
+/* Broken Rice Ingredients Instructions 4 (VoiceOVer) */
+"Broken.Rice.Instructions.4.Accessibility" = "Drain the pickles and place them next to the slices of cucumber and tomato.";
+
+/* Broken Rice Instructions 5 */
+"Broken.Rice.Instructions.5" = "Add the ##Mỡ Hành## (scallion and oil garnish) on top of the ##Cơm Tấm## (cooked broken rice) and the ##Thịt Nướng## (grilled pork).";
+
+/* Broken Rice Ingredients Instructions 5 (VoiceOVer) */
+"Broken.Rice.Instructions.5.Accessibility" = "Add the scallion and oil garnish on top of the cooked broken rice and the grilled pork.";
+
+/* Broken Rice Instructions 6 */
+"Broken.Rice.Instructions.6" = "Prepare the ##Nước Mắm Chấm## (mixed fish sauce) in a side bowl to be used as dressing or dipping sauce for the dish.";
+
+/* Broken Rice Ingredients Instructions 6 (VoiceOVer) */
+"Broken.Rice.Instructions.6.Accessibility" = "Prepare the mixed fish sauce in a side bowl to be used as dressing or dipping sauce for the dish.";
+
+/* Broken Rice How To Header */
+"Broken.Rice.HowTo.Header" = "How To";
+
+/* Broken Rice How To 1 */
+"Broken.Rice.HowTo.1" = "Drizzle some ##Nước Mắm Chấm## (mixed fish sauce) over the ##Cơm Tấm## (cooked broken rice) to enjoy.";
+
+/* Broken Rice How To 1 (VoiceOVer) */
+"Broken.Rice.HowTo.1.Accessibility" = "Drizzle some mixed fish sauce over the cooked broken rice to enjoy.";
+
+/* Broken Rice How To 2 */
+"Broken.Rice.HowTo.2" = "Save some ##Nước Mắm Chấm## (mixed fish sauce) on the side as a dipping sauce for the ##Thịt Nướng## (grilled pork) and ##Chả Trứng## (steamed egg meatloaf).";
+
+/* Broken Rice How To 2 (VoiceOVer) */
+"Broken.Rice.HowTo.2.Accessibility" = "Save some mixed fish sauce on the side as a dipping sauce for the grilled pork and steamed egg meatloaf.";
+
+/* Broken Rice How To 3 */
+"Broken.Rice.HowTo.3" = "You can also pour the ##Nước Mắm Chấm## (mixed fish sauce) over everything on the plate and enjoy it all together.";
+
+/* Broken Rice How To 3 (VoiceOVer) */
+"Broken.Rice.HowTo.3.Accessibility" = "You can also pour the mixed fish sauce over everything on the plate and enjoy it all together.";
