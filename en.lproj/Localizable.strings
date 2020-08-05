@@ -2064,3 +2064,28 @@
 
 /* Daikon Used In Header */
 "Daikon.UsedIn.Header" = "Used In";
+
+/********************
+    Carrot Page
+ ********************/
+
+/* Carrot Page Title - Should Be in Vietnamese */
+"Carrot.Page.Title" = "Cà Rốt";
+
+/* Carrot Page Subtitle - This is the translation */
+"Carrot.Page.Subtitle" = "Carrot";
+
+/* Carrot Page Title (VoiceOver) */
+"Carrot.Page.AccessibilityTitle" = "Carrot";
+
+/* Carrot Main Image (VoiceOver) */
+"Carrot.Main.Image" = "Info";
+
+/* Carrot Introduction */
+"Carrot.Introduction" = "##Cà Rốt## (carrot) is a root vegetable, and it is widely used in Vietnamese dishes. It is also often pickled with ##Củ Cải Trắng## (daikon) and used as a garnish.";
+
+/* Carrot Introduction (VoiceOver) */
+"Carrot.Introduction.Accessibility" = "Carrot is a root vegetable, and it is widely used in Vietnamese dishes. It is also often pickled with daikon and used as a garnish.";
+
+/* Carrot Used In Header */
+"Carrot.UsedIn.Header" = "Used In";
