@@ -932,8 +932,8 @@
 /* Grilled Pork Instructions Step 1 Part 2 (VoiceOver) */
 "GrilledPork.Instructions.Step.1.Part.2.Accessibility" = "Add the fish sauce, salt and black pepper to the bowl.";
 
-/* Grilled Pork Instructions Step 1 Note */
-"GrilledPork.Instructions.Step.1.Note" = "This recipe also works well with beef and chicken.";
+/* Grilled Pork Instructions Step 1 Note 1 */
+"GrilledPork.Instructions.Step.1.Note.1" = "This recipe also works well with beef and chicken.";
 
 /* Grilled Pork Instructions Step 2 */
 "GrilledPork.Instructions.Step.2" = "Step 2";
@@ -948,7 +948,7 @@
 "GrilledPork.Instructions.Step.2.Part.2" = "Add them to the bowl.";
 
 /* Grilled Pork Instructions Step 2 Note */
-"GrilledPork.Instructions.Step.2.Note" = "If you are making a large amount, consider using a food processor.";
+"GrilledPork.Instructions.Step.2.Note.1" = "If you are making a large amount, consider using a food processor.";
 
 /* Grilled Pork Instructions Step 3 */
 "GrilledPork.Instructions.Step.3" = "Step 3";
@@ -981,10 +981,10 @@
 "GrilledPork.Instructions.Step.4.Part.3.Accessibility" = "Cook until the internal temperature of the pork is at least 145ºF.";
 
 /* Grilled Pork Instructions Step 4 Note */
-"GrilledPork.Instructions.Step.4.Note" = "For best result, cook the pork on a grill.";
+"GrilledPork.Instructions.Step.4.Note.1" = "For best result, cook the pork on a grill.";
 
 /* Grilled Pork Instructions Step 4 Note (VoiceOver) */
-"GrilledPork.Instructions.Step.4.Note.Accessibility" = "For best result, cook the pork on a grill.";
+"GrilledPork.Instructions.Step.4.Note.1.Accessibility" = "For best result, cook the pork on a grill.";
 
 /* Grilled Pork How To Header */
 "GrilledPork.HowTo.Header" = "How To";
