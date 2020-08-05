@@ -321,11 +321,11 @@
 /* Vermicelli Instructions 7 (VoiceOver) */
 "Vermicelli.Instructions.7.Accessibility" = "Sprinkle on some crushed peanuts. Peanuts are optional if you don’t like them or are allergic.";
 
-/* Vermicelli Note 1 */
-"Vermicelli.Note.1" = "Remember, like many Asian dishes, ##Bún## (vermicelli noodle) dishes are typically eaten with chopsticks, so make sure each component is bite size and ready to eat!";
+/* Vermicelli Note */
+"Vermicelli.Note" = "Remember, like many Asian dishes, ##Bún## (vermicelli noodle) dishes are typically eaten with chopsticks, so make sure each component is bite size and ready to eat!";
 
-/* Vermicelli Note 1 (VoiceOver) */
-"Vermicelli.Note.1.Accessibility" = "Remember, like many Asian dishes, vermicelli noodle dishes are typically eaten with chopsticks, so make sure each component is bite size and ready to eat!";
+/* Vermicelli Note (VoiceOver) */
+"Vermicelli.Note.Accessibility" = "Remember, like many Asian dishes, vermicelli noodle dishes are typically eaten with chopsticks, so make sure each component is bite size and ready to eat!";
 
 /* Vermicelli How To Header */
 "Vermicelli.HowTo.Header" = "How To";
