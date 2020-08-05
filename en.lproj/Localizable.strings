@@ -2145,3 +2145,28 @@
 
 /* Fish Sauce Used In Header */
 "FishSauce.UsedIn.Header" = "Used In";
+
+/********************
+    Rice Page
+ ********************/
+
+/* Rice Page Title - Should Be in Vietnamese */
+"Rice.Page.Title" = "Cơm Tấm";
+
+/* Rice Page Subtitle - This is the translation */
+"Rice.Page.Subtitle" = "Cooked Broken Rice";
+
+/* Rice Page Title (VoiceOver) */
+"Rice.Page.AccessibilityTitle" = "Cooked Broken Rice";
+
+/* Rice Main Image (VoiceOver) */
+"Rice.Main.Image" = "Info";
+
+/* Rice Introduction */
+"Rice.Introduction" = "##Cơm Tấm## (cooked broken rice) is made from ##Gạo Tấm## (broken rice grains), which is jasmine rice that has been fragmented and broken during processing. ##Gạo Tấm## (broken rice grains) were once considered inferior because they were not pretty enough and of high enough quality to be sold, but the flavor is no different from regular jasmine rice. Aside from their appearance, they tend to be slightly dryer than regular rice grains, so instead of throwing them away, farmers thought to eat them with ##Nước Mắm Chấm## (mixed fish sauce) since they soak up the sauce nicely in the plate, inventing a variety of ##Cơm Tấm## (broken rice) dishes in the process.";
+
+/* Rice Introduction (VoiceOver) */
+"Rice.Introduction.Accessibility" = "Cooked broken rice is made from broken rice grains, which is jasmine rice that has been fragmented and broken during processing. Broken rice grains were once considered inferior because they were not pretty enough and of high enough quality to be sold, but the flavor is no different from regular jasmine rice. Aside from their appearance, they tend to be slightly dryer than regular rice grains, so instead of throwing them away, farmers thought to eat them with mixed fish sauce since they soak up the sauce nicely in the plate, inventing a variety of broken rice dishes in the process.";
+
+/* Rice Used In Header */
+"Rice.UsedIn.Header" = "Used In";
