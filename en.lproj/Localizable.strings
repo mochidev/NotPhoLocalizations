@@ -1990,3 +1990,52 @@
 
 /* Baguette Used In Header */
 "Baguette.UsedIn.Header" = "Used In";
+
+/********************
+    Cucumber Page
+ ********************/
+
+/* Cucumber Page Title - Should Be in Vietnamese */
+"Cucumber.Page.Title" = "Dưa Leo";
+
+/* Cucumber Page Subtitle - This is the translation */
+"Cucumber.Page.Subtitle" = "Cucumber";
+
+/* Cucumber Page Title (VoiceOver) */
+"Cucumber.Page.AccessibilityTitle" = "Cucumber";
+
+/* Cucumber Main Image (VoiceOver) */
+"Cucumber.Main.Image" = "Info";
+
+/* Cucumber Introduction 1 */
+"Cucumber.Introduction.1" = "##Dưa Leo## (cucumber) can add a crisp and refreshing texture to many cold Vietnamese dishes. Although ##Dưa Leo## (cucumber) works especially well sliced thin in dishes like ##Bánh Mì## (sandwhich) and ##Bún## (vermicelli noodles), it can also be cut thicker and enjoyed with ##Nước Mắm Chấm## (mixed fish sauce), letting it soak up the rich flavors of the sauce, to make Vietnamese Cucumber Salad.";
+
+/* Cucumber Introduction 1 (VoiceOver) */
+"Cucumber.Introduction.1.Accessibility" = "Cucumber can add a crisp and refreshing texture to many cold Vietnamese dishes. Although cucumber works especially well sliced thin in dishes like banh mi and vermicelli noodles, it can also be cut thicker and enjoyed with mixed fish sauce, letting it soak up the rich flavors of the sauce, to make Vietnamese Cucumber Salad.";
+
+/* Cucumber Introduction 2 */
+"Cucumber.Introduction.2" = "In Vietnamese cuisine, ##Dưa Leo## (cucumber) can even be enjoyed hot in a dish not too different from ratatouille, combining thick-sliced cucumbers along with ##Cà Chua## (tomatoes), lightly stewed in broth seasoned with ##Nước Mắm## (fish sauce), to make a simple but delicious saucy topping enjoyed over rice.";
+
+/* Cucumber Introduction 2 (VoiceOver) */
+"Cucumber.Introduction.2.Accessibility" = "In Vietnamese cuisine, cucumber can even be enjoyed hot in a dish not too different from ratatouille, combining thick-sliced cucumbers along with tomatoes, lightly stewed in broth seasoned with fish sauce, to make a simple but delicious saucy topping enjoyed over rice.";
+
+/* Cucumber Tips Header */
+"Cucumber.Tips.Header" = "Tips";
+
+/* Cucumber Tips */
+"Cucumber.Tips" = "If they are available in your area, Persian cucumbers (also known as Persian Pickles) are delightlfully crispy and sweet, typically around 4-5 inches in length.";
+
+/* Cucumber Tips (VoiceOver) */
+"Cucumber.Tips.Accessibility" = "If they are available in your area, Persian cucumbers (also known as Persian Pickles) are delightlfully crispy and sweet, typically around 4 to 5 inches in length.";
+
+/* Cucumber Tips Note 1 */
+"Cucumber.Tips.Note.1" = "Pick ##Dưa Leo## (cucumbers) that are dry and free of any slimy texture.";
+
+/* Cucumber Tips Note 1 (VoiceOver) */
+"Cucumber.Tips.Note.1.Accessibility" = "Pick cucumbers that are dry and free of any slimy texture.";
+
+/* Cucumber Tips Note 2 */
+"Cucumber.Tips.Note.2" = "The two ends should be firm when lightly squeezed between your fingers.";
+
+/* Cucumber Used In Header */
+"Cucumber.UsedIn.Header" = "Used In";
