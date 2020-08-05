@@ -2089,3 +2089,28 @@
 
 /* Carrot Used In Header */
 "Carrot.UsedIn.Header" = "Used In";
+
+/********************
+    Lemongrass Page
+ ********************/
+
+/* Lemongrass Page Title - Should Be in Vietnamese */
+"Lemongrass.Page.Title" = "Xả";
+
+/* Lemongrass Page Subtitle - This is the translation */
+"Lemongrass.Page.Subtitle" = "Lemongrass";
+
+/* Lemongrass Page Title (VoiceOver) */
+"Lemongrass.Page.AccessibilityTitle" = "Lemon-grass";
+
+/* Lemongrass Main Image (VoiceOver) */
+"Lemongrass.Main.Image" = "Info";
+
+/* Lemongrass Introduction */
+"Lemongrass.Introduction" = "##Xả## (lemongrass) is a type of grass that has a lemon-ginger-mint flavor and it is a very common herb in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even in noodle soup.";
+
+/* Lemongrass Introduction (VoiceOver) */
+"Lemongrass.Introduction.Accessibility" = "Lemon-grass is a type of grass that has a lemon-ginger-mint flavor and it is a very common herb in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even in noodle soup.";
+
+/* Lemongrass Used In Header */
+"Lemongrass.UsedIn.Header" = "Used In";
