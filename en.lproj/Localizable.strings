@@ -707,13 +707,13 @@
 "Pickles.Main.Image" = "Info";
 
 /* Pickles Introduction 1 */
-"Pickles.Introduction1" = "##Đồ Chua##, meaning sour things, is a sweet and tangy garnish.";
+"Pickles.Introduction.1" = "##Đồ Chua##, meaning sour things, is a sweet and tangy garnish.";
 
 /* Pickles Introduction 1 (VoiceOver) */
-"Pickles.Introduction1.Accessibility" = "Pickled carrot and daikon is a sweet and tangy garnish.";
+"Pickles.Introduction.1.Accessibility" = "Pickled carrot and daikon is a sweet and tangy garnish.";
 
 /* Pickles Introduction 2 */
-"Pickles.Introduction2" = "This recipe yields about 5 pints.";
+"Pickles.Introduction.2" = "This recipe yields about 5 pints.";
 
 /* Pickles Ingredients Header */
 "Pickles.Ingredients.Header" = "Ingredients";
@@ -746,91 +746,91 @@
 "Pickles.Instructions.Header" = "Instructions";
 
 /* Pickles Instructions Step 1 */
-"Pickles.Instructions.Step1" = "Step 1";
+"Pickles.Instructions.Step.1" = "Step 1";
 
 /* Pickles Instructions Step 1 Part 1 */
-"Pickles.Instructions.Step1.Part1" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into ⅛″×⅛″ stripes.";
+"Pickles.Instructions.Step.1.Part.1" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into ⅛″×⅛″ stripes.";
 
 /* Pickles Instructions Step 1 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step1.Part1.Accessibility" = "Julienne the carrot and daikon into one eigth by one eigth inch stripes.";
+"Pickles.Instructions.Step.1.Part.1.Accessibility" = "Julienne the carrot and daikon into one eigth by one eigth inch stripes.";
 
 /* Pickles Instructions Step 1 Note 1 */
-"Pickles.Instructions.Step1.Note1" = "Be sure to wash the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), and peel off their skins before cutting them.";
+"Pickles.Instructions.Step.1.Note.1" = "Be sure to wash the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), and peel off their skins before cutting them.";
 
 /* Pickles Instructions Step 1 Note 1 (VoiceOver) */
-"Pickles.Instructions.Step1.Note1.Accessibility" = "Be sure to wash the carrot and daikon, and peel off their skins before cutting them.";
+"Pickles.Instructions.Step.1.Note.1.Accessibility" = "Be sure to wash the carrot and daikon, and peel off their skins before cutting them.";
 
 /* Pickles Instructions Step 1 Note 2 */
-"Pickles.Instructions.Step1.Note2" = "Consider using a mandolin to make the julienning process easier, but be careful not to cut yourself.";
+"Pickles.Instructions.Step.1.Note.2" = "Consider using a mandolin to make the julienning process easier, but be careful not to cut yourself.";
 
 /* Pickles Instructions Step 1 Note 3 */
-"Pickles.Instructions.Step1.Note3" = "The thickness of the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) can be modified to your preference; thicker strips should be pickled longer for the flavors to fully permeate, while thinner strips tend to pull up more of the vinegar when served.";
+"Pickles.Instructions.Step.1.Note.3" = "The thickness of the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) can be modified to your preference; thicker strips should be pickled longer for the flavors to fully permeate, while thinner strips tend to pull up more of the vinegar when served.";
 
 /* Pickles Instructions Step 1 Note 3 (VoiceOver) */
-"Pickles.Instructions.Step1.Note3.Accessibility" = "The thickness of the carrot and daikon can be modified to your preference; thicker strips should be pickled longer for the flavors to fully permeate, while thinner strips tend to pull up more of the vinegar when served.";
+"Pickles.Instructions.Step.1.Note.3.Accessibility" = "The thickness of the carrot and daikon can be modified to your preference; thicker strips should be pickled longer for the flavors to fully permeate, while thinner strips tend to pull up more of the vinegar when served.";
 
 /* Pickles Instructions Step 2 */
-"Pickles.Instructions.Step2" = "Step 2";
+"Pickles.Instructions.Step.2" = "Step 2";
 
 /* Pickles Instructions Step 2 Part 1 */
-"Pickles.Instructions.Step2.Part1" = "Place the julienned ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into a large bowl.";
+"Pickles.Instructions.Step.2.Part.1" = "Place the julienned ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into a large bowl.";
 
 /* Pickles Instructions Step 2 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step2.Part1.Accessibility" = "Place the julienned carrot and daikon into a large bowl.";
+"Pickles.Instructions.Step.2.Part.1.Accessibility" = "Place the julienned carrot and daikon into a large bowl.";
 
 /* Pickles Instructions Step 2 Part 2 */
-"Pickles.Instructions.Step2.Part2" = "Sprinkle in 2 teaspoons of ##Muối## (salt).";
+"Pickles.Instructions.Step.2.Part.2" = "Sprinkle in 2 teaspoons of ##Muối## (salt).";
 
 /* Pickles Instructions Step 2 Part 2 (VoiceOver) */
-"Pickles.Instructions.Step2.Part2.Accessibility" = "Sprinkle in 2 teaspoons of salt.";
+"Pickles.Instructions.Step.2.Part.2.Accessibility" = "Sprinkle in 2 teaspoons of salt.";
 
 /* Pickles Instructions Step 2 Part 3 */
-"Pickles.Instructions.Step2.Part3" = "Massage everything together for about 3 minutes or until the ##Cà Rốt## (carrot) or ##Củ Cải Trắng## (daikon) is soft and limp.";
+"Pickles.Instructions.Step.2.Part.3" = "Massage everything together for about 3 minutes or until the ##Cà Rốt## (carrot) or ##Củ Cải Trắng## (daikon) is soft and limp.";
 
 /* Pickles Instructions Step 2 Part 3 (VoiceOver) */
-"Pickles.Instructions.Step2.Part3.Accessibility" = "Massage everything together for about 3 minutes or until the carrot or daikon is soft and limp.";
+"Pickles.Instructions.Step.2.Part.3.Accessibility" = "Massage everything together for about 3 minutes or until the carrot or daikon is soft and limp.";
 
 /* Pickles Instructions Step 2 Note */
-"Pickles.Instructions.Step2.Note" = "The ##Muối## (salt) will draw out ##Nước## (water) from the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), so don’t be alarmed when liquid accumulates in the bowl.";
+"Pickles.Instructions.Step.2.Note.1" = "The ##Muối## (salt) will draw out ##Nước## (water) from the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), so don’t be alarmed when liquid accumulates in the bowl.";
 
 /* Pickles Instructions Step 2 Note (VoiceOver) */
-"Pickles.Instructions.Step2.Note.Accessibility" = "The salt will draw out water from the carrot and daikon, so don’t be alarmed when liquid accumulates in the bowl.";
+"Pickles.Instructions.Step2.Note.1.Accessibility" = "The salt will draw out water from the carrot and daikon, so don’t be alarmed when liquid accumulates in the bowl.";
 
 /* Pickles Instructions Step 3 */
-"Pickles.Instructions.Step3" = "Step 3";
+"Pickles.Instructions.Step.3" = "Step 3";
 
 /* Pickles Instructions Step 3 Part 1 */
-"Pickles.Instructions.Step3.Part1" = "Rinse the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) with fresh water and drain well.";
+"Pickles.Instructions.Step.3.Part.1" = "Rinse the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) with fresh water and drain well.";
 
 /* Pickles Instructions Step 3 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step3.Part1.Accessibility" = "Rinse the carrot and daikon with fresh water and drain well.";
+"Pickles.Instructions.Step.3.Part.1.Accessibility" = "Rinse the carrot and daikon with fresh water and drain well.";
 
 /* Pickles Instructions Step 4 */
-"Pickles.Instructions.Step4" = "Step 4";
+"Pickles.Instructions.Step.4" = "Step 4";
 
 /* Pickles Instructions Step 4 Part 1 */
-"Pickles.Instructions.Step4.Part1" = "Mix together the ##Đường## (sugar), ##Giấm Trắng## (white vinegar), and warm ##Nước## (water) in a jar until dissolved.";
+"Pickles.Instructions.Step.4.Part.1" = "Mix together the ##Đường## (sugar), ##Giấm Trắng## (white vinegar), and warm ##Nước## (water) in a jar until dissolved.";
 
 /* Pickles Instructions Step 4 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step4.Part1.Accessibility" = "Mix together the sugar, white vinegar, and warm water in a jar until dissolved.";
+"Pickles.Instructions.Step.4.Part.1.Accessibility" = "Mix together the sugar, white vinegar, and warm water in a jar until dissolved.";
 
 /* Pickles Instructions Step 4 Part 2 */
-"Pickles.Instructions.Step4.Part2" = "Add the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) to the jar.";
+"Pickles.Instructions.Step.4.Part.2" = "Add the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) to the jar.";
 
 /* Pickles Instructions Step 4 Part 2 (VoiceOver) */
-"Pickles.Instructions.Step4.Part2.Accessibility" = "Add the carrot and daikon to the jar.";
+"Pickles.Instructions.Step.4.Part.2.Accessibility" = "Add the carrot and daikon to the jar.";
 
 /* Pickles Instructions Step 4 Part 3 */
-"Pickles.Instructions.Step4.Part3" = "Seal and refrigerate.";
+"Pickles.Instructions.Step.4.Part.3" = "Seal and refrigerate.";
 
 /* Pickles Instructions Step 4 Note 1 */
-"Pickles.Instructions.Step4.Note1" = "The ##Đồ Chua## (pickles) should last 4 to 6 weeks in the refrigerator.";
+"Pickles.Instructions.Step.4.Note.1" = "The ##Đồ Chua## (pickles) should last 4 to 6 weeks in the refrigerator.";
 
 /* Pickles Instructions Step 4 Note 1 (VoiceOver) */
-"Pickles.Instructions.Step4.Note1.Accessibility" = "The pickles should last 4 to 6 weeks in the refrigerator.";
+"Pickles.Instructions.Step.4.Note.1.Accessibility" = "The pickles should last 4 to 6 weeks in the refrigerator.";
 
 /* Pickles Instructions Step 4 Note 2 */
-"Pickles.Instructions.Step4.Note2" = "Label and date your pickles so they don’t overstay their welcome in your refrigerator.";
+"Pickles.Instructions.Step.4.Note.2" = "Label and date your pickles so they don’t overstay their welcome in your refrigerator.";
 
 /* Pickles How To Header */
 "Pickles.HowTo.Header" = "How To";
