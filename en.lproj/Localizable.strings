@@ -1944,3 +1944,49 @@
 
 /* Scallion and Oil Garnish Used In Header */
 "ScallionOil.UsedIn.Header" = "Used In";
+
+/********************
+    Baguette Page
+ ********************/
+
+/* Baguette Page Title - Should Be in Vietnamese */
+"Baguette.Page.Title" = "Bánh Mì";
+
+/* Baguette Page Subtitle - This is the translation */
+"Baguette.Page.Subtitle" = "Baguette";
+
+/* Baguette Page Title (VoiceOver) */
+"Baguette.Page.AccessibilityTitle" = "Baguette";
+
+/* Baguette Main Image (VoiceOver) */
+"Baguette.Main.Image" = "Info";
+
+/* Baguette Introduction */
+"Baguette.Introduction" = "##Bánh Mì## (baguette) means bread made from wheat, or as we all know it as a French baguette which was introduced to Vietnam when Vietnam was part of French Indochina. ##Bánh Mì## (baguette) is a staple food and is used in several other dishes, like ##Bánh Mì Thịt Nướng## (grilled pork sandwich), ##Cà Ri Gà## (chicken curry), and ##Bo Kho## (beef stew). Of all these delicious dishes, my favorite and go to snack is soy sauce on a piece of toasted ##Bánh Mì##. Though one time, I mistook fish sauce (that happened to be in a soy sauce-labeled bottle) for soy sauce and the outcome was not very pleasant.";
+
+/* Baguette Introduction (VoiceOver) */
+"Baguette.Introduction.Accessibility" = "A baguette is a type of French bread made from wheat that was introduced to Vietnam when Vietnam was part of French Indochina. Baguette is a staple food and is used in several other dishes, like grilled pork sandwich, chicken curry, and beef stew. Of all these delicious dishes, my favorite and go to snack is soy sauce on a piece of toasted baguette. Though one time, I mistook fish sauce (that happened to be in a soy sauce-labeled bottle) for soy sauce and the outcome was not very pleasant.";
+
+/* Baguette Tips Header */
+"Baguette.Tips.Header" = "Tips";
+
+/* Baguette Tips 1 */
+"Baguette.Tips.1" = "Is your ##Bánh Mì## (baguette) a day past it's prime? Before warming it back up in the oven, run your hand under water to make sure it is wet, then dab the shell of your ##Bánh Mì## (baguette) so its shell becomes wet. This will help your ##Bánh Mì## (baguette) regain a crispy shell when you toast it.";
+
+/* Baguette Tips 1 (VoiceOver) */
+"Baguette.Tips.1.Accessibility" = "Is your baguette a day past it's prime? Before warming it back up in the oven, run your hand under water to make sure it is wet, then dab the shell of your baguette so its shell becomes wet. This will help your baguette regain a crispy shell when you toast it.";
+
+/* Baguette Tips 2 */
+"Baguette.Tips.2" = "If you have more fresh ##Bánh Mì## (baguette) than you know what to do with, consider freezing them in an air-tight bag while they are still fresh. When you want to have them, you can re-warm them in the oven and they'll revive to their previous splendor!";
+
+/* Baguette Tips 2 (VoiceOver) */
+"Baguette.Tips.2.Accessibility" = "If you have more fresh baguette than you know what to do with, consider freezing them in an air-tight bag while they are still fresh. When you want to have them, you can re-warm them in the oven and they'll revive to their previous splendor!";
+
+/* Baguette Tips 3 */
+"Baguette.Tips.3" = "If your ##Bánh Mì## (baguette) has gotten too hard, past the point of saving, you can make French toast out of it. Originally called ##Pain Perdu##, or “lost bread” in French, French toast was essentially invented as a way of saving bread that has past the point of no return, and turning it into a delicious dish in its own right.";
+
+/* Baguette Tips 3 (VoiceOver) */
+"Baguette.Tips.3.Accessibility" = "If your baguette has gotten too hard, past the point of saving, you can make French toast out of it. Originally called Pain Perdu, or “lost bread” in French, French toast was essentially invented as a way of saving bread that has past the point of no return, and turning it into a delicious dish in its own right.";
+
+/* Baguette Used In Header */
+"Baguette.UsedIn.Header" = "Used In";
