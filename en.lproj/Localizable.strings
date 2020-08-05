@@ -2114,3 +2114,34 @@
 
 /* Lemongrass Used In Header */
 "Lemongrass.UsedIn.Header" = "Used In";
+
+/********************
+    Fish Sauce Page
+ ********************/
+
+/* Fish Sauce Page Title - Should Be in Vietnamese */
+"FishSauce.Page.Title" = "Nước Mắm";
+
+/* Fish Sauce Page Subtitle - This is the translation */
+"FishSauce.Page.Subtitle" = "Fish Sauce";
+
+/* Fish Sauce Page Title (VoiceOver) */
+"FishSauce.Page.AccessibilityTitle" = "Fish Sauce";
+
+/* Fish Sauce Main Image (VoiceOver) */
+"FishSauce.Main.Image" = "Info";
+
+/* Fish Sauce Introduction 1 */
+"FishSauce.Introduction.1" = "##Nước Mắm## (fish sauce) is a liquid made from fish, like anchovies, that are coated in salt and left to ferment for up to several years. This process creates a salty, but tremendously concentrated and savory sauce that can be used to add flavor to many dishes, though it is hardly ever enjoyed on its own.";
+
+/* Fish Sauce Introduction 1 (VoiceOver) */
+"FishSauce.Introduction.1.Accessibility" = "Fish sauce is a liquid made from fish, like anchovies, that are coated in salt and left to ferment for up to several years. This process creates a salty, but tremendously concentrated and savory sauce that can be used to add flavor to many dishes, though it is hardly ever enjoyed on its own.";
+
+/* Fish Sauce Introduction 2 */
+"FishSauce.Introduction.2" = "Because of this, it is used very often in Vietnamese cuisine, from marinating meat, to creating a dipping sauces. ##Nước Mắm## is used all through out Asia and there are so many brands that it’s hard to say which brand is the best. That said, here are a few brands that I often use mainly because I grew up with them or I like the way they taste: Flying Lion Fish Sauce, Three Crabs Fish Sauce, and Squid Fish Sauce.";
+
+/* Fish Sauce Introduction 2 (VoiceOver) */
+"FishSauce.Introduction.2.Accessibility" = "Because of this, it is used very often in Vietnamese cuisine, from marinating meat, to creating a dipping sauces. Fish sauce is used all through out Asia and there are so many brands that it’s hard to say which brand is the best. That said, here are a few brands that I often use mainly because I grew up with them or I like the way they taste: Flying Lion Fish Sauce, Three Crabs Fish Sauce, and Squid Fish Sauce.";
+
+/* Fish Sauce Used In Header */
+"FishSauce.UsedIn.Header" = "Used In";
