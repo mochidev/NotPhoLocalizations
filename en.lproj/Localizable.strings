@@ -1761,10 +1761,10 @@
 "Mayo.Main.Image" = "Info";
 
 /* Mayo Introduction */
-"Mayo.Introduction" = "##Sốt Mayonnaise## (mayonnaise sauce) was brought to Vietnam through the French influence and it is mainly used in ##Bánh Mì## (sandwich).";
+"Mayo.Introduction" = "##Sốt Mayonnaise## (mayonnaise sauce) was brought to Vietnam through its French influence and it is mainly used in ##Bánh Mì## (sandwich).";
 
 /* Mayo Introduction (VoiceOver) */
-"Mayo.Introduction.Accessibility" = "Mayonnaise sauce was brought to Vietnam through the French influence and it is mainly used in banh mi.";
+"Mayo.Introduction.Accessibility" = "Mayonnaise sauce was brought to Vietnam through its French influence and it is mainly used in banh mi.";
 
 /* Mayo Ingredients Header */
 "Mayo.Ingredients.Header" = "Ingredients";
@@ -1773,7 +1773,7 @@
 "Mayo.Ingredients.EggYolk.Amount" = "2 egg yolks";
 
 /* Mayo Ingredients Oil Amount */
-"Mayo.Ingredients.Oil.Amount" = "1 cup, canola or olive";
+"Mayo.Ingredients.Oil.Amount" = "1 cup, canola";
 
 /* Mayo Ingredients Salt Amount */
 "Mayo.Ingredients.Salt.Amount" = "½ tsp";
@@ -1803,16 +1803,16 @@
 "Mayo.Instructions.Step.2" = "Step 2";
 
 /* Mayo Instructions Step 2 Part 1 */
-"Mayo.Instructions.Step.2.Part.1" = "While the ##Lòng Đỏ Trứng## (egg yolks) are whisking, slowly incorporate the ##Dầu## (oil).";
+"Mayo.Instructions.Step.2.Part.1" = "While the ##Lòng Đỏ Trứng## (egg yolks) are being whisked, slowly incorporate the ##Dầu## (oil).";
 
 /* Mayo Instructions Step 2 Part 1 (VoiceOver) */
 "Mayo.Instructions.Step.2.Part.1.Accessibility" = "While the egg yolks are whisking, slowly incorporate the oil.";
 
 /* Mayo Instructions Step 2 Note 1 */
-"Mayo.Instructions.Step.2.Note.1" = "Adding the ##Dầu## (oil) should take 2-3 minutes.";
+"Mayo.Instructions.Step.2.Note.1" = "Adding the ##Dầu## (oil) should be spread over 2-3 minutes.";
 
 /* Mayo Instructions Step 2 Note 1 (VoiceOver) */
-"Mayo.Instructions.Step.2.Note.1.Accessibility" = "Adding the oil should take 2 to 3 minutes.";
+"Mayo.Instructions.Step.2.Note.1.Accessibility" = "Adding the oil should be spread over 2 to 3 minutes.";
 
 /* Mayo Instructions Step 2 Note 2 */
 "Mayo.Instructions.Step.2.Note.2" = "If the ##Dầu## (oil) is added too quickly, it will not combine well with the ##Lòng Đỏ Trứng## (egg yolks).";
@@ -1821,7 +1821,7 @@
 "Mayo.Instructions.Step.2.Note.2.Accessibility" = "If the oil is added too quickly, it will not combine well with the egg yolks.";
 
 /* Mayo Instructions Step 2 Note 3 */
-"Mayo.Instructions.Step.2.Note.3" = "Olive oil also works well.";
+"Mayo.Instructions.Step.2.Note.3" = "Olive oil also works well, but may have too strong of a flavor depending on the variety.";
 
 /* Mayo Instructions Step 3 */
 "Mayo.Instructions.Step.3" = "Step 3";
