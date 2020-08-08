@@ -1560,10 +1560,10 @@
 "ScallionOil.Instructions.1.Accessibility" = "Dice up the spring onion and add it to a small microwave-safe bowl.";
 
 /* Scallion and Oil Garnish Instructions 2 */
-"ScallionOil.Instructions.2" = "Add the ##Dầu## (oil) to the bowl with the diced ##Hành Lá## (spring onion).";
+"ScallionOil.Instructions.2" = "Add some ##Dầu## (oil) to the bowl with the diced ##Hành Lá## (spring onion).";
 
 /* Scallion and Oil Garnish Instructions 2 (VoiceOver) */
-"ScallionOil.Instructions.2.Accessibility" = "Add the cooking oil to the bowl with the diced spring onion.";
+"ScallionOil.Instructions.2.Accessibility" = "Add some cooking oil to the bowl with the diced spring onion.";
 
 /* Scallion and Oil Garnish Instructions 3 */
 "ScallionOil.Instructions.3" = "Microwave the bowl on high for 20-30 seconds.";
