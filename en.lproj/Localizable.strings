@@ -351,10 +351,16 @@
 "Crepe.Instructions.Step.7.Image" = "Step 7";
 
 /* Crepe Instructions Step 7 Part 1 */
-"Crepe.Instructions.Step.7.Part.1" = "Fold the ##Bánh Xèo## (crêpe) in half and serve immediately.";
+"Crepe.Instructions.Step.7.Part.1" = "Remove the lid, and let the ##Bánh Xèo## (crêpe) sit on the pan to crisp up the shell.";
 
 /* Crepe Instructions Step 7 Part 1 (VoiceOver) */
-"Crepe.Instructions.Step.7.Part.1.Accessibility" = "Fold the crepe in half and serve immediately.";
+"Crepe.Instructions.Step.7.Part.1.Accessibility" = "Remove the lid, and let the crepe sit on the pan to crisp up the shell.";
+
+/* Crepe Instructions Step 7 Part 2 */
+"Crepe.Instructions.Step.7.Part.2" = "Fold the ##Bánh Xèo## (crêpe) in half and serve immediately.";
+
+/* Crepe Instructions Step 7 Part 2 (VoiceOver) */
+"Crepe.Instructions.Step.7.Part.2.Accessibility" = "Fold the crêpe in half and serve immediately.";
 
 /* Crepe Instructions Step 7 Note 1 */
 "Crepe.Instructions.Step.7.Note.1" = "Making ##Bánh Xèo## (crêpes) can be hard work on the chef, as the ##Bánh Xèo## (crêpes) seem to disappear faster than they get made! Consider using multiple small pans to make several at once, or turn this into a family activity by eating in the kitchen (if space is available), or bringing the kitchen to the dining area with a small portable burner.";
