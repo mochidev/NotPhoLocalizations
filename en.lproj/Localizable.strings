@@ -1731,7 +1731,7 @@
 "LeafyGreens.Main.Image" = "Info";
 
 /* Leafy Greens Introduction */
-"LeafyGreens.Introduction" = "Herbs and leafy greens add such a wonderful aroma and flavor to foods that they have become an essential ingredient in Vietnamese food. Some dishes will have the herbs and leafy greens incorporated, but most will be accompanied by a side plate of them. These are just a few of the common ones that are typically found in a dish.";
+"LeafyGreens.Introduction" = "Herbs and leafy greens add such a wonderful aroma and flavor to dishes that they have become an essential ingredient in Vietnamese food. Some dishes will have the herbs and leafy greens incorporated, but most will be accompanied by a side plate of them. These are just a few of the common ones that are typically found in an arranged platter.";
 
 /* Leafy Greens Ingredients Header */
 "LeafyGreens.Ingredients.Header" = "Ingredients";
