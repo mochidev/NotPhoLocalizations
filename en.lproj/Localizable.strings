@@ -574,9 +574,10 @@
 /* Egg Rolls How To 4 (VoiceOver) */
 "EggRolls.HowTo.4.Accessibility" = "Dip the wrap into mixed fish sauce and enjoy.";
 
-/**************************
-    Broken Rice Page
- **************************/
+
+/***************************
+ Com Tam Thit Nuong Cha Page
+ ***************************/
 
 /* Broken Rice Title - Should Be in Vietnamese */
 "BrokenRice.Page.Title" = "Cơm Tấm Thịt Nướng Chả";
