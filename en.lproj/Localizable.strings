@@ -10,7 +10,59 @@
 // MARK: Common Headings
 
 /* The Heading for Note sections */
-"Note.Heading" = "Note";
+"Heading.Note" = "Note";
+
+/* The Heading for Ingredients sections */
+"Heading.Ingredients" = "Ingredients";
+
+/* The Heading for Instructions sections */
+"Heading.Instructions" = "Instructions";
+
+/* The Heading for How To sections */
+"Heading.HowTo" = "How To";
+
+/* The Heading for Used In sections */
+"Heading.UsedIn" = "Used In";
+
+/*
+ The following are used instead of images on various pages when the user must have the contents read to them.
+ */
+
+/* The Heading for Info sections (VoiceOver) */
+"Heading.Info" = "Info";
+
+/* The Image Action Hint for full page images (VoiceOver) */
+"Heading.Image.Hint" = "Scroll down to learn more.";
+
+/* The Heading for Step 1 (VoiceOver) */
+"Heading.Step.1" = "Step 1";
+
+/* The Heading for Step 2 (VoiceOver) */
+"Heading.Step.2" = "Step 2";
+
+/* The Heading for Step 3 (VoiceOver) */
+"Heading.Step.3" = "Step 3";
+
+/* The Heading for Step 4 (VoiceOver) */
+"Heading.Step.4" = "Step 4";
+
+/* The Heading for Step 5 (VoiceOver) */
+"Heading.Step.5" = "Step 5";
+
+/* The Heading for Step 6 (VoiceOver) */
+"Heading.Step.6" = "Step 6";
+
+/* The Heading for Step 7 (VoiceOver) */
+"Heading.Step.7" = "Step 7";
+
+/* The Heading for Step 8 (VoiceOver) */
+"Heading.Step.8" = "Step 8";
+
+/* The Heading for Step 9 (VoiceOver) */
+"Heading.Step.9" = "Step 9";
+
+/* The Heading for Step 10 (VoiceOver) */
+"Heading.Step.10" = "Step 10";
 
 
 // MARK: - # Vietnamese Food Tab:
