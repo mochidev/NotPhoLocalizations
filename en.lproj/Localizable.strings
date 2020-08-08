@@ -1374,10 +1374,10 @@
 "Pickles.Main.Image" = "Info";
 
 /* Pickles Introduction 1 */
-"Pickles.Introduction.1" = "##Đồ Chua##, meaning sour things, is a sweet and tangy garnish.";
+"Pickles.Introduction.1" = "##Đồ Chua##, literrally translated as “sour things”, is a sweet and tangy garnish.";
 
 /* Pickles Introduction 1 (VoiceOver) */
-"Pickles.Introduction.1.Accessibility" = "Pickled carrot and daikon is a sweet and tangy garnish.";
+"Pickles.Introduction.1.Accessibility" = "Pickled carrot and daikon, literrally translated as “sour things” from Vietnamese, is a sweet and tangy garnish.";
 
 /* Pickles Introduction 2 */
 "Pickles.Introduction.2" = "This recipe yields about 5 pints.";
