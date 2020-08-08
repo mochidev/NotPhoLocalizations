@@ -700,6 +700,95 @@
 /* Broken Rice How To 3 (VoiceOVer) */
 "Broken.Rice.HowTo.3.Accessibility" = "You can also pour the mixed fish sauce over everything on the plate and enjoy it all together.";
 
+
+/*****************
+ Bot Banh Xeo Page
+ *****************/
+
+/* Crepe Batter Title - Should Be in Vietnamese */
+"CrepeBatter.Page.Title" = "Bột Bánh Xèo";
+
+/* Crepe Batter Subtitle - This is the translation */
+"CrepeBatter.Page.Subtitle" = "Vietnamese Crepe Batter";
+
+/* Crepe Batter Title (VoiceOver) */
+"CrepeBatter.Page.AccessibilityTitle" = "Vietnamese Crepe Batter";
+
+/* Crepe Batter Main Image (VoiceOver) */
+"CrepeBatter.Main.Image" = "Info";
+
+/* Crepe Batter Introduction 1 */
+"CrepeBatter.Introduction.1" = "##Bột Bánh Xèo## (Vietnamese crepe batter) is very simple but it’s an important ingredient in giving ##Bánh Xèo## its iconic look and crispy texture.";
+
+/* Crepe Batter Introduction 1 (VoiceOver) */
+"CrepeBatter.Introduction.1.Accessibility" = "Vietnamese crepe batter is very simple but it’s an important ingredient in giving Vietnamese crepes their iconic look and crispy texture.";
+
+/* Crepe Batter Introduction 2 */
+"CrepeBatter.Introduction.2" = "This recipe yields 1 ½ cups of batter, which makes about four 8-in crepes.";
+
+/* Crepe Batter Introduction 2 (VoiceOver) */
+"CrepeBatter.Introduction.2.Accessibility" = "This recipe yields one and a half cups of batter, which makes about four eight inch crepes.";
+
+/* Crepe Batter Ingredients Header */
+"CrepeBatter.Ingredients.Header" = "Ingredients";
+
+/* Crepe Batter Ingredients Rice Flour Amount */
+"CrepeBatter.Ingredients.RiceFlour.Amount" = "3 oz";
+
+/* Crepe Batter Ingredients Corn Starch Amount */
+"CrepeBatter.Ingredients.CornStarch.Amount" = "1 oz";
+
+/* Crepe Batter Ingredients Turmeric Amount */
+"CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ tsp";
+
+/* Crepe Batter Ingredients Turmeric Amount (VoiceOver) */
+"CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "1 eighth teaspoon";
+
+/* Crepe Batter Ingredients Coconut Milk Amount */
+"CrepeBatter.Ingredients.CoconutMilk.Amount" = "4 ½ oz";
+
+/* Crepe Batter Ingredients Coconut Milk Amount (VoiceOver) */
+"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount" = "4 and a half ounces";
+
+/* Crepe Batter Ingredients Water Amount */
+"CrepeBatter.Ingredients.Water.Amount" = "1 cup";
+
+/* Crepe Batter Ingredients GreenOnion Amount */
+"CrepeBatter.Ingredients.GreenOnion.Amount" = "1 stalk, diced";
+
+/* Crepe Batter Instructions Header */
+"CrepeBatter.Instructions.Header" = "Instructions";
+
+/* Crepe Batter Instructions 1 */
+"CrepeBatter.Instructions.1" = "Add ##Bột Gạo## (rice flour), ##Bột Ngô## (corn starch), and ##Bột Củ Nghệ## (turmeric) in to a bowl.";
+
+/* Crepe Batter Instructions 1 (VoiceOver) */
+"CrepeBatter.Instructions.1.Accessibility" = "Add rice flour, corn starch, and turmeric in to a bowl.";
+
+/* Crepe Batter Instructions 2 */
+"CrepeBatter.Instructions.2" = "Add ##Nước Cốt Dừa## (coconut milk) and ##Nước## (water).";
+
+/* Crepe Batter Instructions 2 (VoiceOver) */
+"CrepeBatter.Instructions.2.Accessibility" = "Add coconut milk and water.";
+
+/* Crepe Batter Instructions 3 */
+"CrepeBatter.Instructions.3" = "Dice the ##Hành Lá## (spring onion) and add it to the batter mix.";
+
+/* Crepe Batter Instructions 3 (VoiceOver) */
+"CrepeBatter.Instructions.3.Accessibility" = "Dice the spring onion and add it to the batter mix.";
+
+/* Crepe Batter Instructions 4 */
+"CrepeBatter.Instructions.4" = "Mix well.";
+
+/* Crepe Batter Instructions 5 */
+"CrepeBatter.Instructions.5" = "Let the ##Bột Bánh Xèo## (crepe batter) sit for at least 30 minutes.";
+
+/* Crepe Batter Instructions 5 (VoiceOver) */
+"CrepeBatter.Instructions.5.Accessibility" = "Let the crepe batter sit for at least 30 minutes.";
+
+/* Crepe Batter Used In Header */
+"CrepeBatter.UsedIn.Header" = "Used In";
+
 /**************************
     Pickles Page
  **************************/
@@ -1482,94 +1571,6 @@
 
 /* Egg Rolls Component Used In Header */
 "EggRollsComponent.UsedIn.Header" = "Used In";
-
-/**************************
-    Crepe Batter Page
- **************************/
-
-/* Crepe Batter Title - Should Be in Vietnamese */
-"CrepeBatter.Page.Title" = "Bột Bánh Xèo";
-
-/* Crepe Batter Subtitle - This is the translation */
-"CrepeBatter.Page.Subtitle" = "Vietnamese Crepe Batter";
-
-/* Crepe Batter Title (VoiceOver) */
-"CrepeBatter.Page.AccessibilityTitle" = "Vietnamese Crepe Batter";
-
-/* Crepe Batter Main Image (VoiceOver) */
-"CrepeBatter.Main.Image" = "Info";
-
-/* Crepe Batter Introduction 1 */
-"CrepeBatter.Introduction.1" = "##Bột Bánh Xèo## (Vietnamese crepe batter) is very simple but it’s an important ingredient in giving ##Bánh Xèo## its iconic look and crispy texture.";
-
-/* Crepe Batter Introduction 1 (VoiceOver) */
-"CrepeBatter.Introduction.1.Accessibility" = "Vietnamese crepe batter is very simple but it’s an important ingredient in giving Vietnamese crepes their iconic look and crispy texture.";
-
-/* Crepe Batter Introduction 2 */
-"CrepeBatter.Introduction.2" = "This recipe yields 1 ½ cups of batter, which makes about four 8-in crepes.";
-
-/* Crepe Batter Introduction 2 (VoiceOver) */
-"CrepeBatter.Introduction.2.Accessibility" = "This recipe yields one and a half cups of batter, which makes about four eight inch crepes.";
-
-/* Crepe Batter Ingredients Header */
-"CrepeBatter.Ingredients.Header" = "Ingredients";
-
-/* Crepe Batter Ingredients Rice Flour Amount */
-"CrepeBatter.Ingredients.RiceFlour.Amount" = "3 oz";
-
-/* Crepe Batter Ingredients Corn Starch Amount */
-"CrepeBatter.Ingredients.CornStarch.Amount" = "1 oz";
-
-/* Crepe Batter Ingredients Turmeric Amount */
-"CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ tsp";
-
-/* Crepe Batter Ingredients Turmeric Amount (VoiceOver) */
-"CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "1 eighth teaspoon";
-
-/* Crepe Batter Ingredients Coconut Milk Amount */
-"CrepeBatter.Ingredients.CoconutMilk.Amount" = "4 ½ oz";
-
-/* Crepe Batter Ingredients Coconut Milk Amount (VoiceOver) */
-"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount" = "4 and a half ounces";
-
-/* Crepe Batter Ingredients Water Amount */
-"CrepeBatter.Ingredients.Water.Amount" = "1 cup";
-
-/* Crepe Batter Ingredients GreenOnion Amount */
-"CrepeBatter.Ingredients.GreenOnion.Amount" = "1 stalk, diced";
-
-/* Crepe Batter Instructions Header */
-"CrepeBatter.Instructions.Header" = "Instructions";
-
-/* Crepe Batter Instructions 1 */
-"CrepeBatter.Instructions.1" = "Add ##Bột Gạo## (rice flour), ##Bột Ngô## (corn starch), and ##Bột Củ Nghệ## (turmeric) in to a bowl.";
-
-/* Crepe Batter Instructions 1 (VoiceOver) */
-"CrepeBatter.Instructions.1.Accessibility" = "Add rice flour, corn starch, and turmeric in to a bowl.";
-
-/* Crepe Batter Instructions 2 */
-"CrepeBatter.Instructions.2" = "Add ##Nước Cốt Dừa## (coconut milk) and ##Nước## (water).";
-
-/* Crepe Batter Instructions 2 (VoiceOver) */
-"CrepeBatter.Instructions.2.Accessibility" = "Add coconut milk and water.";
-
-/* Crepe Batter Instructions 3 */
-"CrepeBatter.Instructions.3" = "Dice the ##Hành Lá## (spring onion) and add it to the batter mix.";
-
-/* Crepe Batter Instructions 3 (VoiceOver) */
-"CrepeBatter.Instructions.3.Accessibility" = "Dice the spring onion and add it to the batter mix.";
-
-/* Crepe Batter Instructions 4 */
-"CrepeBatter.Instructions.4" = "Mix well.";
-
-/* Crepe Batter Instructions 5 */
-"CrepeBatter.Instructions.5" = "Let the ##Bột Bánh Xèo## (crepe batter) sit for at least 30 minutes.";
-
-/* Crepe Batter Instructions 5 (VoiceOver) */
-"CrepeBatter.Instructions.5.Accessibility" = "Let the crepe batter sit for at least 30 minutes.";
-
-/* Crepe Batter Used In Header */
-"CrepeBatter.UsedIn.Header" = "Used In";
 
 /**************************
     Annatto Oil Page
