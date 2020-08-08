@@ -2172,9 +2172,10 @@
 /* Fish Sauce Used In Header */
 "FishSauce.UsedIn.Header" = "Used In";
 
-/********************
-    Lemongrass Page
- ********************/
+
+/*******
+ Xa Page
+ *******/
 
 /* Lemongrass Page Title - Should Be in Vietnamese */
 "Lemongrass.Page.Title" = "Xả";
