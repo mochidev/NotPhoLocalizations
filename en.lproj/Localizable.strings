@@ -504,9 +504,9 @@
 "Vermicelli.HowTo.3.Accessibility" = "The amount of mixed fish sauce you serve is up to you, but always have extra available — it's not uncommon to enjoy as much as half a cup at a time!";
 
 
-/************
- Cha Gio Page
- ************/
+/**********************
+ Cha Gio (Platter) Page
+ **********************/
 
 /* Egg Rolls Page Title - Should Be in Vietnamese */
 "EggRolls.Page.Title" = "Chả Giò";
@@ -788,6 +788,215 @@
 
 /* Crepe Batter Used In Header */
 "CrepeBatter.UsedIn.Header" = "Used In";
+
+
+/*********************
+ Cha Gio (Recipe) Page
+ *********************/
+
+/* Egg Rolls Component Title - Should Be in Vietnamese */
+"EggRollsComponent.Page.Title" = "Chả Giò";
+
+/* Egg Rolls Component Subtitle - This is the translation */
+"EggRollsComponent.Page.Subtitle" = "Egg Rolls";
+
+/* Egg Rolls Component Title (VoiceOver) */
+"EggRollsComponent.Page.AccessibilityTitle" = "Egg Rolls";
+
+/* Egg Rolls Component Main Image (VoiceOver) */
+"EggRollsComponent.Main.Image" = "Info";
+
+/* Egg Rolls Component Introduction 1 */
+"EggRollsComponent.Introduction.1" = "##Chả Giò## (egg rolls) are a popular crispy and savory component in several Vietnamese dishes. They can be enjoyed as an appetizer or used as a component in ##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles). ##Chả Giò## (egg rolls) are distinct from other Asian egg rolls in that they typically have a light and thin wrapping, and rather than cabbage as a filling, often contain meat.";
+
+/* Egg Rolls Component Introduction 1 (VoiceOver) */
+"EggRollsComponent.Introduction.1.Accessibility" = "Egg rolls are a popular crispy and savory component in several Vietnamese dishes. They can be enjoyed as an appetizer or used as a component in grilled pork and egg roll vermicelli noodles. Vietnamese egg rolls are distinct from other Asian egg rolls in that they typically have a light and thin wrapping, and rather than cabbage as a filling, often contain meat.";
+
+/* Egg Rolls Component Introduction 2 */
+"EggRollsComponent.Introduction.2" = "This recipe yields 25-30 rolls.";
+
+/* Egg Rolls Component Introduction 2 (VoiceOver) */
+"EggRollsComponent.Introduction.2.Accessibility" = "This recipe yields 25 to 30 rolls.";
+
+/* Egg Rolls Component Ingredients Header */
+"EggRollsComponent.Ingredients.Header" = "Ingredients";
+
+/* Egg Rolls Component Ground Pork Amount */
+"EggRollsComponent.GroundPork.Amount" = "½ lb";
+
+/* Egg Rolls Component Ground Pork Amount (VoiceOver) */
+"EggRollsComponent.GroundPork.AccessibilityAmount" = "half a pound";
+
+/* Egg Rolls Component Shrimp Amount */
+"EggRollsComponent.Shrimp.Amount" = "½ lb, minced";
+
+/* Egg Rolls Component Shrimp Amount (VoiceOver) */
+"EggRollsComponent.Shrimp.AccessibilityAmount" = "half a pound, minced";
+
+/* Egg Rolls Component Onion Amount */
+"EggRollsComponent.Onion.Amount" = "½ cup, diced";
+
+/* Egg Rolls Component Onion Amount (VoiceOver) */
+"EggRollsComponent.Onion.AccessibilityAmount" = "half a cup, diced";
+
+/* Egg Rolls Component Dried Mushroom Amount */
+"EggRollsComponent.DriedMushroom.Amount" = "¼ cup, diced";
+
+/* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
+"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "one quarter cup, diced";
+
+/* Egg Rolls Component Bean Threads Amount */
+"EggRollsComponent.BeanThreads.Amount" = "½ cup, cut into ½ in long";
+
+/* Egg Rolls Component Bean Threads Amount (VoiceOver) */
+"EggRollsComponent.BeanThreads.AccessibilityAmount" = "half a cup, cut into half an inch long threads";
+
+/* Egg Rolls Component Fish Sauce Amount */
+"EggRollsComponent.FishSauce.Amount" = "2 tbsp";
+
+/* Egg Rolls Component Salt Amount */
+"EggRollsComponent.Salt.Amount" = "½ tsp";
+
+/* Egg Rolls Component Salt Amount (VoiceOver) */
+"EggRollsComponent.Salt.AccessibilityAmount" = "half a teaspoon";
+
+/* Egg Rolls Component Black Pepper Amount */
+"EggRollsComponent.BlackPepper.Amount" = "1 tsp";
+
+/* Egg Rolls Component Black Pepper Amount (VoiceOver) */
+"EggRollsComponent.BlackPepper.AccessibilityAmount" = "one teaspoon";
+
+/* Egg Rolls Component Egg Roll Wrappers Amount */
+"EggRollsComponent.EggRollWrappers.Amount" = "1 pack";
+
+/* Egg Rolls Component Instructions Header */
+"EggRollsComponent.Instructions.Header" = "Instructions";
+
+/* Egg Rolls Component Instructions Step 1 */
+"EggRollsComponent.Instructions.Step.1" = "Step 1";
+
+/* Egg Rolls Component Instructions Step 1 Part 1 */
+"EggRollsComponent.Instructions.Step.1.Part.1" = "Place the ##Thịt Băm## (ground pork) into a large bowl.";
+
+/* Egg Rolls Component Instructions Step 1 Part 1 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.1.Part.1.Accessibility" = "Place the ground pork into a large bowl.";
+
+/* Egg Rolls Component Instructions Step 1 Part 2 */
+"EggRollsComponent.Instructions.Step.1.Part.2" = "Mince the ##Tôm## (shrimp) and add it to the bowl.";
+
+/* Egg Rolls Component Instructions Step 1 Part 2 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.1.Part.2.Accessibility" = "Mince the shrimp and add it to the bowl.";
+
+/* Egg Rolls Component Instructions Step 2 */
+"EggRollsComponent.Instructions.Step.2" = "Step 2";
+
+/* Egg Rolls Component Instructions Step 2 Part 1 */
+"EggRollsComponent.Instructions.Step.2.Part.1" = "Dice the ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushrooms), and ##Bún Miến## (bean thread noodles).";
+
+/* Egg Rolls Component Instructions Step 2 Part 1 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.2.Part.1.Accessibility" = "Dice the onion, dried wood ear mushrooms, and bean thread noodles.";
+
+/* Egg Rolls Component Instructions Step 2 Part 2 */
+"EggRollsComponent.Instructions.Step.2.Part.2" = "Add the diced ingredients to the bowl.";
+
+/* Egg Rolls Component Instructions Step 2 Note 1 */
+"EggRollsComponent.Instructions.Step.2.Note.1" = "Soak the ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles) in warm water for about 10-15 minutes or until they are soft enough to cut.";
+
+/* Egg Rolls Component Instructions Step 2 Note 1 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and bean threads in warm water for about 10 to 15 minutes or until they are soft enough to cut.";
+
+/* Egg Rolls Component Instructions Step 3 */
+"EggRollsComponent.Instructions.Step.3" = "Step 3";
+
+/* Egg Rolls Component Instructions Step 3 Part 1 */
+"EggRollsComponent.Instructions.Step.3.Part.1" = "Add the ##Nước Mắm## (fish sauce), ##Muối## (salt), and ##Tiêu Đen## (black pepper) to the bowl.";
+
+/* Egg Rolls Component Instructions Step 3 Part 1 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.3.Part.1.Accessibility" = "Add the fish sauce, salt, and black pepper to the bowl.";
+
+/* Egg Rolls Component Instructions Step 3 Part 2 */
+"EggRollsComponent.Instructions.Step.3.Part.2" = "Mix the contents in the bowl together.";
+
+/* Egg Rolls Component Instructions Step 4 */
+"EggRollsComponent.Instructions.Step.4" = "Step 4";
+
+/* Egg Rolls Component Instructions Step 4 Part 1 */
+"EggRollsComponent.Instructions.Step.4.Part.1" = "Place a sheet of ##Da Cuốn Chả Giò## (egg roll wrapper) on a clean cutting board or counter surface with one of the corners pointing at you.";
+
+/* Egg Rolls Component Instructions Step 4 Part 1 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.4.Part.1.Accessibility" = "Place a sheet of egg roll wrapper on a clean cutting board or counter surface with one of the corners pointing at you.";
+
+/* Egg Rolls Component Instructions Step 4 Part 2 */
+"EggRollsComponent.Instructions.Step.4.Part.2" = "Place about 1-2 tbsp of filling slightly below the center point of the wrapper.";
+
+/* Egg Rolls Component Instructions Step 4 Part 2 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Place about 1 to 2 tablespoons of filling slightly below the center point of the wrapper.";
+
+/* Egg Rolls Component Instructions Step 4 Part 3 */
+"EggRollsComponent.Instructions.Step.4.Part.3" = "Fold the bottom corner up and away from you.";
+
+/* Egg Rolls Component Instructions Step 4 Part 4 */
+"EggRollsComponent.Instructions.Step.4.Part.4" = "Fold the left corner in toward the center, then fold the right corner in toward the center.";
+
+/* Egg Rolls Component Instructions Step 4 Part 5 */
+"EggRollsComponent.Instructions.Step.4.Part.5" = "Roll the contents up, keep it tight and free of air pockets.";
+
+/* Egg Rolls Component Instructions Step 4 Part 6 */
+"EggRollsComponent.Instructions.Step.4.Part.6" = "Seal the roll with a dab of beaten egg.";
+
+/* Egg Rolls Component Instructions Step 4 Note 1 */
+"EggRollsComponent.Instructions.Step.4.Note.1" = "##Da Cuốn Chả Giò## (egg Roll wrappers) can be found refrigerated in most groceries; they are made of wheat and are paper thin.";
+
+/* Egg Rolls Component Instructions Step 4 Note 1 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Egg Roll wrappers can be found refrigerated in most groceries; they are made of wheat and are paper thin.";
+
+/* Egg Rolls Component Instructions Step 5 */
+"EggRollsComponent.Instructions.Step.5" = "Step 5";
+
+/* Egg Rolls Component Instructions Step 5 Part 1 */
+"EggRollsComponent.Instructions.Step.5.Part.1" = "Fry the ##Chả Giò## (egg rolls) in small batches in 325ºF oil.";
+
+/* Egg Rolls Component Instructions Step 5 Part 1 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility" = "Fry the egg rolls in small batches in 325ºF oil.";
+
+/* Egg Rolls Component Instructions Step 5 Part 2 */
+"EggRollsComponent.Instructions.Step.5.Part.2" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8-15 minutes depending on the size and quality of ##Chả Giò## (egg rolls) being cooked).";
+
+/* Egg Rolls Component Instructions Step 5 Part 2 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8 to 15 minutes depending on the size and quality of egg rolls being cooked).";
+
+/* Egg Rolls Component Instructions Step 5 Note 1 */
+"EggRollsComponent.Instructions.Step.5.Note.1" = "You can fry them all at once, or fry what you need and freeze the rest raw.";
+
+/* Egg Rolls Component Instructions Step 5 Note 2 */
+"EggRollsComponent.Instructions.Step.5.Note.2" = "##Chả Giò## (egg rolls) can last for months in the freezer, and when you are ready to eat them, just defrost them and fry as instructed above.";
+
+/* Egg Rolls Component Instructions Step 5 Note 2 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.5.Note.2.Accessibility" = "Egg rolls can last for months in the freezer, and when you are ready to eat them, just defrost them and fry as instructed above.";
+
+/* Egg Rolls Component Instructions Step 5 Note 3 */
+"EggRollsComponent.Instructions.Step.5.Note.3" = "Be sure to rotate the ##Chả Giò## (egg rolls) while frying so they cook evenly.";
+
+/* Egg Rolls Component Instructions Step 5 Note 3 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.5.Note.3.Accessibility" = "Be sure to rotate the egg rolls while frying so they cook evenly.";
+
+/* Egg Rolls Component Instructions Step 5 Note 4 */
+"EggRollsComponent.Instructions.Step.5.Note.4" = "Normally the ##Chả Giò## (egg roll) will float to the top of the oil if it is cooked, but always check the internal temperature to be sure.";
+
+/* Egg Rolls Component Instructions Step 5 Note 4 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Normally the egg roll will float to the top of the oil if it is cooked, but always check the internal temperature to be sure.";
+
+/* Egg Rolls Component How To Header */
+"EggRollsComponent.HowTo.Header" = "How To";
+
+/* Egg Rolls Component How To 1 */
+"EggRollsComponent.HowTo.1" = "##Chả Giò## (egg rolls) can be eaten by themselves or used as a component in other dishes.";
+
+/* Egg Rolls Component How To 1 (VoiceOver) */
+"EggRollsComponent.HowTo.1.Accessibility" = "Egg rolls can be eaten by themselves or used as a component in other dishes.";
+
+/* Egg Rolls Component Used In Header */
+"EggRollsComponent.UsedIn.Header" = "Used In";
 
 /**************************
     Pickles Page
@@ -1363,214 +1572,6 @@
 
 /* Leafy Greens Used In Header */
 "LeafyGreens.UsedIn.Header" = "Used In";
-
-/**************************
-    Egg Rolls Component Page
- **************************/
-
-/* Egg Rolls Component Title - Should Be in Vietnamese */
-"EggRollsComponent.Page.Title" = "Chả Giò";
-
-/* Egg Rolls Component Subtitle - This is the translation */
-"EggRollsComponent.Page.Subtitle" = "Egg Rolls";
-
-/* Egg Rolls Component Title (VoiceOver) */
-"EggRollsComponent.Page.AccessibilityTitle" = "Egg Rolls";
-
-/* Egg Rolls Component Main Image (VoiceOver) */
-"EggRollsComponent.Main.Image" = "Info";
-
-/* Egg Rolls Component Introduction 1 */
-"EggRollsComponent.Introduction.1" = "##Chả Giò## (egg rolls) are a popular crispy and savory component in several Vietnamese dishes. They can be enjoyed as an appetizer or used as a component in ##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles). ##Chả Giò## (egg rolls) are distinct from other Asian egg rolls in that they typically have a light and thin wrapping, and rather than cabbage as a filling, often contain meat.";
-
-/* Egg Rolls Component Introduction 1 (VoiceOver) */
-"EggRollsComponent.Introduction.1.Accessibility" = "Egg rolls are a popular crispy and savory component in several Vietnamese dishes. They can be enjoyed as an appetizer or used as a component in grilled pork and egg roll vermicelli noodles. Vietnamese egg rolls are distinct from other Asian egg rolls in that they typically have a light and thin wrapping, and rather than cabbage as a filling, often contain meat.";
-
-/* Egg Rolls Component Introduction 2 */
-"EggRollsComponent.Introduction.2" = "This recipe yields 25-30 rolls.";
-
-/* Egg Rolls Component Introduction 2 (VoiceOver) */
-"EggRollsComponent.Introduction.2.Accessibility" = "This recipe yields 25 to 30 rolls.";
-
-/* Egg Rolls Component Ingredients Header */
-"EggRollsComponent.Ingredients.Header" = "Ingredients";
-
-/* Egg Rolls Component Ground Pork Amount */
-"EggRollsComponent.GroundPork.Amount" = "½ lb";
-
-/* Egg Rolls Component Ground Pork Amount (VoiceOver) */
-"EggRollsComponent.GroundPork.AccessibilityAmount" = "half a pound";
-
-/* Egg Rolls Component Shrimp Amount */
-"EggRollsComponent.Shrimp.Amount" = "½ lb, minced";
-
-/* Egg Rolls Component Shrimp Amount (VoiceOver) */
-"EggRollsComponent.Shrimp.AccessibilityAmount" = "half a pound, minced";
-
-/* Egg Rolls Component Onion Amount */
-"EggRollsComponent.Onion.Amount" = "½ cup, diced";
-
-/* Egg Rolls Component Onion Amount (VoiceOver) */
-"EggRollsComponent.Onion.AccessibilityAmount" = "half a cup, diced";
-
-/* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount" = "¼ cup, diced";
-
-/* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "one quarter cup, diced";
-
-/* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount" = "½ cup, cut into ½ in long";
-
-/* Egg Rolls Component Bean Threads Amount (VoiceOver) */
-"EggRollsComponent.BeanThreads.AccessibilityAmount" = "half a cup, cut into half an inch long threads";
-
-/* Egg Rolls Component Fish Sauce Amount */
-"EggRollsComponent.FishSauce.Amount" = "2 tbsp";
-
-/* Egg Rolls Component Salt Amount */
-"EggRollsComponent.Salt.Amount" = "½ tsp";
-
-/* Egg Rolls Component Salt Amount (VoiceOver) */
-"EggRollsComponent.Salt.AccessibilityAmount" = "half a teaspoon";
-
-/* Egg Rolls Component Black Pepper Amount */
-"EggRollsComponent.BlackPepper.Amount" = "1 tsp";
-
-/* Egg Rolls Component Black Pepper Amount (VoiceOver) */
-"EggRollsComponent.BlackPepper.AccessibilityAmount" = "one teaspoon";
-
-/* Egg Rolls Component Egg Roll Wrappers Amount */
-"EggRollsComponent.EggRollWrappers.Amount" = "1 pack";
-
-/* Egg Rolls Component Instructions Header */
-"EggRollsComponent.Instructions.Header" = "Instructions";
-
-/* Egg Rolls Component Instructions Step 1 */
-"EggRollsComponent.Instructions.Step.1" = "Step 1";
-
-/* Egg Rolls Component Instructions Step 1 Part 1 */
-"EggRollsComponent.Instructions.Step.1.Part.1" = "Place the ##Thịt Băm## (ground pork) into a large bowl.";
-
-/* Egg Rolls Component Instructions Step 1 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.1.Part.1.Accessibility" = "Place the ground pork into a large bowl.";
-
-/* Egg Rolls Component Instructions Step 1 Part 2 */
-"EggRollsComponent.Instructions.Step.1.Part.2" = "Mince the ##Tôm## (shrimp) and add it to the bowl.";
-
-/* Egg Rolls Component Instructions Step 1 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.1.Part.2.Accessibility" = "Mince the shrimp and add it to the bowl.";
-
-/* Egg Rolls Component Instructions Step 2 */
-"EggRollsComponent.Instructions.Step.2" = "Step 2";
-
-/* Egg Rolls Component Instructions Step 2 Part 1 */
-"EggRollsComponent.Instructions.Step.2.Part.1" = "Dice the ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushrooms), and ##Bún Miến## (bean thread noodles).";
-
-/* Egg Rolls Component Instructions Step 2 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.2.Part.1.Accessibility" = "Dice the onion, dried wood ear mushrooms, and bean thread noodles.";
-
-/* Egg Rolls Component Instructions Step 2 Part 2 */
-"EggRollsComponent.Instructions.Step.2.Part.2" = "Add the diced ingredients to the bowl.";
-
-/* Egg Rolls Component Instructions Step 2 Note 1 */
-"EggRollsComponent.Instructions.Step.2.Note.1" = "Soak the ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles) in warm water for about 10-15 minutes or until they are soft enough to cut.";
-
-/* Egg Rolls Component Instructions Step 2 Note 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and bean threads in warm water for about 10 to 15 minutes or until they are soft enough to cut.";
-
-/* Egg Rolls Component Instructions Step 3 */
-"EggRollsComponent.Instructions.Step.3" = "Step 3";
-
-/* Egg Rolls Component Instructions Step 3 Part 1 */
-"EggRollsComponent.Instructions.Step.3.Part.1" = "Add the ##Nước Mắm## (fish sauce), ##Muối## (salt), and ##Tiêu Đen## (black pepper) to the bowl.";
-
-/* Egg Rolls Component Instructions Step 3 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.3.Part.1.Accessibility" = "Add the fish sauce, salt, and black pepper to the bowl.";
-
-/* Egg Rolls Component Instructions Step 3 Part 2 */
-"EggRollsComponent.Instructions.Step.3.Part.2" = "Mix the contents in the bowl together.";
-
-/* Egg Rolls Component Instructions Step 4 */
-"EggRollsComponent.Instructions.Step.4" = "Step 4";
-
-/* Egg Rolls Component Instructions Step 4 Part 1 */
-"EggRollsComponent.Instructions.Step.4.Part.1" = "Place a sheet of ##Da Cuốn Chả Giò## (egg roll wrapper) on a clean cutting board or counter surface with one of the corners pointing at you.";
-
-/* Egg Rolls Component Instructions Step 4 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Part.1.Accessibility" = "Place a sheet of egg roll wrapper on a clean cutting board or counter surface with one of the corners pointing at you.";
-
-/* Egg Rolls Component Instructions Step 4 Part 2 */
-"EggRollsComponent.Instructions.Step.4.Part.2" = "Place about 1-2 tbsp of filling slightly below the center point of the wrapper.";
-
-/* Egg Rolls Component Instructions Step 4 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Place about 1 to 2 tablespoons of filling slightly below the center point of the wrapper.";
-
-/* Egg Rolls Component Instructions Step 4 Part 3 */
-"EggRollsComponent.Instructions.Step.4.Part.3" = "Fold the bottom corner up and away from you.";
-
-/* Egg Rolls Component Instructions Step 4 Part 4 */
-"EggRollsComponent.Instructions.Step.4.Part.4" = "Fold the left corner in toward the center, then fold the right corner in toward the center.";
-
-/* Egg Rolls Component Instructions Step 4 Part 5 */
-"EggRollsComponent.Instructions.Step.4.Part.5" = "Roll the contents up, keep it tight and free of air pockets.";
-
-/* Egg Rolls Component Instructions Step 4 Part 6 */
-"EggRollsComponent.Instructions.Step.4.Part.6" = "Seal the roll with a dab of beaten egg.";
-
-/* Egg Rolls Component Instructions Step 4 Note 1 */
-"EggRollsComponent.Instructions.Step.4.Note.1" = "##Da Cuốn Chả Giò## (egg Roll wrappers) can be found refrigerated in most groceries; they are made of wheat and are paper thin.";
-
-/* Egg Rolls Component Instructions Step 4 Note 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Egg Roll wrappers can be found refrigerated in most groceries; they are made of wheat and are paper thin.";
-
-/* Egg Rolls Component Instructions Step 5 */
-"EggRollsComponent.Instructions.Step.5" = "Step 5";
-
-/* Egg Rolls Component Instructions Step 5 Part 1 */
-"EggRollsComponent.Instructions.Step.5.Part.1" = "Fry the ##Chả Giò## (egg rolls) in small batches in 325ºF oil.";
-
-/* Egg Rolls Component Instructions Step 5 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility" = "Fry the egg rolls in small batches in 325ºF oil.";
-
-/* Egg Rolls Component Instructions Step 5 Part 2 */
-"EggRollsComponent.Instructions.Step.5.Part.2" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8-15 minutes depending on the size and quality of ##Chả Giò## (egg rolls) being cooked).";
-
-/* Egg Rolls Component Instructions Step 5 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8 to 15 minutes depending on the size and quality of egg rolls being cooked).";
-
-/* Egg Rolls Component Instructions Step 5 Note 1 */
-"EggRollsComponent.Instructions.Step.5.Note.1" = "You can fry them all at once, or fry what you need and freeze the rest raw.";
-
-/* Egg Rolls Component Instructions Step 5 Note 2 */
-"EggRollsComponent.Instructions.Step.5.Note.2" = "##Chả Giò## (egg rolls) can last for months in the freezer, and when you are ready to eat them, just defrost them and fry as instructed above.";
-
-/* Egg Rolls Component Instructions Step 5 Note 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Note.2.Accessibility" = "Egg rolls can last for months in the freezer, and when you are ready to eat them, just defrost them and fry as instructed above.";
-
-/* Egg Rolls Component Instructions Step 5 Note 3 */
-"EggRollsComponent.Instructions.Step.5.Note.3" = "Be sure to rotate the ##Chả Giò## (egg rolls) while frying so they cook evenly.";
-
-/* Egg Rolls Component Instructions Step 5 Note 3 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Note.3.Accessibility" = "Be sure to rotate the egg rolls while frying so they cook evenly.";
-
-/* Egg Rolls Component Instructions Step 5 Note 4 */
-"EggRollsComponent.Instructions.Step.5.Note.4" = "Normally the ##Chả Giò## (egg roll) will float to the top of the oil if it is cooked, but always check the internal temperature to be sure.";
-
-/* Egg Rolls Component Instructions Step 5 Note 4 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Normally the egg roll will float to the top of the oil if it is cooked, but always check the internal temperature to be sure.";
-
-/* Egg Rolls Component How To Header */
-"EggRollsComponent.HowTo.Header" = "How To";
-
-/* Egg Rolls Component How To 1 */
-"EggRollsComponent.HowTo.1" = "##Chả Giò## (egg rolls) can be eaten by themselves or used as a component in other dishes.";
-
-/* Egg Rolls Component How To 1 (VoiceOver) */
-"EggRollsComponent.HowTo.1.Accessibility" = "Egg rolls can be eaten by themselves or used as a component in other dishes.";
-
-/* Egg Rolls Component Used In Header */
-"EggRollsComponent.UsedIn.Header" = "Used In";
 
 /**************************
     Annatto Oil Page
