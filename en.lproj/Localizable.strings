@@ -1478,6 +1478,74 @@
 /* Pickles Used In Header */
 "Pickles.UsedIn.Header" = "Used In";
 
+
+/************
+ Mo Hanh Page
+ ************/
+
+/* Scallion and Oil Garnish Title - Should Be in Vietnamese */
+"ScallionOil.Page.Title" = "Mỡ Hành";
+
+/* Scallion and Oil Garnish Subtitle - This is the translation */
+"ScallionOil.Page.Subtitle" = "Scallion and Oil Garnish";
+
+/* Scallion and Oil Garnish Title (VoiceOver) */
+"ScallionOil.Page.AccessibilityTitle" = "Scallion and Oil Garnish";
+
+/* Scallion and Oil Garnish Main Image (VoiceOver) */
+"ScallionOil.Main.Image" = "Info";
+
+/* Scallion and Oil Garnish Introduction */
+"ScallionOil.Introduction" = "##Mỡ Hành##, meaning scallion oil, is a simple and delicious garnish that is very common in many Vietnamese dishes, such as ##Cơm Tấm Thịt Nướng Chả## (broken rice with grilled pork and egg meatloaf) and ##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles). ##Mỡ Hành## (scallion and oil garnish) is often added to grilled meats to add color and aroma to the dish.";
+
+/* Scallion and Oil Garnish Introduction (VoiceOver) */
+"ScallionOil.Introduction.Accessibility" = "Scallion and oil is a simple and delicious garnish that is very common in many Vietnamese dishes, such as broken rice and vermicelli noodles. Scallion and oil garnish is often added to grilled meats to add color and aroma to the dish.";
+
+/* Scallion and Oil Garnish Ingredients Header */
+"ScallionOil.Ingredients.Header" = "Ingredients";
+
+/* Scallion and Oil Garnish Ingredients Green Onion Amount */
+"ScallionOil.Ingredients.GreenOnion.Amount" = "1 stalk, diced";
+
+/* Scallion and Oil Garnish Ingredients Oil Amount */
+"ScallionOil.Ingredients.Oil.Amount" = "1-2 tbsp";
+
+/* Scallion and Oil Garnish Ingredients Oil Amount (VoiceOver) */
+"ScallionOil.Ingredients.Oil.AccessibilityAmount" = "1 to 2 tablespoons";
+
+/* Scallion and Oil Garnish Instructions Header */
+"ScallionOil.Instructions.Header" = "Instructions";
+
+/* Scallion and Oil Garnish Instructions 1 */
+"ScallionOil.Instructions.1" = "Dice up the ##Hành Lá## (spring onion) and add it to a small microwave-safe bowl.";
+
+/* Scallion and Oil Garnish Instructions 1 (VoiceOver) */
+"ScallionOil.Instructions.1.Accessibility" = "Dice up the spring onion and add it to a small microwave-safe bowl.";
+
+/* Scallion and Oil Garnish Instructions 2 */
+"ScallionOil.Instructions.2" = "Add the ##Dầu## (oil) to the bowl with the diced ##Hành Lá## (spring onion).";
+
+/* Scallion and Oil Garnish Instructions 2 (VoiceOver) */
+"ScallionOil.Instructions.2.Accessibility" = "Add the cooking oil to the bowl with the diced spring onion.";
+
+/* Scallion and Oil Garnish Instructions 3 */
+"ScallionOil.Instructions.3" = "Microwave the bowl on high for 20-30 seconds.";
+
+/* Scallion and Oil Garnish Instructions 3 (VoiceOver) */
+"ScallionOil.Instructions.3.Accessibility" = "Microwave the bowl on high for 20 to 30 seconds.";
+
+/* Scallion and Oil Garnish How To Header */
+"ScallionOil.HowTo.Header" = "How To";
+
+/* Scallion and Oil Garnish How To 1 */
+"ScallionOil.HowTo.1" = "Add some ##Mỡ Hành## (scallion and oil garnish) to any grilled meat to add additional flavor and character to your dish.";
+
+/* Scallion and Oil Garnish How To 1 (VoiceOver) */
+"ScallionOil.HowTo.1.Accessibility" = "Add some scallion and oil garnish to any grilled meat to add additional flavor and character to your dish.";
+
+/* Scallion and Oil Garnish Used In Header */
+"ScallionOil.UsedIn.Header" = "Used In";
+
 /**************************
     Grilled Pork Page
  **************************/
@@ -1892,73 +1960,6 @@
 
 /* Leafy Greens Used In Header */
 "LeafyGreens.UsedIn.Header" = "Used In";
-
-/*************************************
-    Scallion and Oil Garnish Page
- *************************************/
-
-/* Scallion and Oil Garnish Title - Should Be in Vietnamese */
-"ScallionOil.Page.Title" = "Mỡ Hành";
-
-/* Scallion and Oil Garnish Subtitle - This is the translation */
-"ScallionOil.Page.Subtitle" = "Scallion and Oil Garnish";
-
-/* Scallion and Oil Garnish Title (VoiceOver) */
-"ScallionOil.Page.AccessibilityTitle" = "Scallion and Oil Garnish";
-
-/* Scallion and Oil Garnish Main Image (VoiceOver) */
-"ScallionOil.Main.Image" = "Info";
-
-/* Scallion and Oil Garnish Introduction */
-"ScallionOil.Introduction" = "##Mỡ Hành##, meaning scallion oil, is a simple and delicious garnish that is very common in many Vietnamese dishes, such as ##Cơm Tấm Thịt Nướng Chả## (broken rice with grilled pork and egg meatloaf) and ##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles). ##Mỡ Hành## (scallion and oil garnish) is often added to grilled meats to add color and aroma to the dish.";
-
-/* Scallion and Oil Garnish Introduction (VoiceOver) */
-"ScallionOil.Introduction.Accessibility" = "Scallion and oil is a simple and delicious garnish that is very common in many Vietnamese dishes, such as broken rice and vermicelli noodles. Scallion and oil garnish is often added to grilled meats to add color and aroma to the dish.";
-
-/* Scallion and Oil Garnish Ingredients Header */
-"ScallionOil.Ingredients.Header" = "Ingredients";
-
-/* Scallion and Oil Garnish Ingredients Green Onion Amount */
-"ScallionOil.Ingredients.GreenOnion.Amount" = "1 stalk, diced";
-
-/* Scallion and Oil Garnish Ingredients Oil Amount */
-"ScallionOil.Ingredients.Oil.Amount" = "1-2 tbsp";
-
-/* Scallion and Oil Garnish Ingredients Oil Amount (VoiceOver) */
-"ScallionOil.Ingredients.Oil.AccessibilityAmount" = "1 to 2 tablespoons";
-
-/* Scallion and Oil Garnish Instructions Header */
-"ScallionOil.Instructions.Header" = "Instructions";
-
-/* Scallion and Oil Garnish Instructions 1 */
-"ScallionOil.Instructions.1" = "Dice up the ##Hành Lá## (spring onion) and add it to a small microwave-safe bowl.";
-
-/* Scallion and Oil Garnish Instructions 1 (VoiceOver) */
-"ScallionOil.Instructions.1.Accessibility" = "Dice up the spring onion and add it to a small microwave-safe bowl.";
-
-/* Scallion and Oil Garnish Instructions 2 */
-"ScallionOil.Instructions.2" = "Add the ##Dầu## (oil) to the bowl with the diced ##Hành Lá## (spring onion).";
-
-/* Scallion and Oil Garnish Instructions 2 (VoiceOver) */
-"ScallionOil.Instructions.2.Accessibility" = "Add the cooking oil to the bowl with the diced spring onion.";
-
-/* Scallion and Oil Garnish Instructions 3 */
-"ScallionOil.Instructions.3" = "Microwave the bowl on high for 20-30 seconds.";
-
-/* Scallion and Oil Garnish Instructions 3 (VoiceOver) */
-"ScallionOil.Instructions.3.Accessibility" = "Microwave the bowl on high for 20 to 30 seconds.";
-
-/* Scallion and Oil Garnish How To Header */
-"ScallionOil.HowTo.Header" = "How To";
-
-/* Scallion and Oil Garnish How To 1 */
-"ScallionOil.HowTo.1" = "Add some ##Mỡ Hành## (scallion and oil garnish) to any grilled meat to add additional flavor and character to your dish.";
-
-/* Scallion and Oil Garnish How To 1 (VoiceOver) */
-"ScallionOil.HowTo.1.Accessibility" = "Add some scallion and oil garnish to any grilled meat to add additional flavor and character to your dish.";
-
-/* Scallion and Oil Garnish Used In Header */
-"ScallionOil.UsedIn.Header" = "Used In";
 
 /********************
     Baguette Page
