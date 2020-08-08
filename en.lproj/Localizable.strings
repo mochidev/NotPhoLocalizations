@@ -984,16 +984,16 @@
 "EggRollsComponent.Instructions.Step.4.Part.4" = "Fold the left corner in toward the center, then fold the right corner in toward the center.";
 
 /* Egg Rolls Component Instructions Step 4 Part 5 */
-"EggRollsComponent.Instructions.Step.4.Part.5" = "Roll the contents up, keep it tight and free of air pockets.";
+"EggRollsComponent.Instructions.Step.4.Part.5" = "Roll the contents up, keeping it tight and free of air pockets.";
 
 /* Egg Rolls Component Instructions Step 4 Part 6 */
 "EggRollsComponent.Instructions.Step.4.Part.6" = "Seal the roll with a dab of beaten egg.";
 
 /* Egg Rolls Component Instructions Step 4 Note 1 */
-"EggRollsComponent.Instructions.Step.4.Note.1" = "##Da Cuốn Chả Giò## (egg Roll wrappers) can be found refrigerated in most groceries; they are made of wheat and are paper thin.";
+"EggRollsComponent.Instructions.Step.4.Note.1" = "##Da Cuốn Chả Giò## (egg Roll wrappers) can be found refrigerated at most grocery stores; they are made of wheat and are paper thin.";
 
 /* Egg Rolls Component Instructions Step 4 Note 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Egg Roll wrappers can be found refrigerated in most groceries; they are made of wheat and are paper thin.";
+"EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Egg Roll wrappers can be found refrigerated at most grocery stores; they are made of wheat and are paper thin.";
 
 /* Egg Rolls Component Instructions Step 5 */
 "EggRollsComponent.Instructions.Step.5" = "Step 5";
@@ -1026,10 +1026,10 @@
 "EggRollsComponent.Instructions.Step.5.Note.3.Accessibility" = "Be sure to rotate the egg rolls while frying so they cook evenly.";
 
 /* Egg Rolls Component Instructions Step 5 Note 4 */
-"EggRollsComponent.Instructions.Step.5.Note.4" = "Normally the ##Chả Giò## (egg roll) will float to the top of the oil if it is cooked, but always check the internal temperature to be sure.";
+"EggRollsComponent.Instructions.Step.5.Note.4" = "Normally, a tighlty rolled ##Chả Giò## (egg roll) will start to float to the top of the oil when it is cooked, but always check the internal temperature to be sure.";
 
 /* Egg Rolls Component Instructions Step 5 Note 4 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Normally the egg roll will float to the top of the oil if it is cooked, but always check the internal temperature to be sure.";
+"EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Normally, a tighlty rolled egg roll will start to float to the top of the oil when it is cooked, but always check the internal temperature to be sure.";
 
 /* Egg Rolls Component How To Header */
 "EggRollsComponent.HowTo.Header" = "How To";
