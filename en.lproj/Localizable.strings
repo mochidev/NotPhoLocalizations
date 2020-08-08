@@ -1662,10 +1662,10 @@
 "MixedFishSauce.Instructions.Step.1.Note.1.Accessibility" = "Mixed fish sauce tastes the best with lime juice; however, it tends to spoil after 1 week.";
 
 /* Mixed Fish Sauce Instructions Step 1 Note 2 */
-"MixedFishSauce.Instructions.Step.1.Note.2" = "Substitute ##Nước Chanh## (lime juice) with ##Giấm Trắng## (white vinegar) will last much longer (about 1 month).";
+"MixedFishSauce.Instructions.Step.1.Note.2" = "Substitute ##Nước Chanh## (lime juice) with ##Giấm Trắng## (white vinegar) will allow it to last much longer (about 1 month).";
 
 /* Mixed Fish Sauce Instructions Step 1 Note 2 (VoiceOver) */
-"MixedFishSauce.Instructions.Step.1.Note.2.Accessibility" = "Substitute lime juice with white vinegar will last much longer (about 1 month).";
+"MixedFishSauce.Instructions.Step.1.Note.2.Accessibility" = "Substitute lime juice with white vinegar will allow it to last much longer (about 1 month).";
 
 /* Mixed Fish Sauce Instructions Step 1 Note 3 */
 "MixedFishSauce.Instructions.Step.1.Note.3" = "Store the ##Nước Mắm Chấm## (mixed fish sauce) in the refrigerator.";
@@ -1683,22 +1683,22 @@
 "MixedFishSauce.Instructions.Step.2" = "Step 2";
 
 /* Mixed Fish Sauce Instructions Step 2 Part 1 */
-"MixedFishSauce.Instructions.Step.2.Part.1" = "Minced the ##Tỏi## (garlic) and add it in to the bowl.";
+"MixedFishSauce.Instructions.Step.2.Part.1" = "Mince the ##Tỏi## (garlic) and add it into the bowl.";
 
 /* Mixed Fish Sauce Instructions Step 2 Part 1 (VoiceOver) */
-"MixedFishSauce.Instructions.Step.2.Part.1.Accessibility" = "Minced the garlic and add it in to the bowl.";
+"MixedFishSauce.Instructions.Step.2.Part.1.Accessibility" = "Mince the garlic and add it into the bowl.";
 
 /* Mixed Fish Sauce Instructions Step 3 */
 "MixedFishSauce.Instructions.Step.3" = "Step 3";
 
 /* Mixed Fish Sauce Instructions Step 3 Part 1 */
-"MixedFishSauce.Instructions.Step.3.Part.1" = "Add ##Đường## (sugar), ##Muối## (salt), and ##Ớt Đỏ## (chili) in to the bowl.";
+"MixedFishSauce.Instructions.Step.3.Part.1" = "Add ##Đường## (sugar), ##Muối## (salt), and ##Ớt Đỏ## (chili) into the bowl.";
 
 /* Mixed Fish Sauce Instructions Step 3 Part 1 (VoiceOver) */
-"MixedFishSauce.Instructions.Step.3.Part.1.Accessibility" = "Add sugar, salt, and chili in to the bowl.";
+"MixedFishSauce.Instructions.Step.3.Part.1.Accessibility" = "Add sugar, salt, and chili into the bowl.";
 
 /* Mixed Fish Sauce Instructions Step 3 Note 1 */
-"MixedFishSauce.Instructions.Step.3.Note.1" = "Chili paste can be found in most groceries; the jar often has a picture of a rooster on it and a green cap.";
+"MixedFishSauce.Instructions.Step.3.Note.1" = "Chili paste can be found in most grocery stores; the jar often has a picture of a rooster on it and a green cap.";
 
 /* Mixed Fish Sauce Instructions Step 3 Note 2 */
 "MixedFishSauce.Instructions.Step.3.Note.2" = "If you can’t find chili paste, any fresh chilis will do, or you can skip it all together if you don’t like spicy things.";
