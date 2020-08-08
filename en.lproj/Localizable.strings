@@ -2090,9 +2090,10 @@
 /* Daikon Used In Header */
 "Daikon.UsedIn.Header" = "Used In";
 
-/********************
-    Cucumber Page
- ********************/
+
+/************
+ Dua Leo Page
+ ************/
 
 /* Cucumber Page Title - Should Be in Vietnamese */
 "Cucumber.Page.Title" = "Dưa Leo";
