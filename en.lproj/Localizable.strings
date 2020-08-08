@@ -7,17 +7,16 @@
 */
 
 
-/***************
- Common Headings
- ***************/
+// MARK: Common Headings
 
 /* The Heading for Note sections */
 "Note.Heading" = "Note";
 
 
-/***********************
- Banh Mi Thit Nuong Page
- ***********************/
+// MARK: - # Vietnamese Food Tab:
+
+
+// MARK: Banh Mi Thit Nuong (Grilled Pork Bánh Mì) Page
 
 /* Banh Mi Page Title - Should Be in Vietnamese */
 "BanhMi.Page.Title" = "Bánh Mì Thịt Nướng";
@@ -137,9 +136,7 @@
 "BanhMi.HowTo.3.Accessibility" = "Using your palm to gently press on the Banh Mi (sandwich) to break up the shell ahead of time can also make it easier to eat if your gums are sensitive.";
 
 
-/*************
- Banh Xeo Page
- *************/
+// MARK: Banh Xeo (Vietnamese Crepes) Page
 
 /* Crepe Page Title - Should Be in Vietnamese */
 "Crepe.Page.Title" = "Bánh Xèo";
@@ -355,9 +352,7 @@
 "Crepe.HowTo.7.Accessibility" = "For a less messy experience, tear up lettuce, perilla, mint, Thai basil, and cilantro over your plate, pour Nước Mắm Chấm (mixed fish sauce) over everything, and enjoy with chopsticks.";
 
 
-/***************************
- Bun Thit Nuong Cha Gio Page
- ***************************/
+// MARK: Bun Thit Nuong Cha Gio (Grilled Pork & Egg Roll Vermicelli Noodles) Page
 
 /* Vermicelli Page Title - Should Be in Vietnamese */
 "Vermicelli.Page.Title" = "Bún Thịt Nướng Chả Giò";
@@ -504,9 +499,7 @@
 "Vermicelli.HowTo.3.Accessibility" = "The amount of mixed fish sauce you serve is up to you, but always have extra available — it's not uncommon to enjoy as much as half a cup at a time!";
 
 
-/**********************
- Cha Gio (Platter) Page
- **********************/
+// MARK: Cha Gio (Egg Roll Appetizer) Page
 
 /* Egg Rolls Page Title - Should Be in Vietnamese */
 "EggRolls.Page.Title" = "Chả Giò";
@@ -575,9 +568,7 @@
 "EggRolls.HowTo.4.Accessibility" = "Dip the wrap into mixed fish sauce and enjoy.";
 
 
-/***************************
- Com Tam Thit Nuong Cha Page
- ***************************/
+// MARK: Com Tam Thit Nuong Cha (Broken Rice with Grilled Pork & Egg Meatloaf) Page
 
 /* Broken Rice Title - Should Be in Vietnamese */
 "BrokenRice.Page.Title" = "Cơm Tấm Thịt Nướng Chả";
@@ -701,9 +692,10 @@
 "Broken.Rice.HowTo.3.Accessibility" = "You can also pour the mixed fish sauce over everything on the plate and enjoy it all together.";
 
 
-/*****************
- Bot Banh Xeo Page
- *****************/
+// MARK: - # Recipes Tab:
+
+
+// MARK: Bot Banh Xeo (Vietnamese Crepe Batter) Page
 
 /* Crepe Batter Title - Should Be in Vietnamese */
 "CrepeBatter.Page.Title" = "Bột Bánh Xèo";
@@ -790,9 +782,7 @@
 "CrepeBatter.UsedIn.Header" = "Used In";
 
 
-/*********************
- Cha Gio (Recipe) Page
- *********************/
+// MARK: Cha Gio - Recipe (Egg Rolls) Page
 
 /* Egg Rolls Component Title - Should Be in Vietnamese */
 "EggRollsComponent.Page.Title" = "Chả Giò";
@@ -999,9 +989,7 @@
 "EggRollsComponent.UsedIn.Header" = "Used In";
 
 
-/**************
- Cha Trung Page
- **************/
+// MARK: Cha Trung (Egg Meatloaf) Page
 
 /* Egg Meatloaf Title - Should Be in Vietnamese */
 "EggMeatloaf.Page.Title" = "Chả Trứng";
@@ -1205,9 +1193,7 @@
 "EggMeatloaf.UsedIn.Header" = "Used In";
 
 
-/****************
- Dau Annatto Page
- ****************/
+// MARK: Dau Annatto (Annatto Oil) Page
 
 /* Annatto Oil Title - Should Be in Vietnamese */
 "AnnattoOil.Page.Title" = "Dầu Annatto";
@@ -1318,9 +1304,7 @@
 "AnnattoOil.UsedIn.Header" = "Used In";
 
 
-/************
- Do Chua Page
- ************/
+// MARK: Do Chua (Pickled Carrot and Daikon) Page
 
 /* Pickles Title - Should Be in Vietnamese */
 "Pickles.Page.Title" = "Đồ Chua";
@@ -1479,9 +1463,7 @@
 "Pickles.UsedIn.Header" = "Used In";
 
 
-/************
- Mo Hanh Page
- ************/
+// MARK: Mo Hanh (Scallion and Oil Garnish) Page
 
 /* Scallion and Oil Garnish Title - Should Be in Vietnamese */
 "ScallionOil.Page.Title" = "Mỡ Hành";
@@ -1547,9 +1529,7 @@
 "ScallionOil.UsedIn.Header" = "Used In";
 
 
-/******************
- Nuoc Mam Cham Page
- ******************/
+// MARK: Nuoc Mam Cham (Mixed Fish Sauce) Page
 
 /* Mixed Fish Sauce Title - Should Be in Vietnamese */
 "MixedFishSauce.Page.Title" = "Nước Mắm Chấm";
@@ -1681,9 +1661,7 @@
 "MixedFishSauce.UsedIn.Header" = "Used In";
 
 
-/********
- Rau Page
- ********/
+// MARK: Rau (Leafy Greens) Page
 
 /* Leafy Greens Title - Should Be in Vietnamese */
 "LeafyGreens.Page.Title" = "Rau";
@@ -1713,9 +1691,7 @@
 "LeafyGreens.UsedIn.Header" = "Used In";
 
 
-/*******************
- Sot Mayonnaise Page
- *******************/
+// MARK: Sot Mayonnaise (Mayonnaise) Page
 
 /* Mayo Title - Should Be in Vietnamese */
 "Mayo.Page.Title" = "Sốt Mayonnaise";
@@ -1817,9 +1793,7 @@
 "Mayo.UsedIn.Header" = "Used In";
 
 
-/***************
- Thit Nuong Page
- ***************/
+// MARK: Thit Nuong (Grilled Pork) Page
 
 /* Grilled Pork Title - Should Be in Vietnamese */
 "GrilledPork.Page.Title" = "Thịt Nướng";
@@ -1966,9 +1940,10 @@
 "GrilledPork.UsedIn.Header" = "Used In";
 
 
-/*************************
- Banh Mi (Ingredient) Page
- *************************/
+// MARK: - # Ingredients Tab:
+
+
+// MARK: Banh Mi - Ingredient (Baguette) Page
 
 /* Baguette Page Title - Should Be in Vietnamese */
 "Baguette.Page.Title" = "Bánh Mì";
@@ -2013,9 +1988,7 @@
 "Baguette.UsedIn.Header" = "Used In";
 
 
-/***********
- Ca Rot Page
- ***********/
+// MARK: Ca Rot (Carrot) Page
 
 /* Carrot Page Title - Should Be in Vietnamese */
 "Carrot.Page.Title" = "Cà Rốt";
@@ -2039,9 +2012,7 @@
 "Carrot.UsedIn.Header" = "Used In";
 
 
-/************
- Com Tam Page
- ************/
+// MARK: Com Tam (Cooked Broken Rice) Page
 
 /* Rice Page Title - Should Be in Vietnamese */
 "Rice.Page.Title" = "Cơm Tấm";
@@ -2065,9 +2036,7 @@
 "Rice.UsedIn.Header" = "Used In";
 
 
-/***********
- Cu Cai Trang Page
- ***********/
+// MARK: Cu Cai Trang (Daikon) Page
 
 /* Daikon Page Title - Should Be in Vietnamese */
 "Daikon.Page.Title" = "Củ Cải Trắng";
@@ -2091,9 +2060,7 @@
 "Daikon.UsedIn.Header" = "Used In";
 
 
-/************
- Dua Leo Page
- ************/
+// MARK: Dua Leo (Cucumber) Page
 
 /* Cucumber Page Title - Should Be in Vietnamese */
 "Cucumber.Page.Title" = "Dưa Leo";
@@ -2141,9 +2108,7 @@
 "Cucumber.UsedIn.Header" = "Used In";
 
 
-/*************
- Nuoc Mam Page
- *************/
+// MARK: Nuoc Mam (Fish Sauce) Page
 
 /* Fish Sauce Page Title - Should Be in Vietnamese */
 "FishSauce.Page.Title" = "Nước Mắm";
@@ -2173,9 +2138,7 @@
 "FishSauce.UsedIn.Header" = "Used In";
 
 
-/*******
- Xa Page
- *******/
+// MARK: Xa (Lemongrass) Page
 
 /* Lemongrass Page Title - Should Be in Vietnamese */
 "Lemongrass.Page.Title" = "Xả";
