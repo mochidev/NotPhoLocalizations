@@ -8,9 +8,7 @@
 
 /* These represent the individual item button on each page that often lead to other pages. `.Subtitle` should be the translated text, while `.AccessibilitySubtitle` will be the VoiceOver equivalent. */
 
-/*******************
- Vietnamese Food Tab
- *******************/
+// MARK: Vietnamese Food Tab
 
 /* Grilled Pork Sandwich */
 "grilledPorkBanhMi.Subtitle" = "Grilled Pork Sandwich";
@@ -28,9 +26,7 @@
 "brokenRice.subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 
 
-/***********
- Recipes Tab
- ***********/
+// MARK: Recipes Tab
 
 /* Crepe Batter */
 "crepeBatter.subtitle" = "Crepe Batter";
@@ -63,9 +59,7 @@
 "grilledPork.subtitle" = "Grilled Pork";
 
 
-/***************
- Ingredients Tab
- ***************/
+// MARK: Ingredients Tab
 
 /* Baguette */
 "baguette.subtitle" = "Baguette";
@@ -92,9 +86,7 @@
 "lemongrass.AccessibilitySubtitle" = "Lemon-grass";
 
 
-/******************************
- Entries with no dedicated page
- ******************************/
+// MARK: Entries with no dedicated page
 
 /* Bean Sprouts */
 "beanSprouts.subtitle" = "Bean Sprouts";
