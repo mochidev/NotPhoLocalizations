@@ -8,8 +8,24 @@
 
 /* These represent the individual item button on each page that often lead to other pages. `.Subtitle` should be the translated text, while `.AccessibilitySubtitle` will be the VoiceOver equivalent. */
 
+/*******************
+ Vietnamese Food Tab
+ *******************/
+
 /* Grilled Pork Sandwich */
 "grilledPorkBanhMi.Subtitle" = "Grilled Pork Sandwich";
+
+/* Vietnamese Crepes */
+"crepe.subtitle" = "Vietnamese Crêpes";
+
+/* Grilled Pork & Egg Roll Vermicelli Noodles */
+"grilledPorkVermicelli.subtitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
+
+/* Egg Rolls (Platter) */
+"eggRollPlatter.subtitle" = "Egg Rolls";
+
+/* Broken Rice with Grilled Pork and Egg Meatloaf */
+"brokenRice.subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 
 /* Baguette */
 "baguette.subtitle" = "Baguette";
@@ -86,17 +102,11 @@
 /* Mixed Fish Sauce */
 "nuocMam.subtitle" = "Mixed Fish Sauce";
 
-/* Egg Rolls */
-"eggRollPlatter.subtitle" = "Egg Rolls";
-
 /* Chili */
 "chili.subtitle" = "Chili";
 
 /* Lime */
 "lime.subtitle" = "Lime";
-
-/* Grilled Pork & Egg Roll Vermicelli Noodles */
-"grilledPorkVermicelli.subtitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
 
 /* Bean Sprouts */
 "beanSprouts.subtitle" = "Bean Sprouts";
@@ -106,9 +116,6 @@
 
 /* Spearmint */
 "mint.subtitle" = "Spearmint";
-
-/* Vietnamese Perilla */
-"perilla.subtitle" = "Vietnamese Perilla";
 
 /* Thai Basil */
 "thaiBasil.subtitle" = "Thai Basil";
@@ -137,9 +144,6 @@
 /* Pork Belly */
 "porkBelly.subtitle" = "Pork Belly";
 
-/* Vietnamese Crepes */
-"crepe.subtitle" = "Vietnamese Crepes";
-
 /* Crepe Batter */
 "crepeBatter.subtitle" = "Crepe Batter";
 
@@ -163,9 +167,6 @@
 
 /* Egg */
 "egg.subtitle" = "Egg";
-
-/* Broken Rice with Grilled Pork and Egg Meatloaf */
-"brokenRice.subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 
 /* Tomato */
 "tomato.subtitle" = "Tomato";
