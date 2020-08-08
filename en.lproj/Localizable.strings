@@ -354,79 +354,10 @@
 /* Crepe How To 7 (VoiceOver) */
 "Crepe.HowTo.7.Accessibility" = "For a less messy experience, tear up lettuce, perilla, mint, Thai basil, and cilantro over your plate, pour Nước Mắm Chấm (mixed fish sauce) over everything, and enjoy with chopsticks.";
 
-/**************************
-    Egg Rolls Page
- **************************/
 
-/* Egg Rolls Page Title - Should Be in Vietnamese */
-"EggRolls.Page.Title" = "Chả Giò";
-
-/* Egg Rolls Page Subtitle - This is the translation */
-"EggRolls.Page.Subtitle" = "Egg Roll Appetizer";
-
-/* Egg Rolls Page Title (VoiceOver) */
-"EggRolls.Page.AccessibilityTitle" = "Egg Roll Appetizer";
-
-/* Egg Rolls Main Image (VoiceOver) */
-"EggRolls.Main.Image" = "Info";
-
-/* Egg Rolls Main Image Action Hint (VoiceOver) */
-"EggRolls.Main.Image.Hint" = "Scroll down to learn more.";
-
-/* Egg Rolls Introduction */
-"EggRolls.Introduction" = "##Chả Giò## (egg rolls) are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in ##Nước Mắm Chấm## (mixed fish sauce).";
-
-/* Egg Rolls Introduction (VoiceOver) */
-"EggRolls.Introduction.Accessibility" = "Egg rolls are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in mixed fish sauce.";
-
-/* Egg Rolls Components Ingredients Header */
-"EggRolls.Components.Ingredients.Header" = "Components/Ingredients";
-
-/* Egg Rolls Ingredients EggRolls Amount */
-"EggRolls.Ingredients.EggRolls.Amount" = "3 rolls";
-
-/* Egg Rolls Ingredients EggRolls Amount */
-"EggRolls.Ingredients.LeafyGreens.Amount" = "assortment";
-
-/* Egg Rolls Ingredients EggRolls Amount */
-"EggRolls.Ingredients.Pickles.Amount" = "2 tbsp, drained";
-
-/* Egg Rolls Ingredients EggRolls Amount */
-"EggRolls.Ingredients.MixedFishSauce.Amount" = "½ cup";
-
-/* Egg Rolls Ingredients EggRolls Amount (VoiceOver) */
-"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount" = "half a cup";
-
-/* Egg Rolls How To Header */
-"EggRolls.HowTo.Header" = "How To";
-
-/* Egg Rolls How To 1 */
-"EggRolls.HowTo.1" = "Place a ##Chả Giò## (egg roll) in the middle of a piece of ##Rau Xà Lách## (lettuce).";
-
-/* Egg Rolls How To 1 (VoiceOver) */
-"EggRolls.HowTo.1.Accessibility" = "Place an egg roll in the middle of a piece of lettuce.";
-
-/* Egg Rolls How To 2 */
-"EggRolls.HowTo.2" = "Add some ##Tía Tô## (perillas), ##Húng Lũi## (mints), and ##Đồ Chua## (pickles).";
-
-/* Egg Rolls How To 2 (VoiceOver) */
-"EggRolls.HowTo.2.Accessibility" = "Add some perillas, mints, and pickles.";
-
-/* Egg Rolls How To 3 */
-"EggRolls.HowTo.3" = "Wrap everything up with the ##Rau Xà Lách## (lettuce).";
-
-/* Egg Rolls How To 3 (VoiceOver) */
-"EggRolls.HowTo.3.Accessibility" = "Wrap everything up with the lettuce leaf.";
-
-/* Egg Rolls How To 4 */
-"EggRolls.HowTo.4" = "Dip the wrap into ##Nước Mắm Chấm## (mixed fish sauce) and enjoy.";
-
-/* Egg Rolls How To 4 (VoiceOver) */
-"EggRolls.HowTo.4.Accessibility" = "Dip the wrap into mixed fish sauce and enjoy.";
-
-/**************************
-    Vermicelli Page
- **************************/
+/***************************
+ Bun Thit Nuong Cha Gio Page
+ ***************************/
 
 /* Vermicelli Page Title - Should Be in Vietnamese */
 "Vermicelli.Page.Title" = "Bún Thịt Nướng Chả Giò";
@@ -571,6 +502,77 @@
 
 /* Vermicelli How To 3 (VoiceOver) */
 "Vermicelli.HowTo.3.Accessibility" = "The amount of mixed fish sauce you serve is up to you, but always have extra available — it's not uncommon to enjoy as much as half a cup at a time!";
+
+
+/**************************
+    Egg Rolls Page
+ **************************/
+
+/* Egg Rolls Page Title - Should Be in Vietnamese */
+"EggRolls.Page.Title" = "Chả Giò";
+
+/* Egg Rolls Page Subtitle - This is the translation */
+"EggRolls.Page.Subtitle" = "Egg Roll Appetizer";
+
+/* Egg Rolls Page Title (VoiceOver) */
+"EggRolls.Page.AccessibilityTitle" = "Egg Roll Appetizer";
+
+/* Egg Rolls Main Image (VoiceOver) */
+"EggRolls.Main.Image" = "Info";
+
+/* Egg Rolls Main Image Action Hint (VoiceOver) */
+"EggRolls.Main.Image.Hint" = "Scroll down to learn more.";
+
+/* Egg Rolls Introduction */
+"EggRolls.Introduction" = "##Chả Giò## (egg rolls) are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in ##Nước Mắm Chấm## (mixed fish sauce).";
+
+/* Egg Rolls Introduction (VoiceOver) */
+"EggRolls.Introduction.Accessibility" = "Egg rolls are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in mixed fish sauce.";
+
+/* Egg Rolls Components Ingredients Header */
+"EggRolls.Components.Ingredients.Header" = "Components/Ingredients";
+
+/* Egg Rolls Ingredients EggRolls Amount */
+"EggRolls.Ingredients.EggRolls.Amount" = "3 rolls";
+
+/* Egg Rolls Ingredients EggRolls Amount */
+"EggRolls.Ingredients.LeafyGreens.Amount" = "assortment";
+
+/* Egg Rolls Ingredients EggRolls Amount */
+"EggRolls.Ingredients.Pickles.Amount" = "2 tbsp, drained";
+
+/* Egg Rolls Ingredients EggRolls Amount */
+"EggRolls.Ingredients.MixedFishSauce.Amount" = "½ cup";
+
+/* Egg Rolls Ingredients EggRolls Amount (VoiceOver) */
+"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount" = "half a cup";
+
+/* Egg Rolls How To Header */
+"EggRolls.HowTo.Header" = "How To";
+
+/* Egg Rolls How To 1 */
+"EggRolls.HowTo.1" = "Place a ##Chả Giò## (egg roll) in the middle of a piece of ##Rau Xà Lách## (lettuce).";
+
+/* Egg Rolls How To 1 (VoiceOver) */
+"EggRolls.HowTo.1.Accessibility" = "Place an egg roll in the middle of a piece of lettuce.";
+
+/* Egg Rolls How To 2 */
+"EggRolls.HowTo.2" = "Add some ##Tía Tô## (perillas), ##Húng Lũi## (mints), and ##Đồ Chua## (pickles).";
+
+/* Egg Rolls How To 2 (VoiceOver) */
+"EggRolls.HowTo.2.Accessibility" = "Add some perillas, mints, and pickles.";
+
+/* Egg Rolls How To 3 */
+"EggRolls.HowTo.3" = "Wrap everything up with the ##Rau Xà Lách## (lettuce).";
+
+/* Egg Rolls How To 3 (VoiceOver) */
+"EggRolls.HowTo.3.Accessibility" = "Wrap everything up with the lettuce leaf.";
+
+/* Egg Rolls How To 4 */
+"EggRolls.HowTo.4" = "Dip the wrap into ##Nước Mắm Chấm## (mixed fish sauce) and enjoy.";
+
+/* Egg Rolls How To 4 (VoiceOver) */
+"EggRolls.HowTo.4.Accessibility" = "Dip the wrap into mixed fish sauce and enjoy.";
 
 /**************************
     Broken Rice Page
