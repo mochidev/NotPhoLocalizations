@@ -62,17 +62,37 @@
 /* Grilled Pork */
 "grilledPork.subtitle" = "Grilled Pork";
 
+
+/***************
+ Ingredients Tab
+ ***************/
+
 /* Baguette */
 "baguette.subtitle" = "Baguette";
 
-/* Pork */
-"rawPork.subtitle" = "Pork";
+/* Carrot */
+"carrot.subtitle" = "Carrot";
+
+/* Broken Rice */
+"rice.subtitle" = "Broken Rice";
 
 /* Daikon */
 "daikon.subtitle" = "Daikon";
 
-/* Carrot */
-"carrot.subtitle" = "Carrot";
+/* Cucumber */
+"cucumber.subtitle" = "Cucumber";
+
+/* Fish Sauce */
+"fishSauce.subtitle" = "Fish Sauce";
+
+/* Lemongrass */
+"lemongrass.subtitle" = "Lemongrass";
+
+/* Lemongrass */
+"lemongrass.AccessibilitySubtitle" = "Lemon-grass";
+
+/* Pork */
+"rawPork.subtitle" = "Pork";
 
 /* White Vinegar */
 "vinegar.subtitle" = "White Vinegar";
@@ -86,29 +106,17 @@
 /* Garlic */
 "garlic.subtitle" = "Garlic";
 
-/* Lemongrass */
-"lemongrass.subtitle" = "Lemongrass";
-
-/* Lemongrass */
-"lemongrass.AccessibilitySubtitle" = "Lemon-grass";
-
 /* Shallot */
 "shallot.subtitle" = "Shallot";
 
 /* Sugar */
 "sugar.subtitle" = "Sugar";
 
-/* Fish Sauce */
-"fishSauce.subtitle" = "Fish Sauce";
-
 /* Egg Yolk */
 "eggYolk.subtitle" = "Egg Yolk";
 
 /* Oil */
 "oil.subtitle" = "Oil";
-
-/* Cucumber */
-"cucumber.subtitle" = "Cucumber";
 
 /* Cilantro */
 "cilantro.subtitle" = "Cilantro";
@@ -181,9 +189,6 @@
 
 /* Tomato */
 "tomato.subtitle" = "Tomato";
-
-/* Broken Rice */
-"rice.subtitle" = "Broken Rice";
 
 /* Vermicelli Rice Noodles */
 "vermicelliNoodles.subtitle" = "Vermicelli Rice Noodles";
