@@ -1965,9 +1965,10 @@
 /* Grilled Pork UsedIn Header */
 "GrilledPork.UsedIn.Header" = "Used In";
 
-/********************
-    Baguette Page
- ********************/
+
+/*************************
+ Banh Mi (Ingredient) Page
+ *************************/
 
 /* Baguette Page Title - Should Be in Vietnamese */
 "Baguette.Page.Title" = "Bánh Mì";
