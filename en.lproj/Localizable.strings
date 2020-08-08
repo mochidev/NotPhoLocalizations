@@ -198,7 +198,7 @@
 "Crepe.Page.Title" = "Bánh Xèo";
 
 /* Crepe Page Subtitle - This is the translation */
-"Crepe.Page.Subtitle" = "Vietnamese Crepes";
+"Crepe.Page.Subtitle" = "Vietnamese Crêpes";
 
 /* Crepe Page Title (VoiceOver) */
 "Crepe.Page.AccessibilityTitle" = "Vietnamese Crepes";
@@ -210,13 +210,13 @@
 "Crepe.Main.Image.Hint" = "Scroll down to learn more.";
 
 /* Crepe Introduction */
-"Crepe.Introduction" = "##Bánh Xèo## (Vietnamese crepes) is literally translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. ##Bánh Xèo## (Vietnamese crepes) are a popular street snack in Vietnam, and these savory crepes are always paired with a plate of ##Rau## (leafy greens) and a surplus of sweet, sour, and savory ##Nước Mắm Chấm## (mixed fish sauce).";
+"Crepe.Introduction" = "##Bánh Xèo## (Vietnamese crêpes) is literally translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. ##Bánh Xèo## (Vietnamese crêpes) are a popular street snack in Vietnam, and these savory crêpes are always paired with a plate of ##Rau## (leafy greens) and a surplus of sweet, sour, and savory ##Nước Mắm Chấm## (mixed fish sauce).";
 
 /* Crepe Introduction (VoiceOver) */
 "Crepe.Introduction.Accessibility" = "Vietnamese crepe, in Vietnamese, is translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. Vietnamese crepes are a popular street snack in Vietnam, and these savory crepes are always paired with a plate of leafy greens and a surplus of sweet, sour, and savory mixed fish sauce.";
 
-/* Crepe Components Ingredients Header */
-"Crepe.Components.Ingredients.Header" = "Components/Ingredients";
+/* Crepe Ingredients Header */
+"Crepe.Ingredients.Header" = "Ingredients";
 
 /* Crepe Ingredients Crepe Batter Amount */
 "Crepe.Ingredients.CrepeBatter.Amount" = "1 package";
@@ -255,7 +255,7 @@
 "Crepe.Instructions.Step.1.Image" = "Step 1";
 
 /* Crepe Instructions Step 1 Part 1 */
-"Crepe.Instructions.Step.1.Part.1" = "Prepare the ##Bột Bánh Xèo## (crepe batter) according to the instructions on the package.";
+"Crepe.Instructions.Step.1.Part.1" = "Prepare the ##Bột Bánh Xèo## (crêpe batter) according to the instructions on the package.";
 
 /* Crepe Instructions Step 1 Part 1 (VoiceOver) */
 "Crepe.Instructions.Step.1.Part.1.Accessibility" = "Prepare the crepe batter according to the instructions on the package.";
@@ -270,16 +270,16 @@
 "Crepe.Instructions.Step.1.Part.3" = "Mix well.";
 
 /* Crepe Instructions Step 1 Part 4 */
-"Crepe.Instructions.Step.1.Part.4" = "Let the ##Bột Bánh Xèo## (crepe batter) sit for at least 30 minutes.";
+"Crepe.Instructions.Step.1.Part.4" = "Let the ##Bột Bánh Xèo## (crêpe batter) sit for at least 30 minutes.";
 
 /* Crepe Instructions Step 1 Part 4 (VoiceOver) */
 "Crepe.Instructions.Step.1.Part.4.Accessibility" = "Let the crepe batter sit for at least 30 minutes.";
 
 /* Crepe Instructions Step 1 Note 1 */
-"Crepe.Instructions.Step.1.Note.1" = "If you can’t find pre-mixed ##Bột Bánh Xèo## (crepe batter), you can make it yourself using the recipe on the batter page.";
+"Crepe.Instructions.Step.1.Note.1" = "If you can’t find pre-mixed ##Bột Bánh Xèo## (crêpe batter), you can make it yourself using the recipe on the batter page.";
 
 /* Crepe Instructions Step 1 Note 1 (VoiceOver) */
-"Crepe.Instructions.Step.1.Note.1.Accessibility" = "If you can’t find pre-mixed crepe batter, you can make it yourself using the recipe on the batter page in the Components/Ingredients section.";
+"Crepe.Instructions.Step.1.Note.1.Accessibility" = "If you can’t find pre-mixed crepe batter, you can make it yourself using the recipe on the batter page in the Ingredients section.";
 
 /* Crepe Instructions Step 2 Image (VoiceOver) */
 "Crepe.Instructions.Step.2.Image" = "Step 2";
@@ -312,7 +312,7 @@
 "Crepe.Instructions.Step.4.Image" = "Step 4";
 
 /* Crepe Instructions Step 4 Part 1 */
-"Crepe.Instructions.Step.4.Part.1" = "Move the ##Củ Hành## (onion), ##Tôm## (shrimp), and ##Thịt Ba Rọi## (pork belly) to one side of the pan — this will become the bottom of the crepe.";
+"Crepe.Instructions.Step.4.Part.1" = "Move the ##Củ Hành## (onion), ##Tôm## (shrimp), and ##Thịt Ba Rọi## (pork belly) to one side of the pan — this will become the bottom of the crêpe.";
 
 /* Crepe Instructions Step 4 Part 1 (VoiceOver) */
 "Crepe.Instructions.Step.4.Part.1.Accessibility" = "Move the onion, shrimp, and pork belly to one side of the pan — this will become the bottom of the crepe.";
@@ -321,13 +321,13 @@
 "Crepe.Instructions.Step.5.Image" = "Step 5";
 
 /* Crepe Instructions Step 5 Part 1 */
-"Crepe.Instructions.Step.5.Part.1" = "Pour in some ##Bột Bánh Xèo## (crepe batter) and quickly swirl the pan to spread the batter.";
+"Crepe.Instructions.Step.5.Part.1" = "Pour in some ##Bột Bánh Xèo## (crêpe batter) and quickly swirl the pan to spread the batter.";
 
 /* Crepe Instructions Step 5 Part 1 (VoiceOver) */
 "Crepe.Instructions.Step.5.Part.1.Accessibility" = "Pour in some crepe batter and quickly swirl the pan to spread the batter.";
 
 /* Crepe Instructions Step 5 Note 1 */
-"Crepe.Instructions.Step.5.Note.1" = "Add more ##Bột Bánh Xèo## (crepe batter) until the bottom of the pan is covered, but don’t add too much — you want the ##Bánh Xèo## (crepe) to be thin.";
+"Crepe.Instructions.Step.5.Note.1" = "Add more ##Bột Bánh Xèo## (crêpe batter) until the bottom of the pan is covered, but don’t add too much — you want the ##Bánh Xèo## (crêpe) to be thin.";
 
 /* Crepe Instructions Step 5 Note 1 (VoiceOver) */
 "Crepe.Instructions.Step.5.Note.1.Accessibility" = "Add more crepe batter until the bottom of the pan is covered, but don’t add too much — you want the crepe to be thin.";
@@ -351,16 +351,16 @@
 "Crepe.Instructions.Step.7.Image" = "Step 7";
 
 /* Crepe Instructions Step 7 Part 1 */
-"Crepe.Instructions.Step.7.Part.1" = "Fold the ##Bánh Xèo## (crepe) in half and serve immediately.";
+"Crepe.Instructions.Step.7.Part.1" = "Fold the ##Bánh Xèo## (crêpe) in half and serve immediately.";
 
 /* Crepe Instructions Step 7 Part 1 (VoiceOver) */
 "Crepe.Instructions.Step.7.Part.1.Accessibility" = "Fold the crepe in half and serve immediately.";
 
 /* Crepe Instructions Step 7 Note 1 */
-"Crepe.Instructions.Step.7.Note.1" = "Making ##Bánh Xèo## (crepes) can be hard work on the chef, as they seem to get eaten faster than they get made! Consider using multiple small pans to make several at once, or turn this into a family activity by eating in the kitchen (if space is available), or bringing the kitchen to the dining area with a small portable burner.";
+"Crepe.Instructions.Step.7.Note.1" = "Making ##Bánh Xèo## (crêpes) can be hard work on the chef, as the ##Bánh Xèo## (crêpes) seem to disappear faster than they get made! Consider using multiple small pans to make several at once, or turn this into a family activity by eating in the kitchen (if space is available), or bringing the kitchen to the dining area with a small portable burner.";
 
 /* Crepe Instructions Step 7 Note 1 (VoiceOver) */
-"Crepe.Instructions.Step.7.Note.1.Accessibility" = "Making crepes can be hard work on the chef, as they seem to get eaten faster than they get made! Consider using multiple small pans to make several at once, or turn this into a family activity by eating in the kitchen (if space is available), or bringing the kitchen to the dining area with a small portable burner.";
+"Crepe.Instructions.Step.7.Note.1.Accessibility" = "Making crepes can be hard work on the chef, as the crepes seem to disappear faster than they get made! Consider using multiple small pans to make several at once, or turn this into a family activity by eating in the kitchen (if space is available), or bringing the kitchen to the dining area with a small portable burner.";
 
 /* Crepe How To Header */
 "Crepe.HowTo.Header" = "How To";
@@ -372,7 +372,7 @@
 "Crepe.HowTo.1.Accessibility" = "Grab a piece of lettuce.";
 
 /* Crepe How To 2 */
-"Crepe.HowTo.2" = "Break off a piece of ##Bánh Xèo## (crepe) and place it in the middle of your ##Rau Xà Lách## (lettuce).";
+"Crepe.HowTo.2" = "Break off a piece of ##Bánh Xèo## (crêpe) and place it in the middle of your ##Rau Xà Lách## (lettuce).";
 
 /* Crepe How To 2 (VoiceOver) */
 "Crepe.HowTo.2.Accessibility" = "Break off a piece of crepe and place it in the middle of your lettuce leaf.";
@@ -396,7 +396,7 @@
 "Crepe.HowTo.5.Accessibility" = "Dip the wrap in mixed fish sauce to enjoy.";
 
 /* Crepe How To 6 */
-"Crepe.HowTo.6" = "##Bánh Xèo## (crepes) can be a bit messy because you have to eat with your hands to fully enjoy the experience.";
+"Crepe.HowTo.6" = "##Bánh Xèo## (crêpes) can be a bit messy because you have to eat with your hands to fully enjoy the experience.";
 
 /* Crepe How To 6 (VoiceOver) */
 "Crepe.HowTo.6.Accessibility" = "Vietnamese crepes can be a bit messy because you have to eat with your hands to fully enjoy the experience.";
