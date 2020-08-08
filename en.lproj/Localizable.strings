@@ -1089,13 +1089,16 @@
 "EggMeatloaf.Ingredients.Onion.Amount" = "3 tbsp, diced";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount */
-"EggMeatloaf.Ingredients.BeanThreads.Amount" = "17 g, cut into ½ in long";
+"EggMeatloaf.Ingredients.BeanThreads.Amount" = "1-2 oz soaked, then cut ½ in long";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "17 grams, cut into half an inch long threads";
+"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "1 to 2 ounces soaked, then cut into half an inch long threads";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "15 g, diced";
+"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "1-2 oz soaked";
+
+/* Egg Meatloaf Ingredients Dried Mushroom Amount */
+"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount" = "1 to 2 ounces soaked";
 
 /* Egg Meatloaf Ingredients Fish Sauce Amount */
 "EggMeatloaf.Ingredients.FishSauce.Amount" = "1 tbsp";
@@ -1182,10 +1185,10 @@
 "EggMeatloaf.Instructions.Step.5.Part.1" = "Transfer the filling to a prepared steamer.";
 
 /* Egg Meatloaf Instructions Step 5 Part 2 */
-"EggMeatloaf.Instructions.Step.5.Part.2" = "Steam for 30-40 minutes.";
+"EggMeatloaf.Instructions.Step.5.Part.2" = "Steam for 30-40 minutes on medium to high heat.";
 
 /* Egg Meatloaf Instructions Step 5 Part 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.5.Part.2.Accessibility" = "Steam for 30 to 40 minutes.)";
+"EggMeatloaf.Instructions.Step.5.Part.2.Accessibility" = "Steam for 30 to 40 minutes on medium to high heat.";
 
 /* Egg Meatloaf Instructions Step 5 Note 1 */
 "EggMeatloaf.Instructions.Step.5.Note.1" = "I usually use a 3″×4″×7½″ non-stick loaf pan.";
@@ -1195,6 +1198,12 @@
 
 /* Egg Meatloaf Instructions Step 5 Note 2 */
 "EggMeatloaf.Instructions.Step.5.Note.2" = "To avoid condensation dripping down from the center of the lid, tie the lid in a large kitchen towel so that it absorbs any condensing droplets.";
+
+/* Egg Meatloaf Instructions Step 5 Note 3 */
+"EggMeatloaf.Instructions.Step.5.Note.3" = "Keep en eye on the water to make sure it doesn't run out while the ##Chả Trứng## (egg meatloaf) is still steaming.";
+
+/* Egg Meatloaf Instructions Step 5 Note 3 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.5.Note.3.Accessibility" = "Keep en eye on the water to make sure it doesn't run out while the egg meatloaf is still steaming.";
 
 /* Egg Meatloaf Instructions Step 6 */
 "EggMeatloaf.Instructions.Step.6" = "Step 6";
