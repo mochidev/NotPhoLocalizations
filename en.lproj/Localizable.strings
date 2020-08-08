@@ -998,6 +998,212 @@
 /* Egg Rolls Component Used In Header */
 "EggRollsComponent.UsedIn.Header" = "Used In";
 
+
+/**************
+ Cha Trung Page
+ **************/
+
+/* Egg Meatloaf Title - Should Be in Vietnamese */
+"EggMeatloaf.Page.Title" = "Chả Trứng";
+
+/* Egg Meatloaf Subtitle - This is the translation */
+"EggMeatloaf.Page.Subtitle" = "Egg Meatloaf";
+
+/* Egg Meatloaf Title (VoiceOver) */
+"EggMeatloaf.Page.AccessibilityTitle" = "Egg Meatloaf";
+
+/* Egg Meatloaf Main Image (VoiceOver) */
+"EggMeatloaf.Main.Image" = "Info";
+
+/* Egg Meatloaf Introduction 1 */
+"EggMeatloaf.Introduction.1" = "##Chả Trứng## (egg meatloaf) is a steamed egg and pork dish incorporating ##Bún Miến## (bean thread noodles) and ##Nấm Mèo## (dried wood ear mushrooms), and is an indispensable part of ##Cơm Tấm## (broken rice) dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with ##Nước Mắm Chấm## (mixed fish sauce).";
+
+/* Egg Meatloaf Introduction 1 (VoiceOver) */
+"EggMeatloaf.Introduction.1.Accessibility" = "Egg meatloaf is a steamed egg and pork dish incorporating bean thread noodles and dried wood ear mushrooms, and is an indispensable part of broken rice dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with mixed fish sauce.";
+
+/* Egg Meatloaf Introduction 2 */
+"EggMeatloaf.Introduction.2" = "This recipe yields one 3″×4″×7½″ loaf.";
+
+/* Egg Meatloaf Introduction 2 (VoiceOver) */
+"EggMeatloaf.Introduction.2.Accessibility" = "This recipe yields one 3 by 4 by 7 and a half inch loaf.";
+
+/* Egg Meatloaf Ingredients Header */
+"EggMeatloaf.Ingredients.Header" = "Ingredients";
+
+/* Egg Meatloaf Ingredients Ground Pork Amount */
+"EggMeatloaf.Ingredients.GroundPork.Amount" = "½ lb";
+
+/* Egg Meatloaf Ingredients Ground Pork Amount (VoiceOver) */
+"EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount" = "half a pound";
+
+/* Egg Meatloaf Ingredients Onion Amount */
+"EggMeatloaf.Ingredients.Onion.Amount" = "3 tbsp, diced";
+
+/* Egg Meatloaf Ingredients Bean Threads Amount */
+"EggMeatloaf.Ingredients.BeanThreads.Amount" = "17 g, cut into ½ in long";
+
+/* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
+"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "17 grams, cut into half an inch long threads";
+
+/* Egg Meatloaf Ingredients Dried Mushroom Amount */
+"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "15 g, diced";
+
+/* Egg Meatloaf Ingredients Fish Sauce Amount */
+"EggMeatloaf.Ingredients.FishSauce.Amount" = "1 tbsp";
+
+/* Egg Meatloaf Ingredients Salt Amount */
+"EggMeatloaf.Ingredients.Salt.Amount" = "½ tsp";
+
+/* Egg Meatloaf Ingredients Salt Amount (VoiceOver) */
+"EggMeatloaf.Ingredients.Salt.AccessibilityAmount" = "half a teaspoon";
+
+/* Egg Meatloaf Ingredients Black Pepper Amount */
+"EggMeatloaf.Ingredients.BlackPepper.Amount" = "½ tsp";
+
+/* Egg Meatloaf Ingredients Black Pepper Amount (VoiceOver) */
+"EggMeatloaf.Ingredients.BlackPepper.AccessibilityAmount" = "half a teaspoon";
+
+/* Egg Meatloaf Ingredients Egg Amount */
+"EggMeatloaf.Ingredients.Egg.Amount" = "4 medium";
+
+/* Egg Meatloaf Ingredients Annatto Oil Amount */
+"EggMeatloaf.Ingredients.AnnattoOil.Amount" = "1-2 tsp (optional)";
+
+/* Egg Meatloaf Ingredients Annatto Oil Amount (VoiceOver) */
+"EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "1 to 2 teaspoons (optional)";
+
+/* Egg Meatloaf Instructions Header */
+"EggMeatloaf.Instructions.Header" = "Instructions";
+
+/* Egg Meatloaf Instructions Step 1 */
+"EggMeatloaf.Instructions.Step.1" = "Step 1";
+
+/* Egg Meatloaf Instructions Step 1 Part 1 */
+"EggMeatloaf.Instructions.Step.1.Part.1" = "Place the ##Thịt Băm## (ground pork) into a bowl.";
+
+/* Egg Meatloaf Instructions Step 1 Part 1 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.1.Part.1.Accessibility" = "Place the ground pork into a bowl.";
+
+/* Egg Meatloaf Instructions Step 1 Part 2 */
+"EggMeatloaf.Instructions.Step.1.Part.2" = "Dice the ##Củ Hành## (onion), ##Bún Miến## (bean thread noodles), and ##Nấm Mèo## (dried wood ear mushroom).";
+
+/* Egg Meatloaf Instructions Step 1 Part 2 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.1.Part.2.Accessibility" = "Dice the onion, bean thread noodles, and dried wood ear mushroom.";
+
+/* Egg Meatloaf Instructions Step 1 Part 3 */
+"EggMeatloaf.Instructions.Step.1.Part.3" = "Add the diced ingredients to the bowl.";
+
+/* Egg Meatloaf Instructions Step 1 Note 1 */
+"EggMeatloaf.Instructions.Step.1.Note.1" = "Be sure to soak the ##Bún Miến## (bean thread noodles) and ##Nấm Mèo## (dried wood ear mushroom) before dicing them so they are easier to cut.";
+
+/* Egg Meatloaf Instructions Step 1 Note 1 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Be sure to soak the bean thread noodles and dried wood ear mushroom before dicing them so they are easier to cut.";
+
+/* Egg Meatloaf Instructions Step 2 */
+"EggMeatloaf.Instructions.Step.2" = "Step 2";
+
+/* Egg Meatloaf Instructions Step 2 Part 1 */
+"EggMeatloaf.Instructions.Step.2.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Muối## (salt), and ##Tiêu Đen## (black pepper) to the bowl.";
+
+/* Egg Meatloaf Instructions Step 2 Part 1 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.2.Part.1.Accessibility" = "Add the fish sauce, salt, and black pepper to the bowl.";
+
+/* Egg Meatloaf Instructions Step 3 */
+"EggMeatloaf.Instructions.Step.3" = "Step 3";
+
+/* Egg Meatloaf Instructions Step 3 Part 1 */
+"EggMeatloaf.Instructions.Step.3.Part.1" = "Set aside 3 ##Lòng Đỏ Trứng## (egg yolks) from the 4 ##Trứng## (eggs) to use later.";
+
+/* Egg Meatloaf Instructions Step 3 Part 1 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.3.Part.1.Accessibility" = "Set aside 3 egg yolks from the 4 eggs to use later.";
+
+/* Egg Meatloaf Instructions Step 4 */
+"EggMeatloaf.Instructions.Step.4" = "Step 4";
+
+/* Egg Meatloaf Instructions Step 4 Part 1 */
+"EggMeatloaf.Instructions.Step.4.Part.1" = "Mix the final ##Trứng## (egg) and the remaining egg whites in with the filling.";
+
+/* Egg Meatloaf Instructions Step 4 Part 1 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.4.Part.1.Accessibility" = "Mix the final egg and the remaining egg whites in with the filling.";
+
+/* Egg Meatloaf Instructions Step 5 */
+"EggMeatloaf.Instructions.Step.5" = "Step 5";
+
+/* Egg Meatloaf Instructions Step 5 Part 1 */
+"EggMeatloaf.Instructions.Step.5.Part.1" = "Transfer the filling to a prepared steamer.";
+
+/* Egg Meatloaf Instructions Step 5 Part 2 */
+"EggMeatloaf.Instructions.Step.5.Part.2" = "Steam for 30-40 minutes.";
+
+/* Egg Meatloaf Instructions Step 5 Part 2 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.5.Part.2.Accessibility" = "Steam for 30 to 40 minutes.)";
+
+/* Egg Meatloaf Instructions Step 5 Note 1 */
+"EggMeatloaf.Instructions.Step.5.Note.1" = "I usually use a 3″×4″×7½″ non-stick loaf pan.";
+
+/* Egg Meatloaf Instructions Step 5 Note 1 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.5.Note.1.Accessibility" = "I usually use a 3 by 4 by 7 and a half inch non-stick loaf pan.";
+
+/* Egg Meatloaf Instructions Step 5 Note 2 */
+"EggMeatloaf.Instructions.Step.5.Note.2" = "To avoid condensation dripping down from the center of the lid, tie the lid in a large kitchen towel so that it absorbs any condensing droplets.";
+
+/* Egg Meatloaf Instructions Step 6 */
+"EggMeatloaf.Instructions.Step.6" = "Step 6";
+
+/* Egg Meatloaf Instructions Step 6 Part 1 */
+"EggMeatloaf.Instructions.Step.6.Part.1" = "After 30-40 minutes, beat up the 3 ##Lòng Đỏ Trứng## (egg yolks) that were set aside earlier.";
+
+/* Egg Meatloaf Instructions Step 6 Part 1 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.6.Part.1.Accessibility" = "After 30 to 40 minutes, beat up the 3 egg yolks that were set aside earlier.";
+
+/* Egg Meatloaf Instructions Step 6 Part 2 */
+"EggMeatloaf.Instructions.Step.6.Part.2" = "Add the ##Dầu Annatto## (annatto oil) and mix well.";
+
+/* Egg Meatloaf Instructions Step 6 Part 2 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.6.Part.2.Accessibility" = "Add the annatto oil and mix well.";
+
+/* Egg Meatloaf Instructions Step 6 Note 1 */
+"EggMeatloaf.Instructions.Step.6.Note.1" = "##Dầu Annatto## (annatto oil) gives the ##Lòng Đỏ Trứng## (egg yolks) a rich orange-red color.";
+
+/* Egg Meatloaf Instructions Step 6 Note 1 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.6.Note.1.Accessibility" = "Annatto oil gives the egg yolks a rich orange-red color.";
+
+/* Egg Meatloaf Instructions Step 6 Note 2 */
+"EggMeatloaf.Instructions.Step.6.Note.2" = "##Dầu Annatto## (annatto oil) is optional — it doesn’t really change the flavor.";
+
+/* Egg Meatloaf Instructions Step 6 Note 2 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.6.Note.2.Accessibility" = "Annatto oil is optional — it doesn’t really change the flavor.";
+
+/* Egg Meatloaf Instructions Step 7 */
+"EggMeatloaf.Instructions.Step.7" = "Step 7";
+
+/* Egg Meatloaf Instructions Step 7 Part 1 */
+"EggMeatloaf.Instructions.Step.7.Part.1" = "Pour the ##Lòng Đỏ Trứng## (egg yolk) and ##Dầu Annatto## (annatto oil) mixture on top of the cooked meatloaf.";
+
+/* Egg Meatloaf Instructions Step 7 Part 1 (VoiceOver) */
+"EggMeatloaf.Instructions.Step.7.Part.1.Accessibility" = "Pour the egg yolk and annatto oil mixture on top of the cooked meatloaf.";
+
+/* Egg Meatloaf Instructions Step 7 Part 2 */
+"EggMeatloaf.Instructions.Step.7.Part.2" = "Steam for another 5 minutes, leaving the lid slightly cracked.";
+
+/* Egg Meatloaf How To Header */
+"EggMeatloaf.HowTo.Header" = "How To";
+
+/* Egg Meatloaf How To 1 */
+"EggMeatloaf.HowTo.1" = "##Chả Trứng## (egg meatloaf) is delicious enough to be enjoy by itself or over white rice.";
+
+/* Egg Meatloaf How To 1 (VoiceOver) */
+"EggMeatloaf.HowTo.1.Accessibility" = "Egg meatloaf is delicious enough to be enjoy by itself or over white rice.";
+
+/* Egg Meatloaf How To 2 */
+"EggMeatloaf.HowTo.2" = "##Nước Mắm Chấm## (mixed fish sauce) can be used as a dipping sauce, or poured over the ##Chả Trứng## (egg meatloaf) to give it even more flavor.";
+
+/* Egg Meatloaf How To 2 (VoiceOver) */
+"EggMeatloaf.HowTo.2.Accessibility" = "Mixed fish sauce can be used as a dipping sauce, or poured over the egg meatloaf to give it even more flavor.";
+
+/* Egg Meatloaf Used In Header */
+"EggMeatloaf.UsedIn.Header" = "Used In";
+
 /**************************
     Pickles Page
  **************************/
@@ -1684,211 +1890,6 @@
 
 /* Annatto Oil Used In Header */
 "AnnattoOil.UsedIn.Header" = "Used In";
-
-/**************************
-    Egg Meatloaf Page
- **************************/
-
-/* Egg Meatloaf Title - Should Be in Vietnamese */
-"EggMeatloaf.Page.Title" = "Chả Trứng";
-
-/* Egg Meatloaf Subtitle - This is the translation */
-"EggMeatloaf.Page.Subtitle" = "Egg Meatloaf";
-
-/* Egg Meatloaf Title (VoiceOver) */
-"EggMeatloaf.Page.AccessibilityTitle" = "Egg Meatloaf";
-
-/* Egg Meatloaf Main Image (VoiceOver) */
-"EggMeatloaf.Main.Image" = "Info";
-
-/* Egg Meatloaf Introduction 1 */
-"EggMeatloaf.Introduction.1" = "##Chả Trứng## (egg meatloaf) is a steamed egg and pork dish incorporating ##Bún Miến## (bean thread noodles) and ##Nấm Mèo## (dried wood ear mushrooms), and is an indispensable part of ##Cơm Tấm## (broken rice) dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with ##Nước Mắm Chấm## (mixed fish sauce).";
-
-/* Egg Meatloaf Introduction 1 (VoiceOver) */
-"EggMeatloaf.Introduction.1.Accessibility" = "Egg meatloaf is a steamed egg and pork dish incorporating bean thread noodles and dried wood ear mushrooms, and is an indispensable part of broken rice dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with mixed fish sauce.";
-
-/* Egg Meatloaf Introduction 2 */
-"EggMeatloaf.Introduction.2" = "This recipe yields one 3″×4″×7½″ loaf.";
-
-/* Egg Meatloaf Introduction 2 (VoiceOver) */
-"EggMeatloaf.Introduction.2.Accessibility" = "This recipe yields one 3 by 4 by 7 and a half inch loaf.";
-
-/* Egg Meatloaf Ingredients Header */
-"EggMeatloaf.Ingredients.Header" = "Ingredients";
-
-/* Egg Meatloaf Ingredients Ground Pork Amount */
-"EggMeatloaf.Ingredients.GroundPork.Amount" = "½ lb";
-
-/* Egg Meatloaf Ingredients Ground Pork Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount" = "half a pound";
-
-/* Egg Meatloaf Ingredients Onion Amount */
-"EggMeatloaf.Ingredients.Onion.Amount" = "3 tbsp, diced";
-
-/* Egg Meatloaf Ingredients Bean Threads Amount */
-"EggMeatloaf.Ingredients.BeanThreads.Amount" = "17 g, cut into ½ in long";
-
-/* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "17 grams, cut into half an inch long threads";
-
-/* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "15 g, diced";
-
-/* Egg Meatloaf Ingredients Fish Sauce Amount */
-"EggMeatloaf.Ingredients.FishSauce.Amount" = "1 tbsp";
-
-/* Egg Meatloaf Ingredients Salt Amount */
-"EggMeatloaf.Ingredients.Salt.Amount" = "½ tsp";
-
-/* Egg Meatloaf Ingredients Salt Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.Salt.AccessibilityAmount" = "half a teaspoon";
-
-/* Egg Meatloaf Ingredients Black Pepper Amount */
-"EggMeatloaf.Ingredients.BlackPepper.Amount" = "½ tsp";
-
-/* Egg Meatloaf Ingredients Black Pepper Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.BlackPepper.AccessibilityAmount" = "half a teaspoon";
-
-/* Egg Meatloaf Ingredients Egg Amount */
-"EggMeatloaf.Ingredients.Egg.Amount" = "4 medium";
-
-/* Egg Meatloaf Ingredients Annatto Oil Amount */
-"EggMeatloaf.Ingredients.AnnattoOil.Amount" = "1-2 tsp (optional)";
-
-/* Egg Meatloaf Ingredients Annatto Oil Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "1 to 2 teaspoons (optional)";
-
-/* Egg Meatloaf Instructions Header */
-"EggMeatloaf.Instructions.Header" = "Instructions";
-
-/* Egg Meatloaf Instructions Step 1 */
-"EggMeatloaf.Instructions.Step.1" = "Step 1";
-
-/* Egg Meatloaf Instructions Step 1 Part 1 */
-"EggMeatloaf.Instructions.Step.1.Part.1" = "Place the ##Thịt Băm## (ground pork) into a bowl.";
-
-/* Egg Meatloaf Instructions Step 1 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Part.1.Accessibility" = "Place the ground pork into a bowl.";
-
-/* Egg Meatloaf Instructions Step 1 Part 2 */
-"EggMeatloaf.Instructions.Step.1.Part.2" = "Dice the ##Củ Hành## (onion), ##Bún Miến## (bean thread noodles), and ##Nấm Mèo## (dried wood ear mushroom).";
-
-/* Egg Meatloaf Instructions Step 1 Part 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Part.2.Accessibility" = "Dice the onion, bean thread noodles, and dried wood ear mushroom.";
-
-/* Egg Meatloaf Instructions Step 1 Part 3 */
-"EggMeatloaf.Instructions.Step.1.Part.3" = "Add the diced ingredients to the bowl.";
-
-/* Egg Meatloaf Instructions Step 1 Note 1 */
-"EggMeatloaf.Instructions.Step.1.Note.1" = "Be sure to soak the ##Bún Miến## (bean thread noodles) and ##Nấm Mèo## (dried wood ear mushroom) before dicing them so they are easier to cut.";
-
-/* Egg Meatloaf Instructions Step 1 Note 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Be sure to soak the bean thread noodles and dried wood ear mushroom before dicing them so they are easier to cut.";
-
-/* Egg Meatloaf Instructions Step 2 */
-"EggMeatloaf.Instructions.Step.2" = "Step 2";
-
-/* Egg Meatloaf Instructions Step 2 Part 1 */
-"EggMeatloaf.Instructions.Step.2.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Muối## (salt), and ##Tiêu Đen## (black pepper) to the bowl.";
-
-/* Egg Meatloaf Instructions Step 2 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.2.Part.1.Accessibility" = "Add the fish sauce, salt, and black pepper to the bowl.";
-
-/* Egg Meatloaf Instructions Step 3 */
-"EggMeatloaf.Instructions.Step.3" = "Step 3";
-
-/* Egg Meatloaf Instructions Step 3 Part 1 */
-"EggMeatloaf.Instructions.Step.3.Part.1" = "Set aside 3 ##Lòng Đỏ Trứng## (egg yolks) from the 4 ##Trứng## (eggs) to use later.";
-
-/* Egg Meatloaf Instructions Step 3 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.3.Part.1.Accessibility" = "Set aside 3 egg yolks from the 4 eggs to use later.";
-
-/* Egg Meatloaf Instructions Step 4 */
-"EggMeatloaf.Instructions.Step.4" = "Step 4";
-
-/* Egg Meatloaf Instructions Step 4 Part 1 */
-"EggMeatloaf.Instructions.Step.4.Part.1" = "Mix the final ##Trứng## (egg) and the remaining egg whites in with the filling.";
-
-/* Egg Meatloaf Instructions Step 4 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.4.Part.1.Accessibility" = "Mix the final egg and the remaining egg whites in with the filling.";
-
-/* Egg Meatloaf Instructions Step 5 */
-"EggMeatloaf.Instructions.Step.5" = "Step 5";
-
-/* Egg Meatloaf Instructions Step 5 Part 1 */
-"EggMeatloaf.Instructions.Step.5.Part.1" = "Transfer the filling to a prepared steamer.";
-
-/* Egg Meatloaf Instructions Step 5 Part 2 */
-"EggMeatloaf.Instructions.Step.5.Part.2" = "Steam for 30-40 minutes.";
-
-/* Egg Meatloaf Instructions Step 5 Part 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.5.Part.2.Accessibility" = "Steam for 30 to 40 minutes.)";
-
-/* Egg Meatloaf Instructions Step 5 Note 1 */
-"EggMeatloaf.Instructions.Step.5.Note.1" = "I usually use a 3″×4″×7½″ non-stick loaf pan.";
-
-/* Egg Meatloaf Instructions Step 5 Note 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.5.Note.1.Accessibility" = "I usually use a 3 by 4 by 7 and a half inch non-stick loaf pan.";
-
-/* Egg Meatloaf Instructions Step 5 Note 2 */
-"EggMeatloaf.Instructions.Step.5.Note.2" = "To avoid condensation dripping down from the center of the lid, tie the lid in a large kitchen towel so that it absorbs any condensing droplets.";
-
-/* Egg Meatloaf Instructions Step 6 */
-"EggMeatloaf.Instructions.Step.6" = "Step 6";
-
-/* Egg Meatloaf Instructions Step 6 Part 1 */
-"EggMeatloaf.Instructions.Step.6.Part.1" = "After 30-40 minutes, beat up the 3 ##Lòng Đỏ Trứng## (egg yolks) that were set aside earlier.";
-
-/* Egg Meatloaf Instructions Step 6 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.6.Part.1.Accessibility" = "After 30 to 40 minutes, beat up the 3 egg yolks that were set aside earlier.";
-
-/* Egg Meatloaf Instructions Step 6 Part 2 */
-"EggMeatloaf.Instructions.Step.6.Part.2" = "Add the ##Dầu Annatto## (annatto oil) and mix well.";
-
-/* Egg Meatloaf Instructions Step 6 Part 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.6.Part.2.Accessibility" = "Add the annatto oil and mix well.";
-
-/* Egg Meatloaf Instructions Step 6 Note 1 */
-"EggMeatloaf.Instructions.Step.6.Note.1" = "##Dầu Annatto## (annatto oil) gives the ##Lòng Đỏ Trứng## (egg yolks) a rich orange-red color.";
-
-/* Egg Meatloaf Instructions Step 6 Note 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.6.Note.1.Accessibility" = "Annatto oil gives the egg yolks a rich orange-red color.";
-
-/* Egg Meatloaf Instructions Step 6 Note 2 */
-"EggMeatloaf.Instructions.Step.6.Note.2" = "##Dầu Annatto## (annatto oil) is optional — it doesn’t really change the flavor.";
-
-/* Egg Meatloaf Instructions Step 6 Note 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.6.Note.2.Accessibility" = "Annatto oil is optional — it doesn’t really change the flavor.";
-
-/* Egg Meatloaf Instructions Step 7 */
-"EggMeatloaf.Instructions.Step.7" = "Step 7";
-
-/* Egg Meatloaf Instructions Step 7 Part 1 */
-"EggMeatloaf.Instructions.Step.7.Part.1" = "Pour the ##Lòng Đỏ Trứng## (egg yolk) and ##Dầu Annatto## (annatto oil) mixture on top of the cooked meatloaf.";
-
-/* Egg Meatloaf Instructions Step 7 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.7.Part.1.Accessibility" = "Pour the egg yolk and annatto oil mixture on top of the cooked meatloaf.";
-
-/* Egg Meatloaf Instructions Step 7 Part 2 */
-"EggMeatloaf.Instructions.Step.7.Part.2" = "Steam for another 5 minutes, leaving the lid slightly cracked.";
-
-/* Egg Meatloaf How To Header */
-"EggMeatloaf.HowTo.Header" = "How To";
-
-/* Egg Meatloaf How To 1 */
-"EggMeatloaf.HowTo.1" = "##Chả Trứng## (egg meatloaf) is delicious enough to be enjoy by itself or over white rice.";
-
-/* Egg Meatloaf How To 1 (VoiceOver) */
-"EggMeatloaf.HowTo.1.Accessibility" = "Egg meatloaf is delicious enough to be enjoy by itself or over white rice.";
-
-/* Egg Meatloaf How To 2 */
-"EggMeatloaf.HowTo.2" = "##Nước Mắm Chấm## (mixed fish sauce) can be used as a dipping sauce, or poured over the ##Chả Trứng## (egg meatloaf) to give it even more flavor.";
-
-/* Egg Meatloaf How To 2 (VoiceOver) */
-"EggMeatloaf.HowTo.2.Accessibility" = "Mixed fish sauce can be used as a dipping sauce, or poured over the egg meatloaf to give it even more flavor.";
-
-/* Egg Meatloaf Used In Header */
-"EggMeatloaf.UsedIn.Header" = "Used In";
 
 /*************************************
     Scallion and Oil Garnish Page
