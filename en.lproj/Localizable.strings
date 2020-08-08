@@ -1204,6 +1204,120 @@
 /* Egg Meatloaf Used In Header */
 "EggMeatloaf.UsedIn.Header" = "Used In";
 
+
+/****************
+ Dau Annatto Page
+ ****************/
+
+/* Annatto Oil Title - Should Be in Vietnamese */
+"AnnattoOil.Page.Title" = "Dầu Annatto";
+
+/* Annatto Oil Subtitle - This is the translation */
+"AnnattoOil.Page.Subtitle" = "Annatto Oil";
+
+/* Annatto Oil Title (VoiceOver) */
+"AnnattoOil.Page.AccessibilityTitle" = "Annatto Oil";
+
+/* Annatto Oil Main Image (VoiceOver) */
+"AnnattoOil.Main.Image" = "Info";
+
+/* Annatto Oil Introduction 1 */
+"AnnattoOil.Introduction.1" = "##Dầu Annatto## (annatto oil) is made by extracting oils and pigments from ##Hạt Annatto## (annatto seeds) by using heated oil. The ##Hạt Annatto## (annatto seeds) are very mild in flavor so adding the ##Dầu Annatto## (annatto oil) to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
+
+/* Annatto Oil Introduction 1 (VoiceOver) */
+"AnnattoOil.Introduction.1.Accessibility" = "Annatto oil is made by extracting oils and pigments from annatto seeds by using heated oil. The annatto seeds are very mild in flavor so adding the annatto oil to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
+
+/* Annatto Oil Introduction 2 */
+"AnnattoOil.Introduction.2" = "This recipe yields ¼ cup.";
+
+/* Annatto Oil Introduction 2 (VoiceOver) */
+"AnnattoOil.Introduction.2.Accessibility" = "This recipe yields half a quarter cup.";
+
+/* Annatto Oil Ingredients Header */
+"AnnattoOil.Ingredients.Header" = "Ingredients";
+
+/* Annatto Oil Ingredients 1 */
+"AnnattoOil.Ingredients.1" = "1 ½ tbsp";
+
+/* Annatto Oil Ingredients 1 (VoiceOver) */
+"AnnattoOil.Ingredients.1.Accessibility" = "1 and a half tablespoons";
+
+/* Annatto Oil Ingredients 2 */
+"AnnattoOil.Ingredients.2" = "¼ cup";
+
+/* Annatto Oil Ingredients 2 (VoiceOver) */
+"AnnattoOil.Ingredients.2.Accessibility" = "half a quarter cup";
+
+/* Annatto Oil Instructions Header */
+"AnnattoOil.Instructions.Header" = "Instructions";
+
+/* Annatto Oil Instructions Step 1 */
+"AnnattoOil.Instructions.Step.1" = "Step 1";
+
+/* Annatto Oil Ingredients Step 1 Part 1 */
+"AnnattoOil.Instructions.Step.1.Part.1" = "Add the ##Hạt Annatto## (annatto seeds) into a sauce pan filled with cold ##Dầu## (oil).";
+
+/* Annatto Oil Ingredients Step 1 Part 1 (VoiceOver) */
+"AnnattoOil.Instructions.Step.1.Part.1.Accessibility" = "Add the annatto seeds into a sauce pan filled with cold cooking oil.";
+
+/* Annatto Oil Ingredients Step 1 Part 2 */
+"AnnattoOil.Instructions.Step.1.Part.2" = "Cook the ##Hạt Annatto## (annatto seeds) on medium heat.";
+
+/* Annatto Oil Ingredients Step 1 Part 2 (VoiceOver) */
+"AnnattoOil.Instructions.Step.1.Part.2.Accessibility" = "Cook the annatto seeds on medium heat.";
+
+/* Annatto Oil Ingredients Step 1 Part 3 */
+"AnnattoOil.Instructions.Step.1.Part.3" = "Turn off the heat when bubbles start to form around the ##Hạt Annatto## (annatto seeds).";
+
+/* Annatto Oil Ingredients Step 1 Part 3 (VoiceOver) */
+"AnnattoOil.Instructions.Step.1.Part.3.Accessibility" = "Turn off the heat when bubbles start to form around the annatto seeds.";
+
+/* Annatto Oil Ingredients Step 1 Part 4 */
+"AnnattoOil.Instructions.Step.1.Part.4" = "Let the ##Hạt Annatto## (annatto seeds) soak in the oil for 2 more minutes.";
+
+/* Annatto Oil Ingredients Step 1 Part 4 (VoiceOver) */
+"AnnattoOil.Instructions.Step.1.Part.4.Accessibility" = "Let the annatto seeds soak in the oil for 2 more minutes.";
+
+/* Annatto Oil Ingredients Step 1 Note 1 */
+"AnnattoOil.Instructions.Step.1.Note.1" = "##Hạt Annatto## (annatto seeds) can be found in most Asian supermarkets.";
+
+/* Annatto Oil Ingredients Step 1 Note 1 (VoiceOver) */
+"AnnattoOil.Instructions.Step.1.Note.1.Accessibility" = "Annatto seeds can be found in most Asian supermarkets.";
+
+/* Annatto Oil Instructions Step 2 */
+"AnnattoOil.Instructions.Step.2" = "Step 2";
+
+/* Annatto Oil Ingredients Step 2 Part 1 */
+"AnnattoOil.Instructions.Step.2.Part.1" = "Strain the ##Dầu Annatto## (annatto oil) to remove the seeds and transfer the oil to a heat-safe container.";
+
+/* Annatto Oil Ingredients Step 2 Part 1 (VoiceOver) */
+"AnnattoOil.Instructions.Step.2.Part.1.Accessibility" = "Strain the annatto oil to remove the seeds and transfer the oil to a heat-safe container.";
+
+/* Annatto Oil Ingredients Step 2 Note 1 */
+"AnnattoOil.Instructions.Step.2.Note.1" = "The ##Dầu Annatto## (annatto oil) should last a few months, but because oil does degrade over time, do keep it in a cool, dark place.";
+
+/* Annatto Oil Ingredients Step 2 Note 1 (VoiceOver) */
+"AnnattoOil.Instructions.Step.2.Note.1.Accessibility" = "The annatto oil should last a few months, but because oil does degrade over time, do keep it in a cool, dark place.";
+
+/* Annatto Oil Ingredients Step 2 Note 2 */
+"AnnattoOil.Instructions.Step.2.Note.2" = "Label and date your ##Dầu Annatto## (annatto oil) so it doesn't overstay its welcome in your pantry.";
+
+/* Annatto Oil Ingredients Step 2 Note 2 (VoiceOver) */
+"AnnattoOil.Instructions.Step.2.Note.2.Accessibility" = "Label and date your annatto oil so it doesn't overstay its welcome in your pantry.";
+
+/* Annatto Oil How To Header */
+"AnnattoOil.HowTo.Header" = "How To";
+
+/* Annatto Oil How To 1 */
+"AnnattoOil.HowTo.1" = "A few drops of ##Dầu Annatto## (annatto oil) can bring a dull dish to life with an orange-red hue.";
+
+/* Annatto Oil How To 1 (VoiceOver) */
+"AnnattoOil.HowTo.1.Accessibility" = "A few drops of annatto oil can bring a dull dish to life with an orange-red hue.";
+
+/* Annatto Oil Used In Header */
+"AnnattoOil.UsedIn.Header" = "Used In";
+
+
 /**************************
     Pickles Page
  **************************/
@@ -1778,118 +1892,6 @@
 
 /* Leafy Greens Used In Header */
 "LeafyGreens.UsedIn.Header" = "Used In";
-
-/**************************
-    Annatto Oil Page
- **************************/
-
-/* Annatto Oil Title - Should Be in Vietnamese */
-"AnnattoOil.Page.Title" = "Dầu Annatto";
-
-/* Annatto Oil Subtitle - This is the translation */
-"AnnattoOil.Page.Subtitle" = "Annatto Oil";
-
-/* Annatto Oil Title (VoiceOver) */
-"AnnattoOil.Page.AccessibilityTitle" = "Annatto Oil";
-
-/* Annatto Oil Main Image (VoiceOver) */
-"AnnattoOil.Main.Image" = "Info";
-
-/* Annatto Oil Introduction 1 */
-"AnnattoOil.Introduction.1" = "##Dầu Annatto## (annatto oil) is made by extracting oils and pigments from ##Hạt Annatto## (annatto seeds) by using heated oil. The ##Hạt Annatto## (annatto seeds) are very mild in flavor so adding the ##Dầu Annatto## (annatto oil) to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
-
-/* Annatto Oil Introduction 1 (VoiceOver) */
-"AnnattoOil.Introduction.1.Accessibility" = "Annatto oil is made by extracting oils and pigments from annatto seeds by using heated oil. The annatto seeds are very mild in flavor so adding the annatto oil to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
-
-/* Annatto Oil Introduction 2 */
-"AnnattoOil.Introduction.2" = "This recipe yields ¼ cup.";
-
-/* Annatto Oil Introduction 2 (VoiceOver) */
-"AnnattoOil.Introduction.2.Accessibility" = "This recipe yields half a quarter cup.";
-
-/* Annatto Oil Ingredients Header */
-"AnnattoOil.Ingredients.Header" = "Ingredients";
-
-/* Annatto Oil Ingredients 1 */
-"AnnattoOil.Ingredients.1" = "1 ½ tbsp";
-
-/* Annatto Oil Ingredients 1 (VoiceOver) */
-"AnnattoOil.Ingredients.1.Accessibility" = "1 and a half tablespoons";
-
-/* Annatto Oil Ingredients 2 */
-"AnnattoOil.Ingredients.2" = "¼ cup";
-
-/* Annatto Oil Ingredients 2 (VoiceOver) */
-"AnnattoOil.Ingredients.2.Accessibility" = "half a quarter cup";
-
-/* Annatto Oil Instructions Header */
-"AnnattoOil.Instructions.Header" = "Instructions";
-
-/* Annatto Oil Instructions Step 1 */
-"AnnattoOil.Instructions.Step.1" = "Step 1";
-
-/* Annatto Oil Ingredients Step 1 Part 1 */
-"AnnattoOil.Instructions.Step.1.Part.1" = "Add the ##Hạt Annatto## (annatto seeds) into a sauce pan filled with cold ##Dầu## (oil).";
-
-/* Annatto Oil Ingredients Step 1 Part 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.1.Accessibility" = "Add the annatto seeds into a sauce pan filled with cold cooking oil.";
-
-/* Annatto Oil Ingredients Step 1 Part 2 */
-"AnnattoOil.Instructions.Step.1.Part.2" = "Cook the ##Hạt Annatto## (annatto seeds) on medium heat.";
-
-/* Annatto Oil Ingredients Step 1 Part 2 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.2.Accessibility" = "Cook the annatto seeds on medium heat.";
-
-/* Annatto Oil Ingredients Step 1 Part 3 */
-"AnnattoOil.Instructions.Step.1.Part.3" = "Turn off the heat when bubbles start to form around the ##Hạt Annatto## (annatto seeds).";
-
-/* Annatto Oil Ingredients Step 1 Part 3 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.3.Accessibility" = "Turn off the heat when bubbles start to form around the annatto seeds.";
-
-/* Annatto Oil Ingredients Step 1 Part 4 */
-"AnnattoOil.Instructions.Step.1.Part.4" = "Let the ##Hạt Annatto## (annatto seeds) soak in the oil for 2 more minutes.";
-
-/* Annatto Oil Ingredients Step 1 Part 4 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.4.Accessibility" = "Let the annatto seeds soak in the oil for 2 more minutes.";
-
-/* Annatto Oil Ingredients Step 1 Note 1 */
-"AnnattoOil.Instructions.Step.1.Note.1" = "##Hạt Annatto## (annatto seeds) can be found in most Asian supermarkets.";
-
-/* Annatto Oil Ingredients Step 1 Note 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Note.1.Accessibility" = "Annatto seeds can be found in most Asian supermarkets.";
-
-/* Annatto Oil Instructions Step 2 */
-"AnnattoOil.Instructions.Step.2" = "Step 2";
-
-/* Annatto Oil Ingredients Step 2 Part 1 */
-"AnnattoOil.Instructions.Step.2.Part.1" = "Strain the ##Dầu Annatto## (annatto oil) to remove the seeds and transfer the oil to a heat-safe container.";
-
-/* Annatto Oil Ingredients Step 2 Part 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Part.1.Accessibility" = "Strain the annatto oil to remove the seeds and transfer the oil to a heat-safe container.";
-
-/* Annatto Oil Ingredients Step 2 Note 1 */
-"AnnattoOil.Instructions.Step.2.Note.1" = "The ##Dầu Annatto## (annatto oil) should last a few months, but because oil does degrade over time, do keep it in a cool, dark place.";
-
-/* Annatto Oil Ingredients Step 2 Note 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Note.1.Accessibility" = "The annatto oil should last a few months, but because oil does degrade over time, do keep it in a cool, dark place.";
-
-/* Annatto Oil Ingredients Step 2 Note 2 */
-"AnnattoOil.Instructions.Step.2.Note.2" = "Label and date your ##Dầu Annatto## (annatto oil) so it doesn't overstay its welcome in your pantry.";
-
-/* Annatto Oil Ingredients Step 2 Note 2 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Note.2.Accessibility" = "Label and date your annatto oil so it doesn't overstay its welcome in your pantry.";
-
-/* Annatto Oil How To Header */
-"AnnattoOil.HowTo.Header" = "How To";
-
-/* Annatto Oil How To 1 */
-"AnnattoOil.HowTo.1" = "A few drops of ##Dầu Annatto## (annatto oil) can bring a dull dish to life with an orange-red hue.";
-
-/* Annatto Oil How To 1 (VoiceOver) */
-"AnnattoOil.HowTo.1.Accessibility" = "A few drops of annatto oil can bring a dull dish to life with an orange-red hue.";
-
-/* Annatto Oil Used In Header */
-"AnnattoOil.UsedIn.Header" = "Used In";
 
 /*************************************
     Scallion and Oil Garnish Page
