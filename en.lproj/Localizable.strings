@@ -1318,9 +1318,9 @@
 "AnnattoOil.UsedIn.Header" = "Used In";
 
 
-/**************************
-    Pickles Page
- **************************/
+/************
+ Do Chua Page
+ ************/
 
 /* Pickles Title - Should Be in Vietnamese */
 "Pickles.Page.Title" = "Đồ Chua";
