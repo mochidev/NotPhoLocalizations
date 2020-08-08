@@ -1910,8 +1910,8 @@
 /* Grilled Pork Ingredients Shallot Amount */
 "GrilledPork.Ingredients.Shallot.Amount" = "1 whole";
 
-/* Grilled Pork Ingredients Salt Amount */
-"GrilledPork.Ingredients.Salt.Amount" = "2 tbsp";
+/* Grilled Pork Ingredients Sugar Amount */
+"GrilledPork.Ingredients.Sugar.Amount" = "2 tbsp";
 
 /* Grilled Pork Ingredients Black Pepper Amount */
 "GrilledPork.Ingredients.BlackPepper.Amount" = "1 tsp";
