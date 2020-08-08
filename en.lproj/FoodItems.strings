@@ -91,104 +91,112 @@
 /* Lemongrass */
 "lemongrass.AccessibilitySubtitle" = "Lemon-grass";
 
-/* Pork */
-"rawPork.subtitle" = "Pork";
 
-/* White Vinegar */
-"vinegar.subtitle" = "White Vinegar";
-
-/* Black Pepper */
-"pepper.subtitle" = "Black Pepper";
-
-/* Salt */
-"salt.subtitle" = "Salt";
-
-/* Garlic */
-"garlic.subtitle" = "Garlic";
-
-/* Shallot */
-"shallot.subtitle" = "Shallot";
-
-/* Sugar */
-"sugar.subtitle" = "Sugar";
-
-/* Egg Yolk */
-"eggYolk.subtitle" = "Egg Yolk";
-
-/* Oil */
-"oil.subtitle" = "Oil";
-
-/* Cilantro */
-"cilantro.subtitle" = "Cilantro";
-
-/* Jalapeño */
-"jalapeno.subtitle" = "Jalapeño";
-
-/* Water */
-"water.subtitle" = "Water";
-
-/* Chili */
-"chili.subtitle" = "Chili";
-
-/* Lime */
-"lime.subtitle" = "Lime";
+/******************************
+ Entries with no dedicated page
+ ******************************/
 
 /* Bean Sprouts */
 "beanSprouts.subtitle" = "Bean Sprouts";
 
-/* Lettuce */
-"lettuce.subtitle" = "Lettuce";
-
-/* Spearmint */
-"mint.subtitle" = "Spearmint";
-
-/* Thai Basil */
-"thaiBasil.subtitle" = "Thai Basil";
-
-/* Peanuts */
-"peanut.subtitle" = "Peanuts";
-
 /* Bean Thread Noodles */
 "beanThreads.subtitle" = "Bean Thread Noodles";
 
-/* Dried Wood Ear Mushroom */
-"driedMushroom.subtitle" = "Dried Wood Ear Mushroom";
+/* Chili */
+"chili.subtitle" = "Chili";
 
-/* Egg Roll Wrappers */
-"eggRollWrappers.subtitle" = "Egg Roll Wrappers";
-
-/* Ground Pork */
-"groundPork.subtitle" = "Ground Pork";
-
-/* Onion */
-"onion.subtitle" = "Onion";
-
-/* Shrimp */
-"shrimp.subtitle" = "Shrimp";
-
-/* Pork Belly */
-"porkBelly.subtitle" = "Pork Belly";
-
-/* Spring Onion */
-"greenOnion.subtitle" = "Spring Onion";
-
-/* Rice Flour */
-"riceFlour.subtitle" = "Rice Flour";
-
-/* Corn Starch */
-"cornStarch.subtitle" = "Corn Starch";
+/* Cilantro */
+"cilantro.subtitle" = "Cilantro";
 
 /* Coconut Milk */
 "coconutMilk.subtitle" = "Coconut Milk";
 
-/* Turmeric */
-"turmeric.subtitle" = "Turmeric";
+/* Corn Starch */
+"cornStarch.subtitle" = "Corn Starch";
+
+/* Dried Wood Ear Mushroom */
+"driedMushroom.subtitle" = "Dried Wood Ear Mushroom";
 
 /* Egg */
 "egg.subtitle" = "Egg";
 
+/* Egg Roll Wrappers */
+"eggRollWrappers.subtitle" = "Egg Roll Wrappers";
+
+/* Egg Yolk */
+"eggYolk.subtitle" = "Egg Yolk";
+
+/* Garlic */
+"garlic.subtitle" = "Garlic";
+
+/* Spring Onion */
+"greenOnion.subtitle" = "Spring Onion";
+
+/* Ground Pork */
+"groundPork.subtitle" = "Ground Pork";
+
+/* Jalapeño */
+"jalapeno.subtitle" = "Jalapeño";
+
+/* Lettuce */
+"lettuce.subtitle" = "Lettuce";
+
+/* Lime */
+"lime.subtitle" = "Lime";
+
+/* Spearmint */
+"mint.subtitle" = "Spearmint";
+
+/* Oil */
+"oil.subtitle" = "Oil";
+
+/* Onion */
+"onion.subtitle" = "Onion";
+
+/* Peanuts */
+"peanut.subtitle" = "Peanuts";
+
+/* Black Pepper */
+"pepper.subtitle" = "Black Pepper";
+
+/* Vietnamese Perilla */
+"perilla.subtitle" = "Perilla";
+
+/* Pork Belly */
+"porkBelly.subtitle" = "Pork Belly";
+
+/* Pork */
+"rawPork.subtitle" = "Pork";
+
+/* Rice Flour */
+"riceFlour.subtitle" = "Rice Flour";
+
+/* Salt */
+"salt.subtitle" = "Salt";
+
+/* Shallot */
+"shallot.subtitle" = "Shallot";
+
+/* Shrimp */
+"shrimp.subtitle" = "Shrimp";
+
+/* Sugar */
+"sugar.subtitle" = "Sugar";
+
+/* Thai Basil */
+"thaiBasil.subtitle" = "Thai Basil";
+
 /* Tomato */
 "tomato.subtitle" = "Tomato";
 
+/* Turmeric */
+"turmeric.subtitle" = "Turmeric";
+
 /* Vermicelli Rice Noodles */
 "vermicelliNoodles.subtitle" = "Vermicelli Rice Noodles";
+
+/* White Vinegar */
+"vinegar.subtitle" = "White Vinegar";
+
+/* Water */
+"water.subtitle" = "Water";
