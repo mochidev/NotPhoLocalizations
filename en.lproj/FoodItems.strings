@@ -14,73 +14,73 @@
 "grilledPorkBanhMi.Subtitle" = "Grilled Pork Sandwich";
 
 /* Vietnamese Crepes */
-"crepe.subtitle" = "Vietnamese Crêpes";
+"crepe.Subtitle" = "Vietnamese Crêpes";
 
 /* Grilled Pork & Egg Roll Vermicelli Noodles */
-"grilledPorkVermicelli.subtitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
+"grilledPorkVermicelli.Subtitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
 
 /* Egg Rolls (Platter) */
-"eggRollPlatter.subtitle" = "Egg Rolls";
+"eggRollPlatter.Subtitle" = "Egg Rolls";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf */
-"brokenRice.subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
+"brokenRice.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 
 
 // MARK: Recipes Tab
 
 /* Crepe Batter */
-"crepeBatter.subtitle" = "Crepe Batter";
+"crepeBatter.Subtitle" = "Crepe Batter";
 
 /* Egg Rolls */
-"eggRolls.subtitle" = "Egg Rolls";
+"eggRolls.Subtitle" = "Egg Rolls";
 
 /* Egg Meatloaf */
-"eggMeatloaf.subtitle" = "Egg Meatloaf";
+"eggMeatloaf.Subtitle" = "Egg Meatloaf";
 
 /* Annatto Oil */
-"annattoOil.subtitle" = "Annatto Oil";
+"annattoOil.Subtitle" = "Annatto Oil";
 
 /* Pickled Carrot and Daikon */
-"pickles.subtitle" = "Pickled Carrot and Daikon";
+"pickles.Subtitle" = "Pickled Carrot and Daikon";
 
 /* Scallion & Oil Garnish */
-"scallionsOil.subtitle" = "Scallion & Oil Garnish";
+"scallionsOil.Subtitle" = "Scallion & Oil Garnish";
 
 /* Mixed Fish Sauce */
-"nuocMam.subtitle" = "Mixed Fish Sauce";
+"nuocMam.Subtitle" = "Mixed Fish Sauce";
 
 /* Leafy Greens */
-"leafyGreens.subtitle" = "Leafy Greens";
+"leafyGreens.Subtitle" = "Leafy Greens";
 
 /* Mayonnaise */
-"mayo.subtitle" = "Mayonnaise";
+"mayo.Subtitle" = "Mayonnaise";
 
 /* Grilled Pork */
-"grilledPork.subtitle" = "Grilled Pork";
+"grilledPork.Subtitle" = "Grilled Pork";
 
 
 // MARK: Ingredients Tab
 
 /* Baguette */
-"baguette.subtitle" = "Baguette";
+"baguette.Subtitle" = "Baguette";
 
 /* Carrot */
-"carrot.subtitle" = "Carrot";
+"carrot.Subtitle" = "Carrot";
 
 /* Broken Rice */
-"rice.subtitle" = "Broken Rice";
+"rice.Subtitle" = "Broken Rice";
 
 /* Daikon */
-"daikon.subtitle" = "Daikon";
+"daikon.Subtitle" = "Daikon";
 
 /* Cucumber */
-"cucumber.subtitle" = "Cucumber";
+"cucumber.Subtitle" = "Cucumber";
 
 /* Fish Sauce */
-"fishSauce.subtitle" = "Fish Sauce";
+"fishSauce.Subtitle" = "Fish Sauce";
 
 /* Lemongrass */
-"lemongrass.subtitle" = "Lemongrass";
+"lemongrass.Subtitle" = "Lemongrass";
 
 /* Lemongrass */
 "lemongrass.AccessibilitySubtitle" = "Lemon-grass";
@@ -89,106 +89,106 @@
 // MARK: Entries with no dedicated page
 
 /* Bean Sprouts */
-"beanSprouts.subtitle" = "Bean Sprouts";
+"beanSprouts.Subtitle" = "Bean Sprouts";
 
 /* Bean Thread Noodles */
-"beanThreads.subtitle" = "Bean Thread Noodles";
+"beanThreads.Subtitle" = "Bean Thread Noodles";
 
 /* Chili */
-"chili.subtitle" = "Chili";
+"chili.Subtitle" = "Chili";
 
 /* Cilantro */
-"cilantro.subtitle" = "Cilantro";
+"cilantro.Subtitle" = "Cilantro";
 
 /* Coconut Milk */
-"coconutMilk.subtitle" = "Coconut Milk";
+"coconutMilk.Subtitle" = "Coconut Milk";
 
 /* Corn Starch */
-"cornStarch.subtitle" = "Corn Starch";
+"cornStarch.Subtitle" = "Corn Starch";
 
 /* Dried Wood Ear Mushroom */
-"driedMushroom.subtitle" = "Dried Wood Ear Mushroom";
+"driedMushroom.Subtitle" = "Dried Wood Ear Mushroom";
 
 /* Egg */
-"egg.subtitle" = "Egg";
+"egg.Subtitle" = "Egg";
 
 /* Egg Roll Wrappers */
-"eggRollWrappers.subtitle" = "Egg Roll Wrappers";
+"eggRollWrappers.Subtitle" = "Egg Roll Wrappers";
 
 /* Egg Yolk */
-"eggYolk.subtitle" = "Egg Yolk";
+"eggYolk.Subtitle" = "Egg Yolk";
 
 /* Garlic */
-"garlic.subtitle" = "Garlic";
+"garlic.Subtitle" = "Garlic";
 
 /* Spring Onion */
-"greenOnion.subtitle" = "Spring Onion";
+"greenOnion.Subtitle" = "Spring Onion";
 
 /* Ground Pork */
-"groundPork.subtitle" = "Ground Pork";
+"groundPork.Subtitle" = "Ground Pork";
 
 /* Jalapeño */
-"jalapeno.subtitle" = "Jalapeño";
+"jalapeno.Subtitle" = "Jalapeño";
 
 /* Lettuce */
-"lettuce.subtitle" = "Lettuce";
+"lettuce.Subtitle" = "Lettuce";
 
 /* Lime */
-"lime.subtitle" = "Lime";
+"lime.Subtitle" = "Lime";
 
 /* Spearmint */
-"mint.subtitle" = "Spearmint";
+"mint.Subtitle" = "Spearmint";
 
 /* Oil */
-"oil.subtitle" = "Oil";
+"oil.Subtitle" = "Oil";
 
 /* Onion */
-"onion.subtitle" = "Onion";
+"onion.Subtitle" = "Onion";
 
 /* Peanuts */
-"peanut.subtitle" = "Peanuts";
+"peanut.Subtitle" = "Peanuts";
 
 /* Black Pepper */
-"pepper.subtitle" = "Black Pepper";
+"pepper.Subtitle" = "Black Pepper";
 
 /* Vietnamese Perilla */
-"perilla.subtitle" = "Perilla";
+"perilla.Subtitle" = "Perilla";
 
 /* Pork Belly */
-"porkBelly.subtitle" = "Pork Belly";
+"porkBelly.Subtitle" = "Pork Belly";
 
 /* Pork */
-"rawPork.subtitle" = "Pork";
+"rawPork.Subtitle" = "Pork";
 
 /* Rice Flour */
-"riceFlour.subtitle" = "Rice Flour";
+"riceFlour.Subtitle" = "Rice Flour";
 
 /* Salt */
-"salt.subtitle" = "Salt";
+"salt.Subtitle" = "Salt";
 
 /* Shallot */
-"shallot.subtitle" = "Shallot";
+"shallot.Subtitle" = "Shallot";
 
 /* Shrimp */
-"shrimp.subtitle" = "Shrimp";
+"shrimp.Subtitle" = "Shrimp";
 
 /* Sugar */
-"sugar.subtitle" = "Sugar";
+"sugar.Subtitle" = "Sugar";
 
 /* Thai Basil */
-"thaiBasil.subtitle" = "Thai Basil";
+"thaiBasil.Subtitle" = "Thai Basil";
 
 /* Tomato */
-"tomato.subtitle" = "Tomato";
+"tomato.Subtitle" = "Tomato";
 
 /* Turmeric */
-"turmeric.subtitle" = "Turmeric";
+"turmeric.Subtitle" = "Turmeric";
 
 /* Vermicelli Rice Noodles */
-"vermicelliNoodles.subtitle" = "Vermicelli Rice Noodles";
+"vermicelliNoodles.Subtitle" = "Vermicelli Rice Noodles";
 
 /* White Vinegar */
-"vinegar.subtitle" = "White Vinegar";
+"vinegar.Subtitle" = "White Vinegar";
 
 /* Water */
-"water.subtitle" = "Water";
+"water.Subtitle" = "Water";
