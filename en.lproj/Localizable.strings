@@ -70,6 +70,10 @@
 
 // MARK: Banh Mi Thit Nuong (Grilled Pork Bánh Mì) Page
 
+/*
+ Notes: Banh mi as a sandwhich has entered the english vocabulary, so we use it as is in the VoiceOver trnascriptions, but if your language does not have a word for this specific type of sandwhich, you should use the word for "sandwhich" in the VoiceOver trnascription instead.
+ */
+
 /* Banh Mi Page Title - Should Be in Vietnamese */
 "BanhMi.Page.Title" = "Bánh Mì Thịt Nướng";
 
@@ -91,8 +95,8 @@
 /* Banh Mi Introduction (VoiceOver) */
 "BanhMi.Introduction.Accessibility" = "Banh mi are a very popular dish among the street vendors in Vietnam. There are many versions of banh mi; the traditional banh mi is typically made with cold cuts along with mayo or liver pâté, but grilled pork is also very popular. What makes banh mi unique though is not just the meat and spread, but the iconic pickled carrot and daikon. It gives banh mi a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make banh mi a great food item to be enjoyed any time of the day.";
 
-/* Banh Mi Components/Ingredients Header */
-"BanhMi.Components.Ingredients.Header" = "Components/Ingredients";
+/* Banh Mi Ingredients Header */
+"BanhMi.Ingredients.Header" = "Ingredients";
 
 /* Banh Mi Ingredients Baguette Amount */
 "BanhMi.Ingredients.Baguette.Amount" = "One 10-in long loaf";
@@ -152,10 +156,10 @@
 "BanhMi.Instructions.3.Accessibility" = "Arrange some thinly sliced grilled pork on the bottom half of the baguette.";
 
 /* Banh Mi Instructions 4 */
-"BanhMi.Instructions.4" = "Add some ##Đồ Chua## (pickled carrot and daikon), sliced ##Dưa Leo## (cucumbers) and ##Ngò## (cilantro).";
+"BanhMi.Instructions.4" = "Add some ##Đồ Chua## (pickled carrot and daikon), sliced ##Dưa Leo## (cucumbers), and ##Ngò## (cilantro).";
 
 /* Banh Mi Instructions 4 Accessibility (VoiceOver) */
-"BanhMi.Instructions.4.Accessibility" = "Add some pickled carrot and daikon, sliced cucumbers and cilantro.";
+"BanhMi.Instructions.4.Accessibility" = "Add some pickled carrot and daikon, sliced cucumbers, and cilantro.";
 
 /* Banh Mi Instructions 5 */
 "BanhMi.Instructions.5" = "A few slices of ##Ớt## (jalapeño) can optionally be added if you like spicy food.";
@@ -185,7 +189,7 @@
 "BanhMi.HowTo.3" = "Using your palm to gently press on the ##Bánh Mì## (sandwich) to break up the shell ahead of time can also make it easier to eat if your gums are sensitive.";
 
 /* Banh Mi HowTo 3 Accessibility (VoiceOver) */
-"BanhMi.HowTo.3.Accessibility" = "Using your palm to gently press on the Banh Mi (sandwich) to break up the shell ahead of time can also make it easier to eat if your gums are sensitive.";
+"BanhMi.HowTo.3.Accessibility" = "Using your palm to gently press on the banh mi to break up the shell ahead of time can also make it easier to eat if your gums are sensitive.";
 
 
 // MARK: Banh Xeo (Vietnamese Crepes) Page
