@@ -647,8 +647,8 @@
 /* Broken Rice Introduction (VoiceOver) */
 "BrokenRice.Introduction.Accessibility" = "Broken rice was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of broken rice dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, steamed egg meatloaf, fresh vegetables, pickles, and mixed fish sauce on the side.";
 
-/* Broken Rice Components/Ingredients Header */
-"BrokenRice.Components.Ingredients.Header" = "Components/Ingredients";
+/* Broken Rice Ingredients Header */
+"BrokenRice.Ingredients.Header" = "Ingredients";
 
 /* Broken Rice Ingredients Rice Amount */
 "BrokenRice.Ingredients.Rice.Amount" = "6 oz, cooked";
@@ -702,11 +702,10 @@
 "Broken.Rice.Instructions.2.Accessibility" = "Arrange the grilled pork and steamed egg meatloaf on the plate next to the cooked broken rice.";
 
 /* Broken Rice Instructions 3 */
-"Broken.Rice.Instructions.3" = "Cut the ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato) and arrange them along the side of the plate.";
+"Broken.Rice.Instructions.3" = "Cut the ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato), and arrange them along the side of the plate.";
 
 /* Broken Rice Ingredients Instructions 3 (VoiceOVer) */
-"Broken.Rice.Instructions.3.Accessibility" = "Cut the cucumber and tomato and arrange them along the side of the plate.";
-
+"Broken.Rice.Instructions.3.Accessibility" = "Cut the cucumber and tomato, and arrange them along the side of the plate.";
 
 /* Broken Rice Instructions 4 */
 "Broken.Rice.Instructions.4" = "Drain the ##Đồ Chua## (pickles) and place them next to the slices of ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato).";
@@ -715,16 +714,16 @@
 "Broken.Rice.Instructions.4.Accessibility" = "Drain the pickles and place them next to the slices of cucumber and tomato.";
 
 /* Broken Rice Instructions 5 */
-"Broken.Rice.Instructions.5" = "Add the ##Mỡ Hành## (scallion and oil garnish) on top of the ##Cơm Tấm## (cooked broken rice) and the ##Thịt Nướng## (grilled pork).";
+"Broken.Rice.Instructions.5" = "Add some ##Mỡ Hành## (scallion and oil garnish) on top of the ##Cơm Tấm## (cooked broken rice) and ##Thịt Nướng## (grilled pork).";
 
 /* Broken Rice Ingredients Instructions 5 (VoiceOVer) */
-"Broken.Rice.Instructions.5.Accessibility" = "Add the scallion and oil garnish on top of the cooked broken rice and the grilled pork.";
+"Broken.Rice.Instructions.5.Accessibility" = "Add some scallion and oil garnish on top of the cooked broken rice and grilled pork.";
 
 /* Broken Rice Instructions 6 */
-"Broken.Rice.Instructions.6" = "Prepare the ##Nước Mắm Chấm## (mixed fish sauce) in a side bowl to be used as dressing or dipping sauce for the dish.";
+"Broken.Rice.Instructions.6" = "Prepare the ##Nước Mắm Chấm## (mixed fish sauce) in a side bowl to be used as a dressing or dipping sauce for the dish.";
 
 /* Broken Rice Ingredients Instructions 6 (VoiceOVer) */
-"Broken.Rice.Instructions.6.Accessibility" = "Prepare the mixed fish sauce in a side bowl to be used as dressing or dipping sauce for the dish.";
+"Broken.Rice.Instructions.6.Accessibility" = "Prepare the mixed fish sauce in a side bowl to be used as a dressing or dipping sauce for the dish.";
 
 /* Broken Rice How To Header */
 "Broken.Rice.HowTo.Header" = "How To";
