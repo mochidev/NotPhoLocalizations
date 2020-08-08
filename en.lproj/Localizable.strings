@@ -6,6 +6,11 @@
   Copyright © 2020 Linh Bouniol. All rights reserved.
 */
 
+
+/***************
+ Common Headings
+ ***************/
+
 /* The Heading for Note sections */
 "Note.Heading" = "Note";
 
