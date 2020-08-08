@@ -14,9 +14,10 @@
 /* The Heading for Note sections */
 "Note.Heading" = "Note";
 
-/**************************
-    Banh Mi Page
- **************************/
+
+/***********************
+ Banh Mi Thit Nuong Page
+ ***********************/
 
 /* Banh Mi Page Title - Should Be in Vietnamese */
 "BanhMi.Page.Title" = "Bánh Mì Thịt Nướng";
