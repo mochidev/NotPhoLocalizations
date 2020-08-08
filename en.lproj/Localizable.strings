@@ -578,8 +578,8 @@
 /* Egg Rolls Introduction (VoiceOver) */
 "EggRolls.Introduction.Accessibility" = "Egg rolls are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in mixed fish sauce.";
 
-/* Egg Rolls Components Ingredients Header */
-"EggRolls.Components.Ingredients.Header" = "Components/Ingredients";
+/* Egg Rolls Ingredients Header */
+"EggRolls.Ingredients.Header" = "Ingredients";
 
 /* Egg Rolls Ingredients EggRolls Amount */
 "EggRolls.Ingredients.EggRolls.Amount" = "3 rolls";
@@ -606,16 +606,16 @@
 "EggRolls.HowTo.1.Accessibility" = "Place an egg roll in the middle of a piece of lettuce.";
 
 /* Egg Rolls How To 2 */
-"EggRolls.HowTo.2" = "Add some ##Tía Tô## (perillas), ##Húng Lũi## (mints), and ##Đồ Chua## (pickles).";
+"EggRolls.HowTo.2" = "Add some ##Tía Tô## (perilla leaves), ##Húng Lũi## (mint), and ##Đồ Chua## (pickles).";
 
 /* Egg Rolls How To 2 (VoiceOver) */
-"EggRolls.HowTo.2.Accessibility" = "Add some perillas, mints, and pickles.";
+"EggRolls.HowTo.2.Accessibility" = "Add some perilla leaves, mint, and pickles.";
 
 /* Egg Rolls How To 3 */
-"EggRolls.HowTo.3" = "Wrap everything up with the ##Rau Xà Lách## (lettuce).";
+"EggRolls.HowTo.3" = "Wrap everything up in the ##Rau Xà Lách## (lettuce).";
 
 /* Egg Rolls How To 3 (VoiceOver) */
-"EggRolls.HowTo.3.Accessibility" = "Wrap everything up with the lettuce leaf.";
+"EggRolls.HowTo.3.Accessibility" = "Wrap everything up in the lettuce leaf.";
 
 /* Egg Rolls How To 4 */
 "EggRolls.HowTo.4" = "Dip the wrap into ##Nước Mắm Chấm## (mixed fish sauce) and enjoy.";
