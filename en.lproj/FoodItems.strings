@@ -27,17 +27,43 @@
 /* Broken Rice with Grilled Pork and Egg Meatloaf */
 "brokenRice.subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 
-/* Baguette */
-"baguette.subtitle" = "Baguette";
 
-/* Mayonnaise */
-"mayo.subtitle" = "Mayonnaise";
+/***********
+ Recipes Tab
+ ***********/
+
+/* Crepe Batter */
+"crepeBatter.subtitle" = "Crepe Batter";
+
+/* Egg Rolls */
+"eggRolls.subtitle" = "Egg Rolls";
+
+/* Egg Meatloaf */
+"eggMeatloaf.subtitle" = "Egg Meatloaf";
+
+/* Annatto Oil */
+"annattoOil.subtitle" = "Annatto Oil";
 
 /* Pickled Carrot and Daikon */
 "pickles.subtitle" = "Pickled Carrot and Daikon";
 
+/* Scallion & Oil Garnish */
+"scallionsOil.subtitle" = "Scallion & Oil Garnish";
+
+/* Mixed Fish Sauce */
+"nuocMam.subtitle" = "Mixed Fish Sauce";
+
+/* Leafy Greens */
+"leafyGreens.subtitle" = "Leafy Greens";
+
+/* Mayonnaise */
+"mayo.subtitle" = "Mayonnaise";
+
 /* Grilled Pork */
 "grilledPork.subtitle" = "Grilled Pork";
+
+/* Baguette */
+"baguette.subtitle" = "Baguette";
 
 /* Pork */
 "rawPork.subtitle" = "Pork";
@@ -93,15 +119,6 @@
 /* Water */
 "water.subtitle" = "Water";
 
-/* Egg Rolls */
-"eggRolls.subtitle" = "Egg Rolls";
-
-/* Leafy Greens */
-"leafyGreens.subtitle" = "Leafy Greens";
-
-/* Mixed Fish Sauce */
-"nuocMam.subtitle" = "Mixed Fish Sauce";
-
 /* Chili */
 "chili.subtitle" = "Chili";
 
@@ -144,9 +161,6 @@
 /* Pork Belly */
 "porkBelly.subtitle" = "Pork Belly";
 
-/* Crepe Batter */
-"crepeBatter.subtitle" = "Crepe Batter";
-
 /* Spring Onion */
 "greenOnion.subtitle" = "Spring Onion";
 
@@ -162,23 +176,14 @@
 /* Turmeric */
 "turmeric.subtitle" = "Turmeric";
 
-/* Annatto Oil */
-"annattoOil.subtitle" = "Annatto Oil";
-
 /* Egg */
 "egg.subtitle" = "Egg";
 
 /* Tomato */
 "tomato.subtitle" = "Tomato";
 
-/* Egg Meatloaf */
-"eggMeatloaf.subtitle" = "Egg Meatloaf";
-
 /* Broken Rice */
 "rice.subtitle" = "Broken Rice";
-
-/* Scallion & Oil Garnish */
-"scallionsOil.subtitle" = "Scallion & Oil Garnish";
 
 /* Vermicelli Rice Noodles */
 "vermicelliNoodles.subtitle" = "Vermicelli Rice Noodles";
