@@ -2064,6 +2064,32 @@
 /* Rice Used In Header */
 "Rice.UsedIn.Header" = "Used In";
 
+
+/***********
+ Cu Cai Trang Page
+ ***********/
+
+/* Daikon Page Title - Should Be in Vietnamese */
+"Daikon.Page.Title" = "Củ Cải Trắng";
+
+/* Daikon Page Subtitle - This is the translation */
+"Daikon.Page.Subtitle" = "Daikon";
+
+/* Daikon Page Title (VoiceOver) */
+"Daikon.Page.AccessibilityTitle" = "Daikon";
+
+/* Daikon Main Image (VoiceOver) */
+"Daikon.Main.Image" = "Info";
+
+/* Daikon Introduction */
+"Daikon.Introduction" = "##Củ Cải Trắng## (daikon) is a winter radish. Although it is widely used in many Asian cuisines, ##Củ Cải Trắng## (daikon) isn’t heavenly used in Vietnamese recipes outside of the iconic ##Đồ Chua## (pickled carrot and daikon), which is used as a garnish.";
+
+/* Daikon Introduction (VoiceOver) */
+"Daikon.Introduction.Accessibility" = "Daikon is a winter radish. Although it is widely used in many Asian cuisines, daikon isn’t heavenly used in Vietnamese recipes outside of the iconic pickled carrot and daikon, which is used as a garnish.";
+
+/* Daikon Used In Header */
+"Daikon.UsedIn.Header" = "Used In";
+
 /********************
     Cucumber Page
  ********************/
@@ -2112,31 +2138,6 @@
 
 /* Cucumber Used In Header */
 "Cucumber.UsedIn.Header" = "Used In";
-
-/********************
-    Daikon Page
- ********************/
-
-/* Daikon Page Title - Should Be in Vietnamese */
-"Daikon.Page.Title" = "Củ Cải Trắng";
-
-/* Daikon Page Subtitle - This is the translation */
-"Daikon.Page.Subtitle" = "Daikon";
-
-/* Daikon Page Title (VoiceOver) */
-"Daikon.Page.AccessibilityTitle" = "Daikon";
-
-/* Daikon Main Image (VoiceOver) */
-"Daikon.Main.Image" = "Info";
-
-/* Daikon Introduction */
-"Daikon.Introduction" = "##Củ Cải Trắng## (daikon) is a winter radish. Although it is widely used in many Asian cuisines, ##Củ Cải Trắng## (daikon) isn’t heavenly used in Vietnamese recipes outside of the iconic ##Đồ Chua## (pickled carrot and daikon), which is used as a garnish.";
-
-/* Daikon Introduction (VoiceOver) */
-"Daikon.Introduction.Accessibility" = "Daikon is a winter radish. Although it is widely used in many Asian cuisines, daikon isn’t heavenly used in Vietnamese recipes outside of the iconic pickled carrot and daikon, which is used as a garnish.";
-
-/* Daikon Used In Header */
-"Daikon.UsedIn.Header" = "Used In";
 
 /********************
     Lemongrass Page
