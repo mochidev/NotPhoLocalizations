@@ -1437,7 +1437,7 @@
 "Pickles.Instructions.Step.1.Part.1.Accessibility" = "Julienne the carrot and daikon into one eigth by one eigth inch stripes.";
 
 /* Pickles Instructions Step 1 Note 1 */
-"Pickles.Instructions.Step.1.Note.1" = "Be sure to wash the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), and peel off their skins before cutting them.";
+"Pickles.Instructions.Step.1.Note.1" = "Be sure to peel the skins off the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), and wash thoroughly before cutting them.";
 
 /* Pickles Instructions Step 1 Note 1 (VoiceOver) */
 "Pickles.Instructions.Step.1.Note.1.Accessibility" = "Be sure to wash the carrot and daikon, and peel off their skins before cutting them.";
