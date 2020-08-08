@@ -1149,7 +1149,7 @@
 "EggMeatloaf.Instructions.Step.2.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Muối## (salt), and ##Tiêu Đen## (black pepper) to the bowl.";
 
 /* Egg Meatloaf Instructions Step 2 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.2.Part.1.Accessibility" = "Add the fish sauce, salt, and black pepper to the bowl.";
+"EggMeatloaf.Instructions.Step.2.Part.1.Accessibility" = "Add fish sauce, salt, and black pepper to the bowl.";
 
 /* Egg Meatloaf Instructions Step 3 */
 "EggMeatloaf.Instructions.Step.3" = "Step 3";
