@@ -261,10 +261,10 @@
 "Crepe.Instructions.Step.1.Part.1.Accessibility" = "Prepare the crepe batter according to the instructions on the package.";
 
 /* Crepe Instructions Step 1 Part 2 */
-"Crepe.Instructions.Step.1.Part.2" = "Dice the ##Hành Lá## (spring onion) and add it to the batter mix.";
+"Crepe.Instructions.Step.1.Part.2" = "Slice the ##Hành Lá## (spring onion) and add it to the batter mix.";
 
 /* Crepe Instructions Step 1 Part 2 (VoiceOver) */
-"Crepe.Instructions.Step.1.Part.2.Accessibility" = "Dice the spring onion and add it to the batter mix.";
+"Crepe.Instructions.Step.1.Part.2.Accessibility" = "Slice the spring onion and add it to the batter mix.";
 
 /* Crepe Instructions Step 1 Part 3 */
 "Crepe.Instructions.Step.1.Part.3" = "Mix well.";
@@ -807,7 +807,7 @@
 "CrepeBatter.Ingredients.Water.Amount" = "1 cup";
 
 /* Crepe Batter Ingredients GreenOnion Amount */
-"CrepeBatter.Ingredients.GreenOnion.Amount" = "1 stalk, diced";
+"CrepeBatter.Ingredients.GreenOnion.Amount" = "1 stalk, sliced";
 
 /* Crepe Batter Instructions Header */
 "CrepeBatter.Instructions.Header" = "Instructions";
@@ -825,10 +825,10 @@
 "CrepeBatter.Instructions.2.Accessibility" = "Add coconut milk and water.";
 
 /* Crepe Batter Instructions 3 */
-"CrepeBatter.Instructions.3" = "Dice the ##Hành Lá## (spring onion) and add it to the batter mix.";
+"CrepeBatter.Instructions.3" = "Slice the ##Hành Lá## (spring onion) and add it to the batter mix.";
 
 /* Crepe Batter Instructions 3 (VoiceOver) */
-"CrepeBatter.Instructions.3.Accessibility" = "Dice the spring onion and add it to the batter mix.";
+"CrepeBatter.Instructions.3.Accessibility" = "Slice the spring onion and add it to the batter mix.";
 
 /* Crepe Batter Instructions 4 */
 "CrepeBatter.Instructions.4" = "Mix well, making sure there are no lumps.";
@@ -1557,7 +1557,7 @@
 "ScallionOil.Ingredients.Header" = "Ingredients";
 
 /* Scallion and Oil Garnish Ingredients Green Onion Amount */
-"ScallionOil.Ingredients.GreenOnion.Amount" = "1 stalk, diced";
+"ScallionOil.Ingredients.GreenOnion.Amount" = "1 stalk, sliced";
 
 /* Scallion and Oil Garnish Ingredients Oil Amount */
 "ScallionOil.Ingredients.Oil.Amount" = "1-2 tbsp";
@@ -1569,16 +1569,16 @@
 "ScallionOil.Instructions.Header" = "Instructions";
 
 /* Scallion and Oil Garnish Instructions 1 */
-"ScallionOil.Instructions.1" = "Dice up the ##Hành Lá## (spring onion) and add it to a small microwave-safe bowl.";
+"ScallionOil.Instructions.1" = "Slice the ##Hành Lá## (spring onion) and add it to a small microwave-safe bowl.";
 
 /* Scallion and Oil Garnish Instructions 1 (VoiceOver) */
-"ScallionOil.Instructions.1.Accessibility" = "Dice up the spring onion and add it to a small microwave-safe bowl.";
+"ScallionOil.Instructions.1.Accessibility" = "Slice the spring onion and add it to a small microwave-safe bowl.";
 
 /* Scallion and Oil Garnish Instructions 2 */
-"ScallionOil.Instructions.2" = "Add some ##Dầu## (oil) to the bowl with the diced ##Hành Lá## (spring onion).";
+"ScallionOil.Instructions.2" = "Add some ##Dầu## (oil) to the bowl with the sliced ##Hành Lá## (spring onion).";
 
 /* Scallion and Oil Garnish Instructions 2 (VoiceOver) */
-"ScallionOil.Instructions.2.Accessibility" = "Add some cooking oil to the bowl with the diced spring onion.";
+"ScallionOil.Instructions.2.Accessibility" = "Add some cooking oil to the bowl with the sliced spring onion.";
 
 /* Scallion and Oil Garnish Instructions 3 */
 "ScallionOil.Instructions.3" = "Microwave the bowl on high for 20-30 seconds.";
