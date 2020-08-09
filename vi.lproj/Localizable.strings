@@ -99,7 +99,7 @@
 "BanhMi.Ingredients.Header" = "Nguyên Liệu";
 
 /* Banh Mi Ingredients Baguette Amount */
-"BanhMi.Ingredients.Baguette.Amount" = "Một khúc khoảng 10 in.";
+"BanhMi.Ingredients.Baguette.Amount" = "một khúc khoảng 10 in.";
 
 /* Banh Mi Ingredients Baguette Amount (VoiceOver) */
 "BanhMi.Ingredients.Baguette.AccessibilityAmount" = "Một khúc khoảng 10 in.";

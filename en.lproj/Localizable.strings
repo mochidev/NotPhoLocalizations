@@ -105,7 +105,10 @@
 "BanhMi.Ingredients.Baguette.AccessibilityAmount" = "1 10 inch long loaf";
 
 /* Banh Mi Ingredients Pickles Amount */
-"BanhMi.Ingredients.Pickles.Amount" = "2 tbsp, drained";
+"BanhMi.Ingredients.Pickles.Amount" = "1-2 oz, drained";
+
+/* Banh Mi Ingredients Pickles Amount (VoiceOver) */
+"BanhMi.Ingredients.Pickles.AccessibilityAmount" = "1 to 2 ounces, drained";
 
 /* Banh Mi Ingredients GrilledPork Amount */
 "BanhMi.Ingredients.GrilledPork.Amount" = "4-6 oz";
@@ -587,19 +590,19 @@
 /* Egg Rolls Ingredients Header */
 "EggRolls.Ingredients.Header" = "Ingredients";
 
-/* Egg Rolls Ingredients EggRolls Amount */
+/* Egg Rolls Ingredients Egg Rolls Amount */
 "EggRolls.Ingredients.EggRolls.Amount" = "3 rolls";
 
-/* Egg Rolls Ingredients EggRolls Amount */
+/* Egg Rolls Ingredients Leafy Greens Amount */
 "EggRolls.Ingredients.LeafyGreens.Amount" = "assortment";
 
-/* Egg Rolls Ingredients EggRolls Amount */
+/* Egg Rolls Ingredients Pickles Amount */
 "EggRolls.Ingredients.Pickles.Amount" = "2 tbsp, drained";
 
-/* Egg Rolls Ingredients EggRolls Amount */
+/* Egg Rolls Ingredients Mixed Fish Sauce Amount */
 "EggRolls.Ingredients.MixedFishSauce.Amount" = "½ cup";
 
-/* Egg Rolls Ingredients EggRolls Amount (VoiceOver) */
+/* Egg Rolls Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount" = "half a cup";
 
 /* Egg Rolls How To Header */
@@ -674,10 +677,10 @@
 /* Broken Rice Ingredients Pickles Amount */
 "BrokenRice.Ingredients.Pickles.Amount" = "2 tbsp, drained";
 
-/* Broken Rice Ingredients Pickles Amount */
+/* Broken Rice Ingredients Cucumber Amount */
 "BrokenRice.Ingredients.Cucumber.Amount" = "3 slices";
 
-/* Broken Rice Ingredients Pickles Amount */
+/* Broken Rice Ingredients Tomato Amount */
 "BrokenRice.Ingredients.Tomato.Amount" = "2 slices";
 
 /* Broken Rice Ingredients Scallion & Oil Garnish Amount */
