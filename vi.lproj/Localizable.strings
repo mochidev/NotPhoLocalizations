@@ -64,8 +64,25 @@
 /* The Heading for Step 10 (VoiceOver) */
 "Heading.Step.10" = "Bước 10";
 
+/* Back Button */
+"Page.Navigation.Back" = "Quay Lại";
 
 // MARK: - # Vietnamese Food Tab:
+
+/* Vietnamese Food Tab Page Title */
+"VietnamseFood.Page.Title" = "Đồ Ăn";
+
+/* Vietnamese Food Tab Page Subtitle */
+"VietnamseFood.Page.Subtitle" = "Việt Nam";
+
+/* Vietnamese Food Tab Page Accessibility Title */
+"VietnamseFood.Page.AccessibilityTitle" = "Đồ Ăn Việt Nam";
+
+/* Vietnamese Food Page Content Accessibility */
+"VietnamseFood.Page.Content.Accessibility" = "Tất cả món ăn sau đây rất nổi tiếng ở Việt Nam.";
+
+/* Vietnamese Food Tab Title */
+"VietnamseFood.TabTitle" = "Đồ Ăn";
 
 
 // MARK: Banh Mi Thit Nuong (Grilled Pork Bánh Mì) Page
@@ -758,6 +775,21 @@
 
 
 // MARK: - # Recipes Tab:
+
+/* Recipes Tab Page Title */
+"Recipes.Page.Title" = "Công Thức";
+
+/* Recipes Tab Page Subtitle */
+"Recipes.Page.Subtitle" = "Hướng Dẫn Từng Bước Một";
+
+/* Recipes Tab Page Accessibility Title */
+"Recipes.Page.AccessibilityTitle" = "Công Thức, Hướng Dẫn Từng Bước Một";
+
+/* Recipes Page Content Accessibility */
+"Recipes.Page.Content.Accessibility" = "Tất cả công thức sau đây rất là quan trọng trong đồ ăn Việt Nam.";
+
+/* Recipes Tab Title */
+"Recipes.TabTitle" = "Công Thức";
 
 
 // MARK: Bot Banh Xeo (Vietnamese Crepe Batter) Page
@@ -2018,6 +2050,21 @@
 
 
 // MARK: - # Ingredients Tab:
+
+/* Ingredients Tab Page Title */
+"Ingredients.Page.Title" = "Nguyên Liệu";
+
+/* Ingredients Tab Page Subtitle */
+"Ingredients.Page.Subtitle" = "Mùi Vị Quê Hương";
+
+/* Ingredients Tab Page Accessibility Title */
+"Ingredients.Page.AccessibilityTitle" = "Nguyên Liệu, Mùi Vị Quê Hương";
+
+/* Ingredients Page Content Accessibility */
+"Ingredients.Page.Content.Accessibility" = "Tất cả nguyên liệu sau đây rất là quan trọng trong đồ ăn Việt Nam. Nếu không có đủ nguyên liệu thì nấu ăn sẽ khó thành công.";
+
+/* Ingredients Tab Title */
+"Ingredients.TabTitle" = "Nguyên Liệu";
 
 
 // MARK: Banh Mi - Ingredient (Baguette) Page

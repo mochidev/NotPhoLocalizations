@@ -64,9 +64,25 @@
 /* The Heading for Step 10 (VoiceOver) */
 "Heading.Step.10" = "Step 10";
 
+/* Back Button */
+"Page.Navigation.Back" = "Back";
 
 // MARK: - # Vietnamese Food Tab:
 
+/* Vietnamese Food Tab Page Title */
+"VietnamseFood.Page.Title" = "Vietnamese Food";
+
+/* Vietnamese Food Tab Page Subtitle */
+"VietnamseFood.Page.Subtitle" = "Dishes";
+
+/* Vietnamese Food Tab Page Accessibility Title */
+"VietnamseFood.Page.AccessibilityTitle" = "Vietnamese Food Dishes";
+
+/* Vietnamese Food Page Content Accessibility */
+"VietnamseFood.Page.Content.Accessibility" = "These are some popular dishes from Vietnamese Cuisine that are full of flavor and aroma that is hard to forget.";
+
+/* Vietnamese Food Tab Title */
+"VietnamseFood.TabTitle" = "Vietnamse Food";
 
 // MARK: Banh Mi Thit Nuong (Grilled Pork Bánh Mì) Page
 
@@ -757,6 +773,21 @@
 
 
 // MARK: - # Recipes Tab:
+
+/* Recipes Tab Page Title */
+"Recipes.Page.Title" = "Recipes";
+
+/* Recipes Tab Page Subtitle */
+"Recipes.Page.Subtitle" = "Components of Vietnamese Cuisine";
+
+/* Recipes Tab Page Accessibility Title */
+"Recipes.Page.AccessibilityTitle" = "Recipes, Components of Vietnamese Cuisine";
+
+/* Recipes Page Content Accessibility */
+"Recipes.Page.Content.Accessibility" = "These components are mini recipes, that by themselves are not a complete dish, but together with other ingredients can bring a dish to life.";
+
+/* Recipes Tab Title */
+"Recipes.TabTitle" = "Recipes";
 
 
 // MARK: Bot Banh Xeo (Vietnamese Crepe Batter) Page
@@ -2014,6 +2045,21 @@
 
 
 // MARK: - # Ingredients Tab:
+
+/* Ingredients Tab Page Title */
+"Ingredients.Page.Title" = "Ingredients";
+
+/* Ingredients Tab Page Subtitle */
+"Ingredients.Page.Subtitle" = "Cultural Flavors";
+
+/* Ingredients Tab Page Accessibility Title */
+"Ingredients.Page.AccessibilityTitle" = "Ingredients, Cultural Flavors";
+
+/* Ingredients Page Content Accessibility */
+"Ingredients.Page.Content.Accessibility" = "Ingredients are items that you typically purchase rather than make yourself. By themselves they are small, but together they make up a delicious dish.";
+
+/* Ingredients Tab Title */
+"Ingredients.TabTitle" = "Ingredients";
 
 
 // MARK: Banh Mi - Ingredient (Baguette) Page
