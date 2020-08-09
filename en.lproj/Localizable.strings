@@ -771,13 +771,13 @@
 "CrepeBatter.Main.Image" = "Info";
 
 /* Crepe Batter Introduction 1 */
-"CrepeBatter.Introduction.1" = "##Bột Bánh Xèo## (Vietnamese crêpe batter) is very simple, but it’s an important ingredient in giving ##Bánh Xèo## its iconic look and crispy texture.";
+"CrepeBatter.Introduction.1" = "##Bột Bánh Xèo## (Vietnamese crêpe batter) is very simple, but it’s an important ingredient in giving ##Bánh Xèo## (Vietnamese crêpes) their iconic look and crispy texture.";
 
 /* Crepe Batter Introduction 1 (VoiceOver) */
 "CrepeBatter.Introduction.1.Accessibility" = "Vietnamese crepe batter is very simple but it’s an important ingredient in giving Vietnamese crepes their iconic look and crispy texture.";
 
 /* Crepe Batter Introduction 2 */
-"CrepeBatter.Introduction.2" = "This recipe yields 1 ½ cups of batter, which makes about four 8-in ##Bánh Xèo## (crêpes).";
+"CrepeBatter.Introduction.2" = "This recipe yields 1 ½ cups of batter, which makes about four 8-in ##Bánh Xèo## (Vietnamese crêpes).";
 
 /* Crepe Batter Introduction 2 (VoiceOver) */
 "CrepeBatter.Introduction.2.Accessibility" = "This recipe yields one and a half cups of batter, which makes about four eight inch crepes.";
@@ -1665,10 +1665,10 @@
 "MixedFishSauce.Instructions.Step.1" = "Step 1";
 
 /* Mixed Fish Sauce Instructions Step 1 Part 1 */
-"MixedFishSauce.Instructions.Step.1.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Nước Chanh## (lime juice), and ##Nước## (water) in to a bowl";
+"MixedFishSauce.Instructions.Step.1.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Nước Chanh## (lime juice), and ##Nước## (water) into a bowl";
 
 /* Mixed Fish Sauce Instructions Step 1 Part 1 (VoiceOver) */
-"MixedFishSauce.Instructions.Step.1.Part.1.Accessibility" = "Add fish sauce, lime juice, and water in to a bowl.";
+"MixedFishSauce.Instructions.Step.1.Part.1.Accessibility" = "Add fish sauce, lime juice, and water into a bowl.";
 
 /* Mixed Fish Sauce Instructions Step 1 Note 1 */
 "MixedFishSauce.Instructions.Step.1.Note.1" = "##Nước Mắm Chấm## (mixed fish sauce) tastes the best with ##Nước Chanh## (lime juice); however, it tends to spoil after 1 week.";
@@ -2028,7 +2028,7 @@
 "Baguette.Main.Image" = "Info";
 
 /* Baguette Introduction */
-"Baguette.Introduction" = "##Bánh Mì## (baguette) means bread made from wheat; but we all know it as a French baguette. It was introduced to Vietnam when Vietnam was part of French Indochina. ##Bánh Mì## (baguette) is a staple food and is used in several other dishes, like ##Bánh Mì Thịt Nướng## (grilled pork sandwich), ##Cà Ri Gà## (chicken curry), and ##Bo Kho## (beef stew). Of all these delicious dishes, my favorite and go to snack is soy sauce on a piece of toasted ##Bánh Mì## — though one time, I mistook fish sauce (that happened to be in a soy sauce-labeled bottle) for soy sauce and the outcome was not very pleasant.";
+"Baguette.Introduction" = "##Bánh Mì## (baguette) means bread made from wheat; but we all know it as a French baguette. It was introduced to Vietnam when Vietnam was part of French Indochina. ##Bánh Mì## (baguette) is a staple food and is used in several other dishes, like ##Bánh Mì Thịt Nướng## (grilled pork sandwich), ##Cà Ri Gà## (chicken curry), and ##Bo Kho## (beef stew). Of all these delicious dishes, my favorite and go to snack is soy sauce on a piece of toasted ##Bánh Mì## (baguette) — though one time, I mistook fish sauce (that happened to be in a soy sauce-labeled bottle) for soy sauce and the outcome was not very pleasant.";
 
 /* Baguette Introduction (VoiceOver) */
 "Baguette.Introduction.Accessibility" = "A baguette is a type of French bread made from wheat that was introduced to Vietnam when Vietnam was part of French Indochina. Baguette is a staple food and is used in several other dishes, like grilled pork sandwich, chicken curry, and beef stew. Of all these delicious dishes, my favorite and go to snack is soy sauce on a piece of toasted baguette — though one time, I mistook fish sauce (that happened to be in a soy sauce-labeled bottle) for soy sauce and the outcome was not very pleasant.";
@@ -2121,10 +2121,10 @@
 "Daikon.Main.Image" = "Info";
 
 /* Daikon Introduction */
-"Daikon.Introduction" = "##Củ Cải Trắng## (daikon) is a winter radish. Although it is widely used in many Asian cuisines, ##Củ Cải Trắng## (daikon) isn’t heavenly used in Vietnamese recipes outside of the iconic ##Đồ Chua## (pickled carrot and daikon), which is used as a garnish.";
+"Daikon.Introduction" = "##Củ Cải Trắng## (daikon) is a winter radish. Although it is widely used in many Asian cuisines, ##Củ Cải Trắng## (daikon) isn’t heavily used in Vietnamese recipes outside of the iconic ##Đồ Chua## (pickled carrot and daikon), which is used as a garnish.";
 
 /* Daikon Introduction (VoiceOver) */
-"Daikon.Introduction.Accessibility" = "Daikon is a winter radish. Although it is widely used in many Asian cuisines, daikon isn’t heavenly used in Vietnamese recipes outside of the iconic pickled carrot and daikon, which is used as a garnish.";
+"Daikon.Introduction.Accessibility" = "Daikon is a winter radish. Although it is widely used in many Asian cuisines, daikon isn’t heavily used in Vietnamese recipes outside of the iconic pickled carrot and daikon, which is used as a garnish.";
 
 /* Daikon Used In Header */
 "Daikon.UsedIn.Header" = "Used In";
@@ -2199,7 +2199,7 @@
 "FishSauce.Introduction.1.Accessibility" = "Fish sauce is a liquid made from fish, like anchovies, that are coated in salt and left to ferment for up to several years. This process creates a salty, but tremendously concentrated and savory sauce that can be used to add flavor to many dishes, though it is hardly ever enjoyed on its own.";
 
 /* Fish Sauce Introduction 2 */
-"FishSauce.Introduction.2" = "Because of this, it is used very often in Vietnamese cuisine, from marinating meat, to creating a dipping sauces. ##Nước Mắm## is used all through out Asia and there are so many brands that it’s hard to say which brand is the best. That said, here are a few brands that I often use mainly because I grew up with them or I like the way they taste: Flying Lion Fish Sauce, Three Crabs Fish Sauce, and Squid Fish Sauce.";
+"FishSauce.Introduction.2" = "Because of this, it is used very often in Vietnamese cuisine, from marinating meat, to creating a dipping sauces. ##Nước Mắm## (fish sauce) is used all through out Asia and there are so many brands that it’s hard to say which brand is the best. That said, here are a few brands that I often use mainly because I grew up with them or I like the way they taste: Flying Lion Fish Sauce, Three Crabs Fish Sauce, and Squid Fish Sauce.";
 
 /* Fish Sauce Introduction 2 (VoiceOver) */
 "FishSauce.Introduction.2.Accessibility" = "Because of this, it is used very often in Vietnamese cuisine, from marinating meat, to creating a dipping sauces. Fish sauce is used all through out Asia and there are so many brands that it’s hard to say which brand is the best. That said, here are a few brands that I often use mainly because I grew up with them or I like the way they taste: Flying Lion Fish Sauce, Three Crabs Fish Sauce, and Squid Fish Sauce.";
