@@ -1397,7 +1397,7 @@
 "Pickles.Introduction.1" = "##Đồ Chua## là một món trang trí ngọt ngào và thơm.";
 
 /* Pickles Introduction 1 (VoiceOver) */
-"Pickles.Introduction.1.Accessibility" = "Đồ Chua là một món trang trí ngọt ngào và thơm.""Pickled carrot and daikon is a sweet and tangy garnish.";
+"Pickles.Introduction.1.Accessibility" = "Đồ Chua là một món trang trí ngọt ngào và thơm.";
 
 /* Pickles Introduction 2 */
 "Pickles.Introduction.2" = "Công thức này tao ra 5 pints.";
@@ -2173,7 +2173,7 @@
 "Cucumber.Tips.Accessibility" = "Loại Dưa Chuột Ba Tư là ngon nhất tại vì giòn và ngọt.";
 
 /* Cucumber Tips Note 1 */
-"Cucumber.Tips.Note.1" = "Khi chọn ##Dưa Leo## thì phải coi trên mặt không có nhớt bằng không ##Dưa Leo## cũ rồi";.
+"Cucumber.Tips.Note.1" = "Khi chọn ##Dưa Leo## thì phải coi trên mặt không có nhớt bằng không ##Dưa Leo## cũ rồi";
 
 /* Cucumber Tips Note 1 (VoiceOver) */
 "Cucumber.Tips.Note.1.Accessibility" = "Khi chọn Dưa Leo thì phải coi trên mặt không có nhớt bằng không Dưa Leo cũ rồi";
