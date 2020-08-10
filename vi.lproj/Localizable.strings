@@ -704,13 +704,13 @@
 /* Broken Rice Ingredients Scallion & Oil Garnish Amount */
 "BrokenRice.Ingredients.ScallionsOil.Amount" = "1 đến 2 muỗng canh";
 
-/* Broken Rice Ingredients Scallion & Oil Garnish Amount (VoiceOVer) */
+/* Broken Rice Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
 "BrokenRice.Ingredients.ScallionsOil.AccessibilityAmount" = "1 đến 2 muỗng canh";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount */
 "BrokenRice.Ingredients.MixedFishSauce.Amount" = "½ cup";
 
-/* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOVer) */
+/* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount" = "phân nữa cup";
 
 /* Broken Rice Instructions Header */
@@ -719,37 +719,37 @@
 /* Broken Rice Instructions 1 */
 "Broken.Rice.Instructions.1" = "Múc ##Cơm Tấm## vào trong một chén nhỏ sau đó chuyển ngược chén lên trên dĩa để cơm có thể chuyển thành một nữa hình cầu.";
 
-/* Broken Rice Ingredients Instructions 1 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 1 (VoiceOver) */
 "Broken.Rice.Instructions.1.Accessibility" = "Múc Cơm Tấm vào trong một chén nhỏ sau đó chuyển ngược chén lên trên dĩa để cơm có thể chuyển thành một nữa hình cầu.";
 
 /* Broken Rice Instructions 2 */
 "Broken.Rice.Instructions.2" = "Thêm ##Thịt Nướng## và ##Chả Trứng## lên bên cạnh ##Cơm Tấm## trên dĩa.";
 
-/* Broken Rice Ingredients Instructions 2 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 2 (VoiceOver) */
 "Broken.Rice.Instructions.2.Accessibility" = "Thêm Thịt Nướng và Chả Trứng lên bên cạnh Cơm Tấm trên dĩa.";
 
 /* Broken Rice Instructions 3 */
 "Broken.Rice.Instructions.3" = "Cắt ##Dưa Leo## và ##Cà Chua## thành lát và thêm lên trên dĩa.";
 
-/* Broken Rice Ingredients Instructions 3 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 3 (VoiceOver) */
 "Broken.Rice.Instructions.3.Accessibility" = "Cắt Dưa Leo và Cà Chua thành lát và thêm lên trên dĩa.";
 
 /* Broken Rice Instructions 4 */
 "Broken.Rice.Instructions.4" = "Thêm ##Đồ Chua## lên bên cạnh ##Dưa Leo## và ##Cà Chua##.";
 
-/* Broken Rice Ingredients Instructions 4 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 4 (VoiceOver) */
 "Broken.Rice.Instructions.4.Accessibility" = "Thêm Đồ Chua lên bên cạnh Dưa Leo và Cà Chua.";
 
 /* Broken Rice Instructions 5 */
 "Broken.Rice.Instructions.5" = "Cho ##Mỡ Hành## lên trên ##Cơm Tấm## và ##Thịt Nướng##.";
 
-/* Broken Rice Ingredients Instructions 5 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 5 (VoiceOver) */
 "Broken.Rice.Instructions.5.Accessibility" = "Cho Mỡ Hành lên trên Cơm Tấm và Thịt Nướng.";
 
 /* Broken Rice Instructions 6 */
 "Broken.Rice.Instructions.6" = "Muốn thưởng thức ##Cơm Tấm## thì không thể thiếu ##Nước Mắm Chấm##.";
 
-/* Broken Rice Ingredients Instructions 6 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 6 (VoiceOver) */
 "Broken.Rice.Instructions.6.Accessibility" = "Muốn thưởng thức Cơm Tấm thì không thể thiếu Nước Mắm Chấm.";
 
 /* Broken Rice How To Header */
@@ -758,19 +758,19 @@
 /* Broken Rice How To 1 */
 "Broken.Rice.HowTo.1" = "Đổ một ít ##Nước Mắm Chấm## lên trên ##Cơm Tấm## để ăn.";
 
-/* Broken Rice How To 1 (VoiceOVer) */
+/* Broken Rice How To 1 (VoiceOver) */
 "Broken.Rice.HowTo.1.Accessibility" = "Đổ một ít Nước Mắm Chấm lên trên Cơm Tấm để ăn.";
 
 /* Broken Rice How To 2 */
 "Broken.Rice.HowTo.2" = "Chừa một ít ##Nước Mắm Chấm## bên cạnh để ăn với ##Thịt Nướng## và ##Chả Trứng##.";
 
-/* Broken Rice How To 2 (VoiceOVer) */
+/* Broken Rice How To 2 (VoiceOver) */
 "Broken.Rice.HowTo.2.Accessibility" = "Chừa một ít Nước Mắm Chấm bên cạnh để ăn với Thịt Nướng và Chả Trứng.";
 
 /* Broken Rice How To 3 */
 "Broken.Rice.HowTo.3" = "Hoặc có thể đổ ##Nước Mắm Chấm## lên trên tất cả để ăn.";
 
-/* Broken Rice How To 3 (VoiceOVer) */
+/* Broken Rice How To 3 (VoiceOver) */
 "Broken.Rice.HowTo.3.Accessibility" = "Hoặc có thể đổ Nước Mắm Chấm lên trên tất cả để ăn.";
 
 
@@ -1678,7 +1678,7 @@
 /* Mixed Fish Sauce Ingredients Garlic Amount */
 "MixedFishSauce.Garlic.Amount" = "2 đến 3 tép";
 
-/* Mixed Fish Sauce Ingredients Garlic Amount (VoiceOVer) */
+/* Mixed Fish Sauce Ingredients Garlic Amount (VoiceOver) */
 "MixedFishSauce.Garlic.AccessibilityAmount" = "2 đến 3 tép";
 
 /* Mixed Fish Sauce Ingredients Sugar Amount */
@@ -1687,13 +1687,13 @@
 /* Mixed Fish Sauce Ingredients Salt Amount */
 "MixedFishSauce.Salt.Amount" = "½ những cà phê";
 
-/* Mixed Fish Sauce Ingredients Salt Amount (VoiceOVer) */
+/* Mixed Fish Sauce Ingredients Salt Amount (VoiceOver) */
 "MixedFishSauce.Salt.AccessibilityAmount" = "phân nửa những cà phê";
 
 /* Mixed Fish Sauce Ingredients Chili Amount */
 "MixedFishSauce.Chili.Amount" = "½ những cà phê";
 
-/* Mixed Fish Sauce Ingredients Chili Amount (VoiceOVer) */
+/* Mixed Fish Sauce Ingredients Chili Amount (VoiceOver) */
 "MixedFishSauce.Chili.AccessibilityAmount" = "phân nửa những cà phê";
 
 /* Mixed Fish Sauce Instructions Header */
@@ -2018,7 +2018,7 @@
 /* Grilled Pork Instructions Step 4 Part 1 */
 "GrilledPork.Instructions.Step.4.Part.1" = "Dùng một cái chảo không dính và mở lửa lên từ trung bình tới cao sau đó thêm một tí hai muỗng cà phê ##Dầu## ăn.";
 
-/* Grilled Pork Instructions Step 4 Part 1 (VoiceOVer) */
+/* Grilled Pork Instructions Step 4 Part 1 (VoiceOver) */
 "GrilledPork.Instructions.Step.4.Part.1.Accessibility" = "Dùng một cái chảo không dính và mở lửa lên từ trung bình tới cao sau đó thêm một tí hai muỗng cà phê Dầu ăn.";
 
 /* Grilled Pork Instructions Step 4 Part 2 */
@@ -2027,7 +2027,7 @@
 /* Grilled Pork Instructions Step 4 Part 3 */
 "GrilledPork.Instructions.Step.4.Part.3" = "Chiên đến khi nào nhiệt độ của giữa ##Thịt Heo## là ít nhất 145ºF.";
 
-/* Grilled Pork Instructions Step 4 Part 3 (VoiceOVer) */
+/* Grilled Pork Instructions Step 4 Part 3 (VoiceOver) */
 "GrilledPork.Instructions.Step.4.Part.3.Accessibility" = "Chiên đến khi nào nhiệt độ của giữa ##Thịt Heo## là ít nhất 145ºF.";
 
 /* Grilled Pork Instructions Step 4 Note */
@@ -2393,16 +2393,16 @@
 /* About Support Text With Alt Icon Support (VoiceOver) */
 "About.Support.Text.WithAltIcon.Accessibility" = "Nếu bạn thích APP này thì xin nguyên góp để hỗ trợ phát triển APP. Sau khi quyên góp bạn sẽ mở khóa các hình ảnh bên dưới để sử dụng làm biểu tượng cho APP.";
 
-/* About Support Egg Meatloaf App Icon (VoiceOVer) */
+/* About Support Egg Meatloaf App Icon (VoiceOver) */
 "About.Support.EggMeatloaf.AppIcon.Accessibility" = "Chả Trứng Biểu Tượng APP";
 
-/* About Support Egg Rolls App Icon (VoiceOVer) */
+/* About Support Egg Rolls App Icon (VoiceOver) */
 "About.Support.EggRolls.AppIcon.Accessibility" = "Chả Giò Biểu Tượng APP";
 
-/* About Support Rice Ball App Icon (VoiceOVer) */
+/* About Support Rice Ball App Icon (VoiceOver) */
 "About.Support.RiceBall.AppIcon.Accessibility" = "Cơm Tấm Biểu Tượng APP";
 
-/* About Support Pork Chop App Icon (VoiceOVer) */
+/* About Support Pork Chop App Icon (VoiceOver) */
 "About.Support.PorkChop.AppIcon.Accessibility" = "Thịt Nướng Biểu Tượng APP";
 
 
@@ -2450,3 +2450,6 @@
 
 /* About All Rights Reserved */
 "About.AllRightsReserved" = "All rights reserved.";
+
+/* About Copyright (VoiceOver) */
+"About.Copyright.Accessibility" = "Copyright 2020 Mochi Development Inc. All rights reserved.";

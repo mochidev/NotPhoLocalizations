@@ -702,13 +702,13 @@
 /* Broken Rice Ingredients Scallion & Oil Garnish Amount */
 "BrokenRice.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
 
-/* Broken Rice Ingredients Scallion & Oil Garnish Amount (VoiceOVer) */
+/* Broken Rice Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
 "BrokenRice.Ingredients.ScallionsOil.AccessibilityAmount" = "1 to 2 tablespoons";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount */
 "BrokenRice.Ingredients.MixedFishSauce.Amount" = "½ cup";
 
-/* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOVer) */
+/* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount" = "half a cup";
 
 /* Broken Rice Instructions Header */
@@ -717,37 +717,37 @@
 /* Broken Rice Instructions 1 */
 "Broken.Rice.Instructions.1" = "Scoop the ##Cơm Tấm## (cooked broken rice) into a small bowl, then invert the bowl over a plate to form the rice into a half-sphere shape.";
 
-/* Broken Rice Ingredients Instructions 1 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 1 (VoiceOver) */
 "Broken.Rice.Instructions.1.Accessibility" = "Scoop the cooked broken rice into a small bowl, then invert the bowl over a plate to form the rice into a half-sphere shape.";
 
 /* Broken Rice Instructions 2 */
 "Broken.Rice.Instructions.2" = "Arrange the ##Thịt Nướng## (grilled pork) and ##Chả Trứng## (steamed egg meatloaf) on the plate next to the ##Cơm Tấm## (cooked broken rice).";
 
-/* Broken Rice Ingredients Instructions 2 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 2 (VoiceOver) */
 "Broken.Rice.Instructions.2.Accessibility" = "Arrange the grilled pork and steamed egg meatloaf on the plate next to the cooked broken rice.";
 
 /* Broken Rice Instructions 3 */
 "Broken.Rice.Instructions.3" = "Cut the ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato), and arrange them along the side of the plate.";
 
-/* Broken Rice Ingredients Instructions 3 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 3 (VoiceOver) */
 "Broken.Rice.Instructions.3.Accessibility" = "Cut the cucumber and tomato, and arrange them along the side of the plate.";
 
 /* Broken Rice Instructions 4 */
 "Broken.Rice.Instructions.4" = "Drain the ##Đồ Chua## (pickles) and place them next to the slices of ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato).";
 
-/* Broken Rice Ingredients Instructions 4 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 4 (VoiceOver) */
 "Broken.Rice.Instructions.4.Accessibility" = "Drain the pickles and place them next to the slices of cucumber and tomato.";
 
 /* Broken Rice Instructions 5 */
 "Broken.Rice.Instructions.5" = "Add some ##Mỡ Hành## (scallion and oil garnish) on top of the ##Cơm Tấm## (cooked broken rice) and ##Thịt Nướng## (grilled pork).";
 
-/* Broken Rice Ingredients Instructions 5 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 5 (VoiceOver) */
 "Broken.Rice.Instructions.5.Accessibility" = "Add some scallion and oil garnish on top of the cooked broken rice and grilled pork.";
 
 /* Broken Rice Instructions 6 */
 "Broken.Rice.Instructions.6" = "Prepare the ##Nước Mắm Chấm## (mixed fish sauce) in a side bowl to be used as a dressing or dipping sauce for the dish.";
 
-/* Broken Rice Ingredients Instructions 6 (VoiceOVer) */
+/* Broken Rice Ingredients Instructions 6 (VoiceOver) */
 "Broken.Rice.Instructions.6.Accessibility" = "Prepare the mixed fish sauce in a side bowl to be used as a dressing or dipping sauce for the dish.";
 
 /* Broken Rice How To Header */
@@ -756,19 +756,19 @@
 /* Broken Rice How To 1 */
 "Broken.Rice.HowTo.1" = "Drizzle some ##Nước Mắm Chấm## (mixed fish sauce) over the ##Cơm Tấm## (cooked broken rice) to enjoy.";
 
-/* Broken Rice How To 1 (VoiceOVer) */
+/* Broken Rice How To 1 (VoiceOver) */
 "Broken.Rice.HowTo.1.Accessibility" = "Drizzle some mixed fish sauce over the cooked broken rice to enjoy.";
 
 /* Broken Rice How To 2 */
 "Broken.Rice.HowTo.2" = "Save some ##Nước Mắm Chấm## (mixed fish sauce) on the side as a dipping sauce for the ##Thịt Nướng## (grilled pork) and ##Chả Trứng## (steamed egg meatloaf).";
 
-/* Broken Rice How To 2 (VoiceOVer) */
+/* Broken Rice How To 2 (VoiceOver) */
 "Broken.Rice.HowTo.2.Accessibility" = "Save some mixed fish sauce on the side as a dipping sauce for the grilled pork and steamed egg meatloaf.";
 
 /* Broken Rice How To 3 */
 "Broken.Rice.HowTo.3" = "You can also pour the ##Nước Mắm Chấm## (mixed fish sauce) over everything on the plate and enjoy it all together.";
 
-/* Broken Rice How To 3 (VoiceOVer) */
+/* Broken Rice How To 3 (VoiceOver) */
 "Broken.Rice.HowTo.3.Accessibility" = "You can also pour the mixed fish sauce over everything on the plate and enjoy it all together.";
 
 
@@ -1674,7 +1674,7 @@
 /* Mixed Fish Sauce Ingredients Garlic Amount */
 "MixedFishSauce.Garlic.Amount" = "2-3 cloves, minced";
 
-/* Mixed Fish Sauce Ingredients Garlic Amount (VoiceOVer) */
+/* Mixed Fish Sauce Ingredients Garlic Amount (VoiceOver) */
 "MixedFishSauce.Garlic.AccessibilityAmount" = "2 to 3 cloves, minced";
 
 /* Mixed Fish Sauce Ingredients Sugar Amount */
@@ -1683,13 +1683,13 @@
 /* Mixed Fish Sauce Ingredients Salt Amount */
 "MixedFishSauce.Salt.Amount" = "½ tsp";
 
-/* Mixed Fish Sauce Ingredients Salt Amount (VoiceOVer) */
+/* Mixed Fish Sauce Ingredients Salt Amount (VoiceOver) */
 "MixedFishSauce.Salt.AccessibilityAmount" = "half a teaspoon";
 
 /* Mixed Fish Sauce Ingredients Chili Amount */
 "MixedFishSauce.Chili.Amount" = "½ tsp, chopped or minced";
 
-/* Mixed Fish Sauce Ingredients Chili Amount (VoiceOVer) */
+/* Mixed Fish Sauce Ingredients Chili Amount (VoiceOver) */
 "MixedFishSauce.Chili.AccessibilityAmount" = "half a teaspoon, chopped or minced";
 
 /* Mixed Fish Sauce Instructions Header */
@@ -2013,7 +2013,7 @@
 /* Grilled Pork Instructions Step 4 Part 1 */
 "GrilledPork.Instructions.Step.4.Part.1" = "In a medium-high heat skillet, add 1-2 tablespoons of cooking oil.";
 
-/* Grilled Pork Instructions Step 4 Part 1 (VoiceOVer) */
+/* Grilled Pork Instructions Step 4 Part 1 (VoiceOver) */
 "GrilledPork.Instructions.Step.4.Part.1.Accessibility" = "In a medium-high heat skillet, add 1 to 2 tablespoons of cooking oil.";
 
 /* Grilled Pork Instructions Step 4 Part 2 */
@@ -2022,7 +2022,7 @@
 /* Grilled Pork Instructions Step 4 Part 3 */
 "GrilledPork.Instructions.Step.4.Part.3" = "Cook until the internal temperature of the ##Thịt Heo## (pork) is at least 145ºF.";
 
-/* Grilled Pork Instructions Step 4 Part 3 (VoiceOVer) */
+/* Grilled Pork Instructions Step 4 Part 3 (VoiceOver) */
 "GrilledPork.Instructions.Step.4.Part.3.Accessibility" = "Cook until the internal temperature of the pork is at least 145ºF.";
 
 /* Grilled Pork Instructions Step 4 Note */
@@ -2388,16 +2388,16 @@
 /* About Support Text With Alt Icon Support (VoiceOver) */
 "About.Support.Text.WithAltIcon.Accessibility" = "Do you like Not Pho? Please consider tipping to support development of apps like this, and unlock the icons below!";
 
-/* About Support Egg Meatloaf App Icon (VoiceOVer) */
+/* About Support Egg Meatloaf App Icon (VoiceOver) */
 "About.Support.EggMeatloaf.AppIcon.Accessibility" = "Egg Meatloaf App Icon";
 
-/* About Support Egg Rolls App Icon (VoiceOVer) */
+/* About Support Egg Rolls App Icon (VoiceOver) */
 "About.Support.EggRolls.AppIcon.Accessibility" = "Egg Rolls App Icon";
 
-/* About Support Rice Ball App Icon (VoiceOVer) */
+/* About Support Rice Ball App Icon (VoiceOver) */
 "About.Support.RiceBall.AppIcon.Accessibility" = "Rice Ball App Icon";
 
-/* About Support Pork Chop App Icon (VoiceOVer) */
+/* About Support Pork Chop App Icon (VoiceOver) */
 "About.Support.PorkChop.AppIcon.Accessibility" = "Pork Chop App Icon";
 
 /* About Support Reset Button Text */
@@ -2444,4 +2444,7 @@
 
 /* About All Rights Reserved */
 "About.AllRightsReserved" = "All rights reserved.";
+
+/* About Copyright (VoiceOver) */
+"About.Copyright.Accessibility" = "Copyright 2020 Mochi Development Inc. All rights reserved.";
 
