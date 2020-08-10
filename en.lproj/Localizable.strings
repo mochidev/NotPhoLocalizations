@@ -2279,3 +2279,172 @@
 
 /* Lemongrass Used In Header */
 "Lemongrass.UsedIn.Header" = "Used In";
+
+
+// MARK: - # About Tab:
+
+/* About Tab Page Title */
+"About.Page.Title" = "About";
+
+/* About Tab Page Subtitle */
+"About.Page.Subtitle" = "Not Phở";
+
+/* About Tab Page Accessibility Title */
+"About.Page.AccessibilityTitle" = "About, Not Pho";
+
+/* About Tab Title */
+"About.TabTitle" = "About";
+
+/* About Profile Image Accessibility */
+"About.Profile.Image.Accessibility" = "Profile";
+
+/* About Introduction 1 */
+"About.Introduction.1" = "Hi, Linh here! This is my second app, and I wanted to take this chance to continue sharing my love of food! When it comes to Vietnamese cuisine, everyone knows Phở, but not many know about these other Vietnamese dishes, so I’m hoping to share that knowledge far and wide.";
+
+/* About Introduction 1 (VoiceOver) */
+"About.Introduction.1.Accessibility" = "Hi, Linh here! This is my second app, and I wanted to take this chance to continue sharing my love of food! When it comes to Vietnamese cuisine, everyone knows Pho, but not many know about these other Vietnamese dishes, so I’m hoping to share that knowledge far and wide.";
+
+/* About Introduction 2 */
+"About.Introduction.2" = "These are all recipes that I’ve grown up with and collected & modified over the years to my taste, but they are by no means sacred. Please use this app as a springboard to learning more about Vietnamese cuisine!";
+
+/* About Reviews Header */
+"About.Reviews.Header" = "Leave a Review!";
+
+/* About Reviews Text */
+"About.Reviews.Text" = "Enjoying something other than Phở? Please consider leaving a rating or review to show your support!";
+
+/* About Reviews Text (VoiceOver) */
+"About.Reviews.AccessibilityText" = "Enjoying something other than Pho? Please consider leaving a rating or review to show your support!";
+
+/* About Reviews Button Text */
+"About.Reviews.ButtonText" = "Leave a Review";
+
+/* About Support Header */
+"About.Support.Header" = "Support Not Phở";
+
+/* About Support Header (VoiceOver) */
+"About.Support.Header.Accessibility" = "Support Not Pho";
+
+/* About Support Tip Jar Coin (VoiceOver) */
+"About.Support.TipJar.Coin.Accessibility" = "Tip, %@";
+
+/* About Support Tip Jar Level 1 (VoiceOver) */
+"About.Support.TipJar.Level.1.Accessibility" = "Empty tip jar with spider webs.";
+
+/* About Support Tip Jar Level 2 (VoiceOver) */
+"About.Support.TipJar.Level.2.Accessibility" = "Tip jar with a couple of coins, candy, and a paper clip.";
+
+/* About Support Tip Jar Level 3 (VoiceOver) */
+"About.Support.TipJar.Level.3.Accessibility" = "Tip jar with a small collection of coins, candy, and a paper clip.";
+
+/* About Support Tip Jar Level 4 (VoiceOver) */
+"About.Support.TipJar.Level.4.Accessibility" = "Tip jar with a small mountain of coins, candy, and a paper clip.";
+
+/* About Support Tip Jar Level 5 (VoiceOver) */
+"About.Support.TipJar.Level.5.Accessibility" = "Tip jar, half full of coins, candy, and a paper clip.";
+
+/* About Support Tip Jar Level 6 (VoiceOver) */
+"About.Support.TipJar.Level.6.Accessibility" = "Tip jar, almost full of coins, candy, and a paper clip.";
+
+/* About Support Tip Jar Level 7 (VoiceOver) */
+"About.Support.TipJar.Level.7.Accessibility" = "Tip jar, full of coins, candy, and a paper clip.";
+
+/* About Support Tip Jar Level 8 (VoiceOver) */
+"About.Support.TipJar.Level.8.Accessibility" = "Overflowing tip jar, full of coins, candy, and a paper clip.";
+
+/* About Support Tip Jar Total Tip Amount First Time */
+"About.Support.TipJar.TotalTipAmount.FirstTime" = "Tap the coins above to leave a tip!";
+
+/* About Support Tip Jar Total Tip Amount */
+"About.Support.TipJar.TotalTipAmount" = "You've tipped a total of %@!";
+
+/* About Support Tip Jar Total Tip Amount Separator (ex.: "$5, 2€") */
+"About.Support.TipJar.TotalTipAmount.Separator" = ", ";
+
+/* About Support Tip Jar Purchase Button Main Action */
+"About.Support.TipJar.PurchaseButton.MainAction" = "OK";
+
+/* About Support Tip Jar Tipping Unavailable */
+"About.Support.TipJar.Tipping.Unavailable" = "Unavailable";
+
+/* About Support Tip Jar Tipping Deferred Title */
+"About.Support.TipJar.Tipping.Deferred.Title" = "Thank You!";
+
+/* About Support Tip Jar Tipping Deferred Message */
+"About.Support.TipJar.Tipping.Deferred.Message" = "Your tip will be included when the purchase is authorized.";
+
+/* About Support Tip Jar Tipping Failed Title */
+"About.Support.TipJar.Tipping.Failed.Title" = "Tipping Failed";
+
+/* About Support Text No Alt Icon Support */
+"About.Support.Text.NoAltIcon" = "Do you like Not Phở? Please consider tipping to support development of apps like this!";
+
+/* About Support Text No Alt Icon Support (VoiceOver) */
+"About.Support.Text.NoAltIcon.Accessibility" = "Do you like Not Pho? Please consider tipping to support development of apps like this!";
+
+/* About Support Text With Alt Icon Support */
+"About.Support.Text.WithAltIcon" = "Do you like Not Phở? Please consider tipping to support development of apps like this, and unlock the icons below!";
+
+/* About Support Text With Alt Icon Support (VoiceOver) */
+"About.Support.Text.WithAltIcon.Accessibility" = "Do you like Not Pho? Please consider tipping to support development of apps like this, and unlock the icons below!";
+
+/* About Support Egg Meatloaf App Icon (VoiceOVer) */
+"About.Support.EggMeatloaf.AppIcon.Accessibility" = "Egg Meatloaf App Icon";
+
+/* About Support Egg Rolls App Icon (VoiceOVer) */
+"About.Support.EggRolls.AppIcon.Accessibility" = "Egg Rolls App Icon";
+
+/* About Support Rice Ball App Icon (VoiceOVer) */
+"About.Support.RiceBall.AppIcon.Accessibility" = "Rice Ball App Icon";
+
+/* About Support Pork Chop App Icon (VoiceOVer) */
+"About.Support.PorkChop.AppIcon.Accessibility" = "Pork Chop App Icon";
+
+/* About Support Reset Button Text */
+"About.Support.Reset.ButtonText" = "Reset App Icon";
+
+/* About My Other Apps Header */
+"About.MyOtherApps.Header" = "My Other Apps";
+
+/* About Huuungry Header */
+"About.Huuungry.Header" = "Huuungry";
+
+/* About Huuungry Subheader */
+"About.Huuungry.Subheader" = "Favorite Restaurant Suggester";
+
+/* About Huuungry Accessibility Header */
+"About.Huuungry.AccessibilityHeader" = "Hungry, Favorite Restaurant Suggester";
+
+/* About Open Source Header */
+"About.OpenSource.Header" = "Open Source";
+
+/* About Open Source Text */
+"About.OpenSource.Text" = "Do you want to see this app in your native language? You can contribute to our open source localization project by tapping the link below. Thank you!";
+
+/* About Open Source Button Text */
+"About.OpenSource.ButtonText" = "GitHub Localization Project";
+
+/* About Feedback Header */
+"About.Feedback.Header" = "Feedback";
+
+/* About Feedback Text */
+"About.Feedback.Text" = "If you have any feedback, suggestions, or simply words of encouragement, please let me know by tapping the link below. Thank you!";
+
+/* About Feedback Button Text */
+"About.Feedback.ButtonText" = "support@mochidev.com";
+
+/* About Follow me on Twitter Header */
+"About.FollowMeOnTwitter.Header" = "Follow me on Twitter";
+
+/* About Follow me on Twitter At LinhBouniol Accessibility Text */
+"About.FollowMeOnTwitter.AtLinhBouniol.AccessibilityText" = "At Linh Bouniol";
+
+/* About Follow me on Twitter At MochiDev Accessibility Text */
+"About.FollowMeOnTwitter.AtMochiDev.AccessibilityText" = "At Mochi Dev";
+
+/* About Copyright */
+"About.Copyright" = "Copyright © 2020 Mochi Development, Inc.";
+
+/* About All Rights Reserved */
+"About.AllRightsReserved" = "All rights reserved.";
+

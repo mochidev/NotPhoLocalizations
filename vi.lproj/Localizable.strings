@@ -2284,3 +2284,172 @@
 
 /* Lemongrass Used In Header */
 "Lemongrass.UsedIn.Header" = "Dùng Trong";
+
+
+// MARK: - # About Tab:
+
+/* About Tab Page Title */
+"About.Page.Title" = "Giới Thiệu";
+
+/* About Tab Page Subtitle */
+"About.Page.Subtitle" = "Not Phở";
+
+/* About Tab Page Accessibility Title */
+"About.Page.AccessibilityTitle" = "Giới Thiệu, Not Phở";
+
+/* About Tab Title */
+"About.TabTitle" = "Giới Thiệu";
+
+/* About Profile Image Accessibility */
+"About.Profile.Image.Accessibility" = "Thông tin về tác giả.";
+
+/* About Introduction 1 */
+"About.Introduction.1" = "Xin chào, mình tên là Linh. Đây là cái APP thứ hai của mình và mình muốn dùng cơ hội này để chia sẻ sự yêu thương ẩm thực của mình với bạn.";
+
+/* About Introduction 1 (VoiceOver) */
+"About.Introduction.1.Accessibility" = "Xin chào, mình tên là Linh. Đây là cái APP thứ hai của mình và mình muốn dùng cơ hội này để chia sẻ sự yêu thương ẩm thực của mình với bạn.";
+
+/* About Introduction 2 */
+"About.Introduction.2" = "Có rất nhiều người khi nghe đến đồ ăn Việt Nam chỉ biết đến Phở nhưng đồ ăn Việt Nam không chỉ có vậy. Mình muốn dùng cái APP này để chia sẽ những món ăn độc đáo khác của Việt Nam. Công thức nấu ăn viết trong APP là qua sự trải nghiệm của mình nhưng mình không phải là đầu bếp chuyên nghiệp cho nên nếu có sự xây xước gì thì xin bạn thông cảm cho.";
+
+/* About Reviews Header */
+"About.Reviews.Header" = "Để Lại Đánh Giá!";
+
+/* About Reviews Text */
+"About.Reviews.Text" = "Nếu bạn thích cái App này thì xin vui lòng ấn vào cái nút ở dưới để đánh giá App. Cảm ơn.";
+
+/* About Reviews Text (VoiceOver) */
+"About.Reviews.AccessibilityText" = "Nếu bạn thích cái App này thì xin vui lòng ấn vào cái nút ở dưới để đánh giá App. Cảm ơn.";
+
+/* About Reviews Button Text */
+"About.Reviews.ButtonText" = "Để Lại Đánh Giá";
+
+/* About Support Header */
+"About.Support.Header" = "Ủng Hộ Not Phở";
+
+/* About Support Header (VoiceOver) */
+"About.Support.Header.Accessibility" = "Ủng Hộ Not Phở";
+
+/* About Support Tip Jar Coin (VoiceOver) */
+"About.Support.TipJar.Coin.Accessibility" = "Quyên góp, %@";
+
+/* About Support Tip Jar Level 1 (VoiceOver) */
+"About.Support.TipJar.Level.1.Accessibility" = "Hủ tiền trống không có mạng nhện.";
+
+/* About Support Tip Jar Level 2 (VoiceOver) */
+"About.Support.TipJar.Level.2.Accessibility" = "Hủ tiền có một đồng tiền, một cục kẹo, và một cái kẹp giấy.";
+
+/* About Support Tip Jar Level 3 (VoiceOver) */
+"About.Support.TipJar.Level.3.Accessibility" = "Hủ tiền có vài đồng tiền.";
+
+/* About Support Tip Jar Level 4 (VoiceOver) */
+"About.Support.TipJar.Level.4.Accessibility" = "Hủ tiền sắp đầy phân nữa đồng tiền.";
+
+/* About Support Tip Jar Level 5 (VoiceOver) */
+"About.Support.TipJar.Level.5.Accessibility" = "Hủ tiền đây phân nữa đồng tiền.";
+
+/* About Support Tip Jar Level 6 (VoiceOver) */
+"About.Support.TipJar.Level.6.Accessibility" = "Hủ tiền sắp đầy đồng tiền.";
+
+/* About Support Tip Jar Level 7 (VoiceOver) */
+"About.Support.TipJar.Level.7.Accessibility" = "Hủ tiền đây đồng tiền.";
+
+/* About Support Tip Jar Level 8 (VoiceOver) */
+"About.Support.TipJar.Level.8.Accessibility" = "Hủ tiền tràn đầy đồng tiền.";
+
+/* About Support Tip Jar Total Tip Amount First Time */
+"About.Support.TipJar.TotalTipAmount.FirstTime" = "Chọn một đồng tiền đ để quyên góp.";
+
+/* About Support Tip Jar Total Tip Amount */
+"About.Support.TipJar.TotalTipAmount" = "Bạn đã quyên góp tổng cộng là %@!";
+
+/* About Support Tip Jar Total Tip Amount Separator (ex.: "$5, 2€") */
+"About.Support.TipJar.TotalTipAmount.Separator" = ", ";
+
+/* About Support Tip Jar Purchase Button Main Action */
+"About.Support.TipJar.PurchaseButton.MainAction" = "Đồng Ý";
+
+/* About Support Tip Jar Tipping Unavailable */
+"About.Support.TipJar.Tipping.Unavailable" = "Bị Hỏng";
+
+/* About Support Tip Jar Tipping Deferred Title */
+"About.Support.TipJar.Tipping.Deferred.Title" = "Cảm ơn!";
+
+/* About Support Tip Jar Tipping Deferred Message */
+"About.Support.TipJar.Tipping.Deferred.Message" = "Tiền của bạn quyên góp sẽ được bao gồm khi giao dịch xong.";
+
+/* About Support Tip Jar Tipping Failed Title */
+"About.Support.TipJar.Tipping.Failed.Title" = "Quyên góp không thành công.";
+
+/* About Support Text No Alt Icon Support */
+"About.Support.Text.NoAltIcon" = "Nếu bạn thích APP này thì xin nguyên góp để hỗ trợ phát triển APP.";
+
+/* About Support Text No Alt Icon Support (VoiceOver) */
+"About.Support.Text.NoAltIcon.Accessibility" = "Nếu bạn thích APP này thì xin nguyên góp để hỗ trợ phát triển APP.";
+
+/* About Support Text With Alt Icon Support */
+"About.Support.Text.WithAltIcon" = "Nếu bạn thích APP này thì xin nguyên góp để hỗ trợ phát triển APP. Sau khi quyên góp bạn sẽ mở khóa các hình ảnh bên dưới để sử dụng làm biểu tượng cho APP.";
+
+/* About Support Text With Alt Icon Support (VoiceOver) */
+"About.Support.Text.WithAltIcon.Accessibility" = "Nếu bạn thích APP này thì xin nguyên góp để hỗ trợ phát triển APP. Sau khi quyên góp bạn sẽ mở khóa các hình ảnh bên dưới để sử dụng làm biểu tượng cho APP.";
+
+/* About Support Egg Meatloaf App Icon (VoiceOVer) */
+"About.Support.EggMeatloaf.AppIcon.Accessibility" = "Chả Trứng Biểu Tượng APP";
+
+/* About Support Egg Rolls App Icon (VoiceOVer) */
+"About.Support.EggRolls.AppIcon.Accessibility" = "Chả Giò Biểu Tượng APP";
+
+/* About Support Rice Ball App Icon (VoiceOVer) */
+"About.Support.RiceBall.AppIcon.Accessibility" = "Cơm Tấm Biểu Tượng APP";
+
+/* About Support Pork Chop App Icon (VoiceOVer) */
+"About.Support.PorkChop.AppIcon.Accessibility" = "Thịt Nướng Biểu Tượng APP";
+
+
+/* About Support Reset Button Text */
+"About.Support.Reset.ButtonText" = "Đặt Lại Biểu Tượng APP";
+
+/* About My Other Apps Header */
+"About.MyOtherApps.Header" = "APP Khác Của Mình";
+
+/* About Huuungry Header */
+"About.Huuungry.Header" = "Huuungry";
+
+/* About Huuungry Subheader */
+"About.Huuungry.Subheader" = "Đề Suất Quán Ăn Bạn Thích";
+
+/* About Huuungry Accessibility Header */
+"About.Huuungry.AccessibilityHeader" = "Hungry, Đề Suất Quán Ăn Bạn Thích.";
+
+/* About Open Source Header */
+"About.OpenSource.Header" = "Nguồn Mở";
+
+/* About Open Source Text */
+"About.OpenSource.Text" = "Bạn có muốn cái APP này thông dịch qua tiếng mẹ đẻ của bạn hay không? Bạn có thể ấn vào cái nút bên dưới để đóng góp về sự thông dịch qua tiếng mẹ đẻ của bạn. Cảm ơn.";
+
+/* About Open Source Button Text */
+"About.OpenSource.ButtonText" = "Ngôn Ngữ Dự Án GitHub";
+
+/* About Feedback Header */
+"About.Feedback.Header" = "Phản Hồi";
+
+/* About Feedback Text */
+"About.Feedback.Text" = "Nếu bạn có bất kỳ câu hỏi, thắc mắc hoặc phản hồi nào, hãy nhấp vào nút bên dưới để chia sẻ.\n\nLưu ý rằng mọi câu trả lời sẽ được giao tiếp bằng tiếng Anh.";
+
+/* About Feedback Button Text */
+"About.Feedback.ButtonText" = "support@mochidev.com";
+
+/* About Follow me on Twitter Header */
+"About.FollowMeOnTwitter.Header" = "Theo Dõi Tôi Trên Twitter";
+
+/* About Follow me on Twitter At LinhBouniol Accessibility Text */
+"About.FollowMeOnTwitter.AtLinhBouniol.AccessibilityText" = "At Linh Bouniol";
+
+/* About Follow me on Twitter At MochiDev Accessibility Text */
+"About.FollowMeOnTwitter.AtMochiDev.AccessibilityText" = "At Mochi Dev";
+
+/* About Copyright */
+"About.Copyright" = "Copyright © 2020 Mochi Development, Inc.";
+
+/* About All Rights Reserved */
+"About.AllRightsReserved" = "All rights reserved.";
