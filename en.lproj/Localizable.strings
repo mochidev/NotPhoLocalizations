@@ -2430,9 +2430,6 @@
 /* About Feedback Text */
 "About.Feedback.Text" = "If you have any feedback, suggestions, or simply words of encouragement, please let me know by tapping the link below. Thank you!";
 
-/* About Feedback Button Text */
-"About.Feedback.ButtonText" = "support@mochidev.com";
-
 /* About Follow me on Twitter Header */
 "About.FollowMeOnTwitter.Header" = "Follow me on Twitter";
 

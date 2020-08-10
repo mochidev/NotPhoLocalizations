@@ -2436,9 +2436,6 @@
 /* About Feedback Text */
 "About.Feedback.Text" = "Nếu bạn có bất kỳ câu hỏi, thắc mắc hoặc phản hồi nào, hãy nhấp vào nút bên dưới để chia sẻ.\n\nLưu ý rằng mọi câu trả lời sẽ được giao tiếp bằng tiếng Anh.";
 
-/* About Feedback Button Text */
-"About.Feedback.ButtonText" = "support@mochidev.com";
-
 /* About Follow me on Twitter Header */
 "About.FollowMeOnTwitter.Header" = "Theo Dõi Tôi Trên Twitter";
 
