@@ -813,10 +813,10 @@
 "CrepeBatter.Introduction.1.Accessibility" = "Bột Bánh Xèo rất dễ làm nhưng là một nguyên liệu quan trọng khi làm Bánh Xèo.";
 
 /* Crepe Batter Introduction 2 */
-"CrepeBatter.Introduction.2" = "Cách thức này làm khoảng 1 ½ cups bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
+"CrepeBatter.Introduction.2" = "Công thức này làm khoảng 1 ½ cups bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
 
 /* Crepe Batter Introduction 2 (VoiceOver) */
-"CrepeBatter.Introduction.2.Accessibility" = "Cách thức này làm khoảng một và một phần hai cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
+"CrepeBatter.Introduction.2.Accessibility" = "Công thức này làm khoảng một và một phần hai cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
 
 /* Crepe Batter Ingredients Header */
 "CrepeBatter.Ingredients.Header" = "Nguyên Liệu";
@@ -900,10 +900,10 @@
 "EggRollsComponent.Introduction.1.Accessibility" = "Chả Giò là một món khai vị thơm ngon của Việt Nam. Chả Giò có thể kèm với bún để ăn.";
 
 /* Egg Rolls Component Introduction 2 */
-"EggRollsComponent.Introduction.2" = "Cách thức này sẽ làm khoảng 25 đến 30 cuốn.";
+"EggRollsComponent.Introduction.2" = "Công thức này sẽ làm khoảng 25 đến 30 cuốn.";
 
 /* Egg Rolls Component Introduction 2 (VoiceOver) */
-"EggRollsComponent.Introduction.2.Accessibility" = "Cách thức này sẽ làm khoảng 25 đến 30 cuốn.";
+"EggRollsComponent.Introduction.2.Accessibility" = "Công thức này sẽ làm khoảng 25 đến 30 cuốn.";
 
 /* Egg Rolls Component Ingredients Header */
 "EggRollsComponent.Ingredients.Header" = "Nguyên Liệu";
@@ -1108,10 +1108,10 @@
 "EggMeatloaf.Introduction.1.Accessibility" = "Chả Trứng là trứng và thịt heo hấp với Bún Miến và Nấm Mèo và là một món không thể thiếu trong Cơm Tấm. Mùi vị của Chả Trứng rất là thơm ngon và mềm mại và khi phối hợp với Nước Mắm Chấm rất là tuyệt vời.";
 
 /* Egg Meatloaf Introduction 2 */
-"EggMeatloaf.Introduction.2" = "Cách thức này làm khoảng 4 phần.";
+"EggMeatloaf.Introduction.2" = "Công thức này làm khoảng 4 phần.";
 
 /* Egg Meatloaf Introduction 2 (VoiceOver) */
-"EggMeatloaf.Introduction.2.Accessibility" = "Cách thức này làm khoảng 4 phần.";
+"EggMeatloaf.Introduction.2.Accessibility" = "Công thức này làm khoảng 4 phần.";
 
 /* Egg Meatloaf Ingredients Header */
 "EggMeatloaf.Ingredients.Header" = "Nguyên Liệu";
@@ -1321,10 +1321,10 @@
 "AnnattoOil.Introduction.1.Accessibility" = "Dầu Annatto la làm từ dầu và Hạt Annatto. Hạt Annatto không có mùi vị gì nhưng khi dùng có thể cho màu sắc cho món ăn.";
 
 /* Annatto Oil Introduction 2 */
-"AnnattoOil.Introduction.2" = "Cách thức này làm khoảng ¼ cup.";
+"AnnattoOil.Introduction.2" = "Công thức này làm khoảng ¼ cup.";
 
 /* Annatto Oil Introduction 2 (VoiceOver) */
-"AnnattoOil.Introduction.2.Accessibility" = "Cách thức này làm khoảng một phần tư cup.";
+"AnnattoOil.Introduction.2.Accessibility" = "Công thức này làm khoảng một phần tư cup.";
 
 /* Annatto Oil Ingredients Header */
 "AnnattoOil.Ingredients.Header" = "Nguyên Liệu";
