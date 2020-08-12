@@ -874,7 +874,7 @@
 "CrepeBatter.Ingredients.Water.Amount" = "½ cup";
 
 /* Crepe Batter Ingredients Water Amount (VoiceOver) */
-"CrepeBatter.Ingredients.Water.AccessibilityAmount" = "½ cup";
+"CrepeBatter.Ingredients.Water.AccessibilityAmount" = "half a cup";
 
 /* Crepe Batter Ingredients GreenOnion Amount */
 "CrepeBatter.Ingredients.GreenOnion.Amount" = "1 stalk, sliced";
