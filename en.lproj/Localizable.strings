@@ -105,11 +105,14 @@
 /* Banh Mi Main Image Action Hint (VoiceOver) */
 "BanhMi.Main.Image.Hint" = "Scroll down to learn more.";
 
-/* Banh Mi Introduction */
-"BanhMi.Introduction" = "##Bánh Mì## (sandwiches) are a very popular dish among the street vendors in Vietnam. There are many versions of ##Bánh Mì## (sandwich); the traditional ##Bánh Mì## (sandwich) is typically made with cold cuts along with mayo or liver pâté, but ##Thịt Nướng## (grilled pork) is also very popular. What makes ##Bánh Mì## (sandwich) unique though is not just the meat and spread, but the iconic ##Đồ Chua## (pickled carrot and daikon). It gives ##Bánh Mì## (sandwich) a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make ##Bánh Mì## (sandwich) a great food item to be enjoyed any time of the day.";
+/* Banh Mi Introduction 1 */
+"BanhMi.Introduction.1" = "##Bánh Mì## (sandwiches) are a very popular dish among the street vendors in Vietnam. There are many versions of ##Bánh Mì## (sandwich); the traditional ##Bánh Mì## (sandwich) is typically made with cold cuts along with mayo or liver pâté, but ##Thịt Nướng## (grilled pork) is also very popular. What makes ##Bánh Mì## (sandwich) unique though is not just the meat and spread, but the iconic ##Đồ Chua## (pickled carrot and daikon). It gives ##Bánh Mì## (sandwich) a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make ##Bánh Mì## (sandwich) a great food item to be enjoyed any time of the day.";
 
-/* Banh Mi Introduction (VoiceOver) */
-"BanhMi.Introduction.Accessibility" = "Banh mi are a very popular dish among the street vendors in Vietnam. There are many versions of banh mi; the traditional banh mi is typically made with cold cuts along with mayo or liver pâté, but grilled pork is also very popular. What makes banh mi unique though is not just the meat and spread, but the iconic pickled carrot and daikon. It gives banh mi a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make banh mi a great food item to be enjoyed any time of the day.";
+/* Banh Mi Introduction 1 (VoiceOver) */
+"BanhMi.Introduction.1.Accessibility" = "Banh mi are a very popular dish among the street vendors in Vietnam. There are many versions of banh mi; the traditional banh mi is typically made with cold cuts along with mayo or liver pâté, but grilled pork is also very popular. What makes banh mi unique though is not just the meat and spread, but the iconic pickled carrot and daikon. It gives banh mi a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make banh mi a great food item to be enjoyed any time of the day.";
+
+/* Banh Mi Introduction 2 */
+"BanhMi.Introduction.2" = "The recipe yields 1 sandwich.";
 
 /* Banh Mi Ingredients Header */
 "BanhMi.Ingredients.Header" = "Ingredients";
@@ -127,10 +130,10 @@
 "BanhMi.Ingredients.Pickles.AccessibilityAmount" = "1 to 2 ounces, drained";
 
 /* Banh Mi Ingredients GrilledPork Amount */
-"BanhMi.Ingredients.GrilledPork.Amount" = "4-6 oz";
+"BanhMi.Ingredients.GrilledPork.Amount" = "3-4 oz";
 
 /* Banh Mi Ingredients GrilledPork Amount (VoiceOver) */
-"BanhMi.Ingredients.GrilledPork.AccessibilityAmount" = "4 to 6 ounces";
+"BanhMi.Ingredients.GrilledPork.AccessibilityAmount" = "3 to 4 ounces";
 
 /* Banh Mi Ingredients Mayo Amount */
 "BanhMi.Ingredients.Mayo.Amount" = "2 tsp, spread";
@@ -228,11 +231,14 @@
 /* Crepe Main Image Action Hint (VoiceOver) */
 "Crepe.Main.Image.Hint" = "Scroll down to learn more.";
 
-/* Crepe Introduction */
-"Crepe.Introduction" = "##Bánh Xèo## (Vietnamese crêpes) is literally translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. ##Bánh Xèo## (Vietnamese crêpes) are a popular street snack in Vietnam, and these savory crêpes are always paired with a plate of ##Rau## (leafy greens) and a surplus of sweet, sour, and savory ##Nước Mắm Chấm## (mixed fish sauce).";
+/* Crepe Introduction 1 */
+"Crepe.Introduction.1" = "##Bánh Xèo## (Vietnamese crêpes) is literally translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. ##Bánh Xèo## (Vietnamese crêpes) are a popular street snack in Vietnam, and these savory crêpes are always paired with a plate of ##Rau## (leafy greens) and a surplus of sweet, sour, and savory ##Nước Mắm Chấm## (mixed fish sauce).";
 
-/* Crepe Introduction (VoiceOver) */
-"Crepe.Introduction.Accessibility" = "Vietnamese crepe, in Vietnamese, is translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. Vietnamese crepes are a popular street snack in Vietnam, and these savory crepes are always paired with a plate of leafy greens and a surplus of sweet, sour, and savory mixed fish sauce.";
+/* Crepe Introduction 1 (VoiceOver) */
+"Crepe.Introduction.1.Accessibility" = "Vietnamese crepe, in Vietnamese, is translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. Vietnamese crepes are a popular street snack in Vietnam, and these savory crepes are always paired with a plate of leafy greens and a surplus of sweet, sour, and savory mixed fish sauce.";
+
+/* Crepe Introduction 2 */
+"Crepe.Introduction.2" = "This recipe serves 4-5 people.";
 
 /* Crepe Ingredients Header */
 "Crepe.Ingredients.Header" = "Ingredients";
@@ -427,10 +433,10 @@
 "Crepe.HowTo.6.Accessibility" = "Vietnamese crepes can be a bit messy because you have to eat with your hands to fully enjoy the experience.";
 
 /* Crepe How To 7 */
-"Crepe.HowTo.7" = "For a less messy experience, tear up ##Rau Xà Lách## (lettuce), ##Tía Tô## (perilla leaves), ##Húng Lũi## (mint), ##Húng Quế## (Thai basil), and ##Ngò## (cilantro) over your plate, pour ##Nước Mắm Chấm## (mixed fish sauce) over everything, and enjoy with chopsticks.";
+"Crepe.HowTo.7" = "For a less messy experience, tear up the greens and add them on top of the ##Bánh Xèo## (crêpe), pour ##Nước Mắm Chấm## (mixed fish sauce) over everything, and enjoy using chopsticks.";
 
 /* Crepe How To 7 (VoiceOver) */
-"Crepe.HowTo.7.Accessibility" = "For a less messy experience, tear up lettuce, perilla, mint, Thai basil, and cilantro over your plate, pour Nước Mắm Chấm (mixed fish sauce) over everything, and enjoy with chopsticks.";
+"Crepe.HowTo.7.Accessibility" = "For a less messy experience, tear up the greens and add them on top of the crepe, and enjoy using chopsticks.";
 
 
 // MARK: Bun Thit Nuong Cha Gio (Grilled Pork & Egg Roll Vermicelli Noodles) Page
@@ -450,29 +456,32 @@
 /* Vermicelli Main Image Action Hint (VoiceOver) */
 "Vermicelli.Main.Image.Hint" = "Scroll down to learn more.";
 
-/* Vermicelli Introduction */
-"Vermicelli.Introduction" = "##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles) is a popular cold noodle dish packed with flavors that come from sweet and savory ##Thịt Nướng## (grilled pork), crispy ##Chả Giò## (egg rolls), ##Rau## (fresh greens), ##Đồ Chua## (pickled carrot and daikon), and ##Nước Mắm Chấm## (mixed fish sauce), full of umami flavor that brings it all together. This dish is great to be enjoyed any time, especially during a hot summer.";
+/* Vermicelli Introduction 1 */
+"Vermicelli.Introduction.1" = "##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles) is a popular cold noodle dish packed with flavors that come from sweet and savory ##Thịt Nướng## (grilled pork), crispy ##Chả Giò## (egg rolls), ##Rau## (fresh greens), ##Đồ Chua## (pickled carrot and daikon), and ##Nước Mắm Chấm## (mixed fish sauce), full of umami flavor that brings it all together. This dish is great to be enjoyed any time, especially during a hot summer.";
 
-/* Vermicelli Introduction (VoiceOver) */
-"Vermicelli.Introduction.Accessibility" = "Grilled pork and egg roll vermicelli noodles is a popular cold noodle dish packed with flavors that come from sweet and savory grilled pork, crispy egg rolls, fresh greens, pickled carrot and daikon, and mixed fish sauce, full of umami flavor that brings it all together. This dish is great to be enjoyed any time, especially during a hot summer.";
+/* Vermicelli Introduction 1 (VoiceOver) */
+"Vermicelli.Introduction.1.Accessibility" = "Grilled pork and egg roll vermicelli noodles is a popular cold noodle dish packed with flavors that come from sweet and savory grilled pork, crispy egg rolls, fresh greens, pickled carrot and daikon, and mixed fish sauce, full of umami flavor that brings it all together. This dish is great to be enjoyed any time, especially during a hot summer.";
+
+/* Vermicelli Introduction 2 */
+"Vermicelli.Introduction.2" = "This recipe yields 1 bowl.";
 
 /* Vermicelli Ingredients Header */
 "Vermicelli.Ingredients.Header" = "Ingredients";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount */
-"Vermicelli.Ingredients.VermicelliNoodles.Amount" = "4-5 oz, cooked";
+"Vermicelli.Ingredients.VermicelliNoodles.Amount" = "3-4 oz, cooked";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount (VoiceOver) */
-"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount" = "4 to 5 ounces, cooked";
+"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount" = "3 to 4 ounces, cooked";
 
 /* Vermicelli Ingredients EggRolls Amount */
 "Vermicelli.Ingredients.EggRolls.Amount" = "2 rolls";
 
 /* Vermicelli Ingredients Grilled Pork Amount */
-"Vermicelli.Ingredients.GrilledPork.Amount" = "4-6 oz";
+"Vermicelli.Ingredients.GrilledPork.Amount" = "3-4 oz";
 
 /* Vermicelli Ingredients Grilled Pork Amount (VoiceOver) */
-"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount" = "4 to 6 ounces";
+"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount" = "3 to 4 ounces";
 
 /* Vermicelli Ingredients Pickles Amount */
 "Vermicelli.Ingredients.Pickles.Amount" = "2 tbsp, drained";
@@ -517,7 +526,7 @@
 "Vermicelli.Instructions.1.Accessibility" = "Chop up some lettuce and arrange it in a bowl.";
 
 /* Vermicelli Instructions 2 */
-"Vermicelli.Instructions.2" = "Cook the ##Bún## (vermicelli rice noodles) according to the instructions on the package. Once drained, add the ##Bún## (vermicelli rice noodles) on top of the chopped ##Rau Xà Lách## (lettuce). (Cook the ##Bún## (vermicelli rice noodles) according to the instructions on the package.)";
+"Vermicelli.Instructions.2" = "Cook the ##Bún## (vermicelli rice noodles) according to the instructions on the package. Once drained, add the ##Bún## (vermicelli rice noodles) on top of the chopped ##Rau Xà Lách## (lettuce).";
 
 /* Vermicelli Instructions 2 (VoiceOver) */
 "Vermicelli.Instructions.2.Accessibility" = "Cook the vermicelli rice noodles according to the instructions on the package. Once drained, add the vermicelli rice noodles on top of the chopped lettuce.";
@@ -541,10 +550,10 @@
 "Vermicelli.Instructions.5.Accessibility" = "Add some scallion and oil garnish on top of the grilled pork.";
 
 /* Vermicelli Instructions 6 */
-"Vermicelli.Instructions.6" = "Add a couple ##Chả Giò## (egg rolls) next to the ##Thịt Nướng## (grilled pork). (You can cut each ##Chả Giò## (egg roll) into thirds to make them easier to eat.)";
+"Vermicelli.Instructions.6" = "Add a couple ##Chả Giò## (egg rolls) next to the ##Thịt Nướng## (grilled pork). Cut each ##Chả Giò## (egg roll) into thirds to make them easier to eat.";
 
 /* Vermicelli Instructions 6 (VoiceOver) */
-"Vermicelli.Instructions.6.Accessibility" = "Add a couple egg rolls next to the grilled pork. You can cut each egg roll into thirds to make them easier to eat.";
+"Vermicelli.Instructions.6.Accessibility" = "Add a couple egg rolls next to the grilled pork. Cut each egg roll into thirds to make them easier to eat.";
 
 /* Vermicelli Instructions 7 */
 "Vermicelli.Instructions.7" = "Sprinkle some crushed ##Đậu Phộng## (peanuts) to finish the dish. (##Đậu Phộng## (peanuts) are optional if you don’t like them or are allergic.)";
@@ -597,11 +606,14 @@
 /* Egg Rolls Main Image Action Hint (VoiceOver) */
 "EggRolls.Main.Image.Hint" = "Scroll down to learn more.";
 
-/* Egg Rolls Introduction */
-"EggRolls.Introduction" = "##Chả Giò## (egg rolls) are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in ##Nước Mắm Chấm## (mixed fish sauce).";
+/* Egg Rolls Introduction 1 */
+"EggRolls.Introduction.1" = "##Chả Giò## (egg rolls) are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in ##Nước Mắm Chấm## (mixed fish sauce).";
 
-/* Egg Rolls Introduction (VoiceOver) */
-"EggRolls.Introduction.Accessibility" = "Egg rolls are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in mixed fish sauce.";
+/* Egg Rolls Introduction 1 (VoiceOver) */
+"EggRolls.Introduction.1.Accessibility" = "Egg rolls are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in mixed fish sauce.";
+
+/* Egg Rolls Introduction 2 */
+"EggRolls.Introduction.2" = "This recipe yields 1 serving.";
 
 /* Egg Rolls Ingredients Header */
 "EggRolls.Ingredients.Header" = "Ingredients";
@@ -666,29 +678,35 @@
 /* Broken Rice Main Image Action Hint (VoiceOver) */
 "BrokenRice.Main.Image.Hint" = "Scroll down to learn more.";
 
-/* Broken Rice Introduction */
-"BrokenRice.Introduction" = "##Cơm Tấm## (broken rice) was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of ##Cơm Tấm## (broken rice) dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, ##Chả Trứng## (steamed egg meatloaf), fresh vegetables, pickles, and ##Nước Mắm Chấm## (mixed fish sauce) on the side.";
+/* Broken Rice Introduction 1 */
+"BrokenRice.Introduction.1" = "##Cơm Tấm## (broken rice) was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of ##Cơm Tấm## (broken rice) dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, ##Chả Trứng## (steamed egg meatloaf), fresh vegetables, pickles, and ##Nước Mắm Chấm## (mixed fish sauce) on the side.";
 
-/* Broken Rice Introduction (VoiceOver) */
-"BrokenRice.Introduction.Accessibility" = "Broken rice was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of broken rice dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, steamed egg meatloaf, fresh vegetables, pickles, and mixed fish sauce on the side.";
+/* Broken Rice Introduction 1 (VoiceOver) */
+"BrokenRice.Introduction.1.Accessibility" = "Broken rice was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of broken rice dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, steamed egg meatloaf, fresh vegetables, pickles, and mixed fish sauce on the side.";
+
+/* Broken Rice Introduction 2 */
+"BrokenRice.Introduction.2" = "This recipe yields 1 plate.";
 
 /* Broken Rice Ingredients Header */
 "BrokenRice.Ingredients.Header" = "Ingredients";
 
 /* Broken Rice Ingredients Rice Amount */
-"BrokenRice.Ingredients.Rice.Amount" = "6 oz, cooked";
+"BrokenRice.Ingredients.Rice.Amount" = "½ cup, cooked";
+
+/* Broken Rice Ingredients Rice Amount (VoiceOver) */
+"BrokenRice.Ingredients.Rice.AccessibilityAmount" = "½ cup, cooked";
 
 /* Broken Rice Ingredients Grilled Pork Amount */
-"BrokenRice.Ingredients.GrilledPork.Amount" = "4-6 oz";
+"BrokenRice.Ingredients.GrilledPork.Amount" = "3-4 oz";
 
 /* Broken Rice Ingredients Grilled Pork Amount (VoiceOver) */
-"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount" = "4 to 6 ounces";
+"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount" = "3 to 4 ounces";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount */
-"BrokenRice.Ingredients.EggMeatloaf.Amount" = "3-4 oz";
+"BrokenRice.Ingredients.EggMeatloaf.Amount" = "2-3 oz";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount (VoiceOver) */
-"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount" = "3 to 4 ounces";
+"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount" = "2 to 3 ounces";
 
 /* Broken Rice Ingredients Pickles Amount */
 "BrokenRice.Ingredients.Pickles.Amount" = "2 tbsp, drained";
@@ -749,6 +767,18 @@
 
 /* Broken Rice Ingredients Instructions 6 (VoiceOver) */
 "Broken.Rice.Instructions.6.Accessibility" = "Prepare the mixed fish sauce in a side bowl to be used as a dressing or dipping sauce for the dish.";
+
+/* Broken Rice Tips Header */
+"Broken.Rice.Tips.Header" = "Tips";
+
+/* Broken Rice Tips 1 */
+"Broken.Rice.Tips.1" = "For best result, use a rice cooker to cook the rice.";
+
+/* Broken Rice Tips 2 */
+"Broken.Rice.Tips.2" = "Normally for broken rice, you want to use a tiny bit less water than regular Jasmine rice. I usually do about 1 millimetter less from the water mark line on the pot.";
+
+/* Broken Rice Tips 3 */
+"Broken.Rice.Tips.3" = "You can find Jasmine broken rice at most Asian markets.";
 
 /* Broken Rice How To Header */
 "Broken.Rice.HowTo.Header" = "How To";
@@ -1120,7 +1150,10 @@
 "EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount" = "half a pound";
 
 /* Egg Meatloaf Ingredients Onion Amount */
-"EggMeatloaf.Ingredients.Onion.Amount" = "3 tbsp, diced";
+"EggMeatloaf.Ingredients.Onion.Amount" = "⅓ cup, diced";
+
+/* Egg Meatloaf Ingredients Onion Amount (VoiceOver) */
+"EggMeatloaf.Ingredients.Onion.AccessibilityAmount" = "one third cup, diced";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount */
 "EggMeatloaf.Ingredients.BeanThreads.Amount" = "1-2 oz soaked, then cut ½ in long";
@@ -1153,10 +1186,10 @@
 "EggMeatloaf.Ingredients.Egg.Amount" = "4 medium";
 
 /* Egg Meatloaf Ingredients Annatto Oil Amount */
-"EggMeatloaf.Ingredients.AnnattoOil.Amount" = "1-2 tsp (optional)";
+"EggMeatloaf.Ingredients.AnnattoOil.Amount" = "2-3 tsp (optional)";
 
 /* Egg Meatloaf Ingredients Annatto Oil Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "1 to 2 teaspoons (optional)";
+"EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "2 to 3 teaspoons (optional)";
 
 /* Egg Meatloaf Instructions Header */
 "EggMeatloaf.Instructions.Header" = "Instructions";
@@ -1219,10 +1252,10 @@
 "EggMeatloaf.Instructions.Step.5.Part.1" = "Transfer the filling to a prepared steamer.";
 
 /* Egg Meatloaf Instructions Step 5 Part 2 */
-"EggMeatloaf.Instructions.Step.5.Part.2" = "Steam for 30-40 minutes on medium to high heat.";
+"EggMeatloaf.Instructions.Step.5.Part.2" = "Steam for 40-45 minutes on medium to high heat.";
 
 /* Egg Meatloaf Instructions Step 5 Part 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.5.Part.2.Accessibility" = "Steam for 30 to 40 minutes on medium to high heat.";
+"EggMeatloaf.Instructions.Step.5.Part.2.Accessibility" = "Steam for 40 to 45 minutes on medium to high heat.";
 
 /* Egg Meatloaf Instructions Step 5 Note 1 */
 "EggMeatloaf.Instructions.Step.5.Note.1" = "I usually use a 3″×4″×7½″ non-stick loaf pan.";
@@ -1231,22 +1264,22 @@
 "EggMeatloaf.Instructions.Step.5.Note.1.Accessibility" = "I usually use a 3 by 4 by 7 and a half inch non-stick loaf pan.";
 
 /* Egg Meatloaf Instructions Step 5 Note 2 */
-"EggMeatloaf.Instructions.Step.5.Note.2" = "To avoid condensation dripping down from the center of the lid, tie the lid in a large kitchen towel so that it absorbs any condensing droplets.";
+"EggMeatloaf.Instructions.Step.5.Note.2" = "To avoid condensation dripping down from the center of the lid, wrap the lid in a large kitchen towel so that it absorbs any condensing droplets.";
 
 /* Egg Meatloaf Instructions Step 5 Note 3 */
-"EggMeatloaf.Instructions.Step.5.Note.3" = "Keep en eye on the water to make sure it doesn't run out while the ##Chả Trứng## (egg meatloaf) is still steaming.";
+"EggMeatloaf.Instructions.Step.5.Note.3" = "Keep an eye on the water to make sure it doesn't run out while the ##Chả Trứng## (egg meatloaf) is still steaming.";
 
 /* Egg Meatloaf Instructions Step 5 Note 3 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.5.Note.3.Accessibility" = "Keep en eye on the water to make sure it doesn't run out while the egg meatloaf is still steaming.";
+"EggMeatloaf.Instructions.Step.5.Note.3.Accessibility" = "Keep an eye on the water to make sure it doesn't run out while the egg meatloaf is still steaming.";
 
 /* Egg Meatloaf Instructions Step 6 */
 "EggMeatloaf.Instructions.Step.6" = "Step 6";
 
 /* Egg Meatloaf Instructions Step 6 Part 1 */
-"EggMeatloaf.Instructions.Step.6.Part.1" = "After 30-40 minutes, beat up the 3 ##Lòng Đỏ Trứng## (egg yolks) that were set aside earlier.";
+"EggMeatloaf.Instructions.Step.6.Part.1" = "After 40-45 minutes, beat up the 3 ##Lòng Đỏ Trứng## (egg yolks) that were set aside earlier.";
 
 /* Egg Meatloaf Instructions Step 6 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.6.Part.1.Accessibility" = "After 30 to 40 minutes, beat up the 3 egg yolks that were set aside earlier.";
+"EggMeatloaf.Instructions.Step.6.Part.1.Accessibility" = "After 40 to 45 minutes, beat up the 3 egg yolks that were set aside earlier.";
 
 /* Egg Meatloaf Instructions Step 6 Part 2 */
 "EggMeatloaf.Instructions.Step.6.Part.2" = "Add the ##Dầu Annatto## (annatto oil) and mix well.";
@@ -1300,7 +1333,7 @@
 // MARK: Dau Annatto (Annatto Oil) Page
 
 /* Annatto Oil Title - Should Be in Vietnamese */
-"AnnattoOil.Page.Title" = "Dầu Annatto";
+"AnnattoOil.Page.Title" = "Dầu Hạt Điều";
 
 /* Annatto Oil Subtitle - This is the translation */
 "AnnattoOil.Page.Subtitle" = "Annatto Oil";
@@ -1312,7 +1345,7 @@
 "AnnattoOil.Main.Image" = "Info";
 
 /* Annatto Oil Introduction 1 */
-"AnnattoOil.Introduction.1" = "##Dầu Annatto## (annatto oil) is made by extracting oils and pigments from ##Hạt Annatto## (annatto seeds) by using heated oil. The ##Hạt Annatto## (annatto seeds) are very mild in flavor so adding the ##Dầu Annatto## (annatto oil) to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
+"AnnattoOil.Introduction.1" = "##Dầu Hạt Điều## (annatto oil) is made by extracting oils and pigments from ##Hạt Điều## (annatto seeds) by using heated oil. The ##Hạt Điều## (annatto seeds) are very mild in flavor so adding the ##Dầu Hạt Điều## (annatto oil) to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
 
 /* Annatto Oil Introduction 1 (VoiceOver) */
 "AnnattoOil.Introduction.1.Accessibility" = "Annatto oil is made by extracting oils and pigments from annatto seeds by using heated oil. The annatto seeds are very mild in flavor so adding the annatto oil to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
@@ -1345,61 +1378,61 @@
 "AnnattoOil.Instructions.Step.1" = "Step 1";
 
 /* Annatto Oil Ingredients Step 1 Part 1 */
-"AnnattoOil.Instructions.Step.1.Part.1" = "Add the ##Hạt Annatto## (annatto seeds) into a sauce pan filled with cold ##Dầu## (oil).";
+"AnnattoOil.Instructions.Step.1.Part.1" = "Add the ##Hạt Điều## (annatto seeds) and ##Dầu## (oil) into a sauce pan.";
 
 /* Annatto Oil Ingredients Step 1 Part 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.1.Accessibility" = "Add the annatto seeds into a sauce pan filled with cold cooking oil.";
+"AnnattoOil.Instructions.Step.1.Part.1.Accessibility" = "Add the annatto seeds and oil into a sauce pan..";
 
 /* Annatto Oil Ingredients Step 1 Part 2 */
-"AnnattoOil.Instructions.Step.1.Part.2" = "Cook the ##Hạt Annatto## (annatto seeds) on medium heat.";
+"AnnattoOil.Instructions.Step.1.Part.2" = "Cook the ##Hạt Điều## (annatto seeds) on medium heat.";
 
 /* Annatto Oil Ingredients Step 1 Part 2 (VoiceOver) */
 "AnnattoOil.Instructions.Step.1.Part.2.Accessibility" = "Cook the annatto seeds on medium heat.";
 
 /* Annatto Oil Ingredients Step 1 Part 3 */
-"AnnattoOil.Instructions.Step.1.Part.3" = "Turn off the heat when bubbles start to form around the ##Hạt Annatto## (annatto seeds).";
+"AnnattoOil.Instructions.Step.1.Part.3" = "When bubbles start to form around the ##Hạt Điều## (annatto seeds), remove the sauce pan from the stove.";
 
 /* Annatto Oil Ingredients Step 1 Part 3 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.3.Accessibility" = "Turn off the heat when bubbles start to form around the annatto seeds.";
+"AnnattoOil.Instructions.Step.1.Part.3.Accessibility" = "When bubbles start to form around the annatto seeds, remove the sauce pan from the stove.";
 
 /* Annatto Oil Ingredients Step 1 Part 4 */
-"AnnattoOil.Instructions.Step.1.Part.4" = "Let the ##Hạt Annatto## (annatto seeds) soak in the oil for 2 more minutes.";
+"AnnattoOil.Instructions.Step.1.Part.4" = "Let the ##Dầu Hạt Điều## (annatto oil) cool.";
 
 /* Annatto Oil Ingredients Step 1 Part 4 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.4.Accessibility" = "Let the annatto seeds soak in the oil for 2 more minutes.";
+"AnnattoOil.Instructions.Step.1.Part.4.Accessibility" = "Let the annatto oil cool.";
 
 /* Annatto Oil Ingredients Step 1 Note 1 */
-"AnnattoOil.Instructions.Step.1.Note.1" = "##Hạt Annatto## (annatto seeds) can be found in most Asian supermarkets.";
+"AnnattoOil.Instructions.Step.1.Note.1" = "##Hạt Điều## (annatto seeds) can be found in most Asian markets.";
 
 /* Annatto Oil Ingredients Step 1 Note 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Note.1.Accessibility" = "Annatto seeds can be found in most Asian supermarkets.";
+"AnnattoOil.Instructions.Step.1.Note.1.Accessibility" = "Annatto seeds can be found in most Asian markets.";
 
 /* Annatto Oil Instructions Step 2 */
 "AnnattoOil.Instructions.Step.2" = "Step 2";
 
 /* Annatto Oil Ingredients Step 2 Part 1 */
-"AnnattoOil.Instructions.Step.2.Part.1" = "Strain the ##Dầu Annatto## (annatto oil) to remove the seeds and transfer the oil to a heat-safe container.";
+"AnnattoOil.Instructions.Step.2.Part.1" = "Strain the ##Dầu Hạt Điều## (annatto oil) to remove the seeds and transfer the oil to a glass container.";
 
 /* Annatto Oil Ingredients Step 2 Part 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Part.1.Accessibility" = "Strain the annatto oil to remove the seeds and transfer the oil to a heat-safe container.";
+"AnnattoOil.Instructions.Step.2.Part.1.Accessibility" = "Strain the annatto oil to remove the seeds and transfer the oil to a glass container.";
 
 /* Annatto Oil Ingredients Step 2 Note 1 */
-"AnnattoOil.Instructions.Step.2.Note.1" = "The ##Dầu Annatto## (annatto oil) should last a few months, but because oil does degrade over time, do keep it in a cool, dark place.";
+"AnnattoOil.Instructions.Step.2.Note.1" = "##Dầu Hạt Điều## (annatto oil) should last up to one month in the refrigerator or up to one week in the pantry because oil does degrade over time.";
 
 /* Annatto Oil Ingredients Step 2 Note 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Note.1.Accessibility" = "The annatto oil should last a few months, but because oil does degrade over time, do keep it in a cool, dark place.";
+"AnnattoOil.Instructions.Step.2.Note.1.Accessibility" = "Annatto oil should last up to one month in the refrigerator or up to one week in the pantry because oil does degrade over time.";
 
 /* Annatto Oil Ingredients Step 2 Note 2 */
-"AnnattoOil.Instructions.Step.2.Note.2" = "Label and date your ##Dầu Annatto## (annatto oil) so it doesn't overstay its welcome in your pantry.";
+"AnnattoOil.Instructions.Step.2.Note.2" = "Label and date your ##Dầu Hạt Điều## (annatto oil) so it doesn't overstay its welcome.";
 
 /* Annatto Oil Ingredients Step 2 Note 2 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Note.2.Accessibility" = "Label and date your annatto oil so it doesn't overstay its welcome in your pantry.";
+"AnnattoOil.Instructions.Step.2.Note.2.Accessibility" = "Label and date your annatto oil so it doesn't overstay its welcome.";
 
 /* Annatto Oil How To Header */
 "AnnattoOil.HowTo.Header" = "How To";
 
 /* Annatto Oil How To 1 */
-"AnnattoOil.HowTo.1" = "A few drops of ##Dầu Annatto## (annatto oil) can bring a dull dish to life with an orange-red hue.";
+"AnnattoOil.HowTo.1" = "A few drops of ##Dầu Hạt Điều## (annatto oil) can bring a dull dish to life with an orange-red hue.";
 
 /* Annatto Oil How To 1 (VoiceOver) */
 "AnnattoOil.HowTo.1.Accessibility" = "A few drops of annatto oil can bring a dull dish to life with an orange-red hue.";
@@ -1429,16 +1462,22 @@
 "Pickles.Introduction.1.Accessibility" = "Pickled carrot and daikon, literrally translated as “sour things” from Vietnamese, is a sweet and tangy garnish.";
 
 /* Pickles Introduction 2 */
-"Pickles.Introduction.2" = "This recipe yields about 5 pints.";
+"Pickles.Introduction.2" = "This recipe yields about 1 pound.";
 
 /* Pickles Ingredients Header */
 "Pickles.Ingredients.Header" = "Ingredients";
 
 /* Pickles Ingredients Carrot Amount */
-"Pickles.Ingredients.Carrot.Amount" = "2 lbs";
+"Pickles.Ingredients.Carrot.Amount" = "½ lb";
+
+/* Pickles Ingredients Carrot Amount (VoiceOVer)*/
+"Pickles.Ingredients.Carrot.Amount.AccessibilityAmount" = "half a pound";
 
 /* Pickles Ingredients Daikon Amount */
-"Pickles.Ingredients.Daikon.Amount" = "2 lbs";
+"Pickles.Ingredients.Daikon.Amount" = "½ lb";
+
+/* Pickles Ingredients Daikon Amount (VoiceOVer)*/
+"Pickles.Ingredients.Daikon.Amount.AccessibilityAmount" = "half a pound";
 
 /* Pickles Ingredients Salt Amount */
 "Pickles.Ingredients.Salt.Amount" = "2 tsp";
@@ -1447,16 +1486,22 @@
 "Pickles.Ingredients.Salt.AccessibilityAmount" = "2 teaspoons";
 
 /* Pickles Ingredients Sugar Amount */
-"Pickles.Ingredients.Sugar.Amount" = "1 cup";
+"Pickles.Ingredients.Sugar.Amount" = "¼ cup";
+
+/* Pickles Ingredients Sugar Amount (VoiceOver) */
+"Pickles.Ingredients.Sugar.Amount.AccessibilityAmount" = "a quarter cup";
 
 /* Pickles Ingredients Vinegar Amount */
-"Pickles.Ingredients.Vinegar.Amount" = "2 ½ cups";
+"Pickles.Ingredients.Vinegar.Amount" = "⅔ cups";
 
 /* Pickles Ingredients Vinegar Amount (VoiceOver) */
-"Pickles.Ingredients.Vinegar.AccessibilityAmount" = "2 and a half cups";
+"Pickles.Ingredients.Vinegar.AccessibilityAmount" = "two third cups";
 
 /* Pickles Ingredients Water Amount */
-"Pickles.Ingredients.Water.Amount" = "2 cups, warm";
+"Pickles.Ingredients.Water.Amount" = "½ cup, warm";
+
+/* Pickles Ingredients Water Amount (VoiceOver) */
+"Pickles.Ingredients.Water.Amount.AccessibilityAmount" = "half a cup, warm";
 
 /* Pickles Instructions Header */
 "Pickles.Instructions.Header" = "Instructions";
@@ -1465,10 +1510,10 @@
 "Pickles.Instructions.Step.1" = "Step 1";
 
 /* Pickles Instructions Step 1 Part 1 */
-"Pickles.Instructions.Step.1.Part.1" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into ⅛″×⅛″ stripes.";
+"Pickles.Instructions.Step.1.Part.1" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into ⅛″-thick strips.";
 
 /* Pickles Instructions Step 1 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step.1.Part.1.Accessibility" = "Julienne the carrot and daikon into one eigth by one eigth inch stripes.";
+"Pickles.Instructions.Step.1.Part.1.Accessibility" = "Julienne the carrot and daikon into one eigth by one eigth inch thick strips.";
 
 /* Pickles Instructions Step 1 Note 1 */
 "Pickles.Instructions.Step.1.Note.1" = "Be sure to peel the skins off the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), and wash thoroughly before cutting them.";
@@ -1480,10 +1525,10 @@
 "Pickles.Instructions.Step.1.Note.2" = "Consider using a mandolin to make the julienning process easier, but be careful not to cut yourself.";
 
 /* Pickles Instructions Step 1 Note 3 */
-"Pickles.Instructions.Step.1.Note.3" = "The thickness of the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) can be modified to your preference; thicker strips should be pickled longer for the flavors to fully permeate, while thinner strips tend to pull up more of the vinegar when served.";
+"Pickles.Instructions.Step.1.Note.3" = "The thickness of the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) can be modified to your preference; thicker strips should be pickled longer for the flavors to fully permeate.";
 
 /* Pickles Instructions Step 1 Note 3 (VoiceOver) */
-"Pickles.Instructions.Step.1.Note.3.Accessibility" = "The thickness of the carrot and daikon can be modified to your preference; thicker strips should be pickled longer for the flavors to fully permeate, while thinner strips tend to pull up more of the vinegar when served.";
+"Pickles.Instructions.Step.1.Note.3.Accessibility" = "The thickness of the carrot and daikon can be modified to your preference; thicker strips should be pickled longer for the flavors to fully permeate.";
 
 /* Pickles Instructions Step 2 */
 "Pickles.Instructions.Step.2" = "Step 2";
@@ -1495,16 +1540,16 @@
 "Pickles.Instructions.Step.2.Part.1.Accessibility" = "Place the julienned carrot and daikon into a large bowl.";
 
 /* Pickles Instructions Step 2 Part 2 */
-"Pickles.Instructions.Step.2.Part.2" = "Sprinkle in 2 teaspoons of ##Muối## (salt).";
+"Pickles.Instructions.Step.2.Part.2" = "Sprinkle in the ##Muối## (salt).";
 
 /* Pickles Instructions Step 2 Part 2 (VoiceOver) */
-"Pickles.Instructions.Step.2.Part.2.Accessibility" = "Sprinkle in 2 teaspoons of salt.";
+"Pickles.Instructions.Step.2.Part.2.Accessibility" = "Sprinkle in the salt.";
 
 /* Pickles Instructions Step 2 Part 3 */
-"Pickles.Instructions.Step.2.Part.3" = "Massage everything together for about 3 minutes or until the ##Cà Rốt## (carrot) or ##Củ Cải Trắng## (daikon) is soft and limp.";
+"Pickles.Instructions.Step.2.Part.3" = "Massage everything together for about 3-5 minutes or until the ##Cà Rốt## (carrot) or ##Củ Cải Trắng## (daikon) is soft and limp.";
 
 /* Pickles Instructions Step 2 Part 3 (VoiceOver) */
-"Pickles.Instructions.Step.2.Part.3.Accessibility" = "Massage everything together for about 3 minutes or until the carrot or daikon is soft and limp.";
+"Pickles.Instructions.Step.2.Part.3.Accessibility" = "Massage everything together for about 3 to 5 minutes or until the carrot or daikon is soft and limp.";
 
 /* Pickles Instructions Step 2 Note */
 "Pickles.Instructions.Step.2.Note.1" = "The ##Muối## (salt) will draw out ##Nước## (water) from the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), so don’t be alarmed when liquid accumulates in the bowl.";
@@ -1525,10 +1570,10 @@
 "Pickles.Instructions.Step.4" = "Step 4";
 
 /* Pickles Instructions Step 4 Part 1 */
-"Pickles.Instructions.Step.4.Part.1" = "Mix together the ##Đường## (sugar), ##Giấm Trắng## (white vinegar), and warm ##Nước## (water) in a jar until dissolved.";
+"Pickles.Instructions.Step.4.Part.1" = "Mix together the ##Đường## (sugar), ##Giấm Trắng## (white vinegar), and warm ##Nước## (water) in a jar until the sugar is dissolved.";
 
 /* Pickles Instructions Step 4 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step.4.Part.1.Accessibility" = "Mix together the sugar, white vinegar, and warm water in a jar until dissolved.";
+"Pickles.Instructions.Step.4.Part.1.Accessibility" = "Mix together the sugar, white vinegar, and warm water in a jar until the sugar is dissolved.";
 
 /* Pickles Instructions Step 4 Part 2 */
 "Pickles.Instructions.Step.4.Part.2" = "Add the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) to the jar.";
@@ -1562,6 +1607,12 @@
 
 /* Pickles How To 2 (VoiceOver) */
 "Pickles.HowTo.2.Accessibility" = "They are also often mixed in with mixed fish sauce when it is a part of a dish.";
+
+/* Pickles How To 3 */
+"Pickles.HowTo.3" = "Drain the ##Đồ Chua## (pickled carrot and daikon) before serving.";
+
+/* Pickles How To 3 (VoiceOver) */
+"Pickles.HowTo.3.Accessibility" = "Drain the pickled carrot and daikon before serving.";
 
 /* Pickles Used In Header */
 "Pickles.UsedIn.Header" = "Used In";
@@ -1699,7 +1750,7 @@
 "MixedFishSauce.Instructions.Step.1" = "Step 1";
 
 /* Mixed Fish Sauce Instructions Step 1 Part 1 */
-"MixedFishSauce.Instructions.Step.1.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Nước Chanh## (lime juice), and ##Nước## (water) into a bowl";
+"MixedFishSauce.Instructions.Step.1.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Nước Chanh## (lime juice), and ##Nước## (water) into a bowl.";
 
 /* Mixed Fish Sauce Instructions Step 1 Part 1 (VoiceOver) */
 "MixedFishSauce.Instructions.Step.1.Part.1.Accessibility" = "Add fish sauce, lime juice, and water into a bowl.";
@@ -1715,18 +1766,6 @@
 
 /* Mixed Fish Sauce Instructions Step 1 Note 2 (VoiceOver) */
 "MixedFishSauce.Instructions.Step.1.Note.2.Accessibility" = "Substitute lime juice with white vinegar will allow it to last much longer (about 1 month).";
-
-/* Mixed Fish Sauce Instructions Step 1 Note 3 */
-"MixedFishSauce.Instructions.Step.1.Note.3" = "Store the ##Nước Mắm Chấm## (mixed fish sauce) in the refrigerator.";
-
-/* Mixed Fish Sauce Instructions Step 1 Note 3 (VoiceOver) */
-"MixedFishSauce.Instructions.Step.1.Note.3.Accessibility" = "Store the mixed fish sauce in the refrigerator.";
-
-/* Mixed Fish Sauce Instructions Step 1 Note 4 */
-"MixedFishSauce.Instructions.Step.1.Note.4" = "Label and date your ##Nước Mắm Chấm## (mixed fish sauce) so it doesn’t over stay its welcome in your refrigerator.";
-
-/* Mixed Fish Sauce Instructions Step 1 Note 4 (VoiceOver) */
-"MixedFishSauce.Instructions.Step.1.Note.4.Accessibility" = "Label and date your mixed fish sauce so it doesn’t over stay its welcome in your refrigerator.";
 
 /* Mixed Fish Sauce Instructions Step 2 */
 "MixedFishSauce.Instructions.Step.2" = "Step 2";
@@ -1752,14 +1791,26 @@
 /* Mixed Fish Sauce Instructions Step 3 Note 2 */
 "MixedFishSauce.Instructions.Step.3.Note.2" = "If you can’t find chili paste, any fresh chilis will do, or you can skip it all together if you don’t like spicy things.";
 
+/* Mixed Fish Sauce Instructions Step 3 Note 3 */
+"MixedFishSauce.Instructions.Step.3.Note.3" = "Store the ##Nước Mắm Chấm## (mixed fish sauce) in the refrigerator.";
+
+/* Mixed Fish Sauce Instructions Step 3 Note 3 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.3.Note.3.Accessibility" = "Store the mixed fish sauce in the refrigerator.";
+
+/* Mixed Fish Sauce Instructions Step 3 Note 4 */
+"MixedFishSauce.Instructions.Step.3.Note.4" = "Label and date your ##Nước Mắm Chấm## (mixed fish sauce) so it doesn’t over stay its welcome in your refrigerator.";
+
+/* Mixed Fish Sauce Instructions Step 3 Note 4 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.3.Note.4.Accessibility" = "Label and date your mixed fish sauce so it doesn’t over stay its welcome in your refrigerator.";
+
 /* Mixed Fish Sauce How To Header */
 "MixedFishSauce.HowTo.Header" = "How To";
 
 /* Mixed Fish Sauce How To 1 */
-"MixedFishSauce.HowTo.1" = "##Nước Mắm Chấm## (mixed fish sauce) is used as a dipping sauce to add flavor to your dish.";
+"MixedFishSauce.HowTo.1" = "##Nước Mắm Chấm## (mixed fish sauce) is used as a dipping sauce to add extra flavor to your dish.";
 
 /* Mixed Fish Sauce How To 1 (VoiceOver) */
-"MixedFishSauce.HowTo.1.Accessibility" = "Mixed fish sauce is used as a dipping sauce to add flavor to your dish.";
+"MixedFishSauce.HowTo.1.Accessibility" = "Mixed fish sauce is used as a dipping sauce to add extra flavor to your dish.";
 
 /* Mixed Fish Sauce Used In Header */
 "MixedFishSauce.UsedIn.Header" = "Used In";
@@ -1809,11 +1860,14 @@
 /* Mayo Main Image (VoiceOver) */
 "Mayo.Main.Image" = "Info";
 
-/* Mayo Introduction */
-"Mayo.Introduction" = "##Sốt Mayonnaise## (mayonnaise sauce) was brought to Vietnam through its French influence and it is mainly used in ##Bánh Mì## (sandwich).";
+/* Mayo Introduction 1 */
+"Mayo.Introduction.1" = "##Sốt Mayonnaise## (mayonnaise sauce) was brought to Vietnam through its French influence and it is mainly used in ##Bánh Mì## (sandwich).";
 
-/* Mayo Introduction (VoiceOver) */
-"Mayo.Introduction.Accessibility" = "Mayonnaise sauce was brought to Vietnam through its French influence and it is mainly used in banh mi.";
+/* Mayo Introduction 1 (VoiceOver) */
+"Mayo.Introduction.1.Accessibility" = "Mayonnaise sauce was brought to Vietnam through the French influence and it is mainly used in banh mi.";
+
+/* Mayo Introduction 2 */
+"Mayo.Introduction.2" = "This recipe yields 1 cup.";
 
 /* Mayo Ingredients Header */
 "Mayo.Ingredients.Header" = "Ingredients";
@@ -1837,10 +1891,10 @@
 "Mayo.Instructions.Step.1" = "Step 1";
 
 /* Mayo Instructions Step 1 Part 1 */
-"Mayo.Instructions.Step.1.Part.1" = "Place the ##Lòng Đỏ Trứng## (egg yolks) in a bowl.";
+"Mayo.Instructions.Step.1.Part.1" = "Place the ##Lòng Đỏ Trứng## (egg yolks) into a bowl.";
 
 /* Mayo Instructions Step 1 Part 1 (VoiceOver) */
-"Mayo.Instructions.Step.1.Part.1.Accessibility" = "Place the egg yolks in a bowl.";
+"Mayo.Instructions.Step.1.Part.1.Accessibility" = "Place the egg yolks into a bowl.";
 
 /* Mayo Instructions Step 1 Part 2 */
 "Mayo.Instructions.Step.1.Part.2" = "Whisk the ##Lòng Đỏ Trứng## (egg yolks) together on low to medium power with a hand mixer.";
@@ -1858,10 +1912,10 @@
 "Mayo.Instructions.Step.2.Part.1.Accessibility" = "While the egg yolks are whisking, slowly incorporate the oil.";
 
 /* Mayo Instructions Step 2 Note 1 */
-"Mayo.Instructions.Step.2.Note.1" = "Adding the ##Dầu## (oil) should be spread over 2-3 minutes.";
+"Mayo.Instructions.Step.2.Note.1" = "Adding the ##Dầu## (oil) should be spread over 5-10 minutes.";
 
 /* Mayo Instructions Step 2 Note 1 (VoiceOver) */
-"Mayo.Instructions.Step.2.Note.1.Accessibility" = "Adding the oil should be spread over 2 to 3 minutes.";
+"Mayo.Instructions.Step.2.Note.1.Accessibility" = "Adding the oil should be spread over 5 to 10 minutes.";
 
 /* Mayo Instructions Step 2 Note 2 */
 "Mayo.Instructions.Step.2.Note.2" = "If the ##Dầu## (oil) is added too quickly, it will not combine well with the ##Lòng Đỏ Trứng## (egg yolks).";
@@ -1883,6 +1937,12 @@
 
 /* Mayo Instructions Step 3 Part 2 */
 "Mayo.Instructions.Step.3.Part.2" = "Whisk for another 30 seconds.";
+
+/* Mayo Instructions Step 3 Note 1 */
+"Mayo.Instructions.Step.3.Note.1" = "The mayonnaise should last up to one month in the refrigerator.";
+
+/* Mayo Instructions Step 3 Note 2 */
+"Mayo.Instructions.Step.3.Note.2" = "Label and date your mayonnaise so it doesn't over stay its welcome in your refrigerator.";
 
 /* Mayo How To Header */
 "Mayo.HowTo.Header" = "How To";
@@ -1918,7 +1978,7 @@
 "GrilledPork.Introduction.1.Accessibility" = "Grilled pork is a sweet, salty, and savory entree, and can be paired with lots of dishes. It is so tasty that it can even be eaten with plain white rice.";
 
 /* Grilled Pork Introduction 2 */
-"GrilledPork.Introduction.2" = "This recipe works perfectly with beef and chicken as well. It serves two.";
+"GrilledPork.Introduction.2" = "This recipe serves two.";
 
 /* Grilled Pork Ingredients Header */
 "GrilledPork.Ingredients.Header" = "Ingredients";
@@ -1978,7 +2038,16 @@
 "GrilledPork.Instructions.Step.1.Part.2.Accessibility" = "Add fish sauce, salt and black pepper to the bowl.";
 
 /* Grilled Pork Instructions Step 1 Note 1 */
-"GrilledPork.Instructions.Step.1.Note.1" = "This recipe also works well with beef and chicken.";
+"GrilledPork.Instructions.Step.1.Note.1" = "The best cut of pork to use would be pork shoulder or pork butt and pork chop.";
+
+/* Grilled Pork Instructions Step 1 Note 2 */
+"GrilledPork.Instructions.Step.1.Note.2" = "I often buy Shabu Shabu cut meat from an Asian market because they are pre-cut to thin slices then I don't need to prepare much.";
+
+/* Grilled Pork Instructions Step 1 Note 3 */
+"GrilledPork.Instructions.Step.1.Note.3" = "If you are using pork chop, you can tenderize it by pounding it or you can score it very lightly on both sides to break up the protein chains so they are easier to chew.";
+
+/* Grilled Pork Instructions Step 1 Note 4 */
+"GrilledPork.Instructions.Step.1.Note.4" = "This recipe also works well with beef or chicken.";
 
 /* Grilled Pork Instructions Step 2 */
 "GrilledPork.Instructions.Step.2" = "Step 2";

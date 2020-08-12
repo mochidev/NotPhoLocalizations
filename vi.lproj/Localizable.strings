@@ -106,11 +106,14 @@
 /* Banh Mi Main Image Action Hint (VoiceOver) */
 "BanhMi.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
 
-/* Banh Mi Introduction */
-"BanhMi.Introduction" = "##Bánh Mì## là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. ##Bánh Mì## có rất nhiều loại - thông thường là làm với thịt nguội và ##Sốt Mayo## hoặc pâté, nhưng ##Thịt Nướng## cũng rất là quan nghiên. Điều độc đáo của ##Bánh Mì## là sự ghép hợp của ##Đồ Chua## làm từ ##Cà Rốt## và ##Củ Cải Trắng##. ##Đồ Chua## tạo cho ##Bánh Mì## một hương vị ngọt ngào và thơm, cùng với ##Dưa Leo##, ##Ngò##, và ##Ớt##, ##Bánh Mì## là món ăn tuyệt vời có thể thưởng thức bất cứ lúc nào.";
+/* Banh Mi Introduction 1 */
+"BanhMi.Introduction.1" = "##Bánh Mì## là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. ##Bánh Mì## có rất nhiều loại - thông thường là làm với thịt nguội và ##Sốt Mayo## hoặc pâté, nhưng ##Thịt Nướng## cũng rất là quan nghiên. Điều độc đáo của ##Bánh Mì## là sự ghép hợp của ##Đồ Chua## làm từ ##Cà Rốt## và ##Củ Cải Trắng##. ##Đồ Chua## tạo cho ##Bánh Mì## một hương vị ngọt ngào và thơm, cùng với ##Dưa Leo##, ##Ngò##, và ##Ớt##, ##Bánh Mì## là món ăn tuyệt vời có thể thưởng thức bất cứ lúc nào.";
 
-/* Banh Mi Introduction (VoiceOver) */
-"BanhMi.Introduction.Accessibility" = "Bánh Mì là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Bánh Mì có rất nhiều loại - thông thường là làm với thịt nguội và Sốt Mayo hoặc pâté, nhưng Thịt Nướng cũng rất là quan nghiên. Điều độc đáo của Bánh Mì là sự ghép hợp của Đồ Chua làm từ Cà Rốt và Củ Cải Trắng. Đồ Chua tạo cho Bánh Mì một hương vị ngọt ngào và thơm, cùng với Dưa Leo, Ngò, và Ớt, Bánh Mì là món ăn tuyệt vời có thể thưởng thức bất cứ lúc nào.";
+/* Banh Mi Introduction 1 (VoiceOver) */
+"BanhMi.Introduction.1.Accessibility" = "Bánh Mì là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Bánh Mì có rất nhiều loại - thông thường là làm với thịt nguội và Sốt Mayo hoặc pâté, nhưng Thịt Nướng cũng rất là quan nghiên. Điều độc đáo của Bánh Mì là sự ghép hợp của Đồ Chua làm từ Cà Rốt và Củ Cải Trắng. Đồ Chua tạo cho Bánh Mì một hương vị ngọt ngào và thơm, cùng với Dưa Leo, Ngò, và Ớt, Bánh Mì là món ăn tuyệt vời có thể thưởng thức bất cứ lúc nào.";
+
+/* Banh Mi Introduction 2 */
+"BanhMi.Introduction.2" = "Công thức này làm một phần bánh mì.";
 
 /* Banh Mi Ingredients Header */
 "BanhMi.Ingredients.Header" = "Nguyên Liệu";
@@ -128,10 +131,10 @@
 "BanhMi.Ingredients.Pickles.Amount" = "1 đến 2 ounces";
 
 /* Banh Mi Ingredients GrilledPork Amount */
-"BanhMi.Ingredients.GrilledPork.Amount" = "4 đến 6 oz";
+"BanhMi.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
 
 /* Banh Mi Ingredients GrilledPork Amount (VoiceOver) */
-"BanhMi.Ingredients.GrilledPork.AccessibilityAmount" = "4 đến 6 ounces";
+"BanhMi.Ingredients.GrilledPork.AccessibilityAmount" = "3 đến 4 ounces";
 
 /* Banh Mi Ingredients Mayo Amount */
 "BanhMi.Ingredients.Mayo.Amount" = "1 oz";
@@ -234,6 +237,9 @@
 
 /* Crepe Introduction (VoiceOver) */
 "Crepe.Introduction.Accessibility" = "Bánh Xèo mô tả âm thanh phát ra khi bột chạm vào chảo nóng. Bánh Xèo là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Thông thường Bánh Xèo được kết hợp với rau thơm và Nước Mắm Chấm.";
+
+/* Crepe Introduction 2 */
+"Crepe.Introduction.2" = "Công thức này làm cho 4 đến 5 người ăn.";
 
 /* Crepe Ingredients Header */
 "Crepe.Ingredients.Header" = "Nguyên Liệu";
@@ -451,29 +457,32 @@
 /* Vermicelli Main Image Action Hint (VoiceOver) */
 "Vermicelli.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
 
-/* Vermicelli Introduction */
-"Vermicelli.Introduction" = "##Bún Thịt Nướng Chả Giò## là một món bún lạnh phổ biến nhưng rất đậm đà. Món ăn này có thể được thưởng thức bức cứ lúc nào đặc biệt là trong mùa hè nóng bức.";
+/* Vermicelli Introduction 1 */
+"Vermicelli.Introduction.1" = "##Bún Thịt Nướng Chả Giò## là một món bún lạnh phổ biến nhưng rất đậm đà. Món ăn này có thể được thưởng thức bức cứ lúc nào đặc biệt là trong mùa hè nóng bức.";
 
-/* Vermicelli Introduction (VoiceOver) */
-"Vermicelli.Introduction.Accessibility" = "Bún Thịt Nướng Chả Giò là một món bún lạnh phổ biến nhưng rất đậm đà. Món ăn này có thể được thưởng thức bức cứ lúc nào đặc biệt là trong mùa hè nóng bức.";
+/* Vermicelli Introduction 1 (VoiceOver) */
+"Vermicelli.Introduction.1.Accessibility" = "Bún Thịt Nướng Chả Giò là một món bún lạnh phổ biến nhưng rất đậm đà. Món ăn này có thể được thưởng thức bức cứ lúc nào đặc biệt là trong mùa hè nóng bức.";
+
+/* Vermicelli Introduction 2 */
+"Vermicelli.Introduction.2" = "Công thức này làm thành một tô bún.";
 
 /* Vermicelli Ingredients Header */
 "Vermicelli.Ingredients.Header" = "Nguyên Liệu";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount */
-"Vermicelli.Ingredients.VermicelliNoodles.Amount" = "4 đến 5 oz";
+"Vermicelli.Ingredients.VermicelliNoodles.Amount" = "3 đến 4 oz";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount (VoiceOver) */
-"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount" = "4 đến 5 ounces";
+"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount" = "3 đến 4 ounces";
 
 /* Vermicelli Ingredients EggRolls Amount */
 "Vermicelli.Ingredients.EggRolls.Amount" = "2 cuốn";
 
 /* Vermicelli Ingredients Grilled Pork Amount */
-"Vermicelli.Ingredients.GrilledPork.Amount" = "4 đến 6 oz";
+"Vermicelli.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
 
 /* Vermicelli Ingredients Grilled Pork Amount (VoiceOver) */
-"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount" = "4 đến 6 ounces";
+"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount" = "3 đến 4 ounces";
 
 /* Vermicelli Ingredients Pickles Amount */
 "Vermicelli.Ingredients.Pickles.Amount" = "1 đến 2 oz";
@@ -518,10 +527,10 @@
 "Vermicelli.Instructions.1.Accessibility" = "Cắt nhỏ Rau Xà Lách và bỏ vào tô.";
 
 /* Vermicelli Instructions 2 */
-"Vermicelli.Instructions.2" = "Cho ##Bún## vào trên ##Rau Xà Lách##. (Nấu ##Bún## theo cách thức ở trên bao bì của bịch ##Bún##.)";
+"Vermicelli.Instructions.2" = "Cho ##Bún## vào trên ##Rau Xà Lách##. Nấu ##Bún## theo cách thức ở trên bao bì của bịch ##Bún##.";
 
 /* Vermicelli Instructions 2 (VoiceOver) */
-"Vermicelli.Instructions.2.Accessibility" = "Cho Bún vào trên Rau Xà Lách. (Nấu Bún theo cách thức ở trên bao bì của bịch Bún.)";
+"Vermicelli.Instructions.2.Accessibility" = "Cho Bún vào trên Rau Xà Lách. Nấu Bún theo cách thức ở trên bao bì của bịch Bún.";
 
 /* Vermicelli Instructions 3 */
 "Vermicelli.Instructions.3" = "Thêm vào lá ##Tí Tồ##, ##Húng Lũi## và ##Đồ Chua## bên phân nửa của cái tô.";
@@ -598,11 +607,14 @@
 /* Egg Rolls Main Image Action Hint (VoiceOver) */
 "EggRolls.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
 
-/* Egg Rolls Introduction */
-"EggRolls.Introduction" = "##Chả Giò## là một món khai vị thơm ngon của Việt Nam. Hương vị thơm ngon của chả giò khi phối hợp với các loại rau thơm tươi, đặc biệt là khi chấm với ##Nước Mắm Chấm## rất là tuyệt vời.";
+/* Egg Rolls Introduction 1 */
+"EggRolls.Introduction.1" = "##Chả Giò## là một món khai vị thơm ngon của Việt Nam. Hương vị thơm ngon của chả giò khi phối hợp với các loại rau thơm tươi, đặc biệt là khi chấm với ##Nước Mắm Chấm## rất là tuyệt vời.";
 
-/* Egg Rolls Introduction (VoiceOver) */
-"EggRolls.Introduction.Accessibility" = "Chả Giò là một món khai vị thơm ngon của Việt Nam. Hương vị thơm ngon của chả giò khi phối hợp với các loại rau thơm tươi, đặc biệt là khi chấm với Nước Mắm Chấm rất là tuyệt vời.";
+/* Egg Rolls Introduction 1 (VoiceOver) */
+"EggRolls.Introduction.1.Accessibility" = "Chả Giò là một món khai vị thơm ngon của Việt Nam. Hương vị thơm ngon của chả giò khi phối hợp với các loại rau thơm tươi, đặc biệt là khi chấm với Nước Mắm Chấm rất là tuyệt vời.";
+
+/* Egg Rolls Introduction 2 */
+"EggRolls.Introduction.2" = "Công thức này làm cho một người ăn.";
 
 /* Egg Rolls Ingredients Header */
 "EggRolls.Ingredients.Header" = "Nguyên Liệu";
@@ -668,29 +680,35 @@
 /* Broken Rice Main Image Action Hint (VoiceOver) */
 "BrokenRice.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
 
-/* Broken Rice Introduction */
-"BrokenRice.Introduction" = "Ban đầu ##Cơm Tấm## là một món ăn của nông dân vì họ không thể bán gạo vỡ, gạo này có tên là ##Gạo Tắm##. ##Cơm Tấm## có rất nhiều loại nhưng thông thường nhất là ăn với ##Thịt Nướng##, ##Chả Trứng##, ##Đồ Chua## và ##Nước Mắm Chấm##.";
+/* Broken Rice Introduction 1 */
+"BrokenRice.Introduction.1" = "Ban đầu ##Cơm Tấm## là một món ăn của nông dân vì họ không thể bán gạo vỡ, gạo này có tên là ##Gạo Tắm##. ##Cơm Tấm## có rất nhiều loại nhưng thông thường nhất là ăn với ##Thịt Nướng##, ##Chả Trứng##, ##Đồ Chua## và ##Nước Mắm Chấm##.";
 
-/* Broken Rice Introduction (VoiceOver) */
-"BrokenRice.Introduction.Accessibility" = "Ban đầu Cơm Tấm là một món ăn của nông dân vì họ không thể bán gạo vỡ, gạo này có tên là Gạo Tắm. Cơm Tấm có rất nhiều loại nhưng thông thường nhất là ăn với Thịt Nướng, Chả Trứng, Đồ Chua và Nước Mắm Chấm.";
+/* Broken Rice Introduction 1 (VoiceOver) */
+"BrokenRice.Introduction.1.Accessibility" = "Ban đầu Cơm Tấm là một món ăn của nông dân vì họ không thể bán gạo vỡ, gạo này có tên là Gạo Tắm. Cơm Tấm có rất nhiều loại nhưng thông thường nhất là ăn với Thịt Nướng, Chả Trứng, Đồ Chua và Nước Mắm Chấm.";
+
+/* Broken Rice Introduction 2 */
+"BrokenRice.Introduction.2" = "Công thức này làm một dĩa cơm.";
 
 /* Broken Rice Ingredients Header */
 "BrokenRice.Ingredients.Header" = "Nguyên Liệu";
 
 /* Broken Rice Ingredients Rice Amount */
-"BrokenRice.Ingredients.Rice.Amount" = "6 oz, cơm chín";
+"BrokenRice.Ingredients.Rice.Amount" = "½ cup, cơm chín";
+
+/* Broken Rice Ingredients Rice Amount (VoiceOver) */
+"BrokenRice.Ingredients.Rice.AccessibilityAmount" = "phân nữa cup, cơm chín";
 
 /* Broken Rice Ingredients Grilled Pork Amount */
-"BrokenRice.Ingredients.GrilledPork.Amount" = "4 đến 6 oz";
+"BrokenRice.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
 
 /* Broken Rice Ingredients Grilled Pork Amount (VoiceOver) */
-"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount" = "4 đến 6 ounces";
+"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount" = "3 đến 4 ounces";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount */
-"BrokenRice.Ingredients.EggMeatloaf.Amount" = "3 đến 4 oz";
+"BrokenRice.Ingredients.EggMeatloaf.Amount" = "2 đến 3 oz";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount (VoiceOver) */
-"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount" = "3 đến 4 ounces";
+"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount" = "2 đến 3 ounces";
 
 /* Broken Rice Ingredients Pickles Amount */
 "BrokenRice.Ingredients.Pickles.Amount" = "1 đến 2 oz";
@@ -751,6 +769,18 @@
 
 /* Broken Rice Ingredients Instructions 6 (VoiceOver) */
 "Broken.Rice.Instructions.6.Accessibility" = "Muốn thưởng thức Cơm Tấm thì không thể thiếu Nước Mắm Chấm.";
+
+/* Broken Rice Tips Header */
+"Broken.Rice.Tips.Header" = "Chú Ý";
+
+/* Broken Rice Tips 1 */
+"Broken.Rice.Tips.1" = "Nếu muốn cơm ngon thì nên dùng nồi nấu cơm điện.";
+
+/* Broken Rice Tips 2 */
+"Broken.Rice.Tips.2" = "Thông thường khi nấu cơm tắm thì dùng ít nước một chút.";
+
+/* Broken Rice Tips 3 */
+"Broken.Rice.Tips.3" = "Gạo tắm có bán ở rất nhiều chợ Châu Á.";
 
 /* Broken Rice How To Header */
 "Broken.Rice.HowTo.Header" = "Cách Thưởng Thức";
@@ -1123,7 +1153,10 @@
 "EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount" = "phân nữa pound";
 
 /* Egg Meatloaf Ingredients Onion Amount */
-"EggMeatloaf.Ingredients.Onion.Amount" = "3 muốn canh";
+"EggMeatloaf.Ingredients.Onion.Amount" = "⅓ cup";
+
+/* Egg Meatloaf Ingredients Onion Amount (VoiceOver) */
+"EggMeatloaf.Ingredients.Onion.AccessibilityAmount" = "một phần ba cup";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount */
 "EggMeatloaf.Ingredients.BeanThreads.Amount" = "1 đến 2 oz";
@@ -1156,10 +1189,10 @@
 "EggMeatloaf.Ingredients.Egg.Amount" = "4 trứng trung bình";
 
 /* Egg Meatloaf Ingredients Annatto Oil Amount */
-"EggMeatloaf.Ingredients.AnnattoOil.Amount" = "1 đến 2 muỗng cà phê (tùy ý)";
+"EggMeatloaf.Ingredients.AnnattoOil.Amount" = "2 đến 3 muỗng cà phê (tùy ý)";
 
 /* Egg Meatloaf Ingredients Annatto Oil Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "1 đến 2 muỗng cà phê (tùy ý)";
+"EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "2 đến 3 muỗng cà phê (tùy ý)";
 
 /* Egg Meatloaf Instructions Header */
 "EggMeatloaf.Instructions.Header" = "Cách Làm";
@@ -1222,10 +1255,10 @@
 "EggMeatloaf.Instructions.Step.5.Part.1" = "Chuyển nhân thịt vào khuôn để hấp.";
 
 /* Egg Meatloaf Instructions Step 5 Part 2 */
-"EggMeatloaf.Instructions.Step.5.Part.2" = "Hấp cho khoảng 30 đến 40 phút.";
+"EggMeatloaf.Instructions.Step.5.Part.2" = "Hấp cho khoảng 40 đến 45 phút.";
 
 /* Egg Meatloaf Instructions Step 5 Part 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.5.Part.2.Accessibility" = "Hấp cho khoảng 30 đến 40 phút.";
+"EggMeatloaf.Instructions.Step.5.Part.2.Accessibility" = "Hấp cho khoảng 40 đến 45 phút.";
 
 /* Egg Meatloaf Instructions Step 5 Note 1 */
 "EggMeatloaf.Instructions.Step.5.Note.1" = "Khuôn mình thường dùng là khoảng 3″×4″×7½″ lớn.";
@@ -1246,10 +1279,10 @@
 "EggMeatloaf.Instructions.Step.6" = "Bước 6";
 
 /* Egg Meatloaf Instructions Step 6 Part 1 */
-"EggMeatloaf.Instructions.Step.6.Part.1" = "Sau khi 30 đến 40 phút, đánh chung 3 ##Lòng Đỏ Trứng## từ vài bước trước.";
+"EggMeatloaf.Instructions.Step.6.Part.1" = "Sau khi 40 đến 45 phút, đánh chung 3 ##Lòng Đỏ Trứng## từ vài bước trước.";
 
 /* Egg Meatloaf Instructions Step 6 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.6.Part.1.Accessibility" = "Sau khi 30 đến 40 phút, đánh chung 3 Lòng Đỏ Trứng từ vài bước trước.";
+"EggMeatloaf.Instructions.Step.6.Part.1.Accessibility" = "Sau khi 40 đến 45 phút, đánh chung 3 Lòng Đỏ Trứng từ vài bước trước.";
 
 /* Egg Meatloaf Instructions Step 6 Part 2 */
 "EggMeatloaf.Instructions.Step.6.Part.2" = "Thêm ##Dầu Annatto## vào chung với ##Lòng Đỏ Trứng## và trộn đều.";
@@ -1303,7 +1336,7 @@
 // MARK: Dau Annatto (Annatto Oil) Page
 
 /* Annatto Oil Title - Should Be in Vietnamese */
-"AnnattoOil.Page.Title" = "Dầu Annatto";
+"AnnattoOil.Page.Title" = "Dầu Hạt Điều";
 
 /* Annatto Oil Subtitle - This is the translation */
 "AnnattoOil.Page.Subtitle" = "Annatto Oil";
@@ -1315,10 +1348,10 @@
 "AnnattoOil.Main.Image" = "Thông tin.";
 
 /* Annatto Oil Introduction 1 */
-"AnnattoOil.Introduction.1" = "##Dầu Annatto## la làm từ dầu và ##Hạt Annatto##. ##Hạt Annatto## không có mùi vị gì nhưng khi dùng có thể cho màu sắc cho món ăn.";
+"AnnattoOil.Introduction.1" = "##Dầu Hạt Điều## la làm từ dầu và ##Hạt Điều##. ##Hạt Điều## không có mùi vị gì nhưng khi dùng có thể cho màu sắc cho món ăn.";
 
 /* Annatto Oil Introduction 1 (VoiceOver) */
-"AnnattoOil.Introduction.1.Accessibility" = "Dầu Annatto la làm từ dầu và Hạt Annatto. Hạt Annatto không có mùi vị gì nhưng khi dùng có thể cho màu sắc cho món ăn.";
+"AnnattoOil.Introduction.1.Accessibility" = "Dầu Hạt Điều la làm từ dầu và Hạt Điều. Hạt Annatto không có mùi vị gì nhưng khi dùng có thể cho màu sắc cho món ăn.";
 
 /* Annatto Oil Introduction 2 */
 "AnnattoOil.Introduction.2" = "Công thức này làm khoảng ¼ cup.";
@@ -1348,10 +1381,10 @@
 "AnnattoOil.Instructions.Step.1" = "Bước 1";
 
 /* Annatto Oil Ingredients Step 1 Part 1 */
-"AnnattoOil.Instructions.Step.1.Part.1" = "Cho ##Hạt Annatto## và ##Dầu## vào trong một cái nồi nhỏ.";
+"AnnattoOil.Instructions.Step.1.Part.1" = "Cho ##Hạt Điều## và ##Dầu## vào trong một cái nồi nhỏ.";
 
 /* Annatto Oil Ingredients Step 1 Part 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.1.Accessibility" = "Cho Hạt Annatto và Dầu vào trong một cái nồi nhỏ.";
+"AnnattoOil.Instructions.Step.1.Part.1.Accessibility" = "Cho Hạt Điều và Dầu vào trong một cái nồi nhỏ.";
 
 /* Annatto Oil Ingredients Step 1 Part 2 */
 "AnnattoOil.Instructions.Step.1.Part.2" = "Nấu nguyên liệu trong nồi trên lửa trung bình.";
@@ -1360,52 +1393,52 @@
 "AnnattoOil.Instructions.Step.1.Part.2.Accessibility" = "Nấu nguyên liệu trong nồi trên lửa trung bình.";
 
 /* Annatto Oil Ingredients Step 1 Part 3 */
-"AnnattoOil.Instructions.Step.1.Part.3" = "Khi bông bống bắt đầu xoay quanh ##Hạt Annatto## thì tắt lửa.";
+"AnnattoOil.Instructions.Step.1.Part.3" = "Khi bông bống bắt đầu xoay quanh ##Hạt Điều## thì lấy nồi khỏi lò.";
 
 /* Annatto Oil Ingredients Step 1 Part 3 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.3.Accessibility" = "Khi bông bống bắt đầu xoay quanh Hạt Annatto thì tắt lửa.";
+"AnnattoOil.Instructions.Step.1.Part.3.Accessibility" = "Khi bông bống bắt đầu xoay quanh Hạt Điều thì lấy nồi khỏi lò.";
 
 /* Annatto Oil Ingredients Step 1 Part 4 */
-"AnnattoOil.Instructions.Step.1.Part.4" = "Sau khi tắt lửa để ##Hạt Annatto## tiếp tục ngâm trong dầu thêm hai phút.";
+"AnnattoOil.Instructions.Step.1.Part.4" = "Để ##Dầu Hạt Điều## nguội lại.";
 
 /* Annatto Oil Ingredients Step 1 Part 4 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.4.Accessibility" = "Sau khi tắt lửa để Hạt Annatto tiếp tục ngâm trong dầu thêm hai phút.";
+"AnnattoOil.Instructions.Step.1.Part.4.Accessibility" = "Để ##Dầu Hạt Điều## nguội lại.";
 
 /* Annatto Oil Ingredients Step 1 Note 1 */
-"AnnattoOil.Instructions.Step.1.Note.1" = "##Hạt Annatto## có thể tìm ở những chợ á châu.";
+"AnnattoOil.Instructions.Step.1.Note.1" = "##Hạt Điều## có thể tìm ở những chợ á châu.";
 
 /* Annatto Oil Ingredients Step 1 Note 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Note.1.Accessibility" = "Hạt Annatto có thể tìm ở những chợ á châu.";
+"AnnattoOil.Instructions.Step.1.Note.1.Accessibility" = "Hạt Điều có thể tìm ở những chợ á châu.";
 
 /* Annatto Oil Instructions Step 2 */
 "AnnattoOil.Instructions.Step.2" = "Bước 2";
 
 /* Annatto Oil Ingredients Step 2 Part 1 */
-"AnnattoOil.Instructions.Step.2.Part.1" = "Lược ##Hạt Annatto## ra và giữ lại ##Dầu Annatto##.";
+"AnnattoOil.Instructions.Step.2.Part.1" = "Lược ##Hạt Điều## ra và giữ lại ##Dầu Hạt Điều##.";
 
 /* Annatto Oil Ingredients Step 2 Part 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Part.1.Accessibility" = "Lược Hạt Annatto ra và giữ lại Dầu Annatto.";
+"AnnattoOil.Instructions.Step.2.Part.1.Accessibility" = "Lược Hạt Điều ra và giữ lại Dầu Hạt Điều.";
 
 /* Annatto Oil Ingredients Step 2 Note 1 */
-"AnnattoOil.Instructions.Step.2.Note.1" = "Khi ##Dầu Annatto## nguội rồi thì có thể chuyển vào hũ để cứt lên. ##Dầu Annatto## có thể giữ được vài tháng.";
+"AnnattoOil.Instructions.Step.2.Note.1" = "Khi ##Dầu Hạt Điều## nguội rồi thì có thể chuyển vào hũ để cứt lên. ##Dầu Hạt Điều## có thể giữ được một tháng trong tủ lạnh hoặc một tuần ở bên ngoài tủ lạnh.";
 
 /* Annatto Oil Ingredients Step 2 Note 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Note.1.Accessibility" = "Khi Dầu Annatto nguội rồi thì có thể chuyển vào hũ để cứt lên. Dầu Annatto có thể giữ được vài tháng.";
+"AnnattoOil.Instructions.Step.2.Note.1.Accessibility" = "Khi Dầu Hạt Điều nguội rồi thì có thể chuyển vào hũ để cứt lên. Dầu Hạt Điều có thể giữ được một tháng trong tủ lạnh hoặc một tuần ở bên ngoài tủ lạnh.";
 
 /* Annatto Oil Ingredients Step 2 Note 2 */
-"AnnattoOil.Instructions.Step.2.Note.2" = "Đừng quên viết ngày lên trên ngoài của cái hủ để nhớ khi ##Dầu Annatto## hết hạn.";
+"AnnattoOil.Instructions.Step.2.Note.2" = "Đừng quên viết ngày lên trên ngoài của cái hủ để nhớ khi ##Dầu Hạt Điều## hết hạn.";
 
 /* Annatto Oil Ingredients Step 2 Note 2 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Note.2.Accessibility" = "Đừng quên viết ngày lên trên ngoài của cái hủ để nhớ khi Dầu Annatto hết hạn.";
+"AnnattoOil.Instructions.Step.2.Note.2.Accessibility" = "Đừng quên viết ngày lên trên ngoài của cái hủ để nhớ khi Dầu Hạt Điều hết hạn.";
 
 /* Annatto Oil How To Header */
 "AnnattoOil.HowTo.Header" = "Cách Thưởng Thức";
 
 /* Annatto Oil How To 1 */
-"AnnattoOil.HowTo.1" = "Một vài giọt ##Dầu Annatto## là đủ cho màu cho một món ăn.";
+"AnnattoOil.HowTo.1" = "Một vài giọt ##Dầu Hạt Điều## là đủ cho màu cho một món ăn.";
 
 /* Annatto Oil How To 1 (VoiceOver) */
-"AnnattoOil.HowTo.1.Accessibility" = "Một vài giọt Dầu Annatto là đủ cho màu cho một món ăn.";
+"AnnattoOil.HowTo.1.Accessibility" = "Một vài giọt Dầu Hạt Điều là đủ cho màu cho một món ăn.";
 
 /* Annatto Oil Used In Header */
 "AnnattoOil.UsedIn.Header" = "Dùng Trong";
@@ -1432,16 +1465,22 @@
 "Pickles.Introduction.1.Accessibility" = "Đồ Chua là một món trang trí ngọt ngào và thơm.";
 
 /* Pickles Introduction 2 */
-"Pickles.Introduction.2" = "Công thức này tao ra 5 pints.";
+"Pickles.Introduction.2" = "Công thức này làm khoảng 1 lb.";
 
 /* Pickles Ingredients Header */
 "Pickles.Ingredients.Header" = "Nguyên Liệu";
 
 /* Pickles Ingredients Carrot Amount */
-"Pickles.Ingredients.Carrot.Amount" = "2 lbs";
+"Pickles.Ingredients.Carrot.Amount" = "½ lb";
+
+/* Pickles Ingredients Carrot Amount (VoiceOVer)*/
+"Pickles.Ingredients.Carrot.Amount.AccessibilityAmoun" = "phân nữa pound";
 
 /* Pickles Ingredients Daikon Amount */
-"Pickles.Ingredients.Daikon.Amount" = "2 lbs";
+"Pickles.Ingredients.Daikon.Amount" = "½ lb";
+
+/* Pickles Ingredients Daikon Amount (VoiceOVer)*/
+"Pickles.Ingredients.Daikon.Amount.AccessibilityAmoun" = "phân nữa pound";
 
 /* Pickles Ingredients Salt Amount */
 "Pickles.Ingredients.Salt.Amount" = "2 muốn cà phê";
@@ -1450,16 +1489,22 @@
 "Pickles.Ingredients.Salt.AccessibilityAmount" = "2 muốn cà phê";
 
 /* Pickles Ingredients Sugar Amount */
-"Pickles.Ingredients.Sugar.Amount" = "1 cup";
+"Pickles.Ingredients.Sugar.Amount" = "¼ cup";
+
+/* Pickles Ingredients Sugar Amount (VocieOver) */
+"Pickles.Ingredients.Sugar.Amount.AccessibilityAmoun" = "một phần tư cup";
 
 /* Pickles Ingredients Vinegar Amount */
-"Pickles.Ingredients.Vinegar.Amount" = "2 và ½ cups";
+"Pickles.Ingredients.Vinegar.Amount" = "⅔ cups";
 
 /* Pickles Ingredients Vinegar Amount (VoiceOver) */
-"Pickles.Ingredients.Vinegar.AccessibilityAmount" = "2 và ½ cups";
+"Pickles.Ingredients.Vinegar.AccessibilityAmount" = "hai phần ba cups";
 
 /* Pickles Ingredients Water Amount */
-"Pickles.Ingredients.Water.Amount" = "2 cups, nước ấm";
+"Pickles.Ingredients.Water.Amount" = "½ cup, warm";
+
+/* Pickles Ingredients Water Amount (VoiceOver) */
+"Pickles.Ingredients.Water.Amount.AccessibilityAmoun" = "phân nữa cup, nước ấm";
 
 /* Pickles Instructions Header */
 "Pickles.Instructions.Header" = "Cách Làm";
@@ -1468,10 +1513,10 @@
 "Pickles.Instructions.Step.1" = "Bước 1";
 
 /* Pickles Instructions Step 1 Part 1 */
-"Pickles.Instructions.Step.1.Part.1" = "Cắt ##Cà Rốt## và ##Củ Cải Trắng## thành sợ nhỏ khoảng một phần tám inch giày.";
+"Pickles.Instructions.Step.1.Part.1" = "Cắt ##Cà Rốt## và ##Củ Cải Trắng## thành sợ nhỏ giày khoảng một phần tám inch.";
 
 /* Pickles Instructions Step 1 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step.1.Part.1.Accessibility" = "Cắt Cà Rốt và Củ Cải Trắng thành sợ nhỏ khoảng một phần tám inch giày.";
+"Pickles.Instructions.Step.1.Part.1.Accessibility" = "Cắt Cà Rốt và Củ Cải Trắng thành sợ nhỏ giày khoảng một phần tám inch.";
 
 /* Pickles Instructions Step 1 Note 1 */
 "Pickles.Instructions.Step.1.Note.1" = "Nên nhớ lột vỏ ##Cà Rốt## và ##Củ Cải Trắng## và rửa sạch trước khi cắt nhỏ.";
@@ -1483,10 +1528,10 @@
 "Pickles.Instructions.Step.1.Note.2" = "Nếu làm điều lượng nhiều thì có thể dùng máy bào.";
 
 /* Pickles Instructions Step 1 Note 3 */
-"Pickles.Instructions.Step.1.Note.3" = "Độ dày của ##Cà Rốt## và ##Củ Cải Trắng## thì tùy ý nhưng nếu dày quá thì thời gian thời gian ướp sẽ lâu hơn.";
+"Pickles.Instructions.Step.1.Note.3" = "Độ dày của ##Cà Rốt## và ##Củ Cải Trắng## thì tùy ý nhưng nếu dày quá thì thời gian ướp sẽ lâu hơn.";
 
 /* Pickles Instructions Step 1 Note 3 (VoiceOver) */
-"Pickles.Instructions.Step.1.Note.3.Accessibility" = "Độ dày của Cà Rốt và Củ Cải Trắng thì tùy ý nhưng nếu dày quá thì thời gian thời gian ướp sẽ lâu hơn.";
+"Pickles.Instructions.Step.1.Note.3.Accessibility" = "Độ dày của Cà Rốt và Củ Cải Trắng thì tùy ý nhưng nếu dày quá thì thời gian ướp sẽ lâu hơn.";
 
 /* Pickles Instructions Step 2 */
 "Pickles.Instructions.Step.2" = "Bước 2";
@@ -1504,10 +1549,10 @@
 "Pickles.Instructions.Step.2.Part.2.Accessibility" = "Thêm ##Muối## vào.";
 
 /* Pickles Instructions Step 2 Part 3 */
-"Pickles.Instructions.Step.2.Part.3" = "Bóp ##Cà Rốt## và ##Củ Cải Trắng## đến khi mềm khoảng 3 phút.";
+"Pickles.Instructions.Step.2.Part.3" = "Bóp ##Cà Rốt## và ##Củ Cải Trắng## đến khi mềm khoảng 3 đến 5 phút.";
 
 /* Pickles Instructions Step 2 Part 3 (VoiceOver) */
-"Pickles.Instructions.Step.2.Part.3.Accessibility" = "Bóp Cà Rốt và Củ Cải Trắng đến khi mềm khoảng 3 phút.";
+"Pickles.Instructions.Step.2.Part.3.Accessibility" = "Bóp Cà Rốt và Củ Cải Trắng đến khi mềm khoảng 3 đến 5 phút.";
 
 /* Pickles Instructions Step 2 Note */
 "Pickles.Instructions.Step.2.Note.1" = "##Muối## sẽ kéo nước ra từ trong ##Cà Rốt## và ##Củ Cải Trắng##.";
@@ -1565,6 +1610,12 @@
 
 /* Pickles How To 2 (VoiceOver) */
 "Pickles.HowTo.2.Accessibility" = "##Đồ Chua## đôi khi cũng có thể kèm chung với ##Nước Mắm Chấm##.";
+
+/* Pickles How To 3 */
+"Pickles.HowTo.3" = "Đổ bỏ nước trong ##Đồ Chua## trước khi ăn.";
+
+/* Pickles How To 3 (VoiceOver) */
+"Pickles.HowTo.3.Accessibility" = "Đổ bỏ nước trong Đồ Chua trước khi ăn.";
 
 /* Pickles Used In Header */
 "Pickles.UsedIn.Header" = "Dùng Trong";
@@ -1720,18 +1771,6 @@
 /* Mixed Fish Sauce Instructions Step 1 Note 2 (VoiceOver) */
 "MixedFishSauce.Instructions.Step.1.Note.2.Accessibility" = "Nếu dùng Giấm Trắng thay thế cho Nước Chanh thì Nước Mắm Chấm sẽ có thể để lâu hơn, khoảng một tháng.";
 
-/* Mixed Fish Sauce Instructions Step 1 Note 3 */
-"MixedFishSauce.Instructions.Step.1.Note.3" = "Sau khi ##Nước Mắm Chấm## pha xong thì có thể chứa trong tủ lạnh.";
-
-/* Mixed Fish Sauce Instructions Step 1 Note 3 (VoiceOver) */
-"MixedFishSauce.Instructions.Step.1.Note.3.Accessibility" = "Sau khi Nước Mắm Chấm pha xong thì có thể chứa trong tủ lạnh.";
-
-/* Mixed Fish Sauce Instructions Step 1 Note 4 */
-"MixedFishSauce.Instructions.Step.1.Note.4" = "Đừng quên viết ngày lên bên ngoài của đồ đựng để nhớ khi ##Nước Mắm Chấm## hết hạn.";
-
-/* Mixed Fish Sauce Instructions Step 1 Note 4 (VoiceOver) */
-"MixedFishSauce.Instructions.Step.1.Note.4.Accessibility" = "Đừng quên viết ngày lên bên ngoài của đồ đựng để nhớ khi Nước Mắm Chấm hết hạn.";
-
 /* Mixed Fish Sauce Instructions Step 2 */
 "MixedFishSauce.Instructions.Step.2" = "Bước 2";
 
@@ -1755,6 +1794,18 @@
 
 /* Mixed Fish Sauce Instructions Step 3 Note 2 */
 "MixedFishSauce.Instructions.Step.3.Note.2" = "Nếu không có thể ăn cay thì đừng có ớt.";
+
+/* Mixed Fish Sauce Instructions Step 3 Note 3 */
+"MixedFishSauce.Instructions.Step.3.Note.3" = "Sau khi ##Nước Mắm Chấm## pha xong thì có thể chứa trong tủ lạnh.";
+
+/* Mixed Fish Sauce Instructions Step 3 Note 3 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.3.Note.3.Accessibility" = "Sau khi Nước Mắm Chấm pha xong thì có thể chứa trong tủ lạnh.";
+
+/* Mixed Fish Sauce Instructions Step 3 Note 4 */
+"MixedFishSauce.Instructions.Step.3.Note.4" = "Đừng quên viết ngày lên bên ngoài của đồ đựng để nhớ khi ##Nước Mắm Chấm## hết hạn.";
+
+/* Mixed Fish Sauce Instructions Step 3 Note 4 (VoiceOver) */
+"MixedFishSauce.Instructions.Step.3.Note.4.Accessibility" = "Đừng quên viết ngày lên bên ngoài của đồ đựng để nhớ khi Nước Mắm Chấm hết hạn.";
 
 /* Mixed Fish Sauce How To Header */
 "MixedFishSauce.HowTo.Header" = "Cách Thưởng Thức";
@@ -1814,11 +1865,14 @@
 /* Mayo Main Image (VoiceOver) */
 "Mayo.Main.Image" = "Thông tin.";
 
-/* Mayo Introduction */
-"Mayo.Introduction" = "##Sốt Mayonnaise## đến tới Việt Nam qua sự ảnh hưởng của Phá và thông thường dùng trong món ##Bánh Mì##.";
+/* Mayo Introduction 1 */
+"Mayo.Introduction.1" = "##Sốt Mayonnaise## đến tới Việt Nam qua sự ảnh hưởng của Phá và thông thường dùng trong món ##Bánh Mì##.";
 
-/* Mayo Introduction (VoiceOver) */
-"Mayo.Introduction.Accessibility" = "Sốt Mayonnaise đến tới Việt Nam qua sự ảnh hưởng của Phá và thông thường dùng trong món Bánh Mì.";
+/* Mayo Introduction 1 (VoiceOver) */
+"Mayo.Introduction.1.Accessibility" = "Sốt Mayonnaise đến tới Việt Nam qua sự ảnh hưởng của Phá và thông thường dùng trong món Bánh Mì.";
+
+/* Mayo Introduction 2 */
+"Mayo.Introduction.2" = "Công thức này làm 1 cup.";
 
 /* Mayo Ingredients Header */
 "Mayo.Ingredients.Header" = "Nguyên Liệu";
@@ -1863,10 +1917,10 @@
 "Mayo.Instructions.Step.2.Part.1.Accessibility" = "Trong khi đánh Lòng Đỏ Trứng từ từ thêm Dầu vào với trứng.";
 
 /* Mayo Instructions Step 2 Note 1 */
-"Mayo.Instructions.Step.2.Note.1" = "Từ từ thêm ##Dầu## vào nhưng không thể nhanh quá. Bước này kéo dài khoảng 2 tới 3 phút.";
+"Mayo.Instructions.Step.2.Note.1" = "Từ từ thêm ##Dầu## vào nhưng không thể nhanh quá. Bước này kéo dài khoảng 5 tới 10 phút.";
 
 /* Mayo Instructions Step 2 Note 1 (VoiceOver) */
-"Mayo.Instructions.Step.2.Note.1.Accessibility" = "Từ từ thêm Dầu vào nhưng không thể nhanh quá. Bước này kéo dài khoảng 2 tới 3 phút.";
+"Mayo.Instructions.Step.2.Note.1.Accessibility" = "Từ từ thêm Dầu vào nhưng không thể nhanh quá. Bước này kéo dài khoảng 5 tới 10 phút.";
 
 /* Mayo Instructions Step 2 Note 2 */
 "Mayo.Instructions.Step.2.Note.2" = "Nếu dầu thêm nhanh quá thì ##Dầu## sẽ không phối hợp tốt với ##Lòng Đỏ Trứng## và sẽ tách rời.";
@@ -1888,6 +1942,12 @@
 
 /* Mayo Instructions Step 3 Part 2 */
 "Mayo.Instructions.Step.3.Part.2" = "Sau khi thêm ##Muối## thì tiếp tục đánh thêm 30 giây nữa.";
+
+/* Mayo Instructions Step 3 Note 1 */
+"Mayo.Instructions.Step.3.Note.1" = "Sốt này có thể giữ đến một tháng trong tủ lạnh.";
+
+/* Mayo Instructions Step 3 Note 2 */
+"Mayo.Instructions.Step.3.Note.2" = "Đừng quên viết ngày lên bên ngoài của đồ đựng để nhớ khi sốt hết hạn.";
 
 /* Mayo How To Header */
 "Mayo.HowTo.Header" = "Cách Thưởng Thức";
@@ -1923,7 +1983,7 @@
 "GrilledPork.Introduction.1.Accessibility" = "##Thịt Nướng## là dung nhắn tắc cho ##Thịt Heo Nướng##. ##Thịt Nướng## có mùi vị thơm ngon rất phù hợp ăn với bún hoặc cơm.";
 
 /* Grilled Pork Introduction 2 */
-"GrilledPork.Introduction.2" = "Công thức này cũng có thể dùng với thịt bò hoặc thịt gà, và cho khoảng 2 người ăn.";
+"GrilledPork.Introduction.2" = "Công thức này làm cho khoảng 2 người ăn.";
 
 /* Grilled Pork Ingredients Header */
 "GrilledPork.Ingredients.Header" = "Nguyên Liệu";
@@ -1983,7 +2043,16 @@
 "GrilledPork.Instructions.Step.1.Part.2.Accessibility" = "Thèm ##Nước Mắm##, ##Muối## và ##Tiêu Đen## vào tô.";
 
 /* Grilled Pork Instructions Step 1 Note 1 */
-"GrilledPork.Instructions.Step.1.Note.1" = "Tông thức này cũng có thể dùng với thịt bò hoặc thịt gà.";
+"GrilledPork.Instructions.Step.1.Note.1" = "Công thức này dùng thịt nạc vai hoặc thịt sường heo là ngon nhất.";
+
+/* Grilled Pork Instructions Step 1 Note 2 */
+"GrilledPork.Instructions.Step.1.Note.2" = "Có thể mua thịt nạc cắt sẵn thường để dùng cho ăn lẩu thì không cần phải chuẩn bị nhiều.";
+
+/* Grilled Pork Instructions Step 1 Note 3 */
+"GrilledPork.Instructions.Step.1.Note.3" = "Nếu mà dung thịt sường heo thì có thể cắt đường nhỏ ở trên mặt thịt để có thể làm thịt mềm mãi.";
+
+/* Grilled Pork Instructions Step 1 Note 4 */
+"GrilledPork.Instructions.Step.1.Note.4" = "Công thức này cũng có thể dùng với thịt bò hoặc thịt gà.";
 
 /* Grilled Pork Instructions Step 2 */
 "GrilledPork.Instructions.Step.2" = "Bước 2";
