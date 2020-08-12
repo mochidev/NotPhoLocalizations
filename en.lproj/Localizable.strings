@@ -841,19 +841,22 @@
 "CrepeBatter.Introduction.1.Accessibility" = "Vietnamese crepe batter is very simple but it’s an important ingredient in giving Vietnamese crepes their iconic look and crispy texture.";
 
 /* Crepe Batter Introduction 2 */
-"CrepeBatter.Introduction.2" = "This recipe yields 1 ½ cups of batter, which makes about four 8-in ##Bánh Xèo## (Vietnamese crêpes).";
+"CrepeBatter.Introduction.2" = "This recipe yields 1 cup of batter, which makes about four 8-in ##Bánh Xèo## (Vietnamese crêpes).";
 
 /* Crepe Batter Introduction 2 (VoiceOver) */
-"CrepeBatter.Introduction.2.Accessibility" = "This recipe yields one and a half cups of batter, which makes about four eight inch crepes.";
+"CrepeBatter.Introduction.2.Accessibility" = "This recipe yields one cup of batter, which makes about four eight inch crepes.";
 
 /* Crepe Batter Ingredients Header */
 "CrepeBatter.Ingredients.Header" = "Ingredients";
 
 /* Crepe Batter Ingredients Rice Flour Amount */
-"CrepeBatter.Ingredients.RiceFlour.Amount" = "3 oz";
+"CrepeBatter.Ingredients.RiceFlour.Amount" = "⅓ cup";
+
+/* Crepe Batter Ingredients Rice Flour Amount (VoiceOVer) */
+"CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount" = "one third cup";
 
 /* Crepe Batter Ingredients Corn Starch Amount */
-"CrepeBatter.Ingredients.CornStarch.Amount" = "1 oz";
+"CrepeBatter.Ingredients.CornStarch.Amount" = "2 tbsp";
 
 /* Crepe Batter Ingredients Turmeric Amount */
 "CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ tsp";
@@ -862,13 +865,16 @@
 "CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "1 eighth teaspoon";
 
 /* Crepe Batter Ingredients Coconut Milk Amount */
-"CrepeBatter.Ingredients.CoconutMilk.Amount" = "4 ½ oz";
+"CrepeBatter.Ingredients.CoconutMilk.Amount" = "¼ cup";
 
 /* Crepe Batter Ingredients Coconut Milk Amount (VoiceOver) */
-"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount" = "4 and a half ounces";
+"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount" = "one quarter cup";
 
 /* Crepe Batter Ingredients Water Amount */
-"CrepeBatter.Ingredients.Water.Amount" = "1 cup";
+"CrepeBatter.Ingredients.Water.Amount" = "½ cup";
+
+/* Crepe Batter Ingredients Water Amount (VoiceOver) */
+"CrepeBatter.Ingredients.Water.AccessibilityAmount" = "½ cup";
 
 /* Crepe Batter Ingredients GreenOnion Amount */
 "CrepeBatter.Ingredients.GreenOnion.Amount" = "1 stalk, sliced";
@@ -903,6 +909,12 @@
 /* Crepe Batter Instructions 5 (VoiceOver) */
 "CrepeBatter.Instructions.5.Accessibility" = "Let the crepe batter sit for at least 30 minutes.";
 
+/* Crepe Batter Instructions Note 1 */
+"CrepeBatter.Instructions.Note.1" = "If you don't have ##Nước Cốt Dừa## (coconut milk) then substitute it with ##Nước## (water) or even beer to make it extra crispy.";
+
+/* Crepe Batter Instructions Note 1 (VoiceOver) */
+"CrepeBatter.Instructions.Note.1.Accessibility" = "If you don't have coconut milk then substitute it with water or even beer to make it extra crispy.";
+
 /* Crepe Batter Used In Header */
 "CrepeBatter.UsedIn.Header" = "Used In";
 
@@ -928,10 +940,10 @@
 "EggRollsComponent.Introduction.1.Accessibility" = "Egg rolls are a popular crispy and savory component in several Vietnamese dishes. They can be enjoyed as an appetizer or used as a component in grilled pork and egg roll vermicelli noodles. Vietnamese egg rolls are distinct from other Asian egg rolls in that they typically have a light and thin wrapping, and rather than cabbage as a filling, often contain meat.";
 
 /* Egg Rolls Component Introduction 2 */
-"EggRollsComponent.Introduction.2" = "This recipe yields 25-30 rolls.";
+"EggRollsComponent.Introduction.2" = "This recipe yields at least 20 rolls.";
 
 /* Egg Rolls Component Introduction 2 (VoiceOver) */
-"EggRollsComponent.Introduction.2.Accessibility" = "This recipe yields 25 to 30 rolls.";
+"EggRollsComponent.Introduction.2.Accessibility" = "This recipe yields at least 20 rolls.";
 
 /* Egg Rolls Component Ingredients Header */
 "EggRollsComponent.Ingredients.Header" = "Ingredients";
@@ -955,25 +967,25 @@
 "EggRollsComponent.Onion.AccessibilityAmount" = "half a cup, diced";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount" = "¼ cup, diced";
+"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz, diced";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "one quarter cup, diced";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "2 to 4 ounces, diced";
 
 /* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount" = "½ cup, cut into ½ in long";
+"EggRollsComponent.BeanThreads.Amount" = "2-4 oz, cut into ½ in long";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
-"EggRollsComponent.BeanThreads.AccessibilityAmount" = "half a cup, cut into half an inch long threads";
+"EggRollsComponent.BeanThreads.AccessibilityAmount" = "2 to 4 ounces, cut into half an inch long threads";
 
 /* Egg Rolls Component Fish Sauce Amount */
 "EggRollsComponent.FishSauce.Amount" = "2 tbsp";
 
-/* Egg Rolls Component Salt Amount */
-"EggRollsComponent.Salt.Amount" = "½ tsp";
+/* Egg Rolls Component Chicken Bouillon Amount */
+"EggRollsComponent.ChickenBouillon.Amount" = "½ tsp";
 
-/* Egg Rolls Component Salt Amount (VoiceOver) */
-"EggRollsComponent.Salt.AccessibilityAmount" = "half a teaspoon";
+/* Egg Rolls Component Chicken Bouillon Amount (VoiceOver) */
+"EggRollsComponent.ChickenBouillon.AccessibilityAmount" = "half a teaspoon";
 
 /* Egg Rolls Component Black Pepper Amount */
 "EggRollsComponent.BlackPepper.Amount" = "1 tsp";
@@ -1015,22 +1027,28 @@
 "EggRollsComponent.Instructions.Step.2.Part.2" = "Add the diced ingredients to the bowl.";
 
 /* Egg Rolls Component Instructions Step 2 Note 1 */
-"EggRollsComponent.Instructions.Step.2.Note.1" = "Soak the ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles) in warm water for about 10-15 minutes or until they are soft enough to cut.";
+"EggRollsComponent.Instructions.Step.2.Note.1" = "Soak the ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles) in warm water for about 5-10 minutes or until they are soft enough to cut.";
 
 /* Egg Rolls Component Instructions Step 2 Note 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and bean threads in warm water for about 10 to 15 minutes or until they are soft enough to cut.";
+"EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and bean threads in warm water for about 5 to 10 minutes or until they are soft enough to cut.";
 
 /* Egg Rolls Component Instructions Step 3 */
 "EggRollsComponent.Instructions.Step.3" = "Step 3";
 
 /* Egg Rolls Component Instructions Step 3 Part 1 */
-"EggRollsComponent.Instructions.Step.3.Part.1" = "Add the ##Nước Mắm## (fish sauce), ##Muối## (salt), and ##Tiêu Đen## (black pepper) to the bowl.";
+"EggRollsComponent.Instructions.Step.3.Part.1" = "Add the ##Nước Mắm## (fish sauce), ##Bột Nêm Gà## (chicken bouillon), and ##Tiêu Đen## (black pepper) to the bowl.";
 
 /* Egg Rolls Component Instructions Step 3 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.3.Part.1.Accessibility" = "Add the fish sauce, salt, and black pepper to the bowl.";
+"EggRollsComponent.Instructions.Step.3.Part.1.Accessibility" = "Add the fish sauce, chicken bouillon, and black pepper to the bowl.";
 
 /* Egg Rolls Component Instructions Step 3 Part 2 */
 "EggRollsComponent.Instructions.Step.3.Part.2" = "Mix the contents in the bowl together.";
+
+/* Egg Rolls Component Instructions Step 3 Note 1 */
+"EggRollsComponent.Instructions.Step.3.Note.1" = "If you don't have ##Bột Nêm Gà## (chicken bouillon), then substitute with salt.";
+
+/* Egg Rolls Component Instructions Step 3 Note 1 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.3.Note.1.Accessibility" = "If you don't have chicken bouillon, then substitute with salt.";
 
 /* Egg Rolls Component Instructions Step 4 */
 "EggRollsComponent.Instructions.Step.4" = "Step 4";
@@ -1042,10 +1060,10 @@
 "EggRollsComponent.Instructions.Step.4.Part.1.Accessibility" = "Place a sheet of egg roll wrapper on a clean cutting board or counter surface with one of the corners pointing at you.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 */
-"EggRollsComponent.Instructions.Step.4.Part.2" = "Place about 1-2 tbsp of filling slightly below the center point of the wrapper.";
+"EggRollsComponent.Instructions.Step.4.Part.2" = "Place about 2-3 tbsp of filling slightly below the center point of the wrapper.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Place about 1 to 2 tablespoons of filling slightly below the center point of the wrapper.";
+"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Place about 2 to 3 tablespoons of filling slightly below the center point of the wrapper.";
 
 /* Egg Rolls Component Instructions Step 4 Part 3 */
 "EggRollsComponent.Instructions.Step.4.Part.3" = "Fold the bottom corner up and away from you.";

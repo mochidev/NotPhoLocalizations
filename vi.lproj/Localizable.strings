@@ -843,19 +843,22 @@
 "CrepeBatter.Introduction.1.Accessibility" = "Bột Bánh Xèo rất dễ làm nhưng là một nguyên liệu quan trọng khi làm Bánh Xèo.";
 
 /* Crepe Batter Introduction 2 */
-"CrepeBatter.Introduction.2" = "Công thức này làm khoảng 1 ½ cups bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
+"CrepeBatter.Introduction.2" = "Công thức này làm khoảng 1 cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
 
 /* Crepe Batter Introduction 2 (VoiceOver) */
-"CrepeBatter.Introduction.2.Accessibility" = "Công thức này làm khoảng một và một phần hai cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
+"CrepeBatter.Introduction.2.Accessibility" = "Công thức này làm khoảng một cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
 
 /* Crepe Batter Ingredients Header */
 "CrepeBatter.Ingredients.Header" = "Nguyên Liệu";
 
 /* Crepe Batter Ingredients Rice Flour Amount */
-"CrepeBatter.Ingredients.RiceFlour.Amount" = "3 oz";
+"CrepeBatter.Ingredients.RiceFlour.Amount" = "⅓ cup";
+
+/* Crepe Batter Ingredients Rice Flour Amount (VoiceOVer) */
+"CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount" = "một phần ba cup";
 
 /* Crepe Batter Ingredients Corn Starch Amount */
-"CrepeBatter.Ingredients.CornStarch.Amount" = "1 oz";
+"CrepeBatter.Ingredients.CornStarch.Amount" = "2 muỗng canh";
 
 /* Crepe Batter Ingredients Turmeric Amount */
 "CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ muốn cà phê";
@@ -864,13 +867,16 @@
 "CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "một phần tám muỗng cà phê";
 
 /* Crepe Batter Ingredients Coconut Milk Amount */
-"CrepeBatter.Ingredients.CoconutMilk.Amount" = "4 ½ oz";
+"CrepeBatter.Ingredients.CoconutMilk.Amount" = "¼ cup";
 
 /* Crepe Batter Ingredients Coconut Milk Amount (VoiceOver) */
-"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount" = "bốn và một phần hai ounces";
+"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount" = "một phần tư cup";
 
 /* Crepe Batter Ingredients Water Amount */
-"CrepeBatter.Ingredients.Water.Amount" = "1 cup";
+"CrepeBatter.Ingredients.Water.Amount" = "½ cup";
+
+/* Crepe Batter Ingredients Water Amount (VoiceOver) */
+"CrepeBatter.Ingredients.Water.AccessibilityAmount" = "phân nữa cup";
 
 /* Crepe Batter Ingredients GreenOnion Amount */
 "CrepeBatter.Ingredients.GreenOnion.Amount" = "1 cộng";
@@ -905,6 +911,12 @@
 /* Crepe Batter Instructions 5 (VoiceOver) */
 "CrepeBatter.Instructions.5.Accessibility" = "Để Bột Bánh Xèo nghỉ khoảng 30 phút trước khi dùng.";
 
+/* Crepe Batter Instructions Note 1 */
+"CrepeBatter.Instructions.Note.1" = "Nếu không có ##Nước Cốt Dừa## thì dùng ##Nước## thay thế hoặc cũng có thể dùng bia để bánh xèo thêm giòn.";
+
+/* Crepe Batter Instructions Note 1 (VoiceOver) */
+"CrepeBatter.Instructions.Note.1.Accessibility" = "Nếu không có Nước Cốt Dừa thì dùng Nước thay thế hoặc cũng có thể dùng bia để bánh xèo thêm giòn.";
+
 /* Crepe Batter Used In Header */
 "CrepeBatter.UsedIn.Header" = "Dùng Trong";
 
@@ -930,10 +942,10 @@
 "EggRollsComponent.Introduction.1.Accessibility" = "Chả Giò là một món khai vị thơm ngon của Việt Nam. Chả Giò có thể kèm với bún để ăn.";
 
 /* Egg Rolls Component Introduction 2 */
-"EggRollsComponent.Introduction.2" = "Công thức này sẽ làm khoảng 25 đến 30 cuốn.";
+"EggRollsComponent.Introduction.2" = "Công thức này làm ít nhất 20 cuốn.";
 
 /* Egg Rolls Component Introduction 2 (VoiceOver) */
-"EggRollsComponent.Introduction.2.Accessibility" = "Công thức này sẽ làm khoảng 25 đến 30 cuốn.";
+"EggRollsComponent.Introduction.2.Accessibility" = "Công thức này làm ít nhất 20 cuốn.";
 
 /* Egg Rolls Component Ingredients Header */
 "EggRollsComponent.Ingredients.Header" = "Nguyên Liệu";
@@ -971,11 +983,11 @@
 /* Egg Rolls Component Fish Sauce Amount */
 "EggRollsComponent.FishSauce.Amount" = "2 muộn canh";
 
-/* Egg Rolls Component Salt Amount */
-"EggRollsComponent.Salt.Amount" = "½ muỗng cà phê";
+/* Egg Rolls Component Chicken Bouillon Amount */
+"EggRollsComponent.ChickenBouillon.Amount" = "½ muỗng cà phê";
 
-/* Egg Rolls Component Salt Amount (VoiceOver) */
-"EggRollsComponent.Salt.AccessibilityAmount" = "phân nửa muỗng cà phê";
+/* Egg Rolls Component Chicken Bouillon Amount (VoiceOver) */
+"EggRollsComponent.ChickenBouillon.AccessibilityAmount" = "phân nửa muỗng cà phê";
 
 /* Egg Rolls Component Black Pepper Amount */
 "EggRollsComponent.BlackPepper.Amount" = "1 muỗng cà phê";
@@ -1026,13 +1038,19 @@
 "EggRollsComponent.Instructions.Step.3" = "Bước 3";
 
 /* Egg Rolls Component Instructions Step 3 Part 1 */
-"EggRollsComponent.Instructions.Step.3.Part.1" = "Thêm ##Nước Mắm##, ##Muối## và ##Tiêu Đen## vào tô.";
+"EggRollsComponent.Instructions.Step.3.Part.1" = "Thêm ##Nước Mắm##, ##Bột Nêm Gà## và ##Tiêu Đen## vào tô.";
 
 /* Egg Rolls Component Instructions Step 3 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.3.Part.1.Accessibility" = "Thêm Nước Mắm, Muối và Tiêu Đen vào tô.";
+"EggRollsComponent.Instructions.Step.3.Part.1.Accessibility" = "Thêm Nước Mắm, Bột Nêm Gà và Tiêu Đen vào tô.";
 
 /* Egg Rolls Component Instructions Step 3 Part 2 */
 "EggRollsComponent.Instructions.Step.3.Part.2" = "Trộn đều nguyên liệu trong tô.";
+
+/* Egg Rolls Component Instructions Step 3 Note 1 */
+"EggRollsComponent.Instructions.Step.3.Note.1" = "Nếu không có ##Bột Nêm Gà## thì thay thế bằng muối.";
+
+/* Egg Rolls Component Instructions Step 3 Note 1 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.3.Note.1.Accessibility" = "Nếu không có Bột Nêm Gà thì thay thế bằng muối.";
 
 /* Egg Rolls Component Instructions Step 4 */
 "EggRollsComponent.Instructions.Step.4" = "Bước 4";
@@ -1041,13 +1059,13 @@
 "EggRollsComponent.Instructions.Step.4.Part.1" = "Trên một cái thớt sạch, để một miếng ##Da Cuốn Chả Giò## trên thớt và chỉ một đầu nhọn về mình.";
 
 /* Egg Rolls Component Instructions Step 4 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Part.1.Accessibility" = "Trên một cái thớt sạch, để một miếng ##Da Cuốn Chả Giò## trên thớt và chỉ một đầu nhọn về mình.";
+"EggRollsComponent.Instructions.Step.4.Part.1.Accessibility" = "Trên một cái thớt sạch, để một miếng Da Cuốn Chả Giò trên thớt và chỉ một đầu nhọn về mình.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 */
-"EggRollsComponent.Instructions.Step.4.Part.2" = "Mút một đến hai muỗng cà phê thịt trộn sẵn và để giữa ##Da Cuốn Chả Giò##.";
+"EggRollsComponent.Instructions.Step.4.Part.2" = "Mút 2 đến 3 muỗng canh thịt trộn sẵn và để giữa ##Da Cuốn Chả Giò##.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Mút một đến hai muỗng cà phê thịt trộn sẵn và để giữa ##Da Cuốn Chả Giò##.";
+"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Mút 2 đến 3 muỗng canh thịt trộn sẵn và để giữa Da Cuốn Chả Giò.";
 
 /* Egg Rolls Component Instructions Step 4 Part 3 */
 "EggRollsComponent.Instructions.Step.4.Part.3" = "Bắt đầu gói ##Chả Giò##. Sếp ##Da Cuốn Chả Giò## ở dưới lên.";
