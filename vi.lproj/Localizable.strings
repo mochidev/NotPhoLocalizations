@@ -2349,6 +2349,40 @@
 "FishSauce.UsedIn.Header" = "Dùng Trong";
 
 
+// MARK: Tia To (Vietnamese Perilla) Page
+
+/* Perilla Page Title - Should Be in Vietnamese */
+"Perilla.Page.Title" = "Tía Tô";
+
+/* Perilla Page Subtitle - This is the translation */
+"Perilla.Page.Subtitle" = "Perilla";
+
+/* Perilla Page Title (VoiceOver) */
+"Perilla.Page.AccessibilityTitle" = "Tía Tô";
+
+/* Perilla Main Image (VoiceOver) */
+"Perilla.Main.Image" = "Thông tin.";
+
+/* Perilla Introduction */
+"Perilla.Introduction" = "##Tía Tô## là một loại rau thuộc về giống húng. ##Tía Tô## có rất nhiều loại khác nhau từ màu sắc, kích thước, và hình dạng. Loại rau này được dùng khắp Châu Á nhưng ##Tía Tô## Việt Nam khác ở chỗ là lá có hai màu, một bên màu đỏ tím một bên màu xanh lá. Hình thức của lá cũng nhỏ hơn các loại khác nhưng hương vị đậm đà hơn.";
+;
+
+/* Perilla Introduction (VoiceOver) */
+"Perilla.Introduction.Accessibility" = "Tía Tô là một loại rau thuộc về giống húng. Tía Tô có rất nhiều loại khác nhau từ màu sắc, kích thước, và hình dạng. Loại rau này được dùng khắp Châu Á nhưng Tía Tô Việt Nam khác ở chỗ là lá có hai màu, một bên màu đỏ tím một bên màu xanh lá. Hình thức của lá cũng nhỏ hơn các loại khác nhưng hương vị đậm đà hơn.";
+
+/* Perilla How To Header */
+"Perilla.HowTo.Header" = "Cách Thưởng Thức";
+
+/* Perilla How To 1 */
+"Perilla.HowTo.1" = "##Tía Tô## là để ăn sống.";
+
+/* Perilla How To 1 (VoiceOver) */
+"Perilla.Introduction.Accessibility" = "Tía Tô là để ăn sống.";
+
+/* Perilla Used In Header */
+"Perilla.UsedIn.Header" = "Dùng Trong";
+
+
 // MARK: Xa (Lemongrass) Page
 
 /* Lemongrass Page Title - Should Be in Vietnamese */
