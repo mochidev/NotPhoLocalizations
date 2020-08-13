@@ -233,10 +233,10 @@
 "Crepe.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
 
 /* Crepe Introduction */
-"Crepe.Introduction" = "##Bánh Xèo## mô tả âm thanh phát ra khi bột chạm vào chảo nóng. ##Bánh Xèo## là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Thông thường ##Bánh Xèo## được kết hợp với ##Rau## thơm và ##Nước Mắm Chấm##.";
+"Crepe.Introduction.1" = "##Bánh Xèo## mô tả âm thanh phát ra khi bột chạm vào chảo nóng. ##Bánh Xèo## là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Thông thường ##Bánh Xèo## được kết hợp với ##Rau## thơm và ##Nước Mắm Chấm##.";
 
 /* Crepe Introduction (VoiceOver) */
-"Crepe.Introduction.Accessibility" = "Bánh Xèo mô tả âm thanh phát ra khi bột chạm vào chảo nóng. Bánh Xèo là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Thông thường Bánh Xèo được kết hợp với rau thơm và Nước Mắm Chấm.";
+"Crepe.Introduction.1.Accessibility" = "Bánh Xèo mô tả âm thanh phát ra khi bột chạm vào chảo nóng. Bánh Xèo là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Thông thường Bánh Xèo được kết hợp với rau thơm và Nước Mắm Chấm.";
 
 /* Crepe Introduction 2 */
 "Crepe.Introduction.2" = "Công thức này làm cho 4 đến 5 người ăn.";
@@ -2169,7 +2169,7 @@
 "Baguette.Main.Image" = "Thông tin.";
 
 /* Baguette Introduction */
-"Baguette.Introduction" = "##Bánh Mì## là làm từ lúa mì và là món giới thiệu đến Việt Nam từ nước Pháp. ##Bánh Mì## có thể dùng trong rất nhiều mối ở Việt Nam như là ##Bánh Mì Thịt Nướng##, ##Cà Ri Gà## và ##Bo Kho## (beef stew). Trong tất cả món liên quan đến ##Bánh Mì## món mình thích nhất là ##Bánh Mì## chấm với ##Xì Dầu##. Có một lần mình sơ ý nghĩ là ##Nước Mắm## là ##Xì Dầu## khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+"Baguette.Introduction" = "##Bánh Mì## là làm từ lúa mì và là món giới thiệu đến Việt Nam từ nước Pháp. ##Bánh Mì## có thể dùng trong rất nhiều mối ở Việt Nam như là ##Bánh Mì Thịt Nướng##, ##Cà Ri Gà## và ##Bo Kho##. Trong tất cả món liên quan đến ##Bánh Mì## món mình thích nhất là ##Bánh Mì## chấm với ##Xì Dầu##. Có một lần mình sơ ý nghĩ là ##Nước Mắm## là ##Xì Dầu## khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
 
 /* Baguette Introduction (VoiceOver) */
 "Baguette.Introduction.Accessibility" = "Bánh Mì là làm từ lúa mì và là món giới thiệu đến Việt Nam từ nước Pháp. Bánh Mì có thể dùng trong rất nhiều mối ở Việt Nam như là Bánh Mì Thịt Nướng, Cà Ri Gà và Bo Kho (beef stew). Trong tất cả món liên quan đến Bánh Mì món mình thích nhất là Bánh Mì chấm với Xì Dầu. Có một lần mình sơ ý nghĩ là Nước Mắm là Xì Dầu khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
@@ -2524,7 +2524,7 @@
 "About.Feedback.Text" = "Nếu bạn có bất kỳ câu hỏi, thắc mắc hoặc phản hồi nào, hãy nhấp vào nút bên dưới để chia sẻ.\n\nLưu ý rằng mọi câu trả lời sẽ được giao tiếp bằng tiếng Anh.";
 
 /* About Follow me on Twitter Header */
-"About.FollowMeOnTwitter.Header" = "Theo Dõi Tôi Trên Twitter";
+"About.FollowMeOnTwitter.Header" = "Theo Dõi Trên Twitter";
 
 /* About Follow me on Twitter At LinhBouniol Accessibility Text */
 "About.FollowMeOnTwitter.AtLinhBouniol.AccessibilityText" = "At Linh Bouniol";
