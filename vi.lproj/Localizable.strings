@@ -73,19 +73,19 @@
 // MARK: - # Vietnamese Food Tab:
 
 /* Vietnamese Food Tab Page Title */
-"VietnamseFood.Page.Title" = "Đồ Ăn";
+"VietnameseFood.Page.Title" = "Đồ Ăn";
 
 /* Vietnamese Food Tab Page Subtitle */
-"VietnamseFood.Page.Subtitle" = "Việt Nam";
+"VietnameseFood.Page.Subtitle" = "Việt Nam";
 
 /* Vietnamese Food Tab Page Accessibility Title */
-"VietnamseFood.Page.AccessibilityTitle" = "Đồ Ăn Việt Nam";
+"VietnameseFood.Page.AccessibilityTitle" = "Đồ Ăn Việt Nam";
 
 /* Vietnamese Food Page Content Accessibility */
-"VietnamseFood.Page.Content.Accessibility" = "Tất cả món ăn sau đây rất nổi tiếng ở Việt Nam.";
+"VietnameseFood.Page.Content.Accessibility" = "Tất cả món ăn sau đây rất nổi tiếng ở Việt Nam.";
 
 /* Vietnamese Food Tab Title */
-"VietnamseFood.TabTitle" = "Đồ Ăn";
+"VietnameseFood.TabTitle" = "Đồ Ăn";
 
 
 // MARK: Banh Mi Thit Nuong (Grilled Pork Bánh Mì) Page

@@ -73,19 +73,19 @@
 // MARK: - # Vietnamese Food Tab:
 
 /* Vietnamese Food Tab Page Title */
-"VietnamseFood.Page.Title" = "Vietnamese Food";
+"VietnameseFood.Page.Title" = "Vietnamese Food";
 
 /* Vietnamese Food Tab Page Subtitle */
-"VietnamseFood.Page.Subtitle" = "Dishes";
+"VietnameseFood.Page.Subtitle" = "Dishes";
 
 /* Vietnamese Food Tab Page Accessibility Title */
-"VietnamseFood.Page.AccessibilityTitle" = "Vietnamese Food Dishes";
+"VietnameseFood.Page.AccessibilityTitle" = "Vietnamese Food Dishes";
 
 /* Vietnamese Food Page Content Accessibility */
-"VietnamseFood.Page.Content.Accessibility" = "These are some popular dishes from Vietnamese Cuisine that are full of flavor and aroma that is hard to forget.";
+"VietnameseFood.Page.Content.Accessibility" = "These are some popular dishes from Vietnamese Cuisine that are full of flavor and aroma that is hard to forget.";
 
 /* Vietnamese Food Tab Title */
-"VietnamseFood.TabTitle" = "Vietnamse Food";
+"VietnameseFood.TabTitle" = "Vietnamese Food";
 
 // MARK: Banh Mi Thit Nuong (Grilled Pork Bánh Mì) Page
 
