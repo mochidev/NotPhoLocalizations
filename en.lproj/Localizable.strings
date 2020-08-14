@@ -721,7 +721,10 @@
 "BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount" = "2 to 3 ounces";
 
 /* Broken Rice Ingredients Pickles Amount */
-"BrokenRice.Ingredients.Pickles.Amount" = "2 tbsp, drained";
+"BrokenRice.Ingredients.Pickles.Amount" = "1-2 oz";
+
+/* Broken Rice Ingredients Pickles Amount (VoiceOver) */
+"BrokenRice.Ingredients.Pickles.AccessibilityAmount" = "1 to 2 ounces";
 
 /* Broken Rice Ingredients Cucumber Amount */
 "BrokenRice.Ingredients.Cucumber.Amount" = "3 slices";

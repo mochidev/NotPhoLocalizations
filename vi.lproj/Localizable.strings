@@ -725,6 +725,9 @@
 /* Broken Rice Ingredients Pickles Amount */
 "BrokenRice.Ingredients.Pickles.Amount" = "1 đến 2 oz";
 
+/* Broken Rice Ingredients Pickles Amount (VoiceOver) */
+"BrokenRice.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 ounces";
+
 /* Broken Rice Ingredients Cucumber Amount */
 "BrokenRice.Ingredients.Cucumber.Amount" = "3 lát";
 
