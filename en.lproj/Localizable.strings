@@ -970,22 +970,22 @@
 "EggRollsComponent.GroundPork.AccessibilityAmount" = "half a pound";
 
 /* Egg Rolls Component Shrimp Amount */
-"EggRollsComponent.Shrimp.Amount" = "½ lb, minced";
+"EggRollsComponent.Shrimp.Amount" = "½ lb";
 
 /* Egg Rolls Component Shrimp Amount (VoiceOver) */
-"EggRollsComponent.Shrimp.AccessibilityAmount" = "half a pound, minced";
+"EggRollsComponent.Shrimp.AccessibilityAmount" = "half a pound";
 
 /* Egg Rolls Component Onion Amount */
-"EggRollsComponent.Onion.Amount" = "½ cup, diced";
+"EggRollsComponent.Onion.Amount" = "½ cup";
 
 /* Egg Rolls Component Onion Amount (VoiceOver) */
-"EggRollsComponent.Onion.AccessibilityAmount" = "half a cup, diced";
+"EggRollsComponent.Onion.AccessibilityAmount" = "half a cup";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz, diced";
+"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "2 to 4 ounces, diced";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "2 to 4 ounces";
 
 /* Egg Rolls Component Bean Threads Amount */
 "EggRollsComponent.BeanThreads.Amount" = "2-4 oz, cut into ½ in long";
@@ -1108,10 +1108,10 @@
 "EggRollsComponent.Instructions.Step.5.Part.1.Accessibility" = "Fry the egg rolls in small batches in 325ºF oil.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 */
-"EggRollsComponent.Instructions.Step.5.Part.2" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8-15 minutes depending on the size and quality of ##Chả Giò## (egg rolls) being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8 to 15 minutes depending on the size and quality of egg rolls being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
 
 /* Egg Rolls Component Instructions Step 5 Note 1 */
 "EggRollsComponent.Instructions.Step.5.Note.1" = "You can fry them all at once, or fry what you need and freeze the rest raw.";
@@ -1129,10 +1129,10 @@
 "EggRollsComponent.Instructions.Step.5.Note.3.Accessibility" = "Be sure to rotate the egg rolls while frying so they cook evenly.";
 
 /* Egg Rolls Component Instructions Step 5 Note 4 */
-"EggRollsComponent.Instructions.Step.5.Note.4" = "Normally, a tighlty rolled ##Chả Giò## (egg roll) will start to float to the top of the oil when it is cooked, but always check the internal temperature to be sure.";
+"EggRollsComponent.Instructions.Step.5.Note.4" = "Normally, a tightly rolled ##Chả Giò## (egg roll) will start to float to the top of the oil when it is cooked, but always check the internal temperature to be sure.";
 
 /* Egg Rolls Component Instructions Step 5 Note 4 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Normally, a tighlty rolled egg roll will start to float to the top of the oil when it is cooked, but always check the internal temperature to be sure.";
+"EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Normally, a tightly rolled egg roll will start to float to the top of the oil when it is cooked, but always check the internal temperature to be sure.";
 
 /* Egg Rolls Component How To Header */
 "EggRollsComponent.HowTo.Header" = "How To";

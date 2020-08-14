@@ -984,16 +984,16 @@
 "EggRollsComponent.Onion.AccessibilityAmount" = "phân nữa cup";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount" = "¼ cup";
+"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "một phần tư cup";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "2 đến 4 ounces";
 
 /* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount" = "½ cup, cắt nhỏ khoảng nữa in";
+"EggRollsComponent.BeanThreads.Amount" = "2-4 oz, cắt nhỏ khoảng nữa in";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
-"EggRollsComponent.BeanThreads.AccessibilityAmount" = "phân nữa cup, cắt nhỏ khoảng nữa in";
+"EggRollsComponent.BeanThreads.AccessibilityAmount" = "2 đến 4 ounces, cắt nhỏ khoảng nữa in";
 
 /* Egg Rolls Component Fish Sauce Amount */
 "EggRollsComponent.FishSauce.Amount" = "2 muộn canh";
