@@ -1165,10 +1165,10 @@
 "EggMeatloaf.Main.Image" = "Thông tin.";
 
 /* Egg Meatloaf Introduction 1 */
-"EggMeatloaf.Introduction.1" = "##Chả Trứng## là trứng và thịt heo hấp với ##Bún Miến## và ##Nấm Mèo## và là một món không thể thiếu trong ##Cơm Tấm##. Mùi vị của ##Chả Trứng## rất là thơm ngon và mềm mại và khi phối hợp với ##Nước Mắm Chấm## rất là tuyệt vời.";
+"EggMeatloaf.Introduction.1" = "##Chả Trứng## là trứng và thịt heo hấp với ##Nấm Mèo## và ##Bún Miến## và là một món không thể thiếu trong ##Cơm Tấm##. Mùi vị của ##Chả Trứng## rất là thơm ngon và mềm mại và khi phối hợp với ##Nước Mắm Chấm## rất là tuyệt vời.";
 
 /* Egg Meatloaf Introduction 1 (VoiceOver) */
-"EggMeatloaf.Introduction.1.Accessibility" = "Chả Trứng là trứng và thịt heo hấp với Bún Miến và Nấm Mèo và là một món không thể thiếu trong Cơm Tấm. Mùi vị của Chả Trứng rất là thơm ngon và mềm mại và khi phối hợp với Nước Mắm Chấm rất là tuyệt vời.";
+"EggMeatloaf.Introduction.1.Accessibility" = "Chả Trứng là trứng và thịt heo hấp với Nấm Mèo và Bún Miến và là một món không thể thiếu trong Cơm Tấm. Mùi vị của Chả Trứng rất là thơm ngon và mềm mại và khi phối hợp với Nước Mắm Chấm rất là tuyệt vời.";
 
 /* Egg Meatloaf Introduction 2 */
 "EggMeatloaf.Introduction.2" = "Công thức này làm khoảng 4 phần.";
@@ -1191,17 +1191,17 @@
 /* Egg Meatloaf Ingredients Onion Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.Onion.AccessibilityAmount" = "một phần ba cup";
 
-/* Egg Meatloaf Ingredients Bean Threads Amount */
-"EggMeatloaf.Ingredients.BeanThreads.Amount" = "1 đến 2 oz";
-
-/* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "1 đến 2 ounces";
-
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
 "EggMeatloaf.Ingredients.DriedMushroom.Amount" = "1 đến 2 oz";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
 "EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount" = "1 đến 2 ounces";
+
+/* Egg Meatloaf Ingredients Bean Threads Amount */
+"EggMeatloaf.Ingredients.BeanThreads.Amount" = "1 đến 2 oz";
+
+/* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
+"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "1 đến 2 ounces";
 
 /* Egg Meatloaf Ingredients Fish Sauce Amount */
 "EggMeatloaf.Ingredients.FishSauce.Amount" = "1 muỗng canh";
@@ -1240,19 +1240,19 @@
 "EggMeatloaf.Instructions.Step.1.Part.1.Accessibility" = "Cho Thịt Băm vào tô.";
 
 /* Egg Meatloaf Instructions Step 1 Part 2 */
-"EggMeatloaf.Instructions.Step.1.Part.2" = "Cắt nhỏ ##Củ Hành##, ##Bún Miến##, và ##Nấm Mèo##.";
+"EggMeatloaf.Instructions.Step.1.Part.2" = "Cắt nhỏ ##Củ Hành##, ##Nấm Mèo## và ##Bún Miến##.";
 
 /* Egg Meatloaf Instructions Step 1 Part 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Part.2.Accessibility" = "Cắt nhỏ Củ Hành, Bún Miến, và Nấm Mèo.";
+"EggMeatloaf.Instructions.Step.1.Part.2.Accessibility" = "Cắt nhỏ Củ Hành, Nấm Mèo, và Bún Miến.";
 
 /* Egg Meatloaf Instructions Step 1 Part 3 */
 "EggMeatloaf.Instructions.Step.1.Part.3" = "Cho nguyên liệu mới cắt xong vào tô.";
 
 /* Egg Meatloaf Instructions Step 1 Note 1 */
-"EggMeatloaf.Instructions.Step.1.Note.1" = "Nhớ ngâm ##Bún Miến## và ##Nấm Mèo## vào nước ấm để mềm lại trước khi cắt.";
+"EggMeatloaf.Instructions.Step.1.Note.1" = "Nhớ ngâm ##Nấm Mèo## và ##Bún Miến## vào nước ấm để mềm lại trước khi cắt.";
 
 /* Egg Meatloaf Instructions Step 1 Note 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Nhớ ngâm Bún Miến và Nấm Mèo vào nước ấm để mềm lại trước khi cắt.";
+"EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Nhớ ngâm Nấm Mèo và Bún Miến vào nước ấm để mềm lại trước khi cắt.";
 
 /* Egg Meatloaf Instructions Step 2 */
 "EggMeatloaf.Instructions.Step.2" = "Bước 2";
@@ -1267,19 +1267,19 @@
 "EggMeatloaf.Instructions.Step.3" = "Bước 3";
 
 /* Egg Meatloaf Instructions Step 3 Part 1 */
-"EggMeatloaf.Instructions.Step.3.Part.1" = "Để riêng một bên 3 ##Lòng Đỏ Trứng## từ 4 ##Trứng## để dùng sau đây.";
+"EggMeatloaf.Instructions.Step.3.Part.1" = "Để riêng 3 ##Lòng Đỏ Trứng## từ 4 ##Trứng## để dùng sau đây.";
 
 /* Egg Meatloaf Instructions Step 3 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.3.Part.1.Accessibility" = "Để riêng một bên 3 Lòng Đỏ Trứng từ 4 Trứng để dùng sau đây.";
+"EggMeatloaf.Instructions.Step.3.Part.1.Accessibility" = "Để riêng 3 Lòng Đỏ Trứng từ 4 Trứng để dùng sau đây.";
 
 /* Egg Meatloaf Instructions Step 4 */
 "EggMeatloaf.Instructions.Step.4" = "Bước 4";
 
 /* Egg Meatloaf Instructions Step 4 Part 1 */
-"EggMeatloaf.Instructions.Step.4.Part.1" = "Đánh ##Trứng## cuối cùng chung với 3 lòng trắng Trứng từ bước ở trên vào nhân thịt trong tô.";
+"EggMeatloaf.Instructions.Step.4.Part.1" = "Đánh ##Trứng## cuối cùng chung với 3 lòng trắng trứng từ bước ở trên vào nhân thịt trong tô. Trộn đều.";
 
 /* Egg Meatloaf Instructions Step 4 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.4.Part.1.Accessibility" = "Đánh Trứng cuối cùng chung với 3 lòng trắng Trứng từ bước ở trên vào nhân thịt trong tô.";
+"EggMeatloaf.Instructions.Step.4.Part.1.Accessibility" = "Đánh Trứng cuối cùng chung với 3 lòng trắng trứng từ bước ở trên vào nhân thịt trong tô. Trộn đều.";
 
 /* Egg Meatloaf Instructions Step 5 */
 "EggMeatloaf.Instructions.Step.5" = "Bước 5";

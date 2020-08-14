@@ -982,16 +982,16 @@
 "EggRollsComponent.Onion.AccessibilityAmount" = "half a cup";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz";
+"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz, soaked";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "2 to 4 ounces";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "2 to 4 ounces, soaked";
 
 /* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount" = "2-4 oz, cut into ½ in long";
+"EggRollsComponent.BeanThreads.Amount" = "2-4 oz, soaked";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
-"EggRollsComponent.BeanThreads.AccessibilityAmount" = "2 to 4 ounces, cut into half an inch long threads";
+"EggRollsComponent.BeanThreads.AccessibilityAmount" = "2 to 4 ounces, soaked";
 
 /* Egg Rolls Component Fish Sauce Amount */
 "EggRollsComponent.FishSauce.Amount" = "2 tbsp";
@@ -1162,10 +1162,10 @@
 "EggMeatloaf.Main.Image" = "Info";
 
 /* Egg Meatloaf Introduction 1 */
-"EggMeatloaf.Introduction.1" = "##Chả Trứng## (egg meatloaf) is a steamed egg and pork dish incorporating ##Bún Miến## (bean thread noodles) and ##Nấm Mèo## (dried wood ear mushrooms), and is an indispensable part of ##Cơm Tấm## (broken rice) dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with ##Nước Mắm Chấm## (mixed fish sauce).";
+"EggMeatloaf.Introduction.1" = "##Chả Trứng## (egg meatloaf) is a steamed egg and pork dish incorporating ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles), and is an indispensable part of ##Cơm Tấm## (broken rice) dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with ##Nước Mắm Chấm## (mixed fish sauce).";
 
 /* Egg Meatloaf Introduction 1 (VoiceOver) */
-"EggMeatloaf.Introduction.1.Accessibility" = "Egg meatloaf is a steamed egg and pork dish incorporating bean thread noodles and dried wood ear mushrooms, and is an indispensable part of broken rice dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with mixed fish sauce.";
+"EggMeatloaf.Introduction.1.Accessibility" = "Egg meatloaf is a steamed egg and pork dish incorporating dried wood ear mushrooms and bean thread noodles, and is an indispensable part of broken rice dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with mixed fish sauce.";
 
 /* Egg Meatloaf Introduction 2 */
 "EggMeatloaf.Introduction.2" = "This recipe yields one 3″×4″×7½″ loaf.";
@@ -1183,22 +1183,22 @@
 "EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount" = "half a pound";
 
 /* Egg Meatloaf Ingredients Onion Amount */
-"EggMeatloaf.Ingredients.Onion.Amount" = "⅓ cup, diced";
+"EggMeatloaf.Ingredients.Onion.Amount" = "⅓ cup";
 
 /* Egg Meatloaf Ingredients Onion Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.Onion.AccessibilityAmount" = "one third cup, diced";
+"EggMeatloaf.Ingredients.Onion.AccessibilityAmount" = "one third cup";
+
+/* Egg Meatloaf Ingredients Dried Mushroom Amount */
+"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "1-2 oz, soaked";
+
+/* Egg Meatloaf Ingredients Dried Mushroom Amount */
+"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount" = "1 to 2 ounces, soaked";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount */
-"EggMeatloaf.Ingredients.BeanThreads.Amount" = "1-2 oz soaked, then cut ½ in long";
+"EggMeatloaf.Ingredients.BeanThreads.Amount" = "1-2 oz, soaked";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "1 to 2 ounces soaked, then cut into half an inch long threads";
-
-/* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "1-2 oz soaked";
-
-/* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount" = "1 to 2 ounces soaked";
+"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "1 to 2 ounces, soaked";
 
 /* Egg Meatloaf Ingredients Fish Sauce Amount */
 "EggMeatloaf.Ingredients.FishSauce.Amount" = "1 tbsp";
@@ -1237,19 +1237,19 @@
 "EggMeatloaf.Instructions.Step.1.Part.1.Accessibility" = "Place the ground pork into a bowl.";
 
 /* Egg Meatloaf Instructions Step 1 Part 2 */
-"EggMeatloaf.Instructions.Step.1.Part.2" = "Dice the ##Củ Hành## (onion), ##Bún Miến## (bean thread noodles), and ##Nấm Mèo## (dried wood ear mushroom).";
+"EggMeatloaf.Instructions.Step.1.Part.2" = "Dice the ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushroom), and ##Bún Miến## (bean thread noodles).";
 
 /* Egg Meatloaf Instructions Step 1 Part 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Part.2.Accessibility" = "Dice the onion, bean thread noodles, and dried wood ear mushroom.";
+"EggMeatloaf.Instructions.Step.1.Part.2.Accessibility" = "Dice the onion, dried wood ear mushroom, and bean thread noodles.";
 
 /* Egg Meatloaf Instructions Step 1 Part 3 */
 "EggMeatloaf.Instructions.Step.1.Part.3" = "Add the diced ingredients to the bowl.";
 
 /* Egg Meatloaf Instructions Step 1 Note 1 */
-"EggMeatloaf.Instructions.Step.1.Note.1" = "Be sure to soak the ##Bún Miến## (bean thread noodles) and ##Nấm Mèo## (dried wood ear mushroom) before dicing them so they are easier to cut.";
+"EggMeatloaf.Instructions.Step.1.Note.1" = "Soak the ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles) in warm water for about 5-10 minutes or until they are soft enough to cut.";
 
 /* Egg Meatloaf Instructions Step 1 Note 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Be sure to soak the bean thread noodles and dried wood ear mushroom before dicing them so they are easier to cut.";
+"EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and bean thread noodles in warm water for about 5 to 10 minutes or until they are soft enough to cut.";
 
 /* Egg Meatloaf Instructions Step 2 */
 "EggMeatloaf.Instructions.Step.2" = "Step 2";
