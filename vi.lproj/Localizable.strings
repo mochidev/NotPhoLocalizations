@@ -1495,13 +1495,13 @@
 "Pickles.Ingredients.Carrot.Amount" = "½ lb";
 
 /* Pickles Ingredients Carrot Amount (VoiceOVer)*/
-"Pickles.Ingredients.Carrot.Amount.AccessibilityAmoun" = "phân nữa pound";
+"Pickles.Ingredients.Carrot.AccessibilityAmount" = "phân nữa pound";
 
 /* Pickles Ingredients Daikon Amount */
 "Pickles.Ingredients.Daikon.Amount" = "½ lb";
 
 /* Pickles Ingredients Daikon Amount (VoiceOVer)*/
-"Pickles.Ingredients.Daikon.Amount.AccessibilityAmoun" = "phân nữa pound";
+"Pickles.Ingredients.Carrot.AccessibilityAmount" = "phân nữa pound";
 
 /* Pickles Ingredients Salt Amount */
 "Pickles.Ingredients.Salt.Amount" = "2 muốn cà phê";
@@ -1513,7 +1513,7 @@
 "Pickles.Ingredients.Sugar.Amount" = "¼ cup";
 
 /* Pickles Ingredients Sugar Amount (VocieOver) */
-"Pickles.Ingredients.Sugar.Amount.AccessibilityAmoun" = "một phần tư cup";
+"Pickles.Ingredients.Sugar.AccessibilityAmount" = "một phần tư cup";
 
 /* Pickles Ingredients Vinegar Amount */
 "Pickles.Ingredients.Vinegar.Amount" = "⅔ cups";
@@ -1525,7 +1525,7 @@
 "Pickles.Ingredients.Water.Amount" = "½ cup, warm";
 
 /* Pickles Ingredients Water Amount (VoiceOver) */
-"Pickles.Ingredients.Water.Amount.AccessibilityAmoun" = "phân nữa cup, nước ấm";
+"Pickles.Ingredients.Water.AccessibilityAmount" = "phân nữa cup, nước ấm";
 
 /* Pickles Instructions Header */
 "Pickles.Instructions.Header" = "Cách Làm";
@@ -1579,7 +1579,7 @@
 "Pickles.Instructions.Step.2.Note.1" = "##Muối## sẽ kéo nước ra từ trong ##Cà Rốt## và ##Củ Cải Trắng##.";
 
 /* Pickles Instructions Step 2 Note (VoiceOver) */
-"Pickles.Instructions.Step2.Note.1.Accessibility" = "Muối sẽ kéo nước ra từ trong Cà Rốt và Củ Cải Trắng.";
+"Pickles.Instructions.Step.2.Note.1.Accessibility" = "Muối sẽ kéo nước ra từ trong Cà Rốt và Củ Cải Trắng.";
 
 /* Pickles Instructions Step 3 */
 "Pickles.Instructions.Step.3" = "Bước 3";

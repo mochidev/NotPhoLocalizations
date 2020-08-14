@@ -1492,13 +1492,13 @@
 "Pickles.Ingredients.Carrot.Amount" = "½ lb";
 
 /* Pickles Ingredients Carrot Amount (VoiceOVer)*/
-"Pickles.Ingredients.Carrot.Amount.AccessibilityAmount" = "half a pound";
+"Pickles.Ingredients.Carrot.AccessibilityAmount" = "half a pound";
 
 /* Pickles Ingredients Daikon Amount */
 "Pickles.Ingredients.Daikon.Amount" = "½ lb";
 
 /* Pickles Ingredients Daikon Amount (VoiceOVer)*/
-"Pickles.Ingredients.Daikon.Amount.AccessibilityAmount" = "half a pound";
+"Pickles.Ingredients.Daikon.AccessibilityAmount" = "half a pound";
 
 /* Pickles Ingredients Salt Amount */
 "Pickles.Ingredients.Salt.Amount" = "2 tsp";
@@ -1510,7 +1510,7 @@
 "Pickles.Ingredients.Sugar.Amount" = "¼ cup";
 
 /* Pickles Ingredients Sugar Amount (VoiceOver) */
-"Pickles.Ingredients.Sugar.Amount.AccessibilityAmount" = "a quarter cup";
+"Pickles.Ingredients.Sugar.AccessibilityAmount" = "a quarter cup";
 
 /* Pickles Ingredients Vinegar Amount */
 "Pickles.Ingredients.Vinegar.Amount" = "⅔ cups";
@@ -1522,7 +1522,7 @@
 "Pickles.Ingredients.Water.Amount" = "½ cup, warm";
 
 /* Pickles Ingredients Water Amount (VoiceOver) */
-"Pickles.Ingredients.Water.Amount.AccessibilityAmount" = "half a cup, warm";
+"Pickles.Ingredients.Water.AccessibilityAmount" = "half a cup, warm";
 
 /* Pickles Instructions Header */
 "Pickles.Instructions.Header" = "Instructions";
@@ -1534,13 +1534,13 @@
 "Pickles.Instructions.Step.1.Part.1" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into ⅛″-thick strips.";
 
 /* Pickles Instructions Step 1 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step.1.Part.1.Accessibility" = "Julienne the carrot and daikon into one eigth by one eigth inch thick strips.";
+"Pickles.Instructions.Step.1.Part.1.Accessibility" = "Julienne the carrot and daikon into one eigth inch thick strips.";
 
 /* Pickles Instructions Step 1 Note 1 */
 "Pickles.Instructions.Step.1.Note.1" = "Be sure to peel the skins off the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), and wash thoroughly before cutting them.";
 
 /* Pickles Instructions Step 1 Note 1 (VoiceOver) */
-"Pickles.Instructions.Step.1.Note.1.Accessibility" = "Be sure to wash the carrot and daikon, and peel off their skins before cutting them.";
+"Pickles.Instructions.Step.1.Note.1.Accessibility" = "Be sure to peel the skins off the carrot and daikon, and wash thoroughly before cutting them.";
 
 /* Pickles Instructions Step 1 Note 2 */
 "Pickles.Instructions.Step.1.Note.2" = "Consider using a mandolin to make the julienning process easier, but be careful not to cut yourself.";
@@ -1576,7 +1576,7 @@
 "Pickles.Instructions.Step.2.Note.1" = "The ##Muối## (salt) will draw out ##Nước## (water) from the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), so don’t be alarmed when liquid accumulates in the bowl.";
 
 /* Pickles Instructions Step 2 Note (VoiceOver) */
-"Pickles.Instructions.Step2.Note.1.Accessibility" = "The salt will draw out water from the carrot and daikon, so don’t be alarmed when liquid accumulates in the bowl.";
+"Pickles.Instructions.Step.2.Note.1.Accessibility" = "The salt will draw out water from the carrot and daikon, so don’t be alarmed when liquid accumulates in the bowl.";
 
 /* Pickles Instructions Step 3 */
 "Pickles.Instructions.Step.3" = "Step 3";
