@@ -239,10 +239,13 @@
 "Crepe.Introduction.1" = "##Bánh Xèo## mô tả âm thanh phát ra khi bột chạm vào chảo nóng. ##Bánh Xèo## là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Thông thường ##Bánh Xèo## được kết hợp với ##Rau## thơm và ##Nước Mắm Chấm##.";
 
 /* Crepe Introduction (VoiceOver) */
-"Crepe.Introduction.1.Accessibility" = "Bánh Xèo mô tả âm thanh phát ra khi bột chạm vào chảo nóng. Bánh Xèo là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Thông thường Bánh Xèo được kết hợp với rau thơm và Nước Mắm Chấm.";
+"Crepe.Introduction.1.Accessibility" = "Bánh Xèo là một cái tên dùng đển mô tả âm thanh phát ra khi bột chạm vào chảo nóng. Bánh Xèo là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Thông thường Bánh Xèo được kết hợp với rau thơm và Nước Mắm Chấm.";
 
 /* Crepe Introduction 2 */
 "Crepe.Introduction.2" = "Công thức này làm cho 4 đến 5 người ăn.";
+
+/* Crepe Introduction 2 (VoiceOver) */
+"Crepe.Introduction.2.Accessibility" = "Công thức này làm cho 4 đến 5 người ăn.";
 
 /* Crepe Ingredients Header */
 "Crepe.Ingredients.Header" = "Nguyên Liệu";

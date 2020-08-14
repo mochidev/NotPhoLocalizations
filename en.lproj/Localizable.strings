@@ -243,6 +243,9 @@
 /* Crepe Introduction 2 */
 "Crepe.Introduction.2" = "This recipe serves 4-5 people.";
 
+/* Crepe Introduction 2 (VoiceOver) */
+"Crepe.Introduction.2.Accessibility" = "This recipe serves 4 to 5 people.";
+
 /* Crepe Ingredients Header */
 "Crepe.Ingredients.Header" = "Ingredients";
 
@@ -313,16 +316,16 @@
 "Crepe.Instructions.Step.2.Image" = "Step 2";
 
 /* Crepe Instructions Step 2 Part 1 */
-"Crepe.Instructions.Step.2.Part.1" = "In a medium to high heat non-stick pan, add some ##Dầu## (cooking oil).";
+"Crepe.Instructions.Step.2.Part.1" = "In a medium to high heat non-stick pan, add some ##Dầu## (oil).";
 
 /* Crepe Instructions Step 2 Part 1 (VoiceOver) */
-"Crepe.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat non-stick pan, add some cooking oil.";
+"Crepe.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat non-stick pan, add some oil.";
 
 /* Crepe Instructions Step 2 Part 2 */
 "Crepe.Instructions.Step.2.Part.2" = "Add some sliced ##Củ Hành## (onions) and sauté for about 10-20 seconds.";
 
 /* Crepe Instructions Step 2 Part 2 (VoiceOver) */
-"Crepe.Instructions.Step.2.Part.2.Accessibility" = "Add some sliced onions and sauté for about 10-20 seconds.";
+"Crepe.Instructions.Step.2.Part.2.Accessibility" = "Add some sliced onions and sauté for about 10 to 20 seconds.";
 
 /* Crepe Instructions Step 3 Image (VoiceOver) */
 "Crepe.Instructions.Step.3.Image" = "Step 3";
@@ -334,7 +337,7 @@
 "Crepe.Instructions.Step.3.Part.1.Accessibility" = "Add several shrimp and several pieces of thinly sliced pork belly; continuing to sauté everything.";
 
 /* Crepe Instructions Step 3 Note */
-"Crepe.Instructions.Step3.Note.1" = "The meat and shrimp should be lightly seared, but shouldn't be fully cooked by this point, as they will continue to cook in the following steps.";
+"Crepe.Instructions.Step3.Note.1" = "The meat and shrimp should be lightly seared, but should not be fully cooked by this point, as they will continue to cook in the following steps.";
 
 /* Crepe Instructions Step 4 Image (VoiceOver) */
 "Crepe.Instructions.Step.4.Image" = "Step 4";
@@ -439,7 +442,7 @@
 "Crepe.HowTo.7" = "For a less messy experience, tear up the greens and add them on top of the ##Bánh Xèo## (crêpe), pour ##Nước Mắm Chấm## (mixed fish sauce) over everything, and enjoy using chopsticks.";
 
 /* Crepe How To 7 (VoiceOver) */
-"Crepe.HowTo.7.Accessibility" = "For a less messy experience, tear up the greens and add them on top of the crepe, and enjoy using chopsticks.";
+"Crepe.HowTo.7.Accessibility" = "For a less messy experience, tear up the greens and add them on top of the crepe, pour the mixed fish sauce over everything, and enjoy using chopsticks.";
 
 
 // MARK: Bun Thit Nuong Cha Gio (Grilled Pork & Egg Roll Vermicelli Noodles) Page
