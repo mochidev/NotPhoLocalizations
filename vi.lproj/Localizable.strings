@@ -67,6 +67,9 @@
 /* Back Button */
 "Page.Navigation.Back" = "Quay Lại";
 
+/* Play Vietnamese Term Audio (VoiceOver) */
+"PlayAudio.Accessibility" = "Đọc tiếng Việt.";
+
 // MARK: - # Vietnamese Food Tab:
 
 /* Vietnamese Food Tab Page Title */
