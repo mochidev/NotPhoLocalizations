@@ -886,10 +886,10 @@
 "CrepeBatter.Instructions.Header" = "Instructions";
 
 /* Crepe Batter Instructions 1 */
-"CrepeBatter.Instructions.1" = "Add ##Bột Gạo## (rice flour), ##Bột Ngô## (corn starch), and ##Bột Củ Nghệ## (turmeric) into a bowl.";
+"CrepeBatter.Instructions.1" = "Add ##Bột Gạo## (rice flour), ##Bột Ngô## (cornstarch), and ##Bột Củ Nghệ## (turmeric) into a bowl.";
 
 /* Crepe Batter Instructions 1 (VoiceOver) */
-"CrepeBatter.Instructions.1.Accessibility" = "Add rice flour, corn starch, and turmeric into a bowl.";
+"CrepeBatter.Instructions.1.Accessibility" = "Add rice flour, cornstarch, and turmeric into a bowl.";
 
 /* Crepe Batter Instructions 2 */
 "CrepeBatter.Instructions.2" = "Add ##Nước Cốt Dừa## (coconut milk) and ##Nước## (water).";
