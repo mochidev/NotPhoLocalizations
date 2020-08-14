@@ -562,7 +562,7 @@
 "Vermicelli.Instructions.6.Accessibility" = "Add a couple egg rolls next to the grilled pork. Cut each egg roll into thirds to make them easier to eat.";
 
 /* Vermicelli Instructions 7 */
-"Vermicelli.Instructions.7" = "Sprinkle some crushed ##Đậu Phọng## (peanuts) to finish the dish. (##Đậu Phọng## (peanuts) are optional if you don’t like them or are allergic.)";
+"Vermicelli.Instructions.7" = "Sprinkle some crushed ##Đậu Phọng## (peanuts) to finish the dish. ##Đậu Phọng## (peanuts) are optional if you don’t like them or are allergic.";
 
 /* Vermicelli Instructions 7 (VoiceOver) */
 "Vermicelli.Instructions.7.Accessibility" = "Sprinkle some crushed peanuts to finish the dish. Peanuts are optional if you don’t like them or are allergic.";

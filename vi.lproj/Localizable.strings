@@ -539,16 +539,16 @@
 "Vermicelli.Instructions.2.Accessibility" = "Cho Bún vào trên Rau Xà Lách. Nấu Bún theo cách thức ở trên bao bì của bịch Bún.";
 
 /* Vermicelli Instructions 3 */
-"Vermicelli.Instructions.3" = "Thêm vào lá ##Tí Tồ##, ##Bạc Hà## và ##Đồ Chua## bên phân nửa của cái tô.";
+"Vermicelli.Instructions.3" = "Thêm vào lá ##Tía Tô##, ##Bạc Hà## và ##Đồ Chua## bên phân nửa của cái tô.";
 
 /* Vermicelli Instructions 3 (VoiceOver) */
-"Vermicelli.Instructions.3.Accessibility" = "Thêm vào lá Tí Tồ, Bạc Hà và Đồ Chua bên phân nửa của cái tô.";
+"Vermicelli.Instructions.3.Accessibility" = "Thêm vào lá Tía Tô, Bạc Hà và Đồ Chua bên phân nửa của cái tô.";
 
 /* Vermicelli Instructions 4 */
 "Vermicelli.Instructions.4" = "Cắt ##Thịt Hướng## thành miếng nhỏ và cho vào bên phân nửa kia của cái tô.";
 
 /* Vermicelli Instructions 4 (VoiceOver) */
-"Vermicelli.Instructions.4.Accessibility" = "Cắt Thịt Hướng thành miếng nhỏ và cho vào bên phân nửa kia của cái tô.";
+"Vermicelli.Instructions.4.Accessibility" = "Cắt Thịt Nướng thành miếng nhỏ và cho vào bên phân nửa kia của cái tô.";
 
 /* Vermicelli Instructions 5 */
 "Vermicelli.Instructions.5" = "Thêm ##Chả Giò## vào bên cạnh của ##Thịt Nướng##. Cắt mỗi cuốn ##Chả Giò## thành làm ba để dễ ăn.";
@@ -557,16 +557,16 @@
 "Vermicelli.Instructions.5.Accessibility" = "Thêm Chả Giò vào bên cạnh của Thịt Nướng. Cắt mỗi cuốn Chả Giò thành làm ba để dễ ăn.";
 
 /* Vermicelli Instructions 6 */
-"Vermicelli.Instructions.6" = "Thêm ##Mỡ Hành## vào trên ##Thịt Nướng##.";
+"Vermicelli.Instructions.6" = "Thêm ##Mỡ Hành## lên trên ##Thịt Nướng##.";
 
 /* Vermicelli Instructions 6 (VoiceOver) */
-"Vermicelli.Instructions.6.Accessibility" = "Thêm Mỡ Hành vào trên Thịt Nướng.";
+"Vermicelli.Instructions.6.Accessibility" = "Thêm Mỡ Hành lên trên Thịt Nướng.";
 
 /* Vermicelli Instructions 7 */
-"Vermicelli.Instructions.7" = "Thêm ##Đậu Phọng## vào trên mọi thứ.";
+"Vermicelli.Instructions.7" = "Thêm ##Đậu Phọng## lên trên mọi thứ.";
 
 /* Vermicelli Instructions 7 (VoiceOver) */
-"Vermicelli.Instructions.7.Accessibility" = "Thêm Đậu Phọng vào trên mọi thứ.";
+"Vermicelli.Instructions.7.Accessibility" = "Thêm Đậu Phọng lên trên mọi thứ.";
 
 /* Vermicelli Note */
 "Vermicelli.Note" = "Nên cắt mọi thứ thành miếng nhỏ để dễ ăn.";
