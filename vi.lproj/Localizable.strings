@@ -617,7 +617,7 @@
 "EggRolls.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
 
 /* Egg Rolls Introduction 1 */
-"EggRolls.Introduction.1" = "##Chả Giò## là một món khai vị thơm ngon của Việt Nam. Hương vị thơm ngon của chả giò khi phối hợp với các loại rau thơm tươi, đặc biệt là khi chấm với ##Nước Mắm Chấm## rất là tuyệt vời.";
+"EggRolls.Introduction.1" = "##Chả Giò## là một món khai vị thơm ngon của Việt Nam. Hương vị thơm ngon của ##Chả Giò## khi phối hợp với các loại rau thơm tươi, đặc biệt là khi chấm với ##Nước Mắm Chấm## rất là tuyệt vời.";
 
 /* Egg Rolls Introduction 1 (VoiceOver) */
 "EggRolls.Introduction.1.Accessibility" = "Chả Giò là một món khai vị thơm ngon của Việt Nam. Hương vị thơm ngon của chả giò khi phối hợp với các loại rau thơm tươi, đặc biệt là khi chấm với Nước Mắm Chấm rất là tuyệt vời.";
@@ -637,6 +637,9 @@
 /* Egg Rolls Ingredients Pickles Amount */
 "EggRolls.Ingredients.Pickles.Amount" = "1 đến 2 oz";
 
+/* Egg Rolls Ingredients Pickles Amount (VoiceOver) */
+"EggRolls.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 ounces";
+
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount */
 "EggRolls.Ingredients.MixedFishSauce.Amount" = "½ cup";
 
@@ -653,10 +656,10 @@
 "EggRolls.HowTo.1.Accessibility" = "Đặt một cuốn Chả Giò ở giữa một lá Rau Xà Lách.";
 
 /* Egg Rolls How To 2 */
-"EggRolls.HowTo.2" = "Thêm vào lá ##Tí Tồ##, ##Bạc Hà## và ##Đồ Chua##.";
+"EggRolls.HowTo.2" = "Thêm vào lá ##Tía Tô##, ##Bạc Hà## và ##Đồ Chua##.";
 
 /* Egg Rolls How To 2 (VoiceOver) */
-"EggRolls.HowTo.2.Accessibility" = "Thêm vào lá Tí Tồ, Bạc Hà và Đồ Chua.";
+"EggRolls.HowTo.2.Accessibility" = "Thêm vào lá Tía Tô, Bạc Hà và Đồ Chua.";
 
 /* Egg Rolls How To 3 */
 "EggRolls.HowTo.3" = "Dùng lá ##Rau Xà Lách## và gói tất cả lợi.";

@@ -634,7 +634,10 @@
 "EggRolls.Ingredients.LeafyGreens.Amount" = "assortment";
 
 /* Egg Rolls Ingredients Pickles Amount */
-"EggRolls.Ingredients.Pickles.Amount" = "2 tbsp, drained";
+"EggRolls.Ingredients.Pickles.Amount" = "1-2 oz, drained";
+
+/* Egg Rolls Ingredients Pickles Amount (VoiceOver) */
+"EggRolls.Ingredients.Pickles.AccessibilityAmount" = "1 to 2 ounces, drained";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount */
 "EggRolls.Ingredients.MixedFishSauce.Amount" = "½ cup";
