@@ -493,6 +493,9 @@
 /* Vermicelli Ingredients Pickles Amount */
 "Vermicelli.Ingredients.Pickles.Amount" = "1 đến 2 oz";
 
+/* Vermicelli Ingredients Pickles Amount (VoiceOver) */
+"Vermicelli.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 oz";
+
 /* Vermicelli Ingredients Leafy Greens Amount */
 "Vermicelli.Ingredients.LeafyGreens.Amount" = "các loại";
 

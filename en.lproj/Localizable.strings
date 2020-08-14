@@ -490,7 +490,10 @@
 "Vermicelli.Ingredients.GrilledPork.AccessibilityAmount" = "3 to 4 ounces";
 
 /* Vermicelli Ingredients Pickles Amount */
-"Vermicelli.Ingredients.Pickles.Amount" = "2 tbsp, drained";
+"Vermicelli.Ingredients.Pickles.Amount" = "1-2 oz, drained";
+
+/* Vermicelli Ingredients Pickles Amount (VoiceOver) */
+"Vermicelli.Ingredients.Pickles.AccessibilityAmount" = "1 to 2 ounces, drained";
 
 /* Vermicelli Ingredients Leafy Greens Amount */
 "Vermicelli.Ingredients.LeafyGreens.Amount" = "assortment";
