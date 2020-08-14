@@ -115,7 +115,7 @@
 "BanhMi.Introduction.1.Accessibility" = "Banh mi are a very popular dish among the street vendors in Vietnam. There are many versions of banh mi; the traditional banh mi is typically made with cold cuts along with mayo or liver pâté, but grilled pork is also very popular. What makes banh mi unique though is not just the meat and spread, but the iconic pickled carrot and daikon. It gives banh mi a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make banh mi a great food item to be enjoyed any time of the day.";
 
 /* Banh Mi Introduction 2 */
-"BanhMi.Introduction.2" = "The recipe yields 1 sandwich.";
+"BanhMi.Introduction.2" = "This recipe yields 1 sandwich.";
 
 /* Banh Mi Ingredients Header */
 "BanhMi.Ingredients.Header" = "Ingredients";
@@ -139,16 +139,16 @@
 "BanhMi.Ingredients.GrilledPork.AccessibilityAmount" = "3 to 4 ounces";
 
 /* Banh Mi Ingredients Mayo Amount */
-"BanhMi.Ingredients.Mayo.Amount" = "2 tsp, spread";
+"BanhMi.Ingredients.Mayo.Amount" = "2 tsp";
 
 /* Banh Mi Ingredients Mayo Amount (VoiceOver) */
-"BanhMi.Ingredients.Mayo.AccessibilityAmount" = "2 teaspoons, spread";
+"BanhMi.Ingredients.Mayo.AccessibilityAmount" = "2 teaspoons";
 
 /* Banh Mi Ingredients Cucumber Amount */
-"BanhMi.Ingredients.Cucumber.Amount" = "4-5 round slices";
+"BanhMi.Ingredients.Cucumber.Amount" = "4-5 slices";
 
 /* Banh Mi Ingredients Cucumber Amount (VoiceOver) */
-"BanhMi.Ingredients.Cucumber.AccessibilityAmount" = "4 to 5 round slices";
+"BanhMi.Ingredients.Cucumber.AccessibilityAmount" = "4 to 5 slices";
 
 /* Banh Mi Ingredients Cilantro Amount */
 "BanhMi.Ingredients.Cilantro.Amount" = "2-3 stems with leaves";
@@ -193,10 +193,10 @@
 "BanhMi.Instructions.5.Accessibility" = "A few slices of jalapeño can optionally be added if you like spicy food.";
 
 /* Banh Mi Instructions 6 */
-"BanhMi.Instructions.6" = "Place the top half of the ##Bánh Mì## (baguette) on top to complete the sandwich.";
+"BanhMi.Instructions.6" = "Place the other half of the ##Bánh Mì## (baguette) on top to complete the sandwich.";
 
 /* Banh Mi Instructions 6 Accessibility (VoiceOver) */
-"BanhMi.Instructions.6.Accessibility" = "Place the top half of the baguette on top to complete the sandwich.";
+"BanhMi.Instructions.6.Accessibility" = "Place the other half of the baguette on top to complete the sandwich.";
 
 /* Banh Mi HowTo Header */
 "BanhMi.HowTo.Header" = "How To";
