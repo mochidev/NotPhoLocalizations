@@ -413,10 +413,10 @@
 "Crepe.HowTo.2.Accessibility" = "Chia ra một miếng Bánh Xèo và mỏ lên lá Rau Xà Lách.";
 
 /* Crepe How To 3 */
-"Crepe.HowTo.3" = "Thêm vài lá ##Tía Tô##, ##Húng Lũi##, ##Húng Quế## và ##Ngò##.";
+"Crepe.HowTo.3" = "Thêm vài lá ##Tía Tô##, ##Bạc Hà##, ##Húng Quế## và ##Ngò##.";
 
 /* Crepe How To 3 (VoiceOver) */
-"Crepe.HowTo.3.Accessibility" = "Thêm vài lá Tía Tô, Húng Lũi, Húng Quế và Ngò.";
+"Crepe.HowTo.3.Accessibility" = "Thêm vài lá Tía Tô, Bạc Hà, Húng Quế và Ngò.";
 
 /* Crepe How To 4 */
 "Crepe.HowTo.4" = "Gói mọi thứ lại trồng lá ##Rau Xà Lách##.";
@@ -536,10 +536,10 @@
 "Vermicelli.Instructions.2.Accessibility" = "Cho Bún vào trên Rau Xà Lách. Nấu Bún theo cách thức ở trên bao bì của bịch Bún.";
 
 /* Vermicelli Instructions 3 */
-"Vermicelli.Instructions.3" = "Thêm vào lá ##Tí Tồ##, ##Húng Lũi## và ##Đồ Chua## bên phân nửa của cái tô.";
+"Vermicelli.Instructions.3" = "Thêm vào lá ##Tí Tồ##, ##Bạc Hà## và ##Đồ Chua## bên phân nửa của cái tô.";
 
 /* Vermicelli Instructions 3 (VoiceOver) */
-"Vermicelli.Instructions.3.Accessibility" = "Thêm vào lá Tí Tồ, Húng Lũi và Đồ Chua bên phân nửa của cái tô.";
+"Vermicelli.Instructions.3.Accessibility" = "Thêm vào lá Tí Tồ, Bạc Hà và Đồ Chua bên phân nửa của cái tô.";
 
 /* Vermicelli Instructions 4 */
 "Vermicelli.Instructions.4" = "Cắt ##Thịt Hướng## thành miếng nhỏ và cho vào bên phân nửa kia của cái tô.";
@@ -647,10 +647,10 @@
 "EggRolls.HowTo.1.Accessibility" = "Đặt một cuốn Chả Giò ở giữa một lá Rau Xà Lách.";
 
 /* Egg Rolls How To 2 */
-"EggRolls.HowTo.2" = "Thêm vào lá ##Tí Tồ##, ##Húng Lũi## và ##Đồ Chua##.";
+"EggRolls.HowTo.2" = "Thêm vào lá ##Tí Tồ##, ##Bạc Hà## và ##Đồ Chua##.";
 
 /* Egg Rolls How To 2 (VoiceOver) */
-"EggRolls.HowTo.2.Accessibility" = "Thêm vào lá Tí Tồ, Húng Lũi và Đồ Chua.";
+"EggRolls.HowTo.2.Accessibility" = "Thêm vào lá Tí Tồ, Bạc Hà và Đồ Chua.";
 
 /* Egg Rolls How To 3 */
 "EggRolls.HowTo.3" = "Dùng lá ##Rau Xà Lách## và gói tất cả lợi.";

@@ -412,7 +412,7 @@
 "Crepe.HowTo.2.Accessibility" = "Break off a piece of crepe and place it in the middle of your lettuce leaf.";
 
 /* Crepe How To 3 */
-"Crepe.HowTo.3" = "Add some ##Tía Tô## (perilla leaves), ##Húng Lũi## (mint), ##Húng Quế## (Thai basil), and ##Ngò## (cilantro).";
+"Crepe.HowTo.3" = "Add some ##Tía Tô## (perilla leaves), ##Bạc Hà## (mint), ##Húng Quế## (Thai basil), and ##Ngò## (cilantro).";
 
 /* Crepe How To 3 (VoiceOver) */
 "Crepe.HowTo.3.Accessibility" = "Add some perilla leaves, mint, Thai basil, and cilantro.";
@@ -535,7 +535,7 @@
 "Vermicelli.Instructions.2.Accessibility" = "Cook the vermicelli rice noodles according to the instructions on the package. Once drained, add the vermicelli rice noodles on top of the chopped lettuce.";
 
 /* Vermicelli Instructions 3 */
-"Vermicelli.Instructions.3" = "Arrange some ##Tía Tô## (perilla leaves), ##Húng Lũi## (mint), ##Giá Đậu## (bean sprouts), ##Đồ Chua## (pickled carrot and daikon), and ##Ngò## (cilantro) on one half of the bowl.";
+"Vermicelli.Instructions.3" = "Arrange some ##Tía Tô## (perilla leaves), ##Bạc Hà## (mint), ##Giá Đậu## (bean sprouts), ##Đồ Chua## (pickled carrot and daikon), and ##Ngò## (cilantro) on one half of the bowl.";
 
 /* Vermicelli Instructions 3 (VoiceOver) */
 "Vermicelli.Instructions.3.Accessibility" = "Arrange some perilla leaves, mint, bean sprouts, pickled carrot and daikon, and cilantro on one half of the bowl.";
@@ -646,7 +646,7 @@
 "EggRolls.HowTo.1.Accessibility" = "Place an egg roll in the middle of a piece of lettuce.";
 
 /* Egg Rolls How To 2 */
-"EggRolls.HowTo.2" = "Add some ##Tía Tô## (perilla leaves), ##Húng Lũi## (mint), and ##Đồ Chua## (pickles).";
+"EggRolls.HowTo.2" = "Add some ##Tía Tô## (perilla leaves), ##Bạc Hà## (mint), and ##Đồ Chua## (pickles).";
 
 /* Egg Rolls How To 2 (VoiceOver) */
 "EggRolls.HowTo.2.Accessibility" = "Add some perilla leaves, mint, and pickles.";
