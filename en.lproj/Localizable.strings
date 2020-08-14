@@ -1444,10 +1444,10 @@
 "AnnattoOil.Instructions.Step.2" = "Step 2";
 
 /* Annatto Oil Ingredients Step 2 Part 1 */
-"AnnattoOil.Instructions.Step.2.Part.1" = "Strain the ##Dầu Hạt Điều## (annatto oil) to remove the seeds and transfer the oil to a glass container.";
+"AnnattoOil.Instructions.Step.2.Part.1" = "Once cooled, strain the ##Dầu Hạt Điều## (annatto oil) to remove the seeds and transfer the oil to a glass container.";
 
 /* Annatto Oil Ingredients Step 2 Part 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.2.Part.1.Accessibility" = "Strain the annatto oil to remove the seeds and transfer the oil to a glass container.";
+"AnnattoOil.Instructions.Step.2.Part.1.Accessibility" = "Once cooled, strain the annatto oil to remove the seeds and transfer the oil to a glass container.";
 
 /* Annatto Oil Ingredients Step 2 Note 1 */
 "AnnattoOil.Instructions.Step.2.Note.1" = "##Dầu Hạt Điều## (annatto oil) should last up to one month in the refrigerator or up to one week in the pantry because oil does degrade over time.";
