@@ -2047,10 +2047,10 @@
 "GrilledPork.Ingredients.BlackPepper.AccessibilityAmount" = "1 teaspoon";
 
 /* Grilled Pork Ingredients Oil Amount */
-"GrilledPork.Ingredients.Oil.Amount" = "1-2 tsp";
+"GrilledPork.Ingredients.Oil.Amount" = "1-2 tbsp";
 
 /* Grilled Pork Ingredients Oil (VoiceOver) */
-"GrilledPork.Ingredients.Oil.AccessibilityAmount" = "1 to 2 teaspoons";
+"GrilledPork.Ingredients.Oil.AccessibilityAmount" = "1 to 2 tablespoons";
 
 /* Grilled Pork Instructions Header */
 "GrilledPork.Instructions.Header" = "Instructions";

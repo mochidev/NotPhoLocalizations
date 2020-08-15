@@ -2010,10 +2010,10 @@
 "GrilledPork.Main.Image" = "Thông tin.";
 
 /* Grilled Pork Introduction 1 */
-"GrilledPork.Introduction.1" = "##Thịt Nướng## là dung nhắn tắc cho ##Thịt Heo Nướng##. ##Thịt Nướng## có mùi vị thơm ngon rất phù hợp ăn với bún hoặc cơm.";
+"GrilledPork.Introduction.1" = "##Thịt Nướng## là dùng nhắn tắc cho ##Thịt Heo Nướng##. ##Thịt Nướng## có mùi vị thơm ngon rất phù hợp ăn với bún hoặc cơm.";
 
 /* Grilled Pork Introduction 1 (VoiceOver) */
-"GrilledPork.Introduction.1.Accessibility" = "##Thịt Nướng## là dung nhắn tắc cho ##Thịt Heo Nướng##. ##Thịt Nướng## có mùi vị thơm ngon rất phù hợp ăn với bún hoặc cơm.";
+"GrilledPork.Introduction.1.Accessibility" = "Thịt Nướng là dùng nhắn tắc cho Thịt Heo Nướng. Thịt Nướng có mùi vị thơm ngon rất phù hợp ăn với bún hoặc cơm.";
 
 /* Grilled Pork Introduction 2 */
 "GrilledPork.Introduction.2" = "Công thức này làm cho khoảng 2 người ăn.";
@@ -2052,10 +2052,10 @@
 "GrilledPork.Ingredients.BlackPepper.AccessibilityAmount" = "1 muỗng cà phê";
 
 /* Grilled Pork Ingredients Oil Amount */
-"GrilledPork.Ingredients.Oil.Amount" = "1 đến 2 muỗng cà phê";
+"GrilledPork.Ingredients.Oil.Amount" = "1 đến 2 muỗng canh";
 
 /* Grilled Pork Ingredients Oil (VoiceOver) */
-"GrilledPork.Ingredients.Oil.AccessibilityAmount" = "1 đến 2 muỗng cà phê";
+"GrilledPork.Ingredients.Oil.AccessibilityAmount" = "1 đến 2 muỗng canh";
 
 /* Grilled Pork Instructions Header */
 "GrilledPork.Instructions.Header" = "Cách Làm";
@@ -2073,7 +2073,7 @@
 "GrilledPork.Instructions.Step.1.Part.2" = "Thèm ##Nước Mắm##, ##Muối## và ##Tiêu Đen## vào tô.";
 
 /* Grilled Pork Instructions Step 1 Part 2 (VoiceOver) */
-"GrilledPork.Instructions.Step.1.Part.2.Accessibility" = "Thèm ##Nước Mắm##, ##Muối## và ##Tiêu Đen## vào tô.";
+"GrilledPork.Instructions.Step.1.Part.2.Accessibility" = "Thèm Nước Mắm, Muối và Tiêu Đen vào tô.";
 
 /* Grilled Pork Instructions Step 1 Note 1 */
 "GrilledPork.Instructions.Step.1.Note.1" = "Công thức này dùng thịt nạc vai hoặc thịt sường heo là ngon nhất.";
@@ -2094,7 +2094,7 @@
 "GrilledPork.Instructions.Step.2.Part.1" = "Bầm nhỏ ##Tỏi##, ##Xả##, và ##Hẹ Tây##.";
 
 /* Grilled Pork Instructions Step 2 Part 1 (VoiceOver) */
-"GrilledPork.Instructions.Step.2.Part.1.Accessibility" = "Bầm nhỏ ##Tỏi##, ##Xả##, và ##Hẹ Tây##.";
+"GrilledPork.Instructions.Step.2.Part.1.Accessibility" = "Bầm nhỏ Tỏi, Xả, và Hẹ Tây.";
 
 /* Grilled Pork Instructions Step 2 Part 2 */
 "GrilledPork.Instructions.Step.2.Part.2" = "Sau khi bấm xong cho vào tô.";
@@ -2112,16 +2112,16 @@
 "GrilledPork.Instructions.Step.3.Part.2" = "Sau khi trộn đều nguyên liệu để ##Thịt Heo## ướp ít nhất khoảng 30 phút.";
 
 /* Grilled Pork Instructions Step 3 Part 1 (VoiceOver) */
-"GrilledPork.Instructions.Step.3.Part.2.Accessibility" = "Sau khi trộn đều nguyên liệu để ##Thịt Heo## ướp ít nhất khoảng 30 phút.";
+"GrilledPork.Instructions.Step.3.Part.2.Accessibility" = "Sau khi trộn đều nguyên liệu để Thịt Heo ướp ít nhất khoảng 30 phút.";
 
 /* Grilled Pork Instructions Step 4 */
 "GrilledPork.Instructions.Step.4" = "Bước 4";
 
 /* Grilled Pork Instructions Step 4 Part 1 */
-"GrilledPork.Instructions.Step.4.Part.1" = "Dùng một cái chảo không dính và mở lửa lên từ trung bình tới cao sau đó thêm một tí hai muỗng cà phê ##Dầu## ăn.";
+"GrilledPork.Instructions.Step.4.Part.1" = "Dùng một cái chảo không dính và mở lửa lên từ trung bình tới cao sau đó thêm một đến hai muỗng canh ##Dầu## ăn.";
 
 /* Grilled Pork Instructions Step 4 Part 1 (VoiceOver) */
-"GrilledPork.Instructions.Step.4.Part.1.Accessibility" = "Dùng một cái chảo không dính và mở lửa lên từ trung bình tới cao sau đó thêm một tí hai muỗng cà phê Dầu ăn.";
+"GrilledPork.Instructions.Step.4.Part.1.Accessibility" = "Dùng một cái chảo không dính và mở lửa lên từ trung bình tới cao sau đó thêm một đến hai muỗng canh Dầu ăn.";
 
 /* Grilled Pork Instructions Step 4 Part 2 */
 "GrilledPork.Instructions.Step.4.Part.2" = "Chuyển ##Thịt Heo## đã ướp xong vào trong chảo để chiên.";
@@ -2130,7 +2130,7 @@
 "GrilledPork.Instructions.Step.4.Part.3" = "Chiên đến khi nào nhiệt độ của giữa ##Thịt Heo## là ít nhất 145ºF.";
 
 /* Grilled Pork Instructions Step 4 Part 3 (VoiceOver) */
-"GrilledPork.Instructions.Step.4.Part.3.Accessibility" = "Chiên đến khi nào nhiệt độ của giữa ##Thịt Heo## là ít nhất 145ºF.";
+"GrilledPork.Instructions.Step.4.Part.3.Accessibility" = "Chiên đến khi nào nhiệt độ của giữa Thịt Heo là ít nhất 145ºF.";
 
 /* Grilled Pork Instructions Step 4 Note */
 "GrilledPork.Instructions.Step.4.Note.1" = "Nếu mà muốn mùi vị càng thơm ngon thì có thể dùng than để nướng.";
@@ -2142,10 +2142,10 @@
 "GrilledPork.HowTo.Header" = "Cách Thưởng Thức";
 
 /* Grilled Pork How To 1 */
-"GrilledPork.HowTo.1" = "##Thịt Nướng## có thể dùng với bún hoặc cơm.";
+"GrilledPork.HowTo.1" = "##Thịt Nướng## có thể ăn với bún hoặc cơm.";
 
 /* Grilled Pork How To 1 (VoiceOver) */
-"GrilledPork.HowTo.1.Accessibility" = "##Thịt Nướng## có thể dùng với bún hoặc cơm.";
+"GrilledPork.HowTo.1.Accessibility" = "##Thịt Nướng## có thể ăn với bún hoặc cơm.";
 
 /* Grilled Pork UsedIn Header */
 "GrilledPork.UsedIn.Header" = "Dùng Trong";
