@@ -876,7 +876,7 @@
 "CrepeBatter.Ingredients.CornStarch.Amount" = "2 muỗng canh";
 
 /* Crepe Batter Ingredients Turmeric Amount */
-"CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ muốn cà phê";
+"CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ muỗng cà phê";
 
 /* Crepe Batter Ingredients Turmeric Amount (VoiceOver) */
 "CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "một phần tám muỗng cà phê";
@@ -996,7 +996,7 @@
 "EggRollsComponent.BeanThreads.AccessibilityAmount" = "2 đến 4 ounces, cắt nhỏ khoảng nữa in";
 
 /* Egg Rolls Component Fish Sauce Amount */
-"EggRollsComponent.FishSauce.Amount" = "2 muộn canh";
+"EggRollsComponent.FishSauce.Amount" = "2 muỗng canh";
 
 /* Egg Rolls Component Chicken Bouillon Amount */
 "EggRollsComponent.ChickenBouillon.Amount" = "½ muỗng cà phê";
@@ -1516,10 +1516,10 @@
 "Pickles.Ingredients.Carrot.AccessibilityAmount" = "phân nữa pound";
 
 /* Pickles Ingredients Salt Amount */
-"Pickles.Ingredients.Salt.Amount" = "2 muốn cà phê";
+"Pickles.Ingredients.Salt.Amount" = "2 muỗng cà phê";
 
 /* Pickles Ingredients Salt Amount (VoiceOver) */
-"Pickles.Ingredients.Salt.AccessibilityAmount" = "2 muốn cà phê";
+"Pickles.Ingredients.Salt.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Pickles Ingredients Sugar Amount */
 "Pickles.Ingredients.Sugar.Amount" = "¼ cup";
@@ -1751,10 +1751,10 @@
 "MixedFishSauce.Ingredients.Header" = "Nguyên Liệu";
 
 /* Mixed Fish Sauce Ingredients Fish Sauce Amount */
-"MixedFishSauce.FishSauce.Amount" = "5 mượn canh";
+"MixedFishSauce.FishSauce.Amount" = "5 muỗng canh";
 
 /* Mixed Fish Sauce Ingredients Lime Amount */
-"MixedFishSauce.Lime.Amount" = "6 mượn canh";
+"MixedFishSauce.Lime.Amount" = "6 muỗng canh";
 
 /* Mixed Fish Sauce Ingredients Water Amount */
 "MixedFishSauce.Water.Amount" = "200 mL";
@@ -1769,16 +1769,16 @@
 "MixedFishSauce.Sugar.Amount" = "150 g";
 
 /* Mixed Fish Sauce Ingredients Salt Amount */
-"MixedFishSauce.Salt.Amount" = "½ những cà phê";
+"MixedFishSauce.Salt.Amount" = "½ muỗng cà phê";
 
 /* Mixed Fish Sauce Ingredients Salt Amount (VoiceOver) */
-"MixedFishSauce.Salt.AccessibilityAmount" = "phân nửa những cà phê";
+"MixedFishSauce.Salt.AccessibilityAmount" = "phân nửa muỗng cà phê";
 
 /* Mixed Fish Sauce Ingredients Chili Amount */
-"MixedFishSauce.Chili.Amount" = "½ những cà phê";
+"MixedFishSauce.Chili.Amount" = "½ muỗng cà phê";
 
 /* Mixed Fish Sauce Ingredients Chili Amount (VoiceOver) */
-"MixedFishSauce.Chili.AccessibilityAmount" = "phân nửa những cà phê";
+"MixedFishSauce.Chili.AccessibilityAmount" = "phân nửa muỗng cà phê";
 
 /* Mixed Fish Sauce Instructions Header */
 "MixedFishSauce.Instructions.Header" = "Cách Làm";
@@ -2034,7 +2034,7 @@
 "GrilledPork.Ingredients.Lemongrass.AccessibilityAmount" = "phân nữa muỗng canh";
 
 /* Grilled Pork Ingredients Fish Sauce Amount */
-"GrilledPork.Ingredients.FishSauce.Amount" = "2 muỗng tranh";
+"GrilledPork.Ingredients.FishSauce.Amount" = "2 muỗng canh";
 
 /* Grilled Pork Ingredients Garlic Amount */
 "GrilledPork.Ingredients.Garlic.Amount" = "1 tép";
