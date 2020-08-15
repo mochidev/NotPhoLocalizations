@@ -1942,7 +1942,7 @@
 "Mayo.Instructions.Step.2.Part.1" = "While the ##Lòng Đỏ Trứng## (egg yolks) are being whisked, slowly incorporate the ##Dầu## (oil).";
 
 /* Mayo Instructions Step 2 Part 1 (VoiceOver) */
-"Mayo.Instructions.Step.2.Part.1.Accessibility" = "While the egg yolks are whisking, slowly incorporate the oil.";
+"Mayo.Instructions.Step.2.Part.1.Accessibility" = "While the egg yolks are being whisked, slowly incorporate the oil.";
 
 /* Mayo Instructions Step 2 Note 1 */
 "Mayo.Instructions.Step.2.Note.1" = "Adding the ##Dầu## (oil) should be spread over 5-10 minutes.";
