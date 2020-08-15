@@ -2374,10 +2374,10 @@
 "Perilla.Main.Image" = "Info";
 
 /* Perilla Introduction */
-"Perilla.Introduction" = "##Tía Tô## (Vietnamese perilla) is a type of herb belonging in the mint family. There are many varieties of this herb differing in color, size, and shape. This herb is used all throughout Asia, but what makes ##Tía Tô## (Vietnamese perilla) different from all other varieties is that it is bicolored, red-purple on one side and green on the other. Its size is also smaller but it is strong in flavor.";
+"Perilla.Introduction" = "##Tía Tô## (Vietnamese perilla) is a type of herb belonging in the mint family. There are many varieties of this herb differing in color, size, and shape. This herb is used all throughout Asia, but what makes ##Tía Tô## (Vietnamese perilla) different from all other varieties is that it is bicolored, red-purple on one side and green on the other. Its size is also smaller but it is stronger in flavor.";
 
 /* Perilla Introduction (VoiceOver) */
-"Perilla.Introduction.Accessibility" = "Vietnamese perilla is a type of herb belonging in the mint family. There are many varieties of this herb differing in color, size, and shape. This herb is used all throughout Asia, but what make Vietnamese perilla different from all other varieties is that it is bicolored, red-purple on one side and green on the other. Its size is also smaller but it is strong in flavor.";
+"Perilla.Introduction.Accessibility" = "Vietnamese perilla is a type of herb belonging in the mint family. There are many varieties of this herb differing in color, size, and shape. This herb is used all throughout Asia, but what make Vietnamese perilla different from all other varieties is that it is by-colored, red-purple on one side and green on the other. Its size is also smaller but it is stronger in flavor.";
 
 /* Perilla How To Header */
 "Perilla.HowTo.Header" = "How To";
@@ -2386,7 +2386,7 @@
 "Perilla.HowTo.1" = "##Tía Tô## (Vietnamese perilla) is used as a garnish and eaten raw.";
 
 /* Perilla How To 1 (VoiceOver) */
-"Perilla.Introduction.Accessibility" = "Vietnamese perilla is used as a garnish and eaten raw.";
+"Perilla.HowTo.1.Accessibility" = "Vietnamese perilla is used as a garnish and eaten raw.";
 
 /* Perilla Used In Header */
 "Perilla.UsedIn.Header" = "Used In";
