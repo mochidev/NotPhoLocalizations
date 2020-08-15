@@ -1756,7 +1756,7 @@
 "MixedFishSauce.Water.Amount" = "200 mL";
 
 /* Mixed Fish Sauce Ingredients Garlic Amount */
-"MixedFishSauce.Garlic.Amount" = "2-3 cloves, minced";
+"MixedFishSauce.Garlic.Amount" = "2-3 cloves";
 
 /* Mixed Fish Sauce Ingredients Garlic Amount (VoiceOver) */
 "MixedFishSauce.Garlic.AccessibilityAmount" = "2 to 3 cloves, minced";
