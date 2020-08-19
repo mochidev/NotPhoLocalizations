@@ -2528,18 +2528,41 @@
 /* About Support Text With Alt Icon Support (VoiceOver) */
 "About.Support.Text.WithAltIcon.Accessibility" = "Nếu bạn thích APP này thì xin nguyên góp để hỗ trợ phát triển APP. Sau khi quyên góp bạn sẽ mở khóa các hình ảnh bên dưới để sử dụng làm biểu tượng cho APP.";
 
-/* About Support Egg Meatloaf App Icon (VoiceOver) */
-"About.Support.EggMeatloaf.AppIcon.Accessibility" = "Chả Trứng Biểu Tượng APP";
+/* About Support Alternate Banh Mi App Icon (VoiceOver) */
+"About.Support.BanhMiAlt.AppIcon.Accessibility" = "Nửa ổ Bánh Mì Biểu Tượng APP";
 
 /* About Support Egg Rolls App Icon (VoiceOver) */
 "About.Support.EggRolls.AppIcon.Accessibility" = "Chả Giò Biểu Tượng APP";
 
-/* About Support Rice Ball App Icon (VoiceOver) */
-"About.Support.RiceBall.AppIcon.Accessibility" = "Cơm Tấm Biểu Tượng APP";
+/* About Support Crepe App Icon (VoiceOver) */
+"About.Support.Crepe.AppIcon.Accessibility" = "bánh xèo Biểu Tượng APP";
+
+/* About Support Egg Meatloaf App Icon (VoiceOver) */
+"About.Support.EggMeatloaf.AppIcon.Accessibility" = "Chả Trứng Biểu Tượng APP";
+
+/* About Support Tomato App Icon (VoiceOver) */
+"About.Support.Tomato.AppIcon.Accessibility" = "cà chua Biểu Tượng APP";
 
 /* About Support Pork Chop App Icon (VoiceOver) */
 "About.Support.PorkChop.AppIcon.Accessibility" = "Thịt Nướng Biểu Tượng APP";
 
+/* About Support Thai Basil App Icon (VoiceOver) */
+"About.Support.ThaiBasil.AppIcon.Accessibility" = "Húng Quế Biểu Tượng APP";
+
+/* About Support Carrot App Icon (VoiceOver) */
+"About.Support.Carrot.AppIcon.Accessibility" = "cà rốt Biểu Tượng APP";
+
+/* About Support Solid Background Light Pink Banh Mi App Icon (VoiceOver) */
+"About.Support.XrayLinhPink.AppIcon.Accessibility" = "màu hồng lợt Biểu Tượng APP";
+
+/* About Support Solid Background Pink Banh Mi App Icon (VoiceOver) */
+"About.Support.XrayPink.AppIcon.Accessibility" = "màu hồng Biểu Tượng APP";
+
+/* About Support Solid Background Orange Banh Mi App Icon (VoiceOver) */
+"About.Support.XrayOrange.AppIcon.Accessibility" = "màu cam Biểu Tượng APP";
+
+/* About Support Rice Ball App Icon (VoiceOver) */
+"About.Support.RiceBall.AppIcon.Accessibility" = "Cơm Tấm Biểu Tượng APP";
 
 /* About Support Reset Button Text */
 "About.Support.Reset.ButtonText" = "Đặt Lại Biểu Tượng APP";

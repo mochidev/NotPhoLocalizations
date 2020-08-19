@@ -2524,17 +2524,41 @@
 /* About Support Text With Alt Icon Support (VoiceOver) */
 "About.Support.Text.WithAltIcon.Accessibility" = "Do you like Not Pho? Please consider tipping to support development of apps like this, and unlock the icons below!";
 
-/* About Support Egg Meatloaf App Icon (VoiceOver) */
-"About.Support.EggMeatloaf.AppIcon.Accessibility" = "Egg Meatloaf App Icon";
+/* About Support Alternate Banh Mi App Icon (VoiceOver) */
+"About.Support.BanhMiAlt.AppIcon.Accessibility" = "Large Banh Mi App Icon";
 
 /* About Support Egg Rolls App Icon (VoiceOver) */
 "About.Support.EggRolls.AppIcon.Accessibility" = "Egg Rolls App Icon";
 
-/* About Support Rice Ball App Icon (VoiceOver) */
-"About.Support.RiceBall.AppIcon.Accessibility" = "Rice Ball App Icon";
+/* About Support Crepe App Icon (VoiceOver) */
+"About.Support.Crepe.AppIcon.Accessibility" = "Crepe App Icon";
+
+/* About Support Egg Meatloaf App Icon (VoiceOver) */
+"About.Support.EggMeatloaf.AppIcon.Accessibility" = "Egg Meatloaf App Icon";
+
+/* About Support Tomato App Icon (VoiceOver) */
+"About.Support.Tomato.AppIcon.Accessibility" = "Tomato App Icon";
 
 /* About Support Pork Chop App Icon (VoiceOver) */
 "About.Support.PorkChop.AppIcon.Accessibility" = "Pork Chop App Icon";
+
+/* About Support Thai Basil App Icon (VoiceOver) */
+"About.Support.ThaiBasil.AppIcon.Accessibility" = "Thai Basil App Icon";
+
+/* About Support Carrot App Icon (VoiceOver) */
+"About.Support.Carrot.AppIcon.Accessibility" = "Carrot App Icon";
+
+/* About Support Solid Background Light Pink Banh Mi App Icon (VoiceOver) */
+"About.Support.XrayLinhPink.AppIcon.Accessibility" = "Light Pink App Icon";
+
+/* About Support Solid Background Pink Banh Mi App Icon (VoiceOver) */
+"About.Support.XrayPink.AppIcon.Accessibility" = "Pink App Icon";
+
+/* About Support Solid Background Orange Banh Mi App Icon (VoiceOver) */
+"About.Support.XrayOrange.AppIcon.Accessibility" = "Orange App Icon";
+
+/* About Support Rice Ball App Icon (VoiceOver) */
+"About.Support.RiceBall.AppIcon.Accessibility" = "Rice Ball App Icon";
 
 /* About Support Reset Button Text */
 "About.Support.Reset.ButtonText" = "Reset App Icon";
