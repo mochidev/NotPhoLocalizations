@@ -1,0 +1,33 @@
+/* 
+  Contributors.strings
+  NotPho
+
+  Created by Linh Bouniol on 8/2/20.
+  Copyright © 2020 Linh Bouniol. All rights reserved.
+*/
+
+/* Contributors for each localization. Please add your name below to the language you contributed to:
+ Example:
+ 
+"Contributors.en" =
+"Name 1
+Name 2
+Name 3";
+
+ */
+
+/* Contributors for the English localization. */
+"Contributors.en" =
+"Linh Bouniol
+Dimitri Bouniol";
+
+
+/* Contributors for the French localization. */
+"Contributors.fr" =
+"Jean-Luc Bouniol
+Dimitri Bouniol";
+
+
+/* Contributors for the Vietnamese localization. */
+"Contributors.vi" =
+"Linh Bouniol";
