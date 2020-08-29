@@ -70,6 +70,12 @@
 /* Play Vietnamese Term Audio (VoiceOver) */
 "PlayAudio.Accessibility" = "Read Vietnamese Term.";
 
+/* Share View Content */
+"ShareView.Content" = "Did you try the recipe? Don't forget to share photos of it using hashtag #NotPho!";
+
+/* Share View Content (VoiceOver) */
+"ShareView.AccessibilityContent" = "Did you try the recipe? Don't forget to share photos of it using hashtag Not Pho!";
+
 // MARK: - # Vietnamese Food Tab:
 
 /* Vietnamese Food Tab Page Title */
@@ -2610,4 +2616,3 @@
 
 /* About Copyright (VoiceOver) */
 "About.Copyright.Accessibility" = "Copyright 2020 Mochi Development Inc. All rights reserved.";
-

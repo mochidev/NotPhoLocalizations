@@ -70,6 +70,12 @@
 /* Play Vietnamese Term Audio (VoiceOver) */
 "PlayAudio.Accessibility" = "Đọc tiếng Việt.";
 
+/* Share View Content */
+"ShareView.Content" = "Bạn có thử món ăn này chưa? Đừng quên chia sẻ hình ảnh của món ăn trên mạng và dùng #NotPho!";
+
+/* Share View Content (VoiceOver) */
+"ShareView.AccessibilityContent" = "Bạn có thử món ăn này chưa? Đừng quên chia sẻ hình ảnh của món ăn trên mạng và dùng #NotPho!";
+
 // MARK: - # Vietnamese Food Tab:
 
 /* Vietnamese Food Tab Page Title */
