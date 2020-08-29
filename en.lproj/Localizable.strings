@@ -2599,6 +2599,9 @@
 /* About Follow me on Twitter At MochiDev Accessibility Text */
 "About.FollowMeOnTwitter.AtMochiDev.AccessibilityText" = "At Mochi Dev";
 
+/* About Version Information - %@ will be replaces by `1.0.2 (7)` for instance */
+"About.Version %@" = "Version %@";
+
 /* About Copyright */
 "About.Copyright" = "Copyright © 2020 Mochi Development, Inc.";
 
