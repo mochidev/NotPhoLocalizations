@@ -1020,43 +1020,53 @@
 "EggRollsComponent.Ingredients.Header" = "Ingredients";
 
 /* Egg Rolls Component Ground Pork Amount */
-"EggRollsComponent.GroundPork.Amount" = "½ lb";
+"EggRollsComponent.GroundPork.Amount.us" = "½ lb";
+"EggRollsComponent.GroundPork.Amount.metric" = "225 g";
 
 /* Egg Rolls Component Ground Pork Amount (VoiceOver) */
-"EggRollsComponent.GroundPork.AccessibilityAmount" = "half a pound";
+"EggRollsComponent.GroundPork.AccessibilityAmount.us" = "half a pound";
+"EggRollsComponent.GroundPork.AccessibilityAmount.metric" = "225 grams";
 
 /* Egg Rolls Component Shrimp Amount */
-"EggRollsComponent.Shrimp.Amount" = "½ lb";
+"EggRollsComponent.Shrimp.Amount.us" = "½ lb";
+"EggRollsComponent.Shrimp.Amount.metric" = "225 g";
 
 /* Egg Rolls Component Shrimp Amount (VoiceOver) */
-"EggRollsComponent.Shrimp.AccessibilityAmount" = "half a pound";
+"EggRollsComponent.Shrimp.AccessibilityAmount.us" = "half a pound";
+"EggRollsComponent.Shrimp.AccessibilityAmount.metric" = "225 grams";
 
 /* Egg Rolls Component Onion Amount */
-"EggRollsComponent.Onion.Amount" = "½ cup";
+"EggRollsComponent.Onion.Amount.us" = "½ cup";
+"EggRollsComponent.Onion.Amount.metric" = "190 g";
 
 /* Egg Rolls Component Onion Amount (VoiceOver) */
-"EggRollsComponent.Onion.AccessibilityAmount" = "half a cup";
+"EggRollsComponent.Onion.AccessibilityAmount.us" = "half a cup";
+"EggRollsComponent.Onion.AccessibilityAmount.metric" = "190 grams";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz, soaked";
+"EggRollsComponent.DriedMushroom.Amount.us" = "¾ cups, soaked";
+"EggRollsComponent.DriedMushroom.Amount.metric" = "80-100 g, soaked";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "2 to 4 ounces, soaked";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount.us" = "three quarter cups, soaked";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount.metric" = "80 to 100 grams, soaked";
 
 /* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount" = "2-4 oz, soaked";
+"EggRollsComponent.BeanThreads.Amount.us" = "¾ cups, soaked";
+"EggRollsComponent.BeanThreads.Amount.metric" = "80-100 g, soaked";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
-"EggRollsComponent.BeanThreads.AccessibilityAmount" = "2 to 4 ounces, soaked";
+"EggRollsComponent.BeanThreads.AccessibilityAmount.us" = "three quarter cups, soaked";
+"EggRollsComponent.BeanThreads.AccessibilityAmount.metric" = "80 to 100 grams, soaked";
 
 /* Egg Rolls Component Fish Sauce Amount */
 "EggRollsComponent.FishSauce.Amount" = "2 tbsp";
 
 /* Egg Rolls Component Chicken Bouillon Amount */
-"EggRollsComponent.ChickenBouillon.Amount" = "½ tsp";
+"EggRollsComponent.ChickenBouillon.Amount" = "1 tsp";
 
 /* Egg Rolls Component Chicken Bouillon Amount (VoiceOver) */
-"EggRollsComponent.ChickenBouillon.AccessibilityAmount" = "half a teaspoon";
+"EggRollsComponent.ChickenBouillon.AccessibilityAmount" = "one teaspoon";
 
 /* Egg Rolls Component Black Pepper Amount */
 "EggRollsComponent.BlackPepper.Amount" = "1 tsp";
@@ -1158,16 +1168,20 @@
 "EggRollsComponent.Instructions.Step.5" = "Step 5";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 */
-"EggRollsComponent.Instructions.Step.5.Part.1" = "Fry the ##Chả Giò## (egg rolls) in small batches in 325ºF oil.";
+"EggRollsComponent.Instructions.Step.5.Part.1.us" = "Fry the ##Chả Giò## (egg rolls) in small batches in 325ºF oil.";
+"EggRollsComponent.Instructions.Step.5.Part.1.metric" = "Fry the ##Chả Giò## (egg rolls) in small batches in 163ºC oil.";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility" = "Fry the egg rolls in small batches in 325ºF oil.";
+"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.us" = "Fry the egg rolls in small batches in 325ºF oil.";
+"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.metric" = "Fry the egg rolls in small batches in 163ºC oil.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 */
-"EggRollsComponent.Instructions.Step.5.Part.2" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.us" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.metric" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 63ºC (timing is anywhere between 8-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.us" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.metric" = "Fry until the egg rolls are golden brown and the internal temperature is at least 63ºC (timing is anywhere between 8 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
 
 /* Egg Rolls Component Instructions Step 5 Note 1 */
 "EggRollsComponent.Instructions.Step.5.Note.1" = "You can fry them all at once, or fry what you need and freeze the rest raw.";
