@@ -134,22 +134,22 @@
 "BanhMi.Ingredients.Baguette.AccessibilityAmount" = "Một khúc khoảng 10 in.";
 
 /* Banh Mi Ingredients Pickles Amount */
-"BanhMi.Ingredients.Pickles.Amount" = "1 đến 2 oz";
+"BanhMi.Ingredients.Pickles.Amount" = "1 đến 2 oz";
 
 /* Banh Mi Ingredients Pickles Amount (VoiceOver) */
 "BanhMi.Ingredients.Pickles.Amount" = "1 đến 2 ounces";
 
 /* Banh Mi Ingredients GrilledPork Amount */
-"BanhMi.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
+"BanhMi.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
 
 /* Banh Mi Ingredients GrilledPork Amount (VoiceOver) */
 "BanhMi.Ingredients.GrilledPork.AccessibilityAmount" = "3 đến 4 ounces";
 
 /* Banh Mi Ingredients Mayo Amount */
-"BanhMi.Ingredients.Mayo.Amount" = "1 oz";
+"BanhMi.Ingredients.Mayo.Amount" = "1 oz";
 
 /* Banh Mi Ingredients Mayo Amount (VoiceOver) */
-"BanhMi.Ingredients.Mayo.AccessibilityAmount" = "1 oz";
+"BanhMi.Ingredients.Mayo.AccessibilityAmount" = "1 oz";
 
 /* Banh Mi Ingredients Cucumber Amount */
 "BanhMi.Ingredients.Cucumber.Amount" = "4 đến 5 lát";
@@ -260,19 +260,19 @@
 "Crepe.Ingredients.CrepeBatter.Amount" = "1 gói";
 
 /* Crepe Ingredients Pork Belly Amount */
-"Crepe.Ingredients.PorkBelly.Amount" = "1 lb, cắt nhỏ";
+"Crepe.Ingredients.PorkBelly.Amount" = "1 lb, cắt nhỏ";
 
 /* Crepe Ingredients Shrimp Amount */
-"Crepe.Ingredients.Shrimp.Amount" = "1 lb";
+"Crepe.Ingredients.Shrimp.Amount" = "1 lb";
 
 /* Crepe Ingredients Shrimp Amount (VoiceOver) */
-"Crepe.Ingredients.Shrimp.AccessibilityAmount" = "1 lb";
+"Crepe.Ingredients.Shrimp.AccessibilityAmount" = "1 lb";
 
 /* Crepe Ingredients Onion Amount */
 "Crepe.Ingredients.Onion.Amount" = "1 củ, cắt lát mỏng";
 
 /* Crepe Ingredients Bean Sprouts Amount */
-"Crepe.Ingredients.BeanSprouts.Amount" = "1 lb";
+"Crepe.Ingredients.BeanSprouts.Amount" = "1 lb";
 
 /* Crepe Ingredients Green Onion Amount */
 "Crepe.Ingredients.GreenOnion.Amount" = "2 cộng";
@@ -281,7 +281,7 @@
 "Crepe.Ingredients.LeafyGreens.Amount" = "các loại";
 
 /* Crepe Ingredients Mixed Fish Sauce Amount */
-"Crepe.Ingredients.MixedFishSauce.Amount" = "1 và ½ cups";
+"Crepe.Ingredients.MixedFishSauce.Amount" = "1 và ½ cups";
 
 /* Crepe Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "Crepe.Ingredients.MixedFishSauce.AccessibilityAmount" = "1 và ½ cups";
@@ -482,7 +482,7 @@
 "Vermicelli.Ingredients.Header" = "Nguyên Liệu";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount */
-"Vermicelli.Ingredients.VermicelliNoodles.Amount" = "3 đến 4 oz";
+"Vermicelli.Ingredients.VermicelliNoodles.Amount" = "3 đến 4 oz";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount (VoiceOver) */
 "Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount" = "3 đến 4 ounces";
@@ -491,16 +491,16 @@
 "Vermicelli.Ingredients.EggRolls.Amount" = "2 cuốn";
 
 /* Vermicelli Ingredients Grilled Pork Amount */
-"Vermicelli.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
+"Vermicelli.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
 
 /* Vermicelli Ingredients Grilled Pork Amount (VoiceOver) */
 "Vermicelli.Ingredients.GrilledPork.AccessibilityAmount" = "3 đến 4 ounces";
 
 /* Vermicelli Ingredients Pickles Amount */
-"Vermicelli.Ingredients.Pickles.Amount" = "1 đến 2 oz";
+"Vermicelli.Ingredients.Pickles.Amount" = "1 đến 2 oz";
 
 /* Vermicelli Ingredients Pickles Amount (VoiceOver) */
-"Vermicelli.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 oz";
+"Vermicelli.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 oz";
 
 /* Vermicelli Ingredients Leafy Greens Amount */
 "Vermicelli.Ingredients.LeafyGreens.Amount" = "các loại";
@@ -515,7 +515,7 @@
 "Vermicelli.Ingredients.BeanSprouts.Amount" = "một nắm tay nhỏ";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount */
-"Vermicelli.Ingredients.MixedFishSauce.Amount" = "½ cup";
+"Vermicelli.Ingredients.MixedFishSauce.Amount" = "½ cup";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount" = "½ cup";
@@ -641,13 +641,13 @@
 "EggRolls.Ingredients.LeafyGreens.Amount" = "các loại";
 
 /* Egg Rolls Ingredients Pickles Amount */
-"EggRolls.Ingredients.Pickles.Amount" = "1 đến 2 oz";
+"EggRolls.Ingredients.Pickles.Amount" = "1 đến 2 oz";
 
 /* Egg Rolls Ingredients Pickles Amount (VoiceOver) */
 "EggRolls.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 ounces";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount */
-"EggRolls.Ingredients.MixedFishSauce.Amount" = "½ cup";
+"EggRolls.Ingredients.MixedFishSauce.Amount" = "½ cup";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount" = "phân nửa cup";
@@ -711,25 +711,25 @@
 "BrokenRice.Ingredients.Header" = "Nguyên Liệu";
 
 /* Broken Rice Ingredients Rice Amount */
-"BrokenRice.Ingredients.Rice.Amount" = "½ cup, cơm chín";
+"BrokenRice.Ingredients.Rice.Amount" = "½ cup, cơm chín";
 
 /* Broken Rice Ingredients Rice Amount (VoiceOver) */
 "BrokenRice.Ingredients.Rice.AccessibilityAmount" = "phân nữa cup, cơm chín";
 
 /* Broken Rice Ingredients Grilled Pork Amount */
-"BrokenRice.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
+"BrokenRice.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
 
 /* Broken Rice Ingredients Grilled Pork Amount (VoiceOver) */
 "BrokenRice.Ingredients.GrilledPork.AccessibilityAmount" = "3 đến 4 ounces";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount */
-"BrokenRice.Ingredients.EggMeatloaf.Amount" = "2 đến 3 oz";
+"BrokenRice.Ingredients.EggMeatloaf.Amount" = "2 đến 3 oz";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount (VoiceOver) */
 "BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount" = "2 đến 3 ounces";
 
 /* Broken Rice Ingredients Pickles Amount */
-"BrokenRice.Ingredients.Pickles.Amount" = "1 đến 2 oz";
+"BrokenRice.Ingredients.Pickles.Amount" = "1 đến 2 oz";
 
 /* Broken Rice Ingredients Pickles Amount (VoiceOver) */
 "BrokenRice.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 ounces";
@@ -747,7 +747,7 @@
 "BrokenRice.Ingredients.ScallionsOil.AccessibilityAmount" = "1 đến 2 muỗng canh";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount */
-"BrokenRice.Ingredients.MixedFishSauce.Amount" = "½ cup";
+"BrokenRice.Ingredients.MixedFishSauce.Amount" = "½ cup";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount" = "phân nữa cup";
@@ -864,7 +864,7 @@
 "CrepeBatter.Introduction.1.Accessibility" = "Bột Bánh Xèo rất dễ làm nhưng là một nguyên liệu quan trọng khi làm Bánh Xèo.";
 
 /* Crepe Batter Introduction 2 */
-"CrepeBatter.Introduction.2" = "Công thức này làm khoảng 1 cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
+"CrepeBatter.Introduction.2" = "Công thức này làm khoảng 1 cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
 
 /* Crepe Batter Introduction 2 (VoiceOver) */
 "CrepeBatter.Introduction.2.Accessibility" = "Công thức này làm khoảng một cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
@@ -873,7 +873,7 @@
 "CrepeBatter.Ingredients.Header" = "Nguyên Liệu";
 
 /* Crepe Batter Ingredients Rice Flour Amount */
-"CrepeBatter.Ingredients.RiceFlour.Amount" = "⅓ cup";
+"CrepeBatter.Ingredients.RiceFlour.Amount" = "⅓ cup";
 
 /* Crepe Batter Ingredients Rice Flour Amount (VoiceOVer) */
 "CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount" = "một phần ba cup";
@@ -888,13 +888,13 @@
 "CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "một phần tám muỗng cà phê";
 
 /* Crepe Batter Ingredients Coconut Milk Amount */
-"CrepeBatter.Ingredients.CoconutMilk.Amount" = "¼ cup";
+"CrepeBatter.Ingredients.CoconutMilk.Amount" = "¼ cup";
 
 /* Crepe Batter Ingredients Coconut Milk Amount (VoiceOver) */
 "CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount" = "một phần tư cup";
 
 /* Crepe Batter Ingredients Water Amount */
-"CrepeBatter.Ingredients.Water.Amount" = "½ cup";
+"CrepeBatter.Ingredients.Water.Amount" = "½ cup";
 
 /* Crepe Batter Ingredients Water Amount (VoiceOver) */
 "CrepeBatter.Ingredients.Water.AccessibilityAmount" = "phân nữa cup";
@@ -972,31 +972,31 @@
 "EggRollsComponent.Ingredients.Header" = "Nguyên Liệu";
 
 /* Egg Rolls Component Ground Pork Amount */
-"EggRollsComponent.GroundPork.Amount" = "½ lb";
+"EggRollsComponent.GroundPork.Amount" = "½ lb";
 
 /* Egg Rolls Component Ground Pork Amount (VoiceOver) */
 "EggRollsComponent.GroundPork.AccessibilityAmount" = "phân nữa pound";
 
 /* Egg Rolls Component Shrimp Amount */
-"EggRollsComponent.Shrimp.Amount" = "½ lb";
+"EggRollsComponent.Shrimp.Amount" = "½ lb";
 
 /* Egg Rolls Component Shrimp Amount (VoiceOver) */
 "EggRollsComponent.Shrimp.AccessibilityAmount" = "phân nữa pound";
 
 /* Egg Rolls Component Onion Amount */
-"EggRollsComponent.Onion.Amount" = "½ cup";
+"EggRollsComponent.Onion.Amount" = "½ cup";
 
 /* Egg Rolls Component Onion Amount (VoiceOver) */
 "EggRollsComponent.Onion.AccessibilityAmount" = "phân nữa cup";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz";
+"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
 "EggRollsComponent.DriedMushroom.AccessibilityAmount" = "2 đến 4 ounces";
 
 /* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount" = "2-4 oz, cắt nhỏ khoảng nữa in";
+"EggRollsComponent.BeanThreads.Amount" = "2-4 oz, cắt nhỏ khoảng nữa in";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
 "EggRollsComponent.BeanThreads.AccessibilityAmount" = "2 đến 4 ounces, cắt nhỏ khoảng nữa in";
@@ -1186,25 +1186,25 @@
 "EggMeatloaf.Ingredients.Header" = "Nguyên Liệu";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount */
-"EggMeatloaf.Ingredients.GroundPork.Amount" = "½ lb";
+"EggMeatloaf.Ingredients.GroundPork.Amount" = "½ lb";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount" = "phân nữa pound";
 
 /* Egg Meatloaf Ingredients Onion Amount */
-"EggMeatloaf.Ingredients.Onion.Amount" = "⅓ cup";
+"EggMeatloaf.Ingredients.Onion.Amount" = "⅓ cup";
 
 /* Egg Meatloaf Ingredients Onion Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.Onion.AccessibilityAmount" = "một phần ba cup";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "1 đến 2 oz";
+"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "1 đến 2 oz";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
 "EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount" = "1 đến 2 ounces";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount */
-"EggMeatloaf.Ingredients.BeanThreads.Amount" = "1 đến 2 oz";
+"EggMeatloaf.Ingredients.BeanThreads.Amount" = "1 đến 2 oz";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "1 đến 2 ounces";
@@ -1393,7 +1393,7 @@
 "AnnattoOil.Introduction.1.Accessibility" = "Dầu Hạt Điều la làm từ dầu và Hạt Điều. Hạt Annatto không có mùi vị gì nhưng khi dùng có thể cho màu sắc cho món ăn.";
 
 /* Annatto Oil Introduction 2 */
-"AnnattoOil.Introduction.2" = "Công thức này làm khoảng ¼ cup.";
+"AnnattoOil.Introduction.2" = "Công thức này làm khoảng ¼ cup.";
 
 /* Annatto Oil Introduction 2 (VoiceOver) */
 "AnnattoOil.Introduction.2.Accessibility" = "Công thức này làm khoảng một phần tư cup.";
@@ -1408,7 +1408,7 @@
 "AnnattoOil.Ingredients.1.Accessibility" = "một và một phần hai muốn canh";
 
 /* Annatto Oil Ingredients 2 */
-"AnnattoOil.Ingredients.2" = "¼ cup";
+"AnnattoOil.Ingredients.2" = "¼ cup";
 
 /* Annatto Oil Ingredients 2 (VoiceOver) */
 "AnnattoOil.Ingredients.2.Accessibility" = "một phần tư cup";
@@ -1504,19 +1504,19 @@
 "Pickles.Introduction.1.Accessibility" = "Đồ Chua là một món trang trí ngọt ngào và thơm.";
 
 /* Pickles Introduction 2 */
-"Pickles.Introduction.2" = "Công thức này làm khoảng 1 lb.";
+"Pickles.Introduction.2" = "Công thức này làm khoảng 1 lb.";
 
 /* Pickles Ingredients Header */
 "Pickles.Ingredients.Header" = "Nguyên Liệu";
 
 /* Pickles Ingredients Carrot Amount */
-"Pickles.Ingredients.Carrot.Amount" = "½ lb";
+"Pickles.Ingredients.Carrot.Amount" = "½ lb";
 
 /* Pickles Ingredients Carrot Amount (VoiceOVer)*/
 "Pickles.Ingredients.Carrot.AccessibilityAmount" = "phân nữa pound";
 
 /* Pickles Ingredients Daikon Amount */
-"Pickles.Ingredients.Daikon.Amount" = "½ lb";
+"Pickles.Ingredients.Daikon.Amount" = "½ lb";
 
 /* Pickles Ingredients Daikon Amount (VoiceOVer)*/
 "Pickles.Ingredients.Carrot.AccessibilityAmount" = "phân nữa pound";
@@ -1528,19 +1528,19 @@
 "Pickles.Ingredients.Salt.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Pickles Ingredients Sugar Amount */
-"Pickles.Ingredients.Sugar.Amount" = "¼ cup";
+"Pickles.Ingredients.Sugar.Amount" = "¼ cup";
 
 /* Pickles Ingredients Sugar Amount (VocieOver) */
 "Pickles.Ingredients.Sugar.AccessibilityAmount" = "một phần tư cup";
 
 /* Pickles Ingredients Vinegar Amount */
-"Pickles.Ingredients.Vinegar.Amount" = "⅔ cups";
+"Pickles.Ingredients.Vinegar.Amount" = "⅔ cups";
 
 /* Pickles Ingredients Vinegar Amount (VoiceOver) */
 "Pickles.Ingredients.Vinegar.AccessibilityAmount" = "hai phần ba cups";
 
 /* Pickles Ingredients Water Amount */
-"Pickles.Ingredients.Water.Amount" = "½ cup, warm";
+"Pickles.Ingredients.Water.Amount" = "½ cup, warm";
 
 /* Pickles Ingredients Water Amount (VoiceOver) */
 "Pickles.Ingredients.Water.AccessibilityAmount" = "phân nữa cup, nước ấm";
@@ -1748,7 +1748,7 @@
 "MixedFishSauce.Introduction.1.Accessibility" = "Nước Mắm Chấm là dùng để thêm mùi vị cho những món ăn tầm thường.";
 
 /* Mixed Fish Sauce Introduction 2 */
-"MixedFishSauce.Introduction.2" = "Công thức này làm thành 1 và ½ cups.";
+"MixedFishSauce.Introduction.2" = "Công thức này làm thành 1 và ½ cups.";
 
 /* Mixed Fish Sauce Introduction 2 (VoiceOver) */
 "MixedFishSauce.Introduction.2.Accessibility" = "Công thức này làm thành 1 và ½ cups.";
@@ -1763,7 +1763,7 @@
 "MixedFishSauce.Lime.Amount" = "6 muỗng canh";
 
 /* Mixed Fish Sauce Ingredients Water Amount */
-"MixedFishSauce.Water.Amount" = "200 mL";
+"MixedFishSauce.Water.Amount" = "200 mL";
 
 /* Mixed Fish Sauce Ingredients Garlic Amount */
 "MixedFishSauce.Garlic.Amount" = "2 đến 3 tép";
@@ -1772,7 +1772,7 @@
 "MixedFishSauce.Garlic.AccessibilityAmount" = "2 đến 3 tép";
 
 /* Mixed Fish Sauce Ingredients Sugar Amount */
-"MixedFishSauce.Sugar.Amount" = "150 g";
+"MixedFishSauce.Sugar.Amount" = "150 g";
 
 /* Mixed Fish Sauce Ingredients Salt Amount */
 "MixedFishSauce.Salt.Amount" = "½ muỗng cà phê";
@@ -1911,7 +1911,7 @@
 "Mayo.Introduction.1.Accessibility" = "Sốt Mayonnaise đến tới Việt Nam qua sự ảnh hưởng của Phá và thông thường dùng trong món Bánh Mì.";
 
 /* Mayo Introduction 2 */
-"Mayo.Introduction.2" = "Công thức này làm 1 cup.";
+"Mayo.Introduction.2" = "Công thức này làm 1 cup.";
 
 /* Mayo Ingredients Header */
 "Mayo.Ingredients.Header" = "Nguyên Liệu";
@@ -1920,7 +1920,7 @@
 "Mayo.Ingredients.EggYolk.Amount" = "2 chồng";
 
 /* Mayo Ingredients Oil Amount */
-"Mayo.Ingredients.Oil.Amount" = "1 cup";
+"Mayo.Ingredients.Oil.Amount" = "1 cup";
 
 /* Mayo Ingredients Salt Amount */
 "Mayo.Ingredients.Salt.Amount" = "½ muỗng cà phê";
@@ -2028,10 +2028,10 @@
 "GrilledPork.Ingredients.Header" = "Nguyên Liệu";
 
 /* Grilled Pork Ingredients Raw Pork Amount */
-"GrilledPork.Ingredients.RawPork.Amount" = "½ lb";
+"GrilledPork.Ingredients.RawPork.Amount" = "½ lb";
 
 /* Grilled Pork Ingredients Raw Pork Amount (VoiceOver) */
-"GrilledPork.Ingredients.RawPork.AccessibilityAmount" = "phân nữa lb";
+"GrilledPork.Ingredients.RawPork.AccessibilityAmount" = "phân nữa lb";
 
 /* Grilled Pork Ingredients Lemongrass Amount */
 "GrilledPork.Ingredients.Lemongrass.Amount" = "½ muỗng canh";

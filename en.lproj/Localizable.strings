@@ -135,23 +135,23 @@
 "BanhMi.Ingredients.Baguette.AccessibilityAmount.metric" = "1 25 centimeter long loaf";
 
 /* Banh Mi Ingredients Pickles Amount */
-"BanhMi.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
-"BanhMi.Ingredients.Pickles.Amount.metric" = "40-45 g, drained";
+"BanhMi.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
+"BanhMi.Ingredients.Pickles.Amount.metric" = "40-45 g, drained";
 
 /* Banh Mi Ingredients Pickles Amount (VoiceOver) */
 "BanhMi.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces, drained";
 "BanhMi.Ingredients.Pickles.AccessibilityAmount.metric" = "40 to 45 grams, drained";
 
 /* Banh Mi Ingredients GrilledPork Amount */
-"BanhMi.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
-"BanhMi.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
+"BanhMi.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"BanhMi.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
 /* Banh Mi Ingredients GrilledPork Amount (VoiceOver) */
 "BanhMi.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 to 4 ounces";
 "BanhMi.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 to 100 grams";
 
 /* Banh Mi Ingredients Mayo Amount */
-"BanhMi.Ingredients.Mayo.Amount" = "2 tsp";
+"BanhMi.Ingredients.Mayo.Amount" = "2 tsp";
 
 /* Banh Mi Ingredients Mayo Amount (VoiceOver) */
 "BanhMi.Ingredients.Mayo.AccessibilityAmount" = "2 teaspoons";
@@ -265,12 +265,12 @@
 "Crepe.Ingredients.CrepeBatter.Amount" = "1 package";
 
 /* Crepe Ingredients Pork Belly Amount */
-"Crepe.Ingredients.PorkBelly.Amount.us" = "1 lb, small pieces";
-"Crepe.Ingredients.PorkBelly.Amount.metric" = "450 g, small pieces";
+"Crepe.Ingredients.PorkBelly.Amount.us" = "1 lb, small pieces";
+"Crepe.Ingredients.PorkBelly.Amount.metric" = "450 g, small pieces";
 
 /* Crepe Ingredients Shrimp Amount */
-"Crepe.Ingredients.Shrimp.Amount.us" = "1 lb, peeled and deveined";
-"Crepe.Ingredients.Shrimp.Amount.metric" = "450 g, peeled and deveined";
+"Crepe.Ingredients.Shrimp.Amount.us" = "1 lb, peeled and deveined";
+"Crepe.Ingredients.Shrimp.Amount.metric" = "450 g, peeled and deveined";
 
 /* Crepe Ingredients Shrimp Amount (VoiceOver) */
 "Crepe.Ingredients.Shrimp.AccessibilityAmount.us" = "1 lb, peeled and de-veined";
@@ -278,11 +278,11 @@
 
 /* Crepe Ingredients Onion Amount */
 "Crepe.Ingredients.Onion.Amount.us" = "1 medium, thinly sliced";
-"Crepe.Ingredients.Onion.Amount.metric" = "310 g, thinly sliced";
+"Crepe.Ingredients.Onion.Amount.metric" = "310 g, thinly sliced";
 
 /* Crepe Ingredients Bean Sprouts Amount */
-"Crepe.Ingredients.BeanSprouts.Amount.us" = "¾ lb";
-"Crepe.Ingredients.BeanSprouts.Amount.metric" = "340 g";
+"Crepe.Ingredients.BeanSprouts.Amount.us" = "¾ lb";
+"Crepe.Ingredients.BeanSprouts.Amount.metric" = "340 g";
 
 /* Crepe Ingredients Bean Sprouts Amount (VoiceOver) */
 "Crepe.Ingredients.BeanSprouts.AccessibilityAmount.us" = "three quarter pounds";
@@ -290,14 +290,14 @@
 
 /* Crepe Ingredients Green Onion Amount */
 "Crepe.Ingredients.GreenOnion.Amount.us" = "2 stalks";
-"Crepe.Ingredients.GreenOnion.Amount.metric" = "25 g";
+"Crepe.Ingredients.GreenOnion.Amount.metric" = "25 g";
 
 /* Crepe Ingredients Leafy Greens Amount */
 "Crepe.Ingredients.LeafyGreens.Amount" = "assortment";
 
 /* Crepe Ingredients Mixed Fish Sauce Amount */
-"Crepe.Ingredients.MixedFishSauce.Amount.us" = "1 ½ cups";
-"Crepe.Ingredients.MixedFishSauce.Amount.metric" = "360 mL";
+"Crepe.Ingredients.MixedFishSauce.Amount.us" = "1 ½ cups";
+"Crepe.Ingredients.MixedFishSauce.Amount.metric" = "360 mL";
 
 /* Crepe Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "Crepe.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "1 and a half cups";
@@ -499,8 +499,8 @@
 "Vermicelli.Ingredients.Header" = "Ingredients";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount */
-"Vermicelli.Ingredients.VermicelliNoodles.Amount.us" = "3-4 oz, cooked";
-"Vermicelli.Ingredients.VermicelliNoodles.Amount.metric" = "80-100 g, cooked";
+"Vermicelli.Ingredients.VermicelliNoodles.Amount.us" = "3-4 oz, cooked";
+"Vermicelli.Ingredients.VermicelliNoodles.Amount.metric" = "80-100 g, cooked";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount (VoiceOver) */
 "Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount.us" = "3 to 4 ounces, cooked";
@@ -510,16 +510,16 @@
 "Vermicelli.Ingredients.EggRolls.Amount" = "2 rolls";
 
 /* Vermicelli Ingredients Grilled Pork Amount */
-"Vermicelli.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
-"Vermicelli.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
+"Vermicelli.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"Vermicelli.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
 /* Vermicelli Ingredients Grilled Pork Amount (VoiceOver) */
 "Vermicelli.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 to 4 ounces";
 "Vermicelli.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80-100 grams";
 
 /* Vermicelli Ingredients Pickles Amount */
-"Vermicelli.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
-"Vermicelli.Ingredients.Pickles.Amount.metric" = "40-45 g, drained";
+"Vermicelli.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
+"Vermicelli.Ingredients.Pickles.Amount.metric" = "40-45 g, drained";
 
 /* Vermicelli Ingredients Pickles Amount (VoiceOver) */
 "Vermicelli.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces, drained";
@@ -529,8 +529,8 @@
 "Vermicelli.Ingredients.LeafyGreens.Amount" = "assortment";
 
 /* Vermicelli Ingredients Cucumber Amount */
-"Vermicelli.Ingredients.Cucumber.Amount.us" = "½ persian cucumber, sliced";
-"Vermicelli.Ingredients.Cucumber.Amount.metric" = "55 g, sliced";
+"Vermicelli.Ingredients.Cucumber.Amount.us" = "½ persian cucumber, sliced";
+"Vermicelli.Ingredients.Cucumber.Amount.metric" = "55 g, sliced";
 
 /* Vermicelli Ingredients Cucumber Amount (VoiceOver) */
 "Vermicelli.Ingredients.Cucumber.AccessibilityAmount.us" = "half a persian cucumber, sliced";
@@ -540,21 +540,21 @@
 "Vermicelli.Ingredients.BeanSprouts.Amount" = "small handful";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount */
-"Vermicelli.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
-"Vermicelli.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
+"Vermicelli.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"Vermicelli.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
 "Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Vermicelli Ingredients Scallion & Oil Garnish Amount */
-"Vermicelli.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
+"Vermicelli.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
 
 /* Vermicelli Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
 "Vermicelli.Ingredients.ScallionsOil.AccessibilityAmount" = "1 to 2 tablespoons";
 
 /* Vermicelli Ingredients Peanut Amount */
-"Vermicelli.Ingredients.Peanut.Amount" = "2 tsp, crushed (optional)";
+"Vermicelli.Ingredients.Peanut.Amount" = "2 tsp, crushed (optional)";
 
 /* Vermicelli Ingredients Peanut Amount (VoiceOver) */
 "Vermicelli.Ingredients.Peanut.AccessibilityAmount" = "2 teaspoons, crushed (optional)";
@@ -668,16 +668,16 @@
 "EggRolls.Ingredients.LeafyGreens.Amount" = "assortment";
 
 /* Egg Rolls Ingredients Pickles Amount */
-"EggRolls.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
-"EggRolls.Ingredients.Pickles.Amount.metric" = "40-45 g, drained";
+"EggRolls.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
+"EggRolls.Ingredients.Pickles.Amount.metric" = "40-45 g, drained";
 
 /* Egg Rolls Ingredients Pickles Amount (VoiceOver) */
 "EggRolls.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces, drained";
 "EggRolls.Ingredients.Pickles.AccessibilityAmount.metric" = "40 to 45 grams, drained";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount */
-"EggRolls.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
-"EggRolls.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
+"EggRolls.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"EggRolls.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
@@ -741,32 +741,32 @@
 "BrokenRice.Ingredients.Header" = "Ingredients";
 
 /* Broken Rice Ingredients Rice Amount */
-"BrokenRice.Ingredients.Rice.Amount.us" = "½ cup, cooked";
-"BrokenRice.Ingredients.Rice.Amount.metric" = "90 g, cooked";
+"BrokenRice.Ingredients.Rice.Amount.us" = "½ cup, cooked";
+"BrokenRice.Ingredients.Rice.Amount.metric" = "90 g, cooked";
 
 /* Broken Rice Ingredients Rice Amount (VoiceOver) */
 "BrokenRice.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
 "BrokenRice.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
 
 /* Broken Rice Ingredients Grilled Pork Amount */
-"BrokenRice.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
-"BrokenRice.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
+"BrokenRice.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"BrokenRice.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
 /* Broken Rice Ingredients Grilled Pork Amount (VoiceOver) */
 "BrokenRice.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 to 4 ounces";
 "BrokenRice.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 to 100 grams";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount */
-"BrokenRice.Ingredients.EggMeatloaf.Amount.us" = "2-3 oz";
-"BrokenRice.Ingredients.EggMeatloaf.Amount.metric" = "60-80 g";
+"BrokenRice.Ingredients.EggMeatloaf.Amount.us" = "2-3 oz";
+"BrokenRice.Ingredients.EggMeatloaf.Amount.metric" = "60-80 g";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount (VoiceOver) */
 "BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount.us" = "2 to 3 ounces";
 "BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount.metric" = "60 to 80 grams";
 
 /* Broken Rice Ingredients Pickles Amount */
-"BrokenRice.Ingredients.Pickles.Amount.us" = "1-2 oz";
-"BrokenRice.Ingredients.Pickles.Amount.metric" = "40-45 g";
+"BrokenRice.Ingredients.Pickles.Amount.us" = "1-2 oz";
+"BrokenRice.Ingredients.Pickles.Amount.metric" = "40-45 g";
 
 /* Broken Rice Ingredients Pickles Amount (VoiceOver) */
 "BrokenRice.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces";
@@ -779,14 +779,14 @@
 "BrokenRice.Ingredients.Tomato.Amount" = "2 slices";
 
 /* Broken Rice Ingredients Scallion & Oil Garnish Amount */
-"BrokenRice.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
+"BrokenRice.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
 
 /* Broken Rice Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
 "BrokenRice.Ingredients.ScallionsOil.AccessibilityAmount" = "1 to 2 tablespoons";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount */
-"BrokenRice.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
-"BrokenRice.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
+"BrokenRice.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"BrokenRice.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
@@ -904,7 +904,7 @@
 "CrepeBatter.Introduction.1.Accessibility" = "Vietnamese crepe batter is very simple but it’s an important ingredient in giving Vietnamese crepes their iconic look and crispy texture.";
 
 /* Crepe Batter Introduction 2 */
-"CrepeBatter.Introduction.2" = "This recipe yields 1 cup of batter, which makes about four 8-in ##Bánh Xèo## (Vietnamese crêpes).";
+"CrepeBatter.Introduction.2" = "This recipe yields 1 cup of batter, which makes about four 8-in ##Bánh Xèo## (Vietnamese crêpes).";
 
 /* Crepe Batter Introduction 2 (VoiceOver) */
 "CrepeBatter.Introduction.2.Accessibility" = "This recipe yields one cup of batter, which makes about four eight inch crepes.";
@@ -913,34 +913,34 @@
 "CrepeBatter.Ingredients.Header" = "Ingredients";
 
 /* Crepe Batter Ingredients Rice Flour Amount */
-"CrepeBatter.Ingredients.RiceFlour.Amount.us" = "⅓ cup";
-"CrepeBatter.Ingredients.RiceFlour.Amount.metric" = "45 g";
+"CrepeBatter.Ingredients.RiceFlour.Amount.us" = "⅓ cup";
+"CrepeBatter.Ingredients.RiceFlour.Amount.metric" = "45 g";
 
 /* Crepe Batter Ingredients Rice Flour Amount (VoiceOVer) */
 "CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount.us" = "one third cup";
 "CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount.metric" = "45 grams";
 
 /* Crepe Batter Ingredients Corn Starch Amount */
-"CrepeBatter.Ingredients.CornStarch.Amount.us" = "2 tbsp";
-"CrepeBatter.Ingredients.CornStarch.Amount.metric" = "20 g";
+"CrepeBatter.Ingredients.CornStarch.Amount.us" = "2 tbsp";
+"CrepeBatter.Ingredients.CornStarch.Amount.metric" = "20 g";
 
 /* Crepe Batter Ingredients Turmeric Amount */
-"CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ tsp";
+"CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ tsp";
 
 /* Crepe Batter Ingredients Turmeric Amount (VoiceOver) */
 "CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "1 eighth teaspoon";
 
 /* Crepe Batter Ingredients Coconut Milk Amount */
-"CrepeBatter.Ingredients.CoconutMilk.Amount.us" = "¼ cup";
-"CrepeBatter.Ingredients.CoconutMilk.Amount.metric" = "60 mL";
+"CrepeBatter.Ingredients.CoconutMilk.Amount.us" = "¼ cup";
+"CrepeBatter.Ingredients.CoconutMilk.Amount.metric" = "60 mL";
 
 /* Crepe Batter Ingredients Coconut Milk Amount (VoiceOver) */
 "CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount.us" = "one quarter cup";
 "CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount.metric" = "60 milliliters";
 
 /* Crepe Batter Ingredients Water Amount */
-"CrepeBatter.Ingredients.Water.Amount.us" = "½ cup";
-"CrepeBatter.Ingredients.Water.Amount.metric" = "120 mL";
+"CrepeBatter.Ingredients.Water.Amount.us" = "½ cup";
+"CrepeBatter.Ingredients.Water.Amount.metric" = "120 mL";
 
 /* Crepe Batter Ingredients Water Amount (VoiceOver) */
 "CrepeBatter.Ingredients.Water.AccessibilityAmount.us" = "half a cup";
@@ -948,7 +948,7 @@
 
 /* Crepe Batter Ingredients GreenOnion Amount */
 "CrepeBatter.Ingredients.GreenOnion.Amount.us" = "1 stalk";
-"CrepeBatter.Ingredients.GreenOnion.Amount.metric" = "15 g";
+"CrepeBatter.Ingredients.GreenOnion.Amount.metric" = "15 g";
 
 /* Crepe Batter Instructions Header */
 "CrepeBatter.Instructions.Header" = "Instructions";
@@ -1020,56 +1020,56 @@
 "EggRollsComponent.Ingredients.Header" = "Ingredients";
 
 /* Egg Rolls Component Ground Pork Amount */
-"EggRollsComponent.GroundPork.Amount.us" = "½ lb";
-"EggRollsComponent.GroundPork.Amount.metric" = "225 g";
+"EggRollsComponent.GroundPork.Amount.us" = "½ lb";
+"EggRollsComponent.GroundPork.Amount.metric" = "225 g";
 
 /* Egg Rolls Component Ground Pork Amount (VoiceOver) */
 "EggRollsComponent.GroundPork.AccessibilityAmount.us" = "half a pound";
 "EggRollsComponent.GroundPork.AccessibilityAmount.metric" = "225 grams";
 
 /* Egg Rolls Component Shrimp Amount */
-"EggRollsComponent.Shrimp.Amount.us" = "½ lb";
-"EggRollsComponent.Shrimp.Amount.metric" = "225 g";
+"EggRollsComponent.Shrimp.Amount.us" = "½ lb";
+"EggRollsComponent.Shrimp.Amount.metric" = "225 g";
 
 /* Egg Rolls Component Shrimp Amount (VoiceOver) */
 "EggRollsComponent.Shrimp.AccessibilityAmount.us" = "half a pound";
 "EggRollsComponent.Shrimp.AccessibilityAmount.metric" = "225 grams";
 
 /* Egg Rolls Component Onion Amount */
-"EggRollsComponent.Onion.Amount.us" = "½ cup";
-"EggRollsComponent.Onion.Amount.metric" = "190 g";
+"EggRollsComponent.Onion.Amount.us" = "½ cup";
+"EggRollsComponent.Onion.Amount.metric" = "190 g";
 
 /* Egg Rolls Component Onion Amount (VoiceOver) */
 "EggRollsComponent.Onion.AccessibilityAmount.us" = "half a cup";
 "EggRollsComponent.Onion.AccessibilityAmount.metric" = "190 grams";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount.us" = "¾ cups, soaked";
-"EggRollsComponent.DriedMushroom.Amount.metric" = "80-100 g, soaked";
+"EggRollsComponent.DriedMushroom.Amount.us" = "¾ cups, soaked";
+"EggRollsComponent.DriedMushroom.Amount.metric" = "80-100 g, soaked";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
 "EggRollsComponent.DriedMushroom.AccessibilityAmount.us" = "three quarter cups, soaked";
 "EggRollsComponent.DriedMushroom.AccessibilityAmount.metric" = "80 to 100 grams, soaked";
 
 /* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount.us" = "¾ cups, soaked";
-"EggRollsComponent.BeanThreads.Amount.metric" = "80-100 g, soaked";
+"EggRollsComponent.BeanThreads.Amount.us" = "¾ cups, soaked";
+"EggRollsComponent.BeanThreads.Amount.metric" = "80-100 g, soaked";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
 "EggRollsComponent.BeanThreads.AccessibilityAmount.us" = "three quarter cups, soaked";
 "EggRollsComponent.BeanThreads.AccessibilityAmount.metric" = "80 to 100 grams, soaked";
 
 /* Egg Rolls Component Fish Sauce Amount */
-"EggRollsComponent.FishSauce.Amount" = "2 tbsp";
+"EggRollsComponent.FishSauce.Amount" = "2 tbsp";
 
 /* Egg Rolls Component Chicken Bouillon Amount */
-"EggRollsComponent.ChickenBouillon.Amount" = "1 tsp";
+"EggRollsComponent.ChickenBouillon.Amount" = "1 tsp";
 
 /* Egg Rolls Component Chicken Bouillon Amount (VoiceOver) */
 "EggRollsComponent.ChickenBouillon.AccessibilityAmount" = "one teaspoon";
 
 /* Egg Rolls Component Black Pepper Amount */
-"EggRollsComponent.BlackPepper.Amount" = "1 tsp";
+"EggRollsComponent.BlackPepper.Amount" = "1 tsp";
 
 /* Egg Rolls Component Black Pepper Amount (VoiceOver) */
 "EggRollsComponent.BlackPepper.AccessibilityAmount" = "one teaspoon";
@@ -1141,7 +1141,7 @@
 "EggRollsComponent.Instructions.Step.4.Part.1.Accessibility" = "Place a sheet of egg roll wrapper on a clean cutting board or counter surface with one of the corners pointing at you.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 */
-"EggRollsComponent.Instructions.Step.4.Part.2" = "Place about 2-3 tbsp of filling slightly below the center point of the wrapper.";
+"EggRollsComponent.Instructions.Step.4.Part.2" = "Place about 2-3 tbsp of filling slightly below the center point of the wrapper.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Place about 2 to 3 tablespoons of filling slightly below the center point of the wrapper.";
@@ -1249,48 +1249,48 @@
 "EggMeatloaf.Ingredients.Header" = "Ingredients";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount */
-"EggMeatloaf.Ingredients.GroundPork.Amount.us" = "½ lb";
-"EggMeatloaf.Ingredients.GroundPork.Amount.metric" = "225 g";
+"EggMeatloaf.Ingredients.GroundPork.Amount.us" = "½ lb";
+"EggMeatloaf.Ingredients.GroundPork.Amount.metric" = "225 g";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount.us" = "half a pound";
 "EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount.metric" = "225 grams";
 
 /* Egg Meatloaf Ingredients Onion Amount */
-"EggMeatloaf.Ingredients.Onion.Amount.us" = "⅓ cup";
-"EggMeatloaf.Ingredients.Onion.Amount.metric" = "130 g";
+"EggMeatloaf.Ingredients.Onion.Amount.us" = "⅓ cup";
+"EggMeatloaf.Ingredients.Onion.Amount.metric" = "130 g";
 
 /* Egg Meatloaf Ingredients Onion Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.Onion.AccessibilityAmount.us" = "one third cup";
 "EggMeatloaf.Ingredients.Onion.AccessibilityAmount.metric" = "130 grams";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.Amount.us" = "⅓ cup, soaked";
-"EggMeatloaf.Ingredients.DriedMushroom.Amount.metric" = "40-45 g, soaked";
+"EggMeatloaf.Ingredients.DriedMushroom.Amount.us" = "⅓ cup, soaked";
+"EggMeatloaf.Ingredients.DriedMushroom.Amount.metric" = "40-45 g, soaked";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
 "EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount.us" = "one third cup, soaked";
 "EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount.metric" = "40 to 45 grams, soaked";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount */
-"EggMeatloaf.Ingredients.BeanThreads.Amount.us" = "⅓ cup, soaked";
-"EggMeatloaf.Ingredients.BeanThreads.Amount.metric" = "40-45 g, soaked";
+"EggMeatloaf.Ingredients.BeanThreads.Amount.us" = "⅓ cup, soaked";
+"EggMeatloaf.Ingredients.BeanThreads.Amount.metric" = "40-45 g, soaked";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount.us" = "one third cup, soaked";
 "EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount.metric" = "40 to 45 grams, soaked";
 
 /* Egg Meatloaf Ingredients Fish Sauce Amount */
-"EggMeatloaf.Ingredients.FishSauce.Amount" = "1 tbsp";
+"EggMeatloaf.Ingredients.FishSauce.Amount" = "1 tbsp";
 
 /* Egg Meatloaf Ingredients Salt Amount */
-"EggMeatloaf.Ingredients.Salt.Amount" = "½ tsp";
+"EggMeatloaf.Ingredients.Salt.Amount" = "½ tsp";
 
 /* Egg Meatloaf Ingredients Salt Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.Salt.AccessibilityAmount" = "half a teaspoon";
 
 /* Egg Meatloaf Ingredients Black Pepper Amount */
-"EggMeatloaf.Ingredients.BlackPepper.Amount" = "½ tsp";
+"EggMeatloaf.Ingredients.BlackPepper.Amount" = "½ tsp";
 
 /* Egg Meatloaf Ingredients Black Pepper Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.BlackPepper.AccessibilityAmount" = "half a teaspoon";
@@ -1299,7 +1299,7 @@
 "EggMeatloaf.Ingredients.Egg.Amount" = "4 large";
 
 /* Egg Meatloaf Ingredients Annatto Oil Amount */
-"EggMeatloaf.Ingredients.AnnattoOil.Amount" = "2-3 tsp (optional)";
+"EggMeatloaf.Ingredients.AnnattoOil.Amount" = "2-3 tsp (optional)";
 
 /* Egg Meatloaf Ingredients Annatto Oil Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "2 to 3 teaspoons (optional)";
@@ -1464,8 +1464,8 @@
 "AnnattoOil.Introduction.1.Accessibility" = "Annatto oil is made by extracting oils and pigments from annatto seeds by using heated oil. The annatto seeds are very mild in flavor so adding the annatto oil to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
 
 /* Annatto Oil Introduction 2 */
-"AnnattoOil.Introduction.2.us" = "This recipe yields ¼ cup.";
-"AnnattoOil.Introduction.2.metric" = "This recipe yields 60 mL.";
+"AnnattoOil.Introduction.2.us" = "This recipe yields ¼ cup.";
+"AnnattoOil.Introduction.2.metric" = "This recipe yields 60 mL.";
 
 /* Annatto Oil Introduction 2 (VoiceOver) */
 "AnnattoOil.Introduction.2.Accessibility" = "This recipe yields half a quarter cup.";
@@ -1474,7 +1474,7 @@
 "AnnattoOil.Ingredients.Header" = "Ingredients";
 
 /* Annatto Oil Ingredients 1 */
-"AnnattoOil.Ingredients.1.us" = "1 ½ tbsp";
+"AnnattoOil.Ingredients.1.us" = "1 ½ tbsp";
 "AnnattoOil.Ingredients.1.metric" = "15 grams";
 
 /* Annatto Oil Ingredients 1 (VoiceOver) */
@@ -1482,7 +1482,7 @@
 "AnnattoOil.Ingredients.1.Accessibility.metric" = "15 grams";
 
 /* Annatto Oil Ingredients 2 */
-"AnnattoOil.Ingredients.2.us" = "¼ cup";
+"AnnattoOil.Ingredients.2.us" = "¼ cup";
 "AnnattoOil.Ingredients.2.metric" = "60 mL";
 
 /* Annatto Oil Ingredients 2 (VoiceOver) */
@@ -1587,46 +1587,46 @@
 "Pickles.Ingredients.Header" = "Ingredients";
 
 /* Pickles Ingredients Carrot Amount */
-"Pickles.Ingredients.Carrot.Amount.us" = "½ lb";
-"Pickles.Ingredients.Carrot.Amount.metric" = "225 g";
+"Pickles.Ingredients.Carrot.Amount.us" = "½ lb";
+"Pickles.Ingredients.Carrot.Amount.metric" = "225 g";
 
 /* Pickles Ingredients Carrot Amount (VoiceOVer)*/
 "Pickles.Ingredients.Carrot.AccessibilityAmount.us" = "half a pound";
 "Pickles.Ingredients.Carrot.AccessibilityAmount.metric" = "225 grams";
 
 /* Pickles Ingredients Daikon Amount */
-"Pickles.Ingredients.Daikon.Amount.us" = "½ lb";
-"Pickles.Ingredients.Daikon.Amount.metric" = "225 g";
+"Pickles.Ingredients.Daikon.Amount.us" = "½ lb";
+"Pickles.Ingredients.Daikon.Amount.metric" = "225 g";
 
 /* Pickles Ingredients Daikon Amount (VoiceOVer)*/
 "Pickles.Ingredients.Carrot.AccessibilityAmount.us" = "half a pound";
 "Pickles.Ingredients.Carrot.AccessibilityAmount.metric" = "225 grams";
 
 /* Pickles Ingredients Salt Amount */
-"Pickles.Ingredients.Salt.Amount" = "2 tsp";
+"Pickles.Ingredients.Salt.Amount" = "2 tsp";
 
 /* Pickles Ingredients Salt Amount (VoiceOver) */
 "Pickles.Ingredients.Salt.AccessibilityAmount" = "2 teaspoons";
 
 /* Pickles Ingredients Sugar Amount */
-"Pickles.Ingredients.Sugar.Amount.us" = "¼ cup";
-"Pickles.Ingredients.Sugar.Amount.metric" = "4 tbsp";
+"Pickles.Ingredients.Sugar.Amount.us" = "¼ cup";
+"Pickles.Ingredients.Sugar.Amount.metric" = "4 tbsp";
 
 /* Pickles Ingredients Sugar Amount (VoiceOver) */
 "Pickles.Ingredients.Sugar.AccessibilityAmount.us" = "a quarter cup";
 "Pickles.Ingredients.Sugar.AccessibilityAmount.metric" = "4 tablespoons";
 
 /* Pickles Ingredients Vinegar Amount */
-"Pickles.Ingredients.Vinegar.Amount.us" = "⅔ cups";
-"Pickles.Ingredients.Vinegar.Amount.metric" = "80 mL";
+"Pickles.Ingredients.Vinegar.Amount.us" = "⅔ cups";
+"Pickles.Ingredients.Vinegar.Amount.metric" = "80 mL";
 
 /* Pickles Ingredients Vinegar Amount (VoiceOver) */
 "Pickles.Ingredients.Vinegar.AccessibilityAmount.us" = "two third cups";
 "Pickles.Ingredients.Vinegar.AccessibilityAmount.metric" = "80 milliliters";
 
 /* Pickles Ingredients Water Amount */
-"Pickles.Ingredients.Water.Amount.us" = "½ cup, warm";
-"Pickles.Ingredients.Water.Amount.metric" = "120 mL, warm";
+"Pickles.Ingredients.Water.Amount.us" = "½ cup, warm";
+"Pickles.Ingredients.Water.Amount.metric" = "120 mL, warm";
 
 /* Pickles Ingredients Water Amount (VoiceOver) */
 "Pickles.Ingredients.Water.AccessibilityAmount.us" = "half a cup, warm";
@@ -1772,10 +1772,10 @@
 
 /* Scallion and Oil Garnish Ingredients Green Onion Amount */
 "ScallionOil.Ingredients.GreenOnion.Amount.us" = "1 stalk";
-"ScallionOil.Ingredients.GreenOnion.Amount.metric" = "15 g";
+"ScallionOil.Ingredients.GreenOnion.Amount.metric" = "15 g";
 
 /* Scallion and Oil Garnish Ingredients Oil Amount */
-"ScallionOil.Ingredients.Oil.Amount" = "1-2 tbsp";
+"ScallionOil.Ingredients.Oil.Amount" = "1-2 tbsp";
 
 /* Scallion and Oil Garnish Ingredients Oil Amount (VoiceOver) */
 "ScallionOil.Ingredients.Oil.AccessibilityAmount" = "1 to 2 tablespoons";
@@ -1835,8 +1835,8 @@
 "MixedFishSauce.Introduction.1.Accessibility" = "Mixed fish sauce refers to a sweet, tangy, and savory dipping sauce that is paired with many Vietnamese dishes. Mixed fish sauce can add plenty of flavor to even a “boring” dish. As my husband always says, most Vietnamese dishes are simply a mixed fish sauce delivery mechanism — suffice to say, he has become a huge fan of mixed fish sauce since I introduced it to him.";
 
 /* Mixed Fish Sauce Introduction 2 */
-"MixedFishSauce.Introduction.2.us" = "This recipe yields 1½ cups.";
-"MixedFishSauce.Introduction.2.metric" = "This recipe yields 360 mL.";
+"MixedFishSauce.Introduction.2.us" = "This recipe yields 1½ cups.";
+"MixedFishSauce.Introduction.2.metric" = "This recipe yields 360 mL.";
 
 /* Mixed Fish Sauce Introduction 2 (VoiceOver) */
 "MixedFishSauce.Introduction.2.Accessibility.us" = "This recipe yields one and a half cups.";
@@ -1846,16 +1846,16 @@
 "MixedFishSauce.Ingredients.Header" = "Ingredients";
 
 /* Mixed Fish Sauce Ingredients Fish Sauce Amount */
-"MixedFishSauce.FishSauce.Amount.us" = "5 tbsp";
-"MixedFishSauce.FishSauce.Amount.metric" = "75 mL";
+"MixedFishSauce.FishSauce.Amount.us" = "5 tbsp";
+"MixedFishSauce.FishSauce.Amount.metric" = "75 mL";
 
 /* Mixed Fish Sauce Ingredients Lime Amount */
-"MixedFishSauce.Lime.Amount.us" = "6 tbsp, juiced";
-"MixedFishSauce.Lime.Amount.metric" = "90 mL, juiced";
+"MixedFishSauce.Lime.Amount.us" = "6 tbsp, juiced";
+"MixedFishSauce.Lime.Amount.metric" = "90 mL, juiced";
 
 /* Mixed Fish Sauce Ingredients Water Amount */
-"MixedFishSauce.Water.Amount.us" = "¾ cups + 2 tbsp";
-"MixedFishSauce.Water.Amount.metric" = "200 mL";
+"MixedFishSauce.Water.Amount.us" = "¾ cups + 2 tbsp";
+"MixedFishSauce.Water.Amount.metric" = "200 mL";
 
 /* Mixed Fish Sauce Ingredients Water Amount (VoiceOver) */
 "MixedFishSauce.Water.AccessibilityAmount.us" = "three quarter cups and 2 tablespoons";
@@ -1868,21 +1868,21 @@
 "MixedFishSauce.Garlic.AccessibilityAmount" = "2 to 3 cloves, minced";
 
 /* Mixed Fish Sauce Ingredients Sugar Amount */
-"MixedFishSauce.Sugar.Amount.us" = "¾ cups";
-"MixedFishSauce.Sugar.Amount.metric" = "150 g";
+"MixedFishSauce.Sugar.Amount.us" = "¾ cups";
+"MixedFishSauce.Sugar.Amount.metric" = "150 g";
 
 /* Mixed Fish Sauce Ingredients Sugar Amount (VoiceOver) */
 "MixedFishSauce.Sugar.AccessibilityAmount.us" = "three quarter cups and 2 tablespoons";
 "MixedFishSauce.Sugar.AccessibilityAmount.metric" = "150 grams";
 
 /* Mixed Fish Sauce Ingredients Salt Amount */
-"MixedFishSauce.Salt.Amount" = "½ tsp";
+"MixedFishSauce.Salt.Amount" = "½ tsp";
 
 /* Mixed Fish Sauce Ingredients Salt Amount (VoiceOver) */
 "MixedFishSauce.Salt.AccessibilityAmount" = "half a teaspoon";
 
 /* Mixed Fish Sauce Ingredients Chili Amount */
-"MixedFishSauce.Chili.Amount" = "½ tsp, chopped or minced";
+"MixedFishSauce.Chili.Amount" = "½ tsp, chopped or minced";
 
 /* Mixed Fish Sauce Ingredients Chili Amount (VoiceOver) */
 "MixedFishSauce.Chili.AccessibilityAmount" = "half a teaspoon, chopped or minced";
@@ -2011,8 +2011,8 @@
 "Mayo.Introduction.1.Accessibility" = "Mayonnaise sauce was brought to Vietnam through the French influence and it is mainly used in banh mi.";
 
 /* Mayo Introduction 2 */
-"Mayo.Introduction.2.us" = "This recipe yields 1 cup.";
-"Mayo.Introduction.2.metric" = "This recipe yields 240 mL.";
+"Mayo.Introduction.2.us" = "This recipe yields 1 cup.";
+"Mayo.Introduction.2.metric" = "This recipe yields 240 mL.";
 
 /* Mayo Ingredients Header */
 "Mayo.Ingredients.Header" = "Ingredients";
@@ -2021,11 +2021,11 @@
 "Mayo.Ingredients.EggYolk.Amount" = "2 egg yolks";
 
 /* Mayo Ingredients Oil Amount */
-"Mayo.Ingredients.Oil.Amount.us" = "1 cup, canola";
-"Mayo.Ingredients.Oil.Amount.metric" = "240 mL, canola";
+"Mayo.Ingredients.Oil.Amount.us" = "1 cup, canola";
+"Mayo.Ingredients.Oil.Amount.metric" = "240 mL, canola";
 
 /* Mayo Ingredients Salt Amount */
-"Mayo.Ingredients.Salt.Amount" = "½ tsp";
+"Mayo.Ingredients.Salt.Amount" = "½ tsp";
 
 /* Mayo Ingredients Salt Amount (VoiceOver) */
 "Mayo.Ingredients.Salt.AccessibilityAmount" = "half a teaspoon";
@@ -2130,44 +2130,44 @@
 "GrilledPork.Ingredients.Header" = "Ingredients";
 
 /* Grilled Pork Ingredients Raw Pork Amount */
-"GrilledPork.Ingredients.RawPork.Amount.us" = "½ lb";
-"GrilledPork.Ingredients.RawPork.Amount.metric" = "225 g";
+"GrilledPork.Ingredients.RawPork.Amount.us" = "½ lb";
+"GrilledPork.Ingredients.RawPork.Amount.metric" = "225 g";
 
 /* Grilled Pork Ingredients Raw Pork Amount (VoiceOver) */
 "GrilledPork.Ingredients.RawPork.AccessibilityAmount.us" = "half a pound";
 "GrilledPork.Ingredients.RawPork.AccessibilityAmount.metric" = "225 grams";
 
 /* Grilled Pork Ingredients Lemongrass Amount */
-"GrilledPork.Ingredients.Lemongrass.Amount" = "½ tbsp";
+"GrilledPork.Ingredients.Lemongrass.Amount" = "½ tbsp";
 
 /* Grilled Pork Ingredients Lemongrass Amount (VoiceOver) */
 "GrilledPork.Ingredients.Lemongrass.AccessibilityAmount" = "half a tablespoon";
 
 /* Grilled Pork Ingredients Fish Sauce Amount */
-"GrilledPork.Ingredients.FishSauce.Amount" = "2 tbsp";
+"GrilledPork.Ingredients.FishSauce.Amount" = "2 tbsp";
 
 /* Grilled Pork Ingredients Garlic Amount */
 "GrilledPork.Ingredients.Garlic.Amount" = "1 clove";
 
 /* Grilled Pork Ingredients Shallot Amount */
-"GrilledPork.Ingredients.Shallot.Amount.us" = "2-3 tbsp, minced";
-"GrilledPork.Ingredients.Shallot.Amount.metric" = "20 g, minced";
+"GrilledPork.Ingredients.Shallot.Amount.us" = "2-3 tbsp, minced";
+"GrilledPork.Ingredients.Shallot.Amount.metric" = "20 g, minced";
 
 /* Grilled Pork Ingredients Shallot Amount (VoiceOver) */
 "GrilledPork.Ingredients.Shallot.AccessibilityAmount.us" = "2 to 3 tablespoons, minced";
 "GrilledPork.Ingredients.Shallot.AccessibilityAmount.metric" = "20 grams, minced";
 
 /* Grilled Pork Ingredients Sugar Amount */
-"GrilledPork.Ingredients.Sugar.Amount" = "2 tbsp";
+"GrilledPork.Ingredients.Sugar.Amount" = "2 tbsp";
 
 /* Grilled Pork Ingredients Black Pepper Amount */
-"GrilledPork.Ingredients.BlackPepper.Amount" = "1 tsp";
+"GrilledPork.Ingredients.BlackPepper.Amount" = "1 tsp";
 
 /* Grilled Pork Ingredients Black Pepper (VoiceOver) */
 "GrilledPork.Ingredients.BlackPepper.AccessibilityAmount" = "1 teaspoon";
 
 /* Grilled Pork Ingredients Oil Amount */
-"GrilledPork.Ingredients.Oil.Amount" = "1-2 tbsp";
+"GrilledPork.Ingredients.Oil.Amount" = "1-2 tbsp";
 
 /* Grilled Pork Ingredients Oil (VoiceOver) */
 "GrilledPork.Ingredients.Oil.AccessibilityAmount" = "1 to 2 tablespoons";
