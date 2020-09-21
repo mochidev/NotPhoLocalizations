@@ -2130,10 +2130,12 @@
 "GrilledPork.Ingredients.Header" = "Ingredients";
 
 /* Grilled Pork Ingredients Raw Pork Amount */
-"GrilledPork.Ingredients.RawPork.Amount" = "½ lb";
+"GrilledPork.Ingredients.RawPork.Amount.us" = "½ lb";
+"GrilledPork.Ingredients.RawPork.Amount.metric" = "225 g";
 
 /* Grilled Pork Ingredients Raw Pork Amount (VoiceOver) */
-"GrilledPork.Ingredients.RawPork.AccessibilityAmount" = "half a pound";
+"GrilledPork.Ingredients.RawPork.AccessibilityAmount.us" = "half a pound";
+"GrilledPork.Ingredients.RawPork.AccessibilityAmount.metric" = "225 grams";
 
 /* Grilled Pork Ingredients Lemongrass Amount */
 "GrilledPork.Ingredients.Lemongrass.Amount" = "½ tbsp";
@@ -2148,7 +2150,12 @@
 "GrilledPork.Ingredients.Garlic.Amount" = "1 clove";
 
 /* Grilled Pork Ingredients Shallot Amount */
-"GrilledPork.Ingredients.Shallot.Amount" = "1 whole";
+"GrilledPork.Ingredients.Shallot.Amount.us" = "2-3 tbsp, minced";
+"GrilledPork.Ingredients.Shallot.Amount.metric" = "20 g, minced";
+
+/* Grilled Pork Ingredients Shallot Amount (VoiceOver) */
+"GrilledPork.Ingredients.Shallot.AccessibilityAmount.us" = "2 to 3 tablespoons, minced";
+"GrilledPork.Ingredients.Shallot.AccessibilityAmount.metric" = "20 grams, minced";
 
 /* Grilled Pork Ingredients Sugar Amount */
 "GrilledPork.Ingredients.Sugar.Amount" = "2 tbsp";
@@ -2235,10 +2242,12 @@
 "GrilledPork.Instructions.Step.4.Part.2" = "Add the pre-marinated pork to the skillet.";
 
 /* Grilled Pork Instructions Step 4 Part 3 */
-"GrilledPork.Instructions.Step.4.Part.3" = "Cook until the internal temperature of the ##Thịt Heo## (pork) is at least 145ºF.";
+"GrilledPork.Instructions.Step.4.Part.3.us" = "Cook until the internal temperature of the ##Thịt Heo## (pork) is at least 145ºF.";
+"GrilledPork.Instructions.Step.4.Part.3.metric" = "Cook until the internal temperature of the ##Thịt Heo## (pork) is at least 63ºC.";
 
 /* Grilled Pork Instructions Step 4 Part 3 (VoiceOver) */
-"GrilledPork.Instructions.Step.4.Part.3.Accessibility" = "Cook until the internal temperature of the pork is at least 145ºF.";
+"GrilledPork.Instructions.Step.4.Part.3.Accessibility.us" = "Cook until the internal temperature of the pork is at least 145ºF.";
+"GrilledPork.Instructions.Step.4.Part.3.Accessibility.metric" = "Cook until the internal temperature of the pork is at least 63ºC.";
 
 /* Grilled Pork Instructions Step 4 Note */
 "GrilledPork.Instructions.Step.4.Note.1" = "For best results, cook the ##Thịt Heo## (pork) on a grill.";
