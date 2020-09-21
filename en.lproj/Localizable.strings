@@ -1238,37 +1238,47 @@
 "EggMeatloaf.Introduction.1.Accessibility" = "Egg meatloaf is a steamed egg and pork dish incorporating dried wood ear mushrooms and bean thread noodles, and is an indispensable part of broken rice dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with mixed fish sauce.";
 
 /* Egg Meatloaf Introduction 2 */
-"EggMeatloaf.Introduction.2" = "This recipe yields one 3″×4″×7½″ loaf.";
+"EggMeatloaf.Introduction.2.us" = "This recipe yields one 3″×4″×7½″ loaf.";
+"EggMeatloaf.Introduction.2.metric" = "This recipe yields one 7½×10×18¾ cm loaf.";
 
 /* Egg Meatloaf Introduction 2 (VoiceOver) */
-"EggMeatloaf.Introduction.2.Accessibility" = "This recipe yields one 3 by 4 by 7 and a half inch loaf.";
+"EggMeatloaf.Introduction.2.Accessibility.us" = "This recipe yields one 3 by 4 by 7 and a half inch loaf.";
+"EggMeatloaf.Introduction.2.Accessibility.metric" = "This recipe yields one 7 and a half by 10 by 18 and three quarter cm loaf.";
 
 /* Egg Meatloaf Ingredients Header */
 "EggMeatloaf.Ingredients.Header" = "Ingredients";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount */
-"EggMeatloaf.Ingredients.GroundPork.Amount" = "½ lb";
+"EggMeatloaf.Ingredients.GroundPork.Amount.us" = "½ lb";
+"EggMeatloaf.Ingredients.GroundPork.Amount.metric" = "225 g";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount" = "half a pound";
+"EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount.us" = "half a pound";
+"EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount.metric" = "225 grams";
 
 /* Egg Meatloaf Ingredients Onion Amount */
-"EggMeatloaf.Ingredients.Onion.Amount" = "⅓ cup";
+"EggMeatloaf.Ingredients.Onion.Amount.us" = "⅓ cup";
+"EggMeatloaf.Ingredients.Onion.Amount.metric" = "130 g";
 
 /* Egg Meatloaf Ingredients Onion Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.Onion.AccessibilityAmount" = "one third cup";
+"EggMeatloaf.Ingredients.Onion.AccessibilityAmount.us" = "one third cup";
+"EggMeatloaf.Ingredients.Onion.AccessibilityAmount.metric" = "130 grams";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "1-2 oz, soaked";
+"EggMeatloaf.Ingredients.DriedMushroom.Amount.us" = "⅓ cup, soaked";
+"EggMeatloaf.Ingredients.DriedMushroom.Amount.metric" = "40-45 g, soaked";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount" = "1 to 2 ounces, soaked";
+"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount.us" = "one third cup, soaked";
+"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount.metric" = "40 to 45 grams, soaked";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount */
-"EggMeatloaf.Ingredients.BeanThreads.Amount" = "1-2 oz, soaked";
+"EggMeatloaf.Ingredients.BeanThreads.Amount.us" = "⅓ cup, soaked";
+"EggMeatloaf.Ingredients.BeanThreads.Amount.metric" = "40-45 g, soaked";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "1 to 2 ounces, soaked";
+"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount.us" = "one third cup, soaked";
+"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount.metric" = "40 to 45 grams, soaked";
 
 /* Egg Meatloaf Ingredients Fish Sauce Amount */
 "EggMeatloaf.Ingredients.FishSauce.Amount" = "1 tbsp";
@@ -1286,7 +1296,7 @@
 "EggMeatloaf.Ingredients.BlackPepper.AccessibilityAmount" = "half a teaspoon";
 
 /* Egg Meatloaf Ingredients Egg Amount */
-"EggMeatloaf.Ingredients.Egg.Amount" = "4 medium";
+"EggMeatloaf.Ingredients.Egg.Amount" = "4 large";
 
 /* Egg Meatloaf Ingredients Annatto Oil Amount */
 "EggMeatloaf.Ingredients.AnnattoOil.Amount" = "2-3 tsp (optional)";
