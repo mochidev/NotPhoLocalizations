@@ -2011,7 +2011,8 @@
 "Mayo.Introduction.1.Accessibility" = "Mayonnaise sauce was brought to Vietnam through the French influence and it is mainly used in banh mi.";
 
 /* Mayo Introduction 2 */
-"Mayo.Introduction.2" = "This recipe yields 1 cup.";
+"Mayo.Introduction.2.us" = "This recipe yields 1 cup.";
+"Mayo.Introduction.2.metric" = "This recipe yields 240 mL.";
 
 /* Mayo Ingredients Header */
 "Mayo.Ingredients.Header" = "Ingredients";
@@ -2020,7 +2021,8 @@
 "Mayo.Ingredients.EggYolk.Amount" = "2 egg yolks";
 
 /* Mayo Ingredients Oil Amount */
-"Mayo.Ingredients.Oil.Amount" = "1 cup, canola";
+"Mayo.Ingredients.Oil.Amount.us" = "1 cup, canola";
+"Mayo.Ingredients.Oil.Amount.metric" = "240 mL, canola";
 
 /* Mayo Ingredients Salt Amount */
 "Mayo.Ingredients.Salt.Amount" = "½ tsp";
