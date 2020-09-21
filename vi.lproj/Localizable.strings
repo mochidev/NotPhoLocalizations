@@ -910,43 +910,54 @@
 "CrepeBatter.Introduction.1.Accessibility" = "Bột Bánh Xèo rất dễ làm nhưng là một nguyên liệu quan trọng khi làm Bánh Xèo.";
 
 /* Crepe Batter Introduction 2 */
-"CrepeBatter.Introduction.2" = "Công thức này làm khoảng 1 cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
+"CrepeBatter.Introduction.2.us" = "Công thức này làm khoảng 1 cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
+"CrepeBatter.Introduction.2.metric" = "Công thức này làm khoảng 240 mL bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
 
 /* Crepe Batter Introduction 2 (VoiceOver) */
-"CrepeBatter.Introduction.2.Accessibility" = "Công thức này làm khoảng một cup bột hoặc là khoảng 4 cái ##Bánh Xèo##.";
+"CrepeBatter.Introduction.2.Accessibility.us" = "Công thức này làm khoảng một cup bột hoặc là khoảng 4 cái Bánh Xèo.";
+"CrepeBatter.Introduction.2.Accessibility.metric" = "Công thức này làm khoảng 240 mi li lít bột hoặc là khoảng 4 cái Bánh Xèo.";
 
 /* Crepe Batter Ingredients Header */
 "CrepeBatter.Ingredients.Header" = "Nguyên Liệu";
 
 /* Crepe Batter Ingredients Rice Flour Amount */
-"CrepeBatter.Ingredients.RiceFlour.Amount" = "⅓ cup";
+"CrepeBatter.Ingredients.RiceFlour.Amount.us" = "⅓ cup";
+"CrepeBatter.Ingredients.RiceFlour.Amount.metric" = "45 g";
 
 /* Crepe Batter Ingredients Rice Flour Amount (VoiceOVer) */
-"CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount" = "một phần ba cup";
+"CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount.us" = "một phần ba cốc";
+"CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount.metric" = "45 gờ ram";
 
 /* Crepe Batter Ingredients Corn Starch Amount */
-"CrepeBatter.Ingredients.CornStarch.Amount" = "2 muỗng canh";
+"CrepeBatter.Ingredients.CornStarch.Amount.us" = "2 tbsp";
+"CrepeBatter.Ingredients.CornStarch.Amount.metric" = "20 g";
 
 /* Crepe Batter Ingredients Turmeric Amount */
-"CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ muỗng cà phê";
+"CrepeBatter.Ingredients.Turmeric.Amount.us" = "⅛ tsp";
+"CrepeBatter.Ingredients.Turmeric.Amount.metric" = "⅛ muỗng cà phê";
 
 /* Crepe Batter Ingredients Turmeric Amount (VoiceOver) */
 "CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "một phần tám muỗng cà phê";
 
 /* Crepe Batter Ingredients Coconut Milk Amount */
-"CrepeBatter.Ingredients.CoconutMilk.Amount" = "¼ cup";
+"CrepeBatter.Ingredients.CoconutMilk.Amount.us" = "¼ cup";
+"CrepeBatter.Ingredients.CoconutMilk.Amount.metric" = "60 mL";
 
 /* Crepe Batter Ingredients Coconut Milk Amount (VoiceOver) */
-"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount" = "một phần tư cup";
+"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount.us" = "một phần tư cốc";
+"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount.metric" = "60 mi li lít";
 
 /* Crepe Batter Ingredients Water Amount */
-"CrepeBatter.Ingredients.Water.Amount" = "½ cup";
+"CrepeBatter.Ingredients.Water.Amount.us" = "½ cup";
+"CrepeBatter.Ingredients.Water.Amount.metric" = "120 mL";
 
 /* Crepe Batter Ingredients Water Amount (VoiceOver) */
-"CrepeBatter.Ingredients.Water.AccessibilityAmount" = "phân nữa cup";
+"CrepeBatter.Ingredients.Water.AccessibilityAmount.us" = "phân nữa cốc";
+"CrepeBatter.Ingredients.Water.AccessibilityAmount.metric" = "120 mi li lít";
 
 /* Crepe Batter Ingredients GreenOnion Amount */
-"CrepeBatter.Ingredients.GreenOnion.Amount" = "1 cộng";
+"CrepeBatter.Ingredients.GreenOnion.Amount.us" = "1 cộng";
+"CrepeBatter.Ingredients.GreenOnion.Amount.metric" = "15 g";
 
 /* Crepe Batter Instructions Header */
 "CrepeBatter.Instructions.Header" = "Cách Làm";
