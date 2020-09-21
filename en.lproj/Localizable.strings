@@ -1464,7 +1464,8 @@
 "AnnattoOil.Introduction.1.Accessibility" = "Annatto oil is made by extracting oils and pigments from annatto seeds by using heated oil. The annatto seeds are very mild in flavor so adding the annatto oil to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
 
 /* Annatto Oil Introduction 2 */
-"AnnattoOil.Introduction.2" = "This recipe yields ¼ cup.";
+"AnnattoOil.Introduction.2.us" = "This recipe yields ¼ cup.";
+"AnnattoOil.Introduction.2.metric" = "This recipe yields 60 mL.";
 
 /* Annatto Oil Introduction 2 (VoiceOver) */
 "AnnattoOil.Introduction.2.Accessibility" = "This recipe yields half a quarter cup.";
@@ -1473,16 +1474,20 @@
 "AnnattoOil.Ingredients.Header" = "Ingredients";
 
 /* Annatto Oil Ingredients 1 */
-"AnnattoOil.Ingredients.1" = "1 ½ tbsp";
+"AnnattoOil.Ingredients.1.us" = "1 ½ tbsp";
+"AnnattoOil.Ingredients.1.metric" = "15 grams";
 
 /* Annatto Oil Ingredients 1 (VoiceOver) */
-"AnnattoOil.Ingredients.1.Accessibility" = "1 and a half tablespoons";
+"AnnattoOil.Ingredients.1.Accessibility.us" = "1 and a half tablespoons";
+"AnnattoOil.Ingredients.1.Accessibility.metric" = "15 grams";
 
 /* Annatto Oil Ingredients 2 */
-"AnnattoOil.Ingredients.2" = "¼ cup";
+"AnnattoOil.Ingredients.2.us" = "¼ cup";
+"AnnattoOil.Ingredients.2.metric" = "60 mL";
 
 /* Annatto Oil Ingredients 2 (VoiceOver) */
-"AnnattoOil.Ingredients.2.Accessibility" = "half a quarter cup";
+"AnnattoOil.Ingredients.2.Accessibility.us" = "half a quarter cup";
+"AnnattoOil.Ingredients.2.Accessibility.metric" = "60 milliliters";
 
 /* Annatto Oil Instructions Header */
 "AnnattoOil.Instructions.Header" = "Instructions";
