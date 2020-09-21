@@ -1260,49 +1260,61 @@
 "EggMeatloaf.Ingredients.Header" = "Nguyên Liệu";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount */
-"EggMeatloaf.Ingredients.GroundPork.Amount" = "½ lb";
+"EggMeatloaf.Ingredients.GroundPork.Amount.us" = "½ lb";
+"EggMeatloaf.Ingredients.GroundPork.Amount.metric" = "225 g";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount" = "phân nữa pound";
+"EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount.us" = "phân nữa pao";
+"EggMeatloaf.Ingredients.GroundPork.AccessibilityAmount.metric" = "225 gờ ram";
 
 /* Egg Meatloaf Ingredients Onion Amount */
-"EggMeatloaf.Ingredients.Onion.Amount" = "⅓ cup";
+"EggMeatloaf.Ingredients.Onion.Amount.us" = "⅓ cup";
+"EggMeatloaf.Ingredients.Onion.Amount.metric" = "130 g";
 
 /* Egg Meatloaf Ingredients Onion Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.Onion.AccessibilityAmount" = "một phần ba cup";
+"EggMeatloaf.Ingredients.Onion.AccessibilityAmount.us" = "một phần ba cốc";
+"EggMeatloaf.Ingredients.Onion.AccessibilityAmount.metric" = "130 gờ ram";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.Amount" = "1 đến 2 oz";
+"EggMeatloaf.Ingredients.DriedMushroom.Amount.us" = "⅓ cup";
+"EggMeatloaf.Ingredients.DriedMushroom.Amount.metric" = "40-45 g";
 
-/* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount" = "1 đến 2 ounces";
+/* Egg Meatloaf Ingredients Dried Mushroom Amount (VoiceOver) */
+"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount.us" = "một phần ba cốc";
+"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount.metric" = "40 đến 45 gờ ram";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount */
-"EggMeatloaf.Ingredients.BeanThreads.Amount" = "1 đến 2 oz";
+"EggMeatloaf.Ingredients.BeanThreads.Amount.us" = "⅓ cup";
+"EggMeatloaf.Ingredients.BeanThreads.Amount.metric" = "40-45 g";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount" = "1 đến 2 ounces";
+"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount.us" = "một phần ba cốc";
+"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount.metric" = "40 đến 45 gờ ram";
 
 /* Egg Meatloaf Ingredients Fish Sauce Amount */
-"EggMeatloaf.Ingredients.FishSauce.Amount" = "1 muỗng canh";
+"EggMeatloaf.Ingredients.FishSauce.Amount.us" = "1 tbsp";
+"EggMeatloaf.Ingredients.FishSauce.Amount.metric" = "1 muỗng canh";
 
 /* Egg Meatloaf Ingredients Salt Amount */
-"EggMeatloaf.Ingredients.Salt.Amount" = "½ muỗng cà phê";
+"EggMeatloaf.Ingredients.Salt.Amount.us" = "½ tsp";
+"EggMeatloaf.Ingredients.Salt.Amount.metric" = "½ muỗng cà phê";
 
 /* Egg Meatloaf Ingredients Salt Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.Salt.AccessibilityAmount" = "phân nữa muỗng cà phê";
 
 /* Egg Meatloaf Ingredients Black Pepper Amount */
-"EggMeatloaf.Ingredients.BlackPepper.Amount" = "½ muốn cà phê";
+"EggMeatloaf.Ingredients.BlackPepper.Amount.us" = "½ tsp";
+"EggMeatloaf.Ingredients.BlackPepper.Amount.metric" = "½ muỗng cà phê";
 
 /* Egg Meatloaf Ingredients Black Pepper Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.BlackPepper.AccessibilityAmount" = "phân nữa muỗng cà phê";
 
 /* Egg Meatloaf Ingredients Egg Amount */
-"EggMeatloaf.Ingredients.Egg.Amount" = "4 trứng trung bình";
+"EggMeatloaf.Ingredients.Egg.Amount" = "4 trứng lớn";
 
 /* Egg Meatloaf Ingredients Annatto Oil Amount */
-"EggMeatloaf.Ingredients.AnnattoOil.Amount" = "2 đến 3 muỗng cà phê (tùy ý)";
+"EggMeatloaf.Ingredients.AnnattoOil.Amount.us" = "2-3 tsp (tùy ý)";
+"EggMeatloaf.Ingredients.AnnattoOil.Amount.metric" = "2-3 muỗng cà phê (tùy ý)";
 
 /* Egg Meatloaf Ingredients Annatto Oil Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "2 đến 3 muỗng cà phê (tùy ý)";
