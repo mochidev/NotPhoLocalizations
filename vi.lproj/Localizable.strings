@@ -2158,37 +2158,49 @@
 "GrilledPork.Ingredients.Header" = "Nguyên Liệu";
 
 /* Grilled Pork Ingredients Raw Pork Amount */
-"GrilledPork.Ingredients.RawPork.Amount" = "½ lb";
+"GrilledPork.Ingredients.RawPork.Amount.us" = "½ lb";
+"GrilledPork.Ingredients.RawPork.Amount.metric" = "225 g";
 
 /* Grilled Pork Ingredients Raw Pork Amount (VoiceOver) */
-"GrilledPork.Ingredients.RawPork.AccessibilityAmount" = "phân nữa lb";
+"GrilledPork.Ingredients.RawPork.AccessibilityAmount.us" = "phân nữa pao";
+"GrilledPork.Ingredients.RawPork.AccessibilityAmount.metric" = "225 gờ ram";
 
 /* Grilled Pork Ingredients Lemongrass Amount */
-"GrilledPork.Ingredients.Lemongrass.Amount" = "½ muỗng canh";
+"GrilledPork.Ingredients.Lemongrass.Amount.us" = "½ tbsp";
+"GrilledPork.Ingredients.Lemongrass.Amount.metric" = "½ muỗng canh";
 
 /* Grilled Pork Ingredients Lemongrass Amount (VoiceOver) */
 "GrilledPork.Ingredients.Lemongrass.AccessibilityAmount" = "phân nữa muỗng canh";
 
 /* Grilled Pork Ingredients Fish Sauce Amount */
-"GrilledPork.Ingredients.FishSauce.Amount" = "2 muỗng canh";
+"GrilledPork.Ingredients.FishSauce.Amount.us" = "2 tbsp";
+"GrilledPork.Ingredients.FishSauce.Amount.metric" = "2 muỗng canh";
 
 /* Grilled Pork Ingredients Garlic Amount */
 "GrilledPork.Ingredients.Garlic.Amount" = "1 tép";
 
 /* Grilled Pork Ingredients Shallot Amount */
-"GrilledPork.Ingredients.Shallot.Amount" = "1 củ";
+"GrilledPork.Ingredients.Shallot.Amount.us" = "2-3 tbsp";
+"GrilledPork.Ingredients.Shallot.Amount.metric" = "20 g";
+
+/* Grilled Pork Ingredients Shallot Amount (VoiceOver) */
+"GrilledPork.Ingredients.Shallot.AccessibilityAmount.us" = "2 đến 3 muỗng canh";
+"GrilledPork.Ingredients.Shallot.AccessibilityAmount.metric" = "20 gờ ram";
 
 /* Grilled Pork Ingredients Sugar Amount */
-"GrilledPork.Ingredients.Sugar.Amount" = "2 muỗng canh";
+"GrilledPork.Ingredients.Sugar.Amount.us" = "2 tbsp";
+"GrilledPork.Ingredients.Sugar.Amount.metric" = "2 muỗng canh";
 
 /* Grilled Pork Ingredients Black Pepper Amount */
-"GrilledPork.Ingredients.BlackPepper.Amount" = "1 muỗng cà phê";
+"GrilledPork.Ingredients.BlackPepper.Amount.us" = "1 tsp";
+"GrilledPork.Ingredients.BlackPepper.Amount.metric" = "1 muỗng cà phê";
 
 /* Grilled Pork Ingredients Black Pepper (VoiceOver) */
 "GrilledPork.Ingredients.BlackPepper.AccessibilityAmount" = "1 muỗng cà phê";
 
 /* Grilled Pork Ingredients Oil Amount */
-"GrilledPork.Ingredients.Oil.Amount" = "1 đến 2 muỗng canh";
+"GrilledPork.Ingredients.Oil.Amount.us" = "1-2 tbsp";
+"GrilledPork.Ingredients.Oil.Amount.metric" = "1-2 muỗng canh";
 
 /* Grilled Pork Ingredients Oil (VoiceOver) */
 "GrilledPork.Ingredients.Oil.AccessibilityAmount" = "1 đến 2 muỗng canh";
@@ -2263,10 +2275,12 @@
 "GrilledPork.Instructions.Step.4.Part.2" = "Chuyển ##Thịt Heo## đã ướp xong vào trong chảo để chiên.";
 
 /* Grilled Pork Instructions Step 4 Part 3 */
-"GrilledPork.Instructions.Step.4.Part.3" = "Chiên đến khi nào nhiệt độ của giữa ##Thịt Heo## là ít nhất 145ºF.";
+"GrilledPork.Instructions.Step.4.Part.3.us" = "Chiên đến khi nào nhiệt độ của giữa ##Thịt Heo## là ít nhất 145ºF.";
+"GrilledPork.Instructions.Step.4.Part.3.metric" = "Chiên đến khi nào nhiệt độ của giữa ##Thịt Heo## là ít nhất 63ºC.";
 
 /* Grilled Pork Instructions Step 4 Part 3 (VoiceOver) */
-"GrilledPork.Instructions.Step.4.Part.3.Accessibility" = "Chiên đến khi nào nhiệt độ của giữa Thịt Heo là ít nhất 145ºF.";
+"GrilledPork.Instructions.Step.4.Part.3.Accessibility.us" = "Chiên đến khi nào nhiệt độ của giữa Thịt Heo là ít nhất 145ºF.";
+"GrilledPork.Instructions.Step.4.Part.3.Accessibility.metric" = "Chiên đến khi nào nhiệt độ của giữa Thịt Heo là ít nhất 63ºC.";
 
 /* Grilled Pork Instructions Step 4 Note */
 "GrilledPork.Instructions.Step.4.Note.1" = "Nếu mà muốn mùi vị càng thơm ngon thì có thể dùng than để nướng.";
@@ -2281,7 +2295,7 @@
 "GrilledPork.HowTo.1" = "##Thịt Nướng## có thể ăn với bún hoặc cơm.";
 
 /* Grilled Pork How To 1 (VoiceOver) */
-"GrilledPork.HowTo.1.Accessibility" = "##Thịt Nướng## có thể ăn với bún hoặc cơm.";
+"GrilledPork.HowTo.1.Accessibility" = "Thịt Nướng có thể ăn với bún hoặc cơm.";
 
 /* Grilled Pork UsedIn Header */
 "GrilledPork.UsedIn.Header" = "Dùng Trong";
