@@ -265,31 +265,43 @@
 "Crepe.Ingredients.CrepeBatter.Amount" = "1 package";
 
 /* Crepe Ingredients Pork Belly Amount */
-"Crepe.Ingredients.PorkBelly.Amount" = "1 lb, small pieces";
+"Crepe.Ingredients.PorkBelly.Amount.us" = "1 lb, small pieces";
+"Crepe.Ingredients.PorkBelly.Amount.metric" = "450 g, small pieces";
 
 /* Crepe Ingredients Shrimp Amount */
-"Crepe.Ingredients.Shrimp.Amount" = "1 lb, peeled and deveined";
+"Crepe.Ingredients.Shrimp.Amount.us" = "1 lb, peeled and deveined";
+"Crepe.Ingredients.Shrimp.Amount.metric" = "450 g, peeled and deveined";
 
 /* Crepe Ingredients Shrimp Amount (VoiceOver) */
-"Crepe.Ingredients.Shrimp.AccessibilityAmount" = "1 lb, peeled and de-veined";
+"Crepe.Ingredients.Shrimp.AccessibilityAmount.us" = "1 lb, peeled and de-veined";
+"Crepe.Ingredients.Shrimp.AccessibilityAmount.metric" = "450 grams, peeled and de-veined";
 
 /* Crepe Ingredients Onion Amount */
-"Crepe.Ingredients.Onion.Amount" = "1 medium, thinly sliced";
+"Crepe.Ingredients.Onion.Amount.us" = "1 medium, thinly sliced";
+"Crepe.Ingredients.Onion.Amount.metric" = "310 g, thinly sliced";
 
 /* Crepe Ingredients Bean Sprouts Amount */
-"Crepe.Ingredients.BeanSprouts.Amount" = "1 lb";
+"Crepe.Ingredients.BeanSprouts.Amount.us" = "¾ lb";
+"Crepe.Ingredients.BeanSprouts.Amount.metric" = "340 g";
+
+/* Crepe Ingredients Bean Sprouts Amount (VoiceOver) */
+"Crepe.Ingredients.BeanSprouts.AccessibilityAmount.us" = "three quarter pounds";
+"Crepe.Ingredients.BeanSprouts.AccessibilityAmount.metric" = "340 grams";
 
 /* Crepe Ingredients Green Onion Amount */
-"Crepe.Ingredients.GreenOnion.Amount" = "2 stalks";
+"Crepe.Ingredients.GreenOnion.Amount.us" = "2 stalks";
+"Crepe.Ingredients.GreenOnion.Amount.metric" = "25 g";
 
 /* Crepe Ingredients Leafy Greens Amount */
 "Crepe.Ingredients.LeafyGreens.Amount" = "assortment";
 
 /* Crepe Ingredients Mixed Fish Sauce Amount */
-"Crepe.Ingredients.MixedFishSauce.Amount" = "1 ½ cups";
+"Crepe.Ingredients.MixedFishSauce.Amount.us" = "1 ½ cups";
+"Crepe.Ingredients.MixedFishSauce.Amount.metric" = "360 mL";
 
 /* Crepe Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"Crepe.Ingredients.MixedFishSauce.AccessibilityAmount" = "1 and a half cups";
+"Crepe.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "1 and a half cups";
+"Crepe.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "360 milliliters";
 
 /* Crepe Instructions Header */
 "Crepe.Instructions.Header" = "Instructions";
