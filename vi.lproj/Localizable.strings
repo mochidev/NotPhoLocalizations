@@ -1792,14 +1792,15 @@
 "ScallionOil.Ingredients.Header" = "Nguyên Liệu";
 
 /* Scallion and Oil Garnish Ingredients Green Onion Amount */
-"ScallionOil.Ingredients.GreenOnion.Amount" = "1 cọng";
+"ScallionOil.Ingredients.GreenOnion.Amount.us" = "1 cọng";
+"ScallionOil.Ingredients.GreenOnion.Amount.metric" = "15 g";
 
 /* Scallion and Oil Garnish Ingredients Oil Amount */
-"ScallionOil.Ingredients.Oil.Amount" = "1 đến 2 muỗng canh";
+"ScallionOil.Ingredients.Oil.Amount.us" = "1-2 tbsp";
+"ScallionOil.Ingredients.Oil.Amount.metric" = "1-2 muỗng canh";
 
 /* Scallion and Oil Garnish Ingredients Oil Amount (VoiceOver) */
 "ScallionOil.Ingredients.Oil.AccessibilityAmount" = "1 đến 2 muỗng canh";
-
 
 /* Scallion and Oil Garnish Instructions Header */
 "ScallionOil.Instructions.Header" = "Cách Làm";
