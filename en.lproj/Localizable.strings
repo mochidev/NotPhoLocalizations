@@ -127,22 +127,28 @@
 "BanhMi.Ingredients.Header" = "Ingredients";
 
 /* Banh Mi Ingredients Baguette Amount */
-"BanhMi.Ingredients.Baguette.Amount" = "One 10-in long loaf";
+"BanhMi.Ingredients.Baguette.Amount.us" = "One 10-in long loaf";
+"BanhMi.Ingredients.Baguette.Amount.metric" = "One 25-cm long loaf";
 
 /* Banh Mi Ingredients Baguette Amount (VoiceOver) */
-"BanhMi.Ingredients.Baguette.AccessibilityAmount" = "1 10 inch long loaf";
+"BanhMi.Ingredients.Baguette.AccessibilityAmount.us" = "1 10 inch long loaf";
+"BanhMi.Ingredients.Baguette.AccessibilityAmount.metric" = "1 25 centimeter long loaf";
 
 /* Banh Mi Ingredients Pickles Amount */
-"BanhMi.Ingredients.Pickles.Amount" = "1-2 oz, drained";
+"BanhMi.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
+"BanhMi.Ingredients.Pickles.Amount.metric" = "40-45 g, drained";
 
 /* Banh Mi Ingredients Pickles Amount (VoiceOver) */
-"BanhMi.Ingredients.Pickles.AccessibilityAmount" = "1 to 2 ounces, drained";
+"BanhMi.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces, drained";
+"BanhMi.Ingredients.Pickles.AccessibilityAmount.metric" = "40 to 45 grams, drained";
 
 /* Banh Mi Ingredients GrilledPork Amount */
-"BanhMi.Ingredients.GrilledPork.Amount" = "3-4 oz";
+"BanhMi.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"BanhMi.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
 /* Banh Mi Ingredients GrilledPork Amount (VoiceOver) */
-"BanhMi.Ingredients.GrilledPork.AccessibilityAmount" = "3 to 4 ounces";
+"BanhMi.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 to 4 ounces";
+"BanhMi.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 to 100 grams";
 
 /* Banh Mi Ingredients Mayo Amount */
 "BanhMi.Ingredients.Mayo.Amount" = "2 tsp";
