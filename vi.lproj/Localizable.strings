@@ -1029,46 +1029,59 @@
 "EggRollsComponent.Ingredients.Header" = "Nguyên Liệu";
 
 /* Egg Rolls Component Ground Pork Amount */
-"EggRollsComponent.GroundPork.Amount" = "½ lb";
+"EggRollsComponent.GroundPork.Amount.us" = "½ lb";
+"EggRollsComponent.GroundPork.Amount.metric" = "225 g";
 
 /* Egg Rolls Component Ground Pork Amount (VoiceOver) */
-"EggRollsComponent.GroundPork.AccessibilityAmount" = "phân nữa pound";
+"EggRollsComponent.GroundPork.AccessibilityAmount.us" = "phân nữa pao";
+"EggRollsComponent.GroundPork.AccessibilityAmount.metric" = "225 gờ ram";
 
 /* Egg Rolls Component Shrimp Amount */
-"EggRollsComponent.Shrimp.Amount" = "½ lb";
+"EggRollsComponent.Shrimp.Amount.us" = "½ lb";
+"EggRollsComponent.Shrimp.Amount.metric" = "225 g";
 
 /* Egg Rolls Component Shrimp Amount (VoiceOver) */
-"EggRollsComponent.Shrimp.AccessibilityAmount" = "phân nữa pound";
+"EggRollsComponent.GroundPork.AccessibilityAmount.us" = "phân nữa pao";
+"EggRollsComponent.Shrimp.AccessibilityAmount.metric" = "225 gờ ram";
 
 /* Egg Rolls Component Onion Amount */
-"EggRollsComponent.Onion.Amount" = "½ cup";
+"EggRollsComponent.Onion.Amount.us" = "½ cup";
+"EggRollsComponent.Onion.Amount.metric" = "190 g";
 
 /* Egg Rolls Component Onion Amount (VoiceOver) */
-"EggRollsComponent.Onion.AccessibilityAmount" = "phân nữa cup";
+"EggRollsComponent.Onion.AccessibilityAmount.us" = "phân nữa cốc";
+"EggRollsComponent.Onion.AccessibilityAmount.metric" = "190 gờ ram";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount" = "2-4 oz";
+"EggRollsComponent.DriedMushroom.Amount.us" = "¾ cups";
+"EggRollsComponent.DriedMushroom.Amount.metric" = "80-100 g";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount" = "2 đến 4 ounces";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount.us" = "ba phần tư cốc";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
 
 /* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount" = "2-4 oz, cắt nhỏ khoảng nữa in";
+"EggRollsComponent.BeanThreads.Amount.us" = "¾ cups";
+"EggRollsComponent.BeanThreads.Amount.metric" = "80-100 g";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
-"EggRollsComponent.BeanThreads.AccessibilityAmount" = "2 đến 4 ounces, cắt nhỏ khoảng nữa in";
+"EggRollsComponent.BeanThreads.AccessibilityAmount.us" = "ba phần tư cốc";
+"EggRollsComponent.BeanThreads.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
 
 /* Egg Rolls Component Fish Sauce Amount */
-"EggRollsComponent.FishSauce.Amount" = "2 muỗng canh";
+"EggRollsComponent.FishSauce.Amount.us" = "2 tbsp";
+"EggRollsComponent.FishSauce.Amount.metric" = "2 muỗng canh";
 
 /* Egg Rolls Component Chicken Bouillon Amount */
-"EggRollsComponent.ChickenBouillon.Amount" = "½ muỗng cà phê";
+"EggRollsComponent.ChickenBouillon.Amount.us" = "1 tsp";
+"EggRollsComponent.ChickenBouillon.Amount.metric" = "1 muỗng cà phê";
 
 /* Egg Rolls Component Chicken Bouillon Amount (VoiceOver) */
-"EggRollsComponent.ChickenBouillon.AccessibilityAmount" = "phân nửa muỗng cà phê";
+"EggRollsComponent.ChickenBouillon.AccessibilityAmount" = "một muỗng cà phê";
 
 /* Egg Rolls Component Black Pepper Amount */
-"EggRollsComponent.BlackPepper.Amount" = "1 muỗng cà phê";
+"EggRollsComponent.BlackPepper.Amount.us" = "1 tsp";
+"EggRollsComponent.BlackPepper.Amount.metric" = "1 muỗng cà phê";
 
 /* Egg Rolls Component Black Pepper Amount (VoiceOver) */
 "EggRollsComponent.BlackPepper.AccessibilityAmount" = "một muỗng cà phê";
@@ -1167,16 +1180,20 @@
 "EggRollsComponent.Instructions.Step.5" = "Bước 5";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 */
-"EggRollsComponent.Instructions.Step.5.Part.1" = "Chiên ##Chả Giò## từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF.";
+"EggRollsComponent.Instructions.Step.5.Part.1.us" = "Chiên ##Chả Giò## từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF.";
+"EggRollsComponent.Instructions.Step.5.Part.1.metric" = "Chiên ##Chả Giò## từ đợt trong dầu. Độ nóng của dầu khoảng 163ºC.";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility" = "Chiên ##Chả Giò## từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF.";
+"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.us" = "Chiên Chả Giò từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF.";
+"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.metric" = "Chiên Chả Giò từ đợt trong dầu. Độ nóng của dầu khoảng 163ºC.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 */
-"EggRollsComponent.Instructions.Step.5.Part.2" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2.us" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2.metric" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 63ºC. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.us" = "Chiên đến khi Chả Giò vàng nâu và độ nóng giữa của Chả Giò là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.metric" = "Chiên đến khi Chả Giò vàng nâu và độ nóng giữa của Chả Giò là ít nhất 63ºC. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
 
 /* Egg Rolls Component Instructions Step 5 Note 1 */
 "EggRollsComponent.Instructions.Step.5.Note.1" = "Có thể chiên hết một lược hoặc là chiên một ít và số còn lại thì để đồng đá.";
