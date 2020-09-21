@@ -499,43 +499,53 @@
 "Vermicelli.Ingredients.Header" = "Ingredients";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount */
-"Vermicelli.Ingredients.VermicelliNoodles.Amount" = "3-4 oz, cooked";
+"Vermicelli.Ingredients.VermicelliNoodles.Amount.us" = "3-4 oz, cooked";
+"Vermicelli.Ingredients.VermicelliNoodles.Amount.metric" = "80-100 g, cooked";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount (VoiceOver) */
-"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount" = "3 to 4 ounces, cooked";
+"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount.us" = "3 to 4 ounces, cooked";
+"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount.metric" = "80 to 100 grams, cooked";
 
 /* Vermicelli Ingredients EggRolls Amount */
 "Vermicelli.Ingredients.EggRolls.Amount" = "2 rolls";
 
 /* Vermicelli Ingredients Grilled Pork Amount */
-"Vermicelli.Ingredients.GrilledPork.Amount" = "3-4 oz";
+"Vermicelli.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"Vermicelli.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
 /* Vermicelli Ingredients Grilled Pork Amount (VoiceOver) */
-"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount" = "3 to 4 ounces";
+"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 to 4 ounces";
+"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80-100 grams";
 
 /* Vermicelli Ingredients Pickles Amount */
-"Vermicelli.Ingredients.Pickles.Amount" = "1-2 oz, drained";
+"Vermicelli.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
+"Vermicelli.Ingredients.Pickles.Amount.metric" = "40-45 g, drained";
 
 /* Vermicelli Ingredients Pickles Amount (VoiceOver) */
-"Vermicelli.Ingredients.Pickles.AccessibilityAmount" = "1 to 2 ounces, drained";
+"Vermicelli.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces, drained";
+"Vermicelli.Ingredients.Pickles.AccessibilityAmount.metric" = "40 to 45 grams, drained";
 
 /* Vermicelli Ingredients Leafy Greens Amount */
 "Vermicelli.Ingredients.LeafyGreens.Amount" = "assortment";
 
 /* Vermicelli Ingredients Cucumber Amount */
-"Vermicelli.Ingredients.Cucumber.Amount" = "½ cucumber, sliced";
+"Vermicelli.Ingredients.Cucumber.Amount.us" = "½ persian cucumber, sliced";
+"Vermicelli.Ingredients.Cucumber.Amount.metric" = "55 g, sliced";
 
 /* Vermicelli Ingredients Cucumber Amount (VoiceOver) */
-"Vermicelli.Ingredients.Cucumber.AccessibilityAmount" = "half a cucumber, sliced";
+"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.us" = "half a persian cucumber, sliced";
+"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.metric" = "55 grams, sliced";
 
 /* Vermicelli Ingredients Bean Sprouts Amount */
 "Vermicelli.Ingredients.BeanSprouts.Amount" = "small handful";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount */
-"Vermicelli.Ingredients.MixedFishSauce.Amount" = "½ cup";
+"Vermicelli.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"Vermicelli.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount" = "half a cup";
+"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
+"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Vermicelli Ingredients Scallion & Oil Garnish Amount */
 "Vermicelli.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
