@@ -1596,46 +1596,59 @@
 "Pickles.Introduction.1.Accessibility" = "Đồ Chua là một món trang trí ngọt ngào và thơm.";
 
 /* Pickles Introduction 2 */
-"Pickles.Introduction.2" = "Công thức này làm khoảng 1 lb.";
+"Pickles.Introduction.2.us" = "Công thức này làm khoảng 1 lb.";
+"Pickles.Introduction.2.metric" = "This recipe yields about 450 g.";
 
 /* Pickles Ingredients Header */
 "Pickles.Ingredients.Header" = "Nguyên Liệu";
 
 /* Pickles Ingredients Carrot Amount */
-"Pickles.Ingredients.Carrot.Amount" = "½ lb";
+"Pickles.Ingredients.Carrot.Amount.us" = "½ lb";
+"Pickles.Ingredients.Carrot.Amount.metric" = "225 g";
 
 /* Pickles Ingredients Carrot Amount (VoiceOVer)*/
-"Pickles.Ingredients.Carrot.AccessibilityAmount" = "phân nữa pound";
+"Pickles.Ingredients.Carrot.AccessibilityAmount.us" = "phân nữa pao";
+"Pickles.Ingredients.Carrot.AccessibilityAmount.metric" = "225 gờ ram";
 
 /* Pickles Ingredients Daikon Amount */
-"Pickles.Ingredients.Daikon.Amount" = "½ lb";
+"Pickles.Ingredients.Daikon.Amount.us" = "½ lb";
+"Pickles.Ingredients.Daikon.Amount.metric" = "225 g";
 
 /* Pickles Ingredients Daikon Amount (VoiceOVer)*/
-"Pickles.Ingredients.Carrot.AccessibilityAmount" = "phân nữa pound";
+"Pickles.Ingredients.Daikon.AccessibilityAmount.us" = "phân nữa pao";
+"Pickles.Ingredients.Daikon.AccessibilityAmount.metric" = "225 gờ ram";
 
 /* Pickles Ingredients Salt Amount */
-"Pickles.Ingredients.Salt.Amount" = "2 muỗng cà phê";
+"Pickles.Ingredients.Salt.Amount.us" = "2 tsp";
+"Pickles.Ingredients.Salt.Amount.metric" = "2 muỗng cà phê";
 
 /* Pickles Ingredients Salt Amount (VoiceOver) */
 "Pickles.Ingredients.Salt.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Pickles Ingredients Sugar Amount */
-"Pickles.Ingredients.Sugar.Amount" = "¼ cup";
+"Pickles.Ingredients.Sugar.Amount.us" = "¼ cup";
+"Pickles.Ingredients.Sugar.Amount.metric" = "4 muỗng canh";
 
 /* Pickles Ingredients Sugar Amount (VocieOver) */
-"Pickles.Ingredients.Sugar.AccessibilityAmount" = "một phần tư cup";
+"Pickles.Ingredients.Sugar.AccessibilityAmount.us" = "một phần tư cốc";
+"Pickles.Ingredients.Sugar.AccessibilityAmount.metric" = "4 muỗng canh";
 
 /* Pickles Ingredients Vinegar Amount */
-"Pickles.Ingredients.Vinegar.Amount" = "⅔ cups";
+"Pickles.Ingredients.Vinegar.Amount.us" = "⅔ cups";
+"Pickles.Ingredients.Vinegar.Amount.metric" = "80 mL";
 
 /* Pickles Ingredients Vinegar Amount (VoiceOver) */
-"Pickles.Ingredients.Vinegar.AccessibilityAmount" = "hai phần ba cups";
+"Pickles.Ingredients.Vinegar.AccessibilityAmount.us" = "hai phần ba cốc";
+"Pickles.Ingredients.Vinegar.AccessibilityAmount.metric" = "80 mi li lít";
 
 /* Pickles Ingredients Water Amount */
-"Pickles.Ingredients.Water.Amount" = "½ cup, warm";
+"Pickles.Ingredients.Water.Amount.us" = "½ cup nước ấm";
+"Pickles.Ingredients.Water.Amount.metric" = "120 mL nước ấm";
 
 /* Pickles Ingredients Water Amount (VoiceOver) */
 "Pickles.Ingredients.Water.AccessibilityAmount" = "phân nữa cup, nước ấm";
+"Pickles.Ingredients.Water.AccessibilityAmount.us" = "phân nữa cốc nước ấm";
+"Pickles.Ingredients.Water.AccessibilityAmount.metric" = "120 mi li lít nước ấm";
 
 /* Pickles Instructions Header */
 "Pickles.Instructions.Header" = "Cách Làm";
@@ -1644,10 +1657,13 @@
 "Pickles.Instructions.Step.1" = "Bước 1";
 
 /* Pickles Instructions Step 1 Part 1 */
-"Pickles.Instructions.Step.1.Part.1" = "Cắt ##Cà Rốt## và ##Củ Cải Trắng## thành sợ nhỏ giày khoảng một phần tám inch.";
+"Pickles.Instructions.Step.1.Part.1.us" = "Cắt ##Cà Rốt## và ##Củ Cải Trắng## thành sợ nhỏ giày khoảng ⅛ in.";
+"Pickles.Instructions.Step.1.Part.1.metric" = "Cắt ##Cà Rốt## và ##Củ Cải Trắng## thành sợ nhỏ giày khoảng 3 mm.";
 
 /* Pickles Instructions Step 1 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step.1.Part.1.Accessibility" = "Cắt Cà Rốt và Củ Cải Trắng thành sợ nhỏ giày khoảng một phần tám inch.";
+"Pickles.Instructions.Step.1.Part.1.Accessibility.us" = "Cắt Cà Rốt và Củ Cải Trắng thành sợ nhỏ giày khoảng một phần tám in.";
+"Pickles.Instructions.Step.1.Part.1.Accessibility.metric" = "Cắt Cà Rốt và Củ Cải Trắng thành sợ nhỏ giày khoảng 3 milimét.";
+
 
 /* Pickles Instructions Step 1 Note 1 */
 "Pickles.Instructions.Step.1.Note.1" = "Nên nhớ lột vỏ ##Cà Rốt## và ##Củ Cải Trắng## và rửa sạch trước khi cắt nhỏ.";
