@@ -668,16 +668,20 @@
 "EggRolls.Ingredients.LeafyGreens.Amount" = "assortment";
 
 /* Egg Rolls Ingredients Pickles Amount */
-"EggRolls.Ingredients.Pickles.Amount" = "1-2 oz, drained";
+"EggRolls.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
+"EggRolls.Ingredients.Pickles.Amount.metric" = "40-45 g, drained";
 
 /* Egg Rolls Ingredients Pickles Amount (VoiceOver) */
-"EggRolls.Ingredients.Pickles.AccessibilityAmount" = "1 to 2 ounces, drained";
+"EggRolls.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces, drained";
+"EggRolls.Ingredients.Pickles.AccessibilityAmount.metric" = "40 to 45 grams, drained";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount */
-"EggRolls.Ingredients.MixedFishSauce.Amount" = "½ cup";
+"EggRolls.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"EggRolls.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount" = "half a cup";
+"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
+"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Egg Rolls How To Header */
 "EggRolls.HowTo.Header" = "How To";
