@@ -501,52 +501,64 @@
 "Vermicelli.Ingredients.Header" = "Nguyên Liệu";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount */
-"Vermicelli.Ingredients.VermicelliNoodles.Amount" = "3 đến 4 oz";
+"Vermicelli.Ingredients.VermicelliNoodles.Amount.us" = "3-4 oz";
+"Vermicelli.Ingredients.VermicelliNoodles.Amount.metric" = "80-100 g";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount (VoiceOver) */
-"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount" = "3 đến 4 ounces";
+"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount.us" = "3 đến 4 aoxơ";
+"Vermicelli.Ingredients.VermicelliNoodles.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
 
 /* Vermicelli Ingredients EggRolls Amount */
 "Vermicelli.Ingredients.EggRolls.Amount" = "2 cuốn";
 
 /* Vermicelli Ingredients Grilled Pork Amount */
-"Vermicelli.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
+"Vermicelli.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"Vermicelli.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
 /* Vermicelli Ingredients Grilled Pork Amount (VoiceOver) */
-"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount" = "3 đến 4 ounces";
+"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 đến 4 aoxơ";
+"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
 
 /* Vermicelli Ingredients Pickles Amount */
-"Vermicelli.Ingredients.Pickles.Amount" = "1 đến 2 oz";
+"Vermicelli.Ingredients.Pickles.Amount.us" = "1-2 oz";
+"Vermicelli.Ingredients.Pickles.Amount.metric" = "40-45 g";
 
 /* Vermicelli Ingredients Pickles Amount (VoiceOver) */
-"Vermicelli.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 oz";
+"Vermicelli.Ingredients.Pickles.AccessibilityAmount.us" = "1 đến 2 aoxơ";
+"Vermicelli.Ingredients.Pickles.AccessibilityAmount.metric" = "40 đến 45 gờ ram";
 
 /* Vermicelli Ingredients Leafy Greens Amount */
 "Vermicelli.Ingredients.LeafyGreens.Amount" = "các loại";
 
 /* Vermicelli Ingredients Cucumber Amount */
-"Vermicelli.Ingredients.Cucumber.Amount" = "nửa trái dưa leo cắt thành lát";
+"Vermicelli.Ingredients.Cucumber.Amount.us" = "½ trái dưa chuột ba tư, cắt thành lát";
+"Vermicelli.Ingredients.Cucumber.Amount.metric" = "55 g, cắt thành lát";
 
 /* Vermicelli Ingredients Cucumber Amount (VoiceOver) */
-"Vermicelli.Ingredients.Cucumber.AccessibilityAmount" = "nửa trái dưa leo cắt thành lát";
+"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.us" = "nửa trái dưa chuột ba tư cắt thành lát";
+"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.metric" = "55 gờ ram, cắt thành lát";
 
 /* Vermicelli Ingredients Bean Sprouts Amount */
 "Vermicelli.Ingredients.BeanSprouts.Amount" = "một nắm tay nhỏ";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount */
-"Vermicelli.Ingredients.MixedFishSauce.Amount" = "½ cup";
+"Vermicelli.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"Vermicelli.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount" = "½ cup";
+"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "phân nữa cốc";
+"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 mi li lít";
 
 /* Vermicelli Ingredients Scallion & Oil Garnish Amount */
-"Vermicelli.Ingredients.ScallionsOil.Amount" = "1 đến 2 muỗng canh";
+"Vermicelli.Ingredients.ScallionsOil.Amount.us" = "1-2 tbsp";
+"Vermicelli.Ingredients.ScallionsOil.Amount.metric" = "1-2 muỗng canh";
 
 /* Vermicelli Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
 "Vermicelli.Ingredients.ScallionsOil.AccessibilityAmount" = "1 đến 2 muỗng canh";
 
 /* Vermicelli Ingredients Peanut Amount */
-"Vermicelli.Ingredients.Peanut.Amount" = "2 muỗng cà phê";
+"Vermicelli.Ingredients.Peanut.Amount.us" = "2 tsp";
+"Vermicelli.Ingredients.Peanut.Amount.metric" = "2 muỗng cà phê";
 
 /* Vermicelli Ingredients Peanut Amount (VoiceOver) */
 "Vermicelli.Ingredients.Peanut.AccessibilityAmount" = "2 muỗng cà phê";
