@@ -515,7 +515,7 @@
 
 /* Vermicelli Ingredients Grilled Pork Amount (VoiceOver) */
 "Vermicelli.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 to 4 ounces";
-"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80-100 grams";
+"Vermicelli.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 to 100 grams";
 
 /* Vermicelli Ingredients Pickles Amount */
 "Vermicelli.Ingredients.Pickles.Amount.us" = "1-2 oz, drained";
@@ -904,10 +904,12 @@
 "CrepeBatter.Introduction.1.Accessibility" = "Vietnamese crepe batter is very simple but it’s an important ingredient in giving Vietnamese crepes their iconic look and crispy texture.";
 
 /* Crepe Batter Introduction 2 */
-"CrepeBatter.Introduction.2" = "This recipe yields 1 cup of batter, which makes about four 8-in ##Bánh Xèo## (Vietnamese crêpes).";
+"CrepeBatter.Introduction.2.us" = "This recipe yields 1 cup of batter, which makes about four 8-in ##Bánh Xèo## (Vietnamese crêpes).";
+"CrepeBatter.Introduction.2.metric" = "This recipe yields 240 mL of batter, which makes about four 20-cm ##Bánh Xèo## (Vietnamese crêpes).";
 
 /* Crepe Batter Introduction 2 (VoiceOver) */
-"CrepeBatter.Introduction.2.Accessibility" = "This recipe yields one cup of batter, which makes about four eight inch crepes.";
+"CrepeBatter.Introduction.2.Accessibility.us" = "This recipe yields one cup of batter, which makes about four eight inch crepes.";
+"CrepeBatter.Introduction.2.Accessibility.metric" = "This recipe yields 240 milliliters of batter, which makes about four 20 centimeter crepes.";
 
 /* Crepe Batter Ingredients Header */
 "CrepeBatter.Ingredients.Header" = "Ingredients";
@@ -1243,7 +1245,7 @@
 
 /* Egg Meatloaf Introduction 2 (VoiceOver) */
 "EggMeatloaf.Introduction.2.Accessibility.us" = "This recipe yields one 3 by 4 by 7 and a half inch loaf.";
-"EggMeatloaf.Introduction.2.Accessibility.metric" = "This recipe yields one 7 and a half by 10 by 18 and three quarter cm loaf.";
+"EggMeatloaf.Introduction.2.Accessibility.metric" = "This recipe yields one 7 and a half by 10 by 18 and three quarter centimeter loaf.";
 
 /* Egg Meatloaf Ingredients Header */
 "EggMeatloaf.Ingredients.Header" = "Ingredients";
@@ -1371,10 +1373,12 @@
 "EggMeatloaf.Instructions.Step.5.Part.2.Accessibility" = "Steam for 40 to 45 minutes on medium to high heat.";
 
 /* Egg Meatloaf Instructions Step 5 Note 1 */
-"EggMeatloaf.Instructions.Step.5.Note.1" = "I usually use a 3″×4″×7½″ non-stick loaf pan.";
+"EggMeatloaf.Instructions.Step.5.Note.1.us" = "I usually use a 3″×4″×7½″ non-stick loaf pan.";
+"EggMeatloaf.Instructions.Step.5.Note.1.metric" = "I usually use a 7½×10×18¾ cm non-stick loaf pan.";
 
 /* Egg Meatloaf Instructions Step 5 Note 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.5.Note.1.Accessibility" = "I usually use a 3 by 4 by 7 and a half inch non-stick loaf pan.";
+"EggMeatloaf.Instructions.Step.5.Note.1.Accessibility.us" = "I usually use a 3 by 4 by 7 and a half inch non-stick loaf pan.";
+"EggMeatloaf.Instructions.Step.5.Note.1.Accessibility.metric" = "I usually use a 7 and a half by 10 by 18 and three quarter centimeter non-stick loaf pan.";
 
 /* Egg Meatloaf Instructions Step 5 Note 2 */
 "EggMeatloaf.Instructions.Step.5.Note.2" = "To avoid condensation dripping down from the center of the lid, wrap the lid in a large kitchen towel so that it absorbs any condensing droplets.";
@@ -1468,7 +1472,8 @@
 "AnnattoOil.Introduction.2.metric" = "This recipe yields 60 mL.";
 
 /* Annatto Oil Introduction 2 (VoiceOver) */
-"AnnattoOil.Introduction.2.Accessibility" = "This recipe yields half a quarter cup.";
+"AnnattoOil.Introduction.2.Accessibility.us" = "This recipe yields a quarter cup.";
+"AnnattoOil.Introduction.2.Accessibility.metric" = "This recipe yields 60 milliliters.";
 
 /* Annatto Oil Ingredients Header */
 "AnnattoOil.Ingredients.Header" = "Ingredients";
@@ -1486,7 +1491,7 @@
 "AnnattoOil.Ingredients.2.metric" = "60 mL";
 
 /* Annatto Oil Ingredients 2 (VoiceOver) */
-"AnnattoOil.Ingredients.2.Accessibility.us" = "half a quarter cup";
+"AnnattoOil.Ingredients.2.Accessibility.us" = "a quarter cup";
 "AnnattoOil.Ingredients.2.Accessibility.metric" = "60 milliliters";
 
 /* Annatto Oil Instructions Header */
@@ -1599,8 +1604,8 @@
 "Pickles.Ingredients.Daikon.Amount.metric" = "225 g";
 
 /* Pickles Ingredients Daikon Amount (VoiceOVer)*/
-"Pickles.Ingredients.Carrot.AccessibilityAmount.us" = "half a pound";
-"Pickles.Ingredients.Carrot.AccessibilityAmount.metric" = "225 grams";
+"Pickles.Ingredients.Daikon.AccessibilityAmount.us" = "half a pound";
+"Pickles.Ingredients.Daikon.AccessibilityAmount.metric" = "225 grams";
 
 /* Pickles Ingredients Salt Amount */
 "Pickles.Ingredients.Salt.Amount" = "2 tsp";
@@ -1872,7 +1877,7 @@
 "MixedFishSauce.Sugar.Amount.metric" = "150 g";
 
 /* Mixed Fish Sauce Ingredients Sugar Amount (VoiceOver) */
-"MixedFishSauce.Sugar.AccessibilityAmount.us" = "three quarter cups and 2 tablespoons";
+"MixedFishSauce.Sugar.AccessibilityAmount.us" = "three quarter cups";
 "MixedFishSauce.Sugar.AccessibilityAmount.metric" = "150 grams";
 
 /* Mixed Fish Sauce Ingredients Salt Amount */
