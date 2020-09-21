@@ -913,13 +913,16 @@
 "CrepeBatter.Ingredients.Header" = "Ingredients";
 
 /* Crepe Batter Ingredients Rice Flour Amount */
-"CrepeBatter.Ingredients.RiceFlour.Amount" = "⅓ cup";
+"CrepeBatter.Ingredients.RiceFlour.Amount.us" = "⅓ cup";
+"CrepeBatter.Ingredients.RiceFlour.Amount.metric" = "45 g";
 
 /* Crepe Batter Ingredients Rice Flour Amount (VoiceOVer) */
-"CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount" = "one third cup";
+"CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount.us" = "one third cup";
+"CrepeBatter.Ingredients.RiceFlour.AccessibilityAmount.metric" = "45 grams";
 
 /* Crepe Batter Ingredients Corn Starch Amount */
-"CrepeBatter.Ingredients.CornStarch.Amount" = "2 tbsp";
+"CrepeBatter.Ingredients.CornStarch.Amount.us" = "2 tbsp";
+"CrepeBatter.Ingredients.CornStarch.Amount.metric" = "20 g";
 
 /* Crepe Batter Ingredients Turmeric Amount */
 "CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ tsp";
@@ -928,19 +931,24 @@
 "CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "1 eighth teaspoon";
 
 /* Crepe Batter Ingredients Coconut Milk Amount */
-"CrepeBatter.Ingredients.CoconutMilk.Amount" = "¼ cup";
+"CrepeBatter.Ingredients.CoconutMilk.Amount.us" = "¼ cup";
+"CrepeBatter.Ingredients.CoconutMilk.Amount.metric" = "60 mL";
 
 /* Crepe Batter Ingredients Coconut Milk Amount (VoiceOver) */
-"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount" = "one quarter cup";
+"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount.us" = "one quarter cup";
+"CrepeBatter.Ingredients.CoconutMilk.AccessibilityAmount.metric" = "60 milliliters";
 
 /* Crepe Batter Ingredients Water Amount */
-"CrepeBatter.Ingredients.Water.Amount" = "½ cup";
+"CrepeBatter.Ingredients.Water.Amount.us" = "½ cup";
+"CrepeBatter.Ingredients.Water.Amount.metric" = "120 mL";
 
 /* Crepe Batter Ingredients Water Amount (VoiceOver) */
-"CrepeBatter.Ingredients.Water.AccessibilityAmount" = "half a cup";
+"CrepeBatter.Ingredients.Water.AccessibilityAmount.us" = "half a cup";
+"CrepeBatter.Ingredients.Water.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Crepe Batter Ingredients GreenOnion Amount */
-"CrepeBatter.Ingredients.GreenOnion.Amount" = "1 stalk";
+"CrepeBatter.Ingredients.GreenOnion.Amount.us" = "1 stalk";
+"CrepeBatter.Ingredients.GreenOnion.Amount.metric" = "15 g";
 
 /* Crepe Batter Instructions Header */
 "CrepeBatter.Instructions.Header" = "Instructions";
