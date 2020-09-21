@@ -1858,39 +1858,56 @@
 
 /* Mixed Fish Sauce Introduction 2 */
 "MixedFishSauce.Introduction.2" = "Công thức này làm thành 1 và ½ cups.";
+"MixedFishSauce.Introduction.2.us" = "Công thức này làm thành 1½ cups.";
+"MixedFishSauce.Introduction.2.metric" = "Công thức này làm thành 360 mL.";
 
 /* Mixed Fish Sauce Introduction 2 (VoiceOver) */
-"MixedFishSauce.Introduction.2.Accessibility" = "Công thức này làm thành 1 và ½ cups.";
+"MixedFishSauce.Introduction.2.Accessibility.us" = "Công thức này làm thành 1 và phân nữa cốc.";
+"MixedFishSauce.Introduction.2.Accessibility.metric" = "Công thức này làm thành 360 mi li lít.";
 
 /* Mixed Fish Sauce Ingredients Header */
 "MixedFishSauce.Ingredients.Header" = "Nguyên Liệu";
 
 /* Mixed Fish Sauce Ingredients Fish Sauce Amount */
-"MixedFishSauce.FishSauce.Amount" = "5 muỗng canh";
+"MixedFishSauce.FishSauce.Amount.us" = "5 tbsp";
+"MixedFishSauce.FishSauce.Amount.metric" = "75 mL";
 
 /* Mixed Fish Sauce Ingredients Lime Amount */
-"MixedFishSauce.Lime.Amount" = "6 muỗng canh";
+"MixedFishSauce.Lime.Amount.us" = "6 tbsp";
+"MixedFishSauce.Lime.Amount.metric" = "90 mL";
 
 /* Mixed Fish Sauce Ingredients Water Amount */
-"MixedFishSauce.Water.Amount" = "200 mL";
+"MixedFishSauce.Water.Amount.us" = "¾ cups + 2 tbsp";
+"MixedFishSauce.Water.Amount.metric" = "200 mL";
+
+/* Mixed Fish Sauce Ingredients Water Amount (VoiceOver) */
+"MixedFishSauce.Water.AccessibilityAmount.us" = "ba phần tư cốc và hai muỗng canh";
+"MixedFishSauce.Water.AccessibilityAmount.metric" = "200 mi li lít";
 
 /* Mixed Fish Sauce Ingredients Garlic Amount */
-"MixedFishSauce.Garlic.Amount" = "2 đến 3 tép";
+"MixedFishSauce.Garlic.Amount" = "2-3 tép";
 
 /* Mixed Fish Sauce Ingredients Garlic Amount (VoiceOver) */
 "MixedFishSauce.Garlic.AccessibilityAmount" = "2 đến 3 tép";
 
 /* Mixed Fish Sauce Ingredients Sugar Amount */
-"MixedFishSauce.Sugar.Amount" = "150 g";
+"MixedFishSauce.Sugar.Amount.us" = "¾ cups";
+"MixedFishSauce.Sugar.Amount.metric" = "150 g";
+
+/* Mixed Fish Sauce Ingredients Sugar Amount (VoiceOver) */
+"MixedFishSauce.Sugar.AccessibilityAmount.us" = "ba phần tư cốc";
+"MixedFishSauce.Sugar.AccessibilityAmount.metric" = "150 gờ ram";
 
 /* Mixed Fish Sauce Ingredients Salt Amount */
-"MixedFishSauce.Salt.Amount" = "½ muỗng cà phê";
+"MixedFishSauce.Salt.Amount.us" = "½ tsp";
+"MixedFishSauce.Salt.Amount.metric" = "½ muỗng cà phê";
 
 /* Mixed Fish Sauce Ingredients Salt Amount (VoiceOver) */
 "MixedFishSauce.Salt.AccessibilityAmount" = "phân nửa muỗng cà phê";
 
 /* Mixed Fish Sauce Ingredients Chili Amount */
-"MixedFishSauce.Chili.Amount" = "½ muỗng cà phê";
+"MixedFishSauce.Chili.Amount.us" = "½ tsp";
+"MixedFishSauce.Chili.Amount.metric" = "½ muỗng cà phê";
 
 /* Mixed Fish Sauce Ingredients Chili Amount (VoiceOver) */
 "MixedFishSauce.Chili.AccessibilityAmount" = "phân nửa muỗng cà phê";
