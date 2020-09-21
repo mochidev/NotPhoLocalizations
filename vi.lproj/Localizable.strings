@@ -2038,6 +2038,8 @@
 
 /* Mayo Introduction 2 */
 "Mayo.Introduction.2" = "Công thức này làm 1 cup.";
+"Mayo.Introduction.2.us" = "Công thức này làm 1 cup.";
+"Mayo.Introduction.2.metric" = "Công thức này làm 240 mL.";
 
 /* Mayo Ingredients Header */
 "Mayo.Ingredients.Header" = "Nguyên Liệu";
@@ -2046,10 +2048,12 @@
 "Mayo.Ingredients.EggYolk.Amount" = "2 chồng";
 
 /* Mayo Ingredients Oil Amount */
-"Mayo.Ingredients.Oil.Amount" = "1 cup";
+"Mayo.Ingredients.Oil.Amount.us" = "1 cup";
+"Mayo.Ingredients.Oil.Amount.metric" = "240 mL";
 
 /* Mayo Ingredients Salt Amount */
-"Mayo.Ingredients.Salt.Amount" = "½ muỗng cà phê";
+"Mayo.Ingredients.Salt.Amount.us" = "½ tsp";
+"Mayo.Ingredients.Salt.Amount.metric" = "½ muỗng cà phê";
 
 /* Mayo Ingredients Salt Amount (VoiceOver) */
 "Mayo.Ingredients.Salt.AccessibilityAmount" = "phân nửa muỗng cà phê";
