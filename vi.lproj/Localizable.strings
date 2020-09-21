@@ -672,16 +672,20 @@
 "EggRolls.Ingredients.LeafyGreens.Amount" = "các loại";
 
 /* Egg Rolls Ingredients Pickles Amount */
-"EggRolls.Ingredients.Pickles.Amount" = "1 đến 2 oz";
+"EggRolls.Ingredients.Pickles.Amount.us" = "1-2 oz";
+"EggRolls.Ingredients.Pickles.Amount.metric" = "40-45 g";
 
 /* Egg Rolls Ingredients Pickles Amount (VoiceOver) */
-"EggRolls.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 ounces";
+"EggRolls.Ingredients.Pickles.AccessibilityAmount.us" = "1 đến 2 aoxơ";
+"EggRolls.Ingredients.Pickles.AccessibilityAmount.metric" = "40 đến 45 gờ ram";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount */
-"EggRolls.Ingredients.MixedFishSauce.Amount" = "½ cup";
+"EggRolls.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"EggRolls.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount" = "phân nửa cup";
+"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "phân nửa cốc";
+"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 mi li lít";
 
 /* Egg Rolls How To Header */
 "EggRolls.HowTo.Header" = "Cách Thưởng Thức";
