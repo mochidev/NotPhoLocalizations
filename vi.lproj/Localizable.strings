@@ -128,37 +128,44 @@
 "BanhMi.Ingredients.Header" = "Nguyên Liệu";
 
 /* Banh Mi Ingredients Baguette Amount */
-"BanhMi.Ingredients.Baguette.Amount" = "một khúc khoảng 10 in.";
+"BanhMi.Ingredients.Baguette.Amount.us" = "một khúc khoảng 10 in";
+"BanhMi.Ingredients.Baguette.Amount.metric" = "một khúc khoảng 25 cm";
 
 /* Banh Mi Ingredients Baguette Amount (VoiceOver) */
-"BanhMi.Ingredients.Baguette.AccessibilityAmount" = "Một khúc khoảng 10 in.";
+"BanhMi.Ingredients.Baguette.AccessibilityAmount.us" = "Một khúc khoảng 10 in.";
+"BanhMi.Ingredients.Baguette.AccessibilityAmount.metric" = "một khúc khoảng 25 xăng ti mét.";
 
 /* Banh Mi Ingredients Pickles Amount */
-"BanhMi.Ingredients.Pickles.Amount" = "1 đến 2 oz";
+"BanhMi.Ingredients.Pickles.Amount.us" = "1-2 oz";
+"BanhMi.Ingredients.Pickles.Amount.metric" = "40-45 g";
 
 /* Banh Mi Ingredients Pickles Amount (VoiceOver) */
-"BanhMi.Ingredients.Pickles.Amount" = "1 đến 2 ounces";
+"BanhMi.Ingredients.Pickles.AccessibilityAmount.us" = "1 đến 2 aoxơ";
+"BanhMi.Ingredients.Pickles.AccessibilityAmount.metric" = "40 đến 45 gờ ram";
 
 /* Banh Mi Ingredients GrilledPork Amount */
-"BanhMi.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
+"BanhMi.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"BanhMi.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
 /* Banh Mi Ingredients GrilledPork Amount (VoiceOver) */
-"BanhMi.Ingredients.GrilledPork.AccessibilityAmount" = "3 đến 4 ounces";
+"BanhMi.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 đến 4 aoxơ";
+"BanhMi.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
 
 /* Banh Mi Ingredients Mayo Amount */
-"BanhMi.Ingredients.Mayo.Amount" = "1 oz";
+"BanhMi.Ingredients.Mayo.Amount.us" = "2 tsp";
+"BanhMi.Ingredients.Mayo.Amount.metric" = "2 muỗng cà phê";
 
 /* Banh Mi Ingredients Mayo Amount (VoiceOver) */
-"BanhMi.Ingredients.Mayo.AccessibilityAmount" = "1 oz";
+"BanhMi.Ingredients.Mayo.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Banh Mi Ingredients Cucumber Amount */
-"BanhMi.Ingredients.Cucumber.Amount" = "4 đến 5 lát";
+"BanhMi.Ingredients.Cucumber.Amount" = "4-5 lát";
 
 /* Banh Mi Ingredients Cucumber Amount (VoiceOver) */
 "BanhMi.Ingredients.Cucumber.AccessibilityAmount" = "4 đến 5 lát";
 
 /* Banh Mi Ingredients Cilantro Amount */
-"BanhMi.Ingredients.Cilantro.Amount" = "2 đến 3 cọng";
+"BanhMi.Ingredients.Cilantro.Amount" = "2-3 cọng";
 
 /* Banh Mi Ingredients Cilantro Amount (VoiceOver) */
 "BanhMi.Ingredients.Cilantro.AccessibilityAmount" = "2 đến 3 cọng";
