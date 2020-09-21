@@ -746,28 +746,36 @@
 "BrokenRice.Ingredients.Header" = "Nguyên Liệu";
 
 /* Broken Rice Ingredients Rice Amount */
-"BrokenRice.Ingredients.Rice.Amount" = "½ cup, cơm chín";
+"BrokenRice.Ingredients.Rice.Amount.us" = "½ cup, cơm chín";
+"BrokenRice.Ingredients.Rice.Amount.metric" = "90 g, cơm chín";
 
 /* Broken Rice Ingredients Rice Amount (VoiceOver) */
-"BrokenRice.Ingredients.Rice.AccessibilityAmount" = "phân nữa cup, cơm chín";
+"BrokenRice.Ingredients.Rice.AccessibilityAmount.us" = "phân nữa cốc, cơm chín";
+"BrokenRice.Ingredients.Rice.AccessibilityAmount.metric" = "90 gờ ram, cơm chín";
 
 /* Broken Rice Ingredients Grilled Pork Amount */
-"BrokenRice.Ingredients.GrilledPork.Amount" = "3 đến 4 oz";
+"BrokenRice.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"BrokenRice.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
 /* Broken Rice Ingredients Grilled Pork Amount (VoiceOver) */
-"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount" = "3 đến 4 ounces";
+"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 đến 4 aoxơ";
+"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount */
-"BrokenRice.Ingredients.EggMeatloaf.Amount" = "2 đến 3 oz";
+"BrokenRice.Ingredients.EggMeatloaf.Amount.us" = "2-3 oz";
+"BrokenRice.Ingredients.EggMeatloaf.Amount.metric" = "60-80 g";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount (VoiceOver) */
-"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount" = "2 đến 3 ounces";
+"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount.us" = "2 đến 3 aoxơ";
+"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount.metric" = "60 đến 80 gờ ram";
 
 /* Broken Rice Ingredients Pickles Amount */
-"BrokenRice.Ingredients.Pickles.Amount" = "1 đến 2 oz";
+"BrokenRice.Ingredients.Pickles.Amount.us" = "1-2 oz";
+"BrokenRice.Ingredients.Pickles.Amount.metric" = "40-45 g";
 
 /* Broken Rice Ingredients Pickles Amount (VoiceOver) */
-"BrokenRice.Ingredients.Pickles.AccessibilityAmount" = "1 đến 2 ounces";
+"BrokenRice.Ingredients.Pickles.AccessibilityAmount.us" = "1 đến 2 aoxơ";
+"BrokenRice.Ingredients.Pickles.AccessibilityAmount.metric" = "40 đến 45 gờ ram";
 
 /* Broken Rice Ingredients Cucumber Amount */
 "BrokenRice.Ingredients.Cucumber.Amount" = "3 lát";
@@ -776,16 +784,19 @@
 "BrokenRice.Ingredients.Tomato.Amount" = "2 lát";
 
 /* Broken Rice Ingredients Scallion & Oil Garnish Amount */
-"BrokenRice.Ingredients.ScallionsOil.Amount" = "1 đến 2 muỗng canh";
+"BrokenRice.Ingredients.ScallionsOil.Amount.us" = "1-2 tbsp";
+"BrokenRice.Ingredients.ScallionsOil.Amount.metric" = "1-2 muỗng canh";
 
 /* Broken Rice Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
 "BrokenRice.Ingredients.ScallionsOil.AccessibilityAmount" = "1 đến 2 muỗng canh";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount */
-"BrokenRice.Ingredients.MixedFishSauce.Amount" = "½ cup";
+"BrokenRice.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"BrokenRice.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount" = "phân nữa cup";
+"BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "phân nữa cốc";
+"BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 mi li lít";
 
 /* Broken Rice Instructions Header */
 "Broken.Rice.Instructions.Header" = "Cách Làm";
