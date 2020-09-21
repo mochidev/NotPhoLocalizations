@@ -1479,25 +1479,31 @@
 "AnnattoOil.Introduction.1.Accessibility" = "Dầu Hạt Điều la làm từ dầu và Hạt Điều. Hạt Annatto không có mùi vị gì nhưng khi dùng có thể cho màu sắc cho món ăn.";
 
 /* Annatto Oil Introduction 2 */
-"AnnattoOil.Introduction.2" = "Công thức này làm khoảng ¼ cup.";
+"AnnattoOil.Introduction.2.us" = "Công thức này làm khoảng ¼ cup.";
+"AnnattoOil.Introduction.2.metric" = "This recipe yields 60 mL.";
 
 /* Annatto Oil Introduction 2 (VoiceOver) */
-"AnnattoOil.Introduction.2.Accessibility" = "Công thức này làm khoảng một phần tư cup.";
+"AnnattoOil.Introduction.2.Accessibility.us" = "Công thức này làm khoảng một phần tư cốc.";
+"AnnattoOil.Introduction.2.Accessibility.metric" = "Công thức này làm khoảng 60 mi li lít.";
 
 /* Annatto Oil Ingredients Header */
 "AnnattoOil.Ingredients.Header" = "Nguyên Liệu";
 
 /* Annatto Oil Ingredients 1 */
-"AnnattoOil.Ingredients.1" = "1 ½ muỗng canh";
+"AnnattoOil.Ingredients.1.us" = "1½ tbsp";
+"AnnattoOil.Ingredients.1.metric" = "15 g";
 
 /* Annatto Oil Ingredients 1 (VoiceOver) */
-"AnnattoOil.Ingredients.1.Accessibility" = "một và một phần hai muốn canh";
+"AnnattoOil.Ingredients.1.Accessibility.us" = "một và một phần hai muốn canh";
+"AnnattoOil.Ingredients.1.Accessibility.metric" = "15 gờ ram";
 
 /* Annatto Oil Ingredients 2 */
-"AnnattoOil.Ingredients.2" = "¼ cup";
+"AnnattoOil.Ingredients.2.us" = "¼ cup";
+"AnnattoOil.Ingredients.2.metric" = "60 mL";
 
 /* Annatto Oil Ingredients 2 (VoiceOver) */
-"AnnattoOil.Ingredients.2.Accessibility" = "một phần tư cup";
+"AnnattoOil.Ingredients.2.Accessibility.us" = "một phần tư cốc";
+"AnnattoOil.Ingredients.2.Accessibility.metric" = "60 mi li lít";
 
 /* Annatto Oil Instructions Header */
 "AnnattoOil.Instructions.Header" = "Cách Làm";
