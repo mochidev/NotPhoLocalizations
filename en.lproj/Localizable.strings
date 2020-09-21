@@ -741,28 +741,36 @@
 "BrokenRice.Ingredients.Header" = "Ingredients";
 
 /* Broken Rice Ingredients Rice Amount */
-"BrokenRice.Ingredients.Rice.Amount" = "½ cup, cooked";
+"BrokenRice.Ingredients.Rice.Amount.us" = "½ cup, cooked";
+"BrokenRice.Ingredients.Rice.Amount.metric" = "90 g, cooked";
 
 /* Broken Rice Ingredients Rice Amount (VoiceOver) */
-"BrokenRice.Ingredients.Rice.AccessibilityAmount" = "½ cup, cooked";
+"BrokenRice.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
+"BrokenRice.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
 
 /* Broken Rice Ingredients Grilled Pork Amount */
-"BrokenRice.Ingredients.GrilledPork.Amount" = "3-4 oz";
+"BrokenRice.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"BrokenRice.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
 /* Broken Rice Ingredients Grilled Pork Amount (VoiceOver) */
-"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount" = "3 to 4 ounces";
+"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 to 4 ounces";
+"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 to 100 grams";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount */
-"BrokenRice.Ingredients.EggMeatloaf.Amount" = "2-3 oz";
+"BrokenRice.Ingredients.EggMeatloaf.Amount.us" = "2-3 oz";
+"BrokenRice.Ingredients.EggMeatloaf.Amount.metric" = "60-80 g";
 
 /* Broken Rice Ingredients Egg Meatloaf Amount (VoiceOver) */
-"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount" = "2 to 3 ounces";
+"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount.us" = "2 to 3 ounces";
+"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount.metric" = "60 to 80 grams";
 
 /* Broken Rice Ingredients Pickles Amount */
-"BrokenRice.Ingredients.Pickles.Amount" = "1-2 oz";
+"BrokenRice.Ingredients.Pickles.Amount.us" = "1-2 oz";
+"BrokenRice.Ingredients.Pickles.Amount.metric" = "40-45 g";
 
 /* Broken Rice Ingredients Pickles Amount (VoiceOver) */
-"BrokenRice.Ingredients.Pickles.AccessibilityAmount" = "1 to 2 ounces";
+"BrokenRice.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces";
+"BrokenRice.Ingredients.Pickles.AccessibilityAmount.metric" = "40 to 45 grams";
 
 /* Broken Rice Ingredients Cucumber Amount */
 "BrokenRice.Ingredients.Cucumber.Amount" = "3 slices";
@@ -777,10 +785,12 @@
 "BrokenRice.Ingredients.ScallionsOil.AccessibilityAmount" = "1 to 2 tablespoons";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount */
-"BrokenRice.Ingredients.MixedFishSauce.Amount" = "½ cup";
+"BrokenRice.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"BrokenRice.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount" = "half a cup";
+"BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
+"BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Broken Rice Instructions Header */
 "Broken.Rice.Instructions.Header" = "Instructions";
