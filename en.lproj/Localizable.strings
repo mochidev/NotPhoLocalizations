@@ -1479,8 +1479,8 @@
 "AnnattoOil.Ingredients.Header" = "Ingredients";
 
 /* Annatto Oil Ingredients 1 */
-"AnnattoOil.Ingredients.1.us" = "1 ½ tbsp";
-"AnnattoOil.Ingredients.1.metric" = "15 grams";
+"AnnattoOil.Ingredients.1.us" = "1½ tbsp";
+"AnnattoOil.Ingredients.1.metric" = "15 g";
 
 /* Annatto Oil Ingredients 1 (VoiceOver) */
 "AnnattoOil.Ingredients.1.Accessibility.us" = "1 and a half tablespoons";
