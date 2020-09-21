@@ -1644,10 +1644,12 @@
 "Pickles.Instructions.Step.1" = "Step 1";
 
 /* Pickles Instructions Step 1 Part 1 */
-"Pickles.Instructions.Step.1.Part.1" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into ⅛″-thick strips.";
+"Pickles.Instructions.Step.1.Part.1.us" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into ⅛″-thick strips.";
+"Pickles.Instructions.Step.1.Part.1.metric" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into 3 mm-thick strips.";
 
 /* Pickles Instructions Step 1 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step.1.Part.1.Accessibility" = "Julienne the carrot and daikon into one eigth inch thick strips.";
+"Pickles.Instructions.Step.1.Part.1.Accessibility.us" = "Julienne the carrot and daikon into one eigth inch thick strips.";
+"Pickles.Instructions.Step.1.Part.1.Accessibility.metric" = "Julienne the carrot and daikon into 3 millimeter thick strips.";
 
 /* Pickles Instructions Step 1 Note 1 */
 "Pickles.Instructions.Step.1.Note.1" = "Be sure to peel the skins off the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon), and wash thoroughly before cutting them.";
