@@ -1771,7 +1771,8 @@
 "ScallionOil.Ingredients.Header" = "Ingredients";
 
 /* Scallion and Oil Garnish Ingredients Green Onion Amount */
-"ScallionOil.Ingredients.GreenOnion.Amount" = "1 stalk";
+"ScallionOil.Ingredients.GreenOnion.Amount.us" = "1 stalk";
+"ScallionOil.Ingredients.GreenOnion.Amount.metric" = "15 g";
 
 /* Scallion and Oil Garnish Ingredients Oil Amount */
 "ScallionOil.Ingredients.Oil.Amount" = "1-2 tbsp";
