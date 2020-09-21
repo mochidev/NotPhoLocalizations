@@ -1580,22 +1580,27 @@
 "Pickles.Introduction.1.Accessibility" = "Pickled carrot and daikon, literrally translated as “sour things” from Vietnamese, is a sweet and tangy garnish.";
 
 /* Pickles Introduction 2 */
-"Pickles.Introduction.2" = "This recipe yields about 1 pound.";
+"Pickles.Introduction.2.us" = "This recipe yields about 1 pound.";
+"Pickles.Introduction.2.metric" = "This recipe yields about 450 g.";
 
 /* Pickles Ingredients Header */
 "Pickles.Ingredients.Header" = "Ingredients";
 
 /* Pickles Ingredients Carrot Amount */
-"Pickles.Ingredients.Carrot.Amount" = "½ lb";
+"Pickles.Ingredients.Carrot.Amount.us" = "½ lb";
+"Pickles.Ingredients.Carrot.Amount.metric" = "225 g";
 
 /* Pickles Ingredients Carrot Amount (VoiceOVer)*/
-"Pickles.Ingredients.Carrot.AccessibilityAmount" = "half a pound";
+"Pickles.Ingredients.Carrot.AccessibilityAmount.us" = "half a pound";
+"Pickles.Ingredients.Carrot.AccessibilityAmount.metric" = "225 grams";
 
 /* Pickles Ingredients Daikon Amount */
-"Pickles.Ingredients.Daikon.Amount" = "½ lb";
+"Pickles.Ingredients.Daikon.Amount.us" = "½ lb";
+"Pickles.Ingredients.Daikon.Amount.metric" = "225 g";
 
 /* Pickles Ingredients Daikon Amount (VoiceOVer)*/
-"Pickles.Ingredients.Daikon.AccessibilityAmount" = "half a pound";
+"Pickles.Ingredients.Carrot.AccessibilityAmount.us" = "half a pound";
+"Pickles.Ingredients.Carrot.AccessibilityAmount.metric" = "225 grams";
 
 /* Pickles Ingredients Salt Amount */
 "Pickles.Ingredients.Salt.Amount" = "2 tsp";
@@ -1604,22 +1609,28 @@
 "Pickles.Ingredients.Salt.AccessibilityAmount" = "2 teaspoons";
 
 /* Pickles Ingredients Sugar Amount */
-"Pickles.Ingredients.Sugar.Amount" = "¼ cup";
+"Pickles.Ingredients.Sugar.Amount.us" = "¼ cup";
+"Pickles.Ingredients.Sugar.Amount.metric" = "4 tbsp";
 
 /* Pickles Ingredients Sugar Amount (VoiceOver) */
-"Pickles.Ingredients.Sugar.AccessibilityAmount" = "a quarter cup";
+"Pickles.Ingredients.Sugar.AccessibilityAmount.us" = "a quarter cup";
+"Pickles.Ingredients.Sugar.AccessibilityAmount.metric" = "4 tablespoons";
 
 /* Pickles Ingredients Vinegar Amount */
-"Pickles.Ingredients.Vinegar.Amount" = "⅔ cups";
+"Pickles.Ingredients.Vinegar.Amount.us" = "⅔ cups";
+"Pickles.Ingredients.Vinegar.Amount.metric" = "80 mL";
 
 /* Pickles Ingredients Vinegar Amount (VoiceOver) */
-"Pickles.Ingredients.Vinegar.AccessibilityAmount" = "two third cups";
+"Pickles.Ingredients.Vinegar.AccessibilityAmount.us" = "two third cups";
+"Pickles.Ingredients.Vinegar.AccessibilityAmount.metric" = "80 milliliters";
 
 /* Pickles Ingredients Water Amount */
-"Pickles.Ingredients.Water.Amount" = "½ cup, warm";
+"Pickles.Ingredients.Water.Amount.us" = "½ cup, warm";
+"Pickles.Ingredients.Water.Amount.metric" = "120 mL, warm";
 
 /* Pickles Ingredients Water Amount (VoiceOver) */
-"Pickles.Ingredients.Water.AccessibilityAmount" = "half a cup, warm";
+"Pickles.Ingredients.Water.AccessibilityAmount.us" = "half a cup, warm";
+"Pickles.Ingredients.Water.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Pickles Instructions Header */
 "Pickles.Instructions.Header" = "Instructions";
