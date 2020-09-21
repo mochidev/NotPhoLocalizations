@@ -1835,22 +1835,31 @@
 "MixedFishSauce.Introduction.1.Accessibility" = "Mixed fish sauce refers to a sweet, tangy, and savory dipping sauce that is paired with many Vietnamese dishes. Mixed fish sauce can add plenty of flavor to even a “boring” dish. As my husband always says, most Vietnamese dishes are simply a mixed fish sauce delivery mechanism — suffice to say, he has become a huge fan of mixed fish sauce since I introduced it to him.";
 
 /* Mixed Fish Sauce Introduction 2 */
-"MixedFishSauce.Introduction.2" = "This recipe yields 1 ½ cups.";
+"MixedFishSauce.Introduction.2.us" = "This recipe yields 1½ cups.";
+"MixedFishSauce.Introduction.2.metric" = "This recipe yields 360 mL.";
 
 /* Mixed Fish Sauce Introduction 2 (VoiceOver) */
-"MixedFishSauce.Introduction.2.Accessibility" = "This recipe yields one and a half cups.";
+"MixedFishSauce.Introduction.2.Accessibility.us" = "This recipe yields one and a half cups.";
+"MixedFishSauce.Introduction.2.Accessibility.metric" = "This recipe yields 360 milliliters.";
 
 /* Mixed Fish Sauce Ingredients Header */
 "MixedFishSauce.Ingredients.Header" = "Ingredients";
 
 /* Mixed Fish Sauce Ingredients Fish Sauce Amount */
-"MixedFishSauce.FishSauce.Amount" = "5 tbsp";
+"MixedFishSauce.FishSauce.Amount.us" = "5 tbsp";
+"MixedFishSauce.FishSauce.Amount.metric" = "75 mL";
 
 /* Mixed Fish Sauce Ingredients Lime Amount */
-"MixedFishSauce.Lime.Amount" = "6 tbsp, juiced";
+"MixedFishSauce.Lime.Amount.us" = "6 tbsp, juiced";
+"MixedFishSauce.Lime.Amount.metric" = "90 mL, juiced";
 
 /* Mixed Fish Sauce Ingredients Water Amount */
-"MixedFishSauce.Water.Amount" = "200 mL";
+"MixedFishSauce.Water.Amount.us" = "¾ cups + 2 tbsp";
+"MixedFishSauce.Water.Amount.metric" = "200 mL";
+
+/* Mixed Fish Sauce Ingredients Water Amount (VoiceOver) */
+"MixedFishSauce.Water.AccessibilityAmount.us" = "three quarter cups and 2 tablespoons";
+"MixedFishSauce.Water.AccessibilityAmount.metric" = "200 milliliters";
 
 /* Mixed Fish Sauce Ingredients Garlic Amount */
 "MixedFishSauce.Garlic.Amount" = "2-3 cloves";
@@ -1859,7 +1868,12 @@
 "MixedFishSauce.Garlic.AccessibilityAmount" = "2 to 3 cloves, minced";
 
 /* Mixed Fish Sauce Ingredients Sugar Amount */
-"MixedFishSauce.Sugar.Amount" = "150 g";
+"MixedFishSauce.Sugar.Amount.us" = "¾ cups";
+"MixedFishSauce.Sugar.Amount.metric" = "150 g";
+
+/* Mixed Fish Sauce Ingredients Sugar Amount (VoiceOver) */
+"MixedFishSauce.Sugar.AccessibilityAmount.us" = "three quarter cups and 2 tablespoons";
+"MixedFishSauce.Sugar.AccessibilityAmount.metric" = "150 grams";
 
 /* Mixed Fish Sauce Ingredients Salt Amount */
 "MixedFishSauce.Salt.Amount" = "½ tsp";
