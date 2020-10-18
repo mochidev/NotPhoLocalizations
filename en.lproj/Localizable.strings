@@ -843,6 +843,9 @@
 /* Broken Rice Tips 3 */
 "Broken.Rice.Tips.3" = "You can find Jasmine broken rice at most Asian markets.";
 
+/* Broken Rice Tips 4 */
+"Broken.Rice.Tips.4" = "If you don't have broken rice, you can use regular Jasmine rice.";
+
 /* Broken Rice How To Header */
 "Broken.Rice.HowTo.Header" = "How To";
 
