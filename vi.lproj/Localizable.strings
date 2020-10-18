@@ -2239,10 +2239,10 @@
 "GrilledPork.Instructions.Step.2" = "Bước 2";
 
 /* Grilled Pork Instructions Step 2 Part 1 */
-"GrilledPork.Instructions.Step.2.Part.1" = "Bầm nhỏ ##Tỏi##, ##Xả##, và ##Hẹ Tây##.";
+"GrilledPork.Instructions.Step.2.Part.1" = "Bầm nhỏ ##Tỏi##, ##Sả##, và ##Hẹ Tây##.";
 
 /* Grilled Pork Instructions Step 2 Part 1 (VoiceOver) */
-"GrilledPork.Instructions.Step.2.Part.1.Accessibility" = "Bầm nhỏ Tỏi, Xả, và Hẹ Tây.";
+"GrilledPork.Instructions.Step.2.Part.1.Accessibility" = "Bầm nhỏ Tỏi, Sả, và Hẹ Tây.";
 
 /* Grilled Pork Instructions Step 2 Part 2 */
 "GrilledPork.Instructions.Step.2.Part.2" = "Sau khi bấm xong cho vào tô.";
@@ -2550,7 +2550,7 @@
 // MARK: Xa (Lemongrass) Page
 
 /* Lemongrass Page Title - Should Be in Vietnamese */
-"Lemongrass.Page.Title" = "Xả";
+"Lemongrass.Page.Title" = "Sả";
 
 /* Lemongrass Page Subtitle - This is the translation */
 "Lemongrass.Page.Subtitle" = "Lemongrass";
@@ -2562,10 +2562,10 @@
 "Lemongrass.Main.Image" = "Thông tin.";
 
 /* Lemongrass Introduction */
-"Lemongrass.Introduction" = "##Xả## làm một loại cỏ có mùi vị của chanh, gần, và bạc hà. ##Xả## có thể dùng để ướp thịt, chiên xào, và nấu nước súp.";
+"Lemongrass.Introduction" = "##Sả## làm một loại cỏ có mùi vị của chanh, gần, và bạc hà. ##Sả## có thể dùng để ướp thịt, chiên xào, và nấu nước súp.";
 
 /* Lemongrass Introduction (VoiceOver) */
-"Lemongrass.Introduction.Accessibility" = "Xả làm một loại cỏ có mùi vị của chanh, gần, và bạc hà. Xả có thể dùng để ướp thịt, chiên xào, và nấu nước súp.";
+"Lemongrass.Introduction.Accessibility" = "Sả làm một loại cỏ có mùi vị của chanh, gần, và bạc hà. Sả có thể dùng để ướp thịt, chiên xào, và nấu nước súp.";
 
 /* Lemongrass Used In Header */
 "Lemongrass.UsedIn.Header" = "Dùng Trong";

@@ -2213,7 +2213,7 @@
 "GrilledPork.Instructions.Step.2" = "Step 2";
 
 /* Grilled Pork Instructions Step 2 Part 1 */
-"GrilledPork.Instructions.Step.2.Part.1" = "Mince the ##Tỏi## (garlic), ##Xả## (lemongrass), and ##Hẹ Tây## (shallot).";
+"GrilledPork.Instructions.Step.2.Part.1" = "Mince the ##Tỏi## (garlic), ##Sả## (lemongrass), and ##Hẹ Tây## (shallot).";
 
 /* Grilled Pork Instructions Step 2 Part 1 (VoiceOver) */
 "GrilledPork.Instructions.Step.2.Part.1.Accessibility" = "Mince the garlic, lemon-grass, and shallot.";
@@ -2524,7 +2524,7 @@
 // MARK: Xa (Lemongrass) Page
 
 /* Lemongrass Page Title - Should Be in Vietnamese */
-"Lemongrass.Page.Title" = "Xả";
+"Lemongrass.Page.Title" = "Sả";
 
 /* Lemongrass Page Subtitle - This is the translation */
 "Lemongrass.Page.Subtitle" = "Lemongrass";
@@ -2536,7 +2536,7 @@
 "Lemongrass.Main.Image" = "Info";
 
 /* Lemongrass Introduction */
-"Lemongrass.Introduction" = "##Xả## (lemongrass) is a type of grass that has a lemon-ginger-mint flavor and it is a very common ingredient in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even as a component to the broth in noodle soup.";
+"Lemongrass.Introduction" = "##Sả## (lemongrass) is a type of grass that has a lemon-ginger-mint flavor and it is a very common ingredient in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even as a component to the broth in noodle soup.";
 
 /* Lemongrass Introduction (VoiceOver) */
 "Lemongrass.Introduction.Accessibility" = "Lemon-grass is a type of grass that has a lemon-ginger-mint flavor and it is a very common ingredient in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even as a component to the broth in noodle soup.";
