@@ -1022,10 +1022,10 @@
 "EggRollsComponent.Introduction.1.Accessibility" = "Egg rolls are a popular crispy and savory component in several Vietnamese dishes. They can be enjoyed as an appetizer or used as a component in grilled pork and egg roll vermicelli noodles. Vietnamese egg rolls are distinct from other Asian egg rolls in that they typically have a light and thin wrapping, and rather than cabbage as a filling, often contain meat.";
 
 /* Egg Rolls Component Introduction 2 */
-"EggRollsComponent.Introduction.2" = "This recipe yields at least 20 rolls.";
+"EggRollsComponent.Introduction.2" = "This recipe yields about 15-20 rolls.";
 
 /* Egg Rolls Component Introduction 2 (VoiceOver) */
-"EggRollsComponent.Introduction.2.Accessibility" = "This recipe yields at least 20 rolls.";
+"EggRollsComponent.Introduction.2.Accessibility" = "This recipe yields about 15 to 20 rolls.";
 
 /* Egg Rolls Component Ingredients Header */
 "EggRollsComponent.Ingredients.Header" = "Ingredients";
@@ -1047,31 +1047,31 @@
 "EggRollsComponent.Shrimp.AccessibilityAmount.metric" = "225 grams";
 
 /* Egg Rolls Component Onion Amount */
-"EggRollsComponent.Onion.Amount.us" = "½ cup";
-"EggRollsComponent.Onion.Amount.metric" = "190 g";
+"EggRollsComponent.Onion.Amount.us" = "¼ cup";
+"EggRollsComponent.Onion.Amount.metric" = "40 g";
 
 /* Egg Rolls Component Onion Amount (VoiceOver) */
-"EggRollsComponent.Onion.AccessibilityAmount.us" = "half a cup";
-"EggRollsComponent.Onion.AccessibilityAmount.metric" = "190 grams";
+"EggRollsComponent.Onion.AccessibilityAmount.us" = "a quarter cup";
+"EggRollsComponent.Onion.AccessibilityAmount.metric" = "40 grams";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount.us" = "¾ cups, soaked";
-"EggRollsComponent.DriedMushroom.Amount.metric" = "80-100 g, soaked";
+"EggRollsComponent.DriedMushroom.Amount.us" = "⅓ cup, soaked";
+"EggRollsComponent.DriedMushroom.Amount.metric" = "45 g, soaked";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount.us" = "three quarter cups, soaked";
-"EggRollsComponent.DriedMushroom.AccessibilityAmount.metric" = "80 to 100 grams, soaked";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount.us" = "a third cup, soaked";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount.metric" = "45 grams, soaked";
 
 /* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount.us" = "¾ cups, soaked";
-"EggRollsComponent.BeanThreads.Amount.metric" = "80-100 g, soaked";
+"EggRollsComponent.BeanThreads.Amount.us" = "¼ cup, soaked";
+"EggRollsComponent.BeanThreads.Amount.metric" = "30 g, soaked";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
-"EggRollsComponent.BeanThreads.AccessibilityAmount.us" = "three quarter cups, soaked";
-"EggRollsComponent.BeanThreads.AccessibilityAmount.metric" = "80 to 100 grams, soaked";
+"EggRollsComponent.BeanThreads.AccessibilityAmount.us" = "a quarter cup, soaked";
+"EggRollsComponent.BeanThreads.AccessibilityAmount.metric" = "30 grams, soaked";
 
 /* Egg Rolls Component Fish Sauce Amount */
-"EggRollsComponent.FishSauce.Amount" = "2 tbsp";
+"EggRollsComponent.FishSauce.Amount" = "1 tbsp";
 
 /* Egg Rolls Component Chicken Bouillon Amount */
 "EggRollsComponent.ChickenBouillon.Amount" = "1 tsp";
@@ -1080,10 +1080,10 @@
 "EggRollsComponent.ChickenBouillon.AccessibilityAmount" = "one teaspoon";
 
 /* Egg Rolls Component Black Pepper Amount */
-"EggRollsComponent.BlackPepper.Amount" = "1 tsp";
+"EggRollsComponent.BlackPepper.Amount" = "¼ tsp";
 
 /* Egg Rolls Component Black Pepper Amount (VoiceOver) */
-"EggRollsComponent.BlackPepper.AccessibilityAmount" = "one teaspoon";
+"EggRollsComponent.BlackPepper.AccessibilityAmount" = "a quarter teaspoon";
 
 /* Egg Rolls Component Egg Roll Wrappers Amount */
 "EggRollsComponent.EggRollWrappers.Amount" = "1 pack";
@@ -1152,10 +1152,10 @@
 "EggRollsComponent.Instructions.Step.4.Part.1.Accessibility" = "Place a sheet of egg roll wrapper on a clean cutting board or counter surface with one of the corners pointing at you.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 */
-"EggRollsComponent.Instructions.Step.4.Part.2" = "Place about 2-3 tbsp of filling slightly below the center point of the wrapper.";
+"EggRollsComponent.Instructions.Step.4.Part.2" = "Place about 1-2 tbsp of filling slightly below the center point of the wrapper.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Place about 2 to 3 tablespoons of filling slightly below the center point of the wrapper.";
+"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Place about 1 to 2 tablespoons of filling slightly below the center point of the wrapper.";
 
 /* Egg Rolls Component Instructions Step 4 Part 3 */
 "EggRollsComponent.Instructions.Step.4.Part.3" = "Fold the bottom corner up and away from you.";
@@ -1187,12 +1187,12 @@
 "EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.metric" = "Fry the egg rolls in small batches in 163ºC oil.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 */
-"EggRollsComponent.Instructions.Step.5.Part.2.us" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
-"EggRollsComponent.Instructions.Step.5.Part.2.metric" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 63ºC (timing is anywhere between 8-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.us" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 5-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.metric" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 63ºC (timing is anywhere between 5-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.us" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 8 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.metric" = "Fry until the egg rolls are golden brown and the internal temperature is at least 63ºC (timing is anywhere between 8 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.us" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 5 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.metric" = "Fry until the egg rolls are golden brown and the internal temperature is at least 63ºC (timing is anywhere between 5 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
 
 /* Egg Rolls Component Instructions Step 5 Note 1 */
 "EggRollsComponent.Instructions.Step.5.Note.1" = "You can fry them all at once, or fry what you need and freeze the rest raw.";

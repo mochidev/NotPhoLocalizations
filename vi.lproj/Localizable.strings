@@ -1029,10 +1029,10 @@
 "EggRollsComponent.Introduction.1.Accessibility" = "Chả Giò là một món khai vị thơm ngon của Việt Nam. Chả Giò có thể kèm với bún để ăn.";
 
 /* Egg Rolls Component Introduction 2 */
-"EggRollsComponent.Introduction.2" = "Công thức này làm ít nhất 20 cuốn.";
+"EggRollsComponent.Introduction.2" = "Công thức này làm từ 15 đến 20 cuốn.";
 
 /* Egg Rolls Component Introduction 2 (VoiceOver) */
-"EggRollsComponent.Introduction.2.Accessibility" = "Công thức này làm ít nhất 20 cuốn.";
+"EggRollsComponent.Introduction.2.Accessibility" = "Công thức này làm từ 15 đến 20 cuốn.";
 
 /* Egg Rolls Component Ingredients Header */
 "EggRollsComponent.Ingredients.Header" = "Nguyên Liệu";
@@ -1054,32 +1054,32 @@
 "EggRollsComponent.Shrimp.AccessibilityAmount.metric" = "225 gờ ram";
 
 /* Egg Rolls Component Onion Amount */
-"EggRollsComponent.Onion.Amount.us" = "½ cup";
-"EggRollsComponent.Onion.Amount.metric" = "190 g";
+"EggRollsComponent.Onion.Amount.us" = "¼ cup";
+"EggRollsComponent.Onion.Amount.metric" = "40 g";
 
 /* Egg Rolls Component Onion Amount (VoiceOver) */
-"EggRollsComponent.Onion.AccessibilityAmount.us" = "phân nữa cốc";
-"EggRollsComponent.Onion.AccessibilityAmount.metric" = "190 gờ ram";
+"EggRollsComponent.Onion.AccessibilityAmount.us" = "một phần tư cốc";
+"EggRollsComponent.Onion.AccessibilityAmount.metric" = "40 gờ ram";
 
 /* Egg Rolls Component Dried Mushroom Amount */
-"EggRollsComponent.DriedMushroom.Amount.us" = "¾ cups";
-"EggRollsComponent.DriedMushroom.Amount.metric" = "80-100 g";
+"EggRollsComponent.DriedMushroom.Amount.us" = "⅓ cup";
+"EggRollsComponent.DriedMushroom.Amount.metric" = "45 g";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount.us" = "ba phần tư cốc";
-"EggRollsComponent.DriedMushroom.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount.us" = "một phần ba cốc";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount.metric" = "45 gờ ram";
 
 /* Egg Rolls Component Bean Threads Amount */
-"EggRollsComponent.BeanThreads.Amount.us" = "¾ cups";
-"EggRollsComponent.BeanThreads.Amount.metric" = "80-100 g";
+"EggRollsComponent.BeanThreads.Amount.us" = "¼ cup";
+"EggRollsComponent.BeanThreads.Amount.metric" = "3 g";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
-"EggRollsComponent.BeanThreads.AccessibilityAmount.us" = "ba phần tư cốc";
-"EggRollsComponent.BeanThreads.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
+"EggRollsComponent.BeanThreads.AccessibilityAmount.us" = "một phần tư cốc";
+"EggRollsComponent.BeanThreads.AccessibilityAmount.metric" = "30 gờ ram";
 
 /* Egg Rolls Component Fish Sauce Amount */
-"EggRollsComponent.FishSauce.Amount.us" = "2 tbsp";
-"EggRollsComponent.FishSauce.Amount.metric" = "2 muỗng canh";
+"EggRollsComponent.FishSauce.Amount.us" = "1 tbsp";
+"EggRollsComponent.FishSauce.Amount.metric" = "1 muỗng canh";
 
 /* Egg Rolls Component Chicken Bouillon Amount */
 "EggRollsComponent.ChickenBouillon.Amount.us" = "1 tsp";
@@ -1089,11 +1089,11 @@
 "EggRollsComponent.ChickenBouillon.AccessibilityAmount" = "một muỗng cà phê";
 
 /* Egg Rolls Component Black Pepper Amount */
-"EggRollsComponent.BlackPepper.Amount.us" = "1 tsp";
-"EggRollsComponent.BlackPepper.Amount.metric" = "1 muỗng cà phê";
+"EggRollsComponent.BlackPepper.Amount.us" = "¼ tsp";
+"EggRollsComponent.BlackPepper.Amount.metric" = "¼ muỗng cà phê";
 
 /* Egg Rolls Component Black Pepper Amount (VoiceOver) */
-"EggRollsComponent.BlackPepper.AccessibilityAmount" = "một muỗng cà phê";
+"EggRollsComponent.BlackPepper.AccessibilityAmount" = "một phần tư muỗng cà phê";
 
 /* Egg Rolls Component Egg Roll Wrappers Amount */
 "EggRollsComponent.EggRollWrappers.Amount" = "1 gói";
@@ -1162,10 +1162,10 @@
 "EggRollsComponent.Instructions.Step.4.Part.1.Accessibility" = "Trên một cái thớt sạch, để một miếng Da Cuốn Chả Giò trên thớt và chỉ một đầu nhọn về mình.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 */
-"EggRollsComponent.Instructions.Step.4.Part.2" = "Mút 2 đến 3 muỗng canh thịt trộn sẵn và để giữa ##Da Cuốn Chả Giò##.";
+"EggRollsComponent.Instructions.Step.4.Part.2" = "Mút 1 đến 2 muỗng canh thịt trộn sẵn và để giữa ##Da Cuốn Chả Giò##.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Mút 2 đến 3 muỗng canh thịt trộn sẵn và để giữa Da Cuốn Chả Giò.";
+"EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Mút 1 đến 2 muỗng canh thịt trộn sẵn và để giữa Da Cuốn Chả Giò.";
 
 /* Egg Rolls Component Instructions Step 4 Part 3 */
 "EggRollsComponent.Instructions.Step.4.Part.3" = "Bắt đầu gói ##Chả Giò##. Sếp ##Da Cuốn Chả Giò## ở dưới lên.";
@@ -1197,12 +1197,12 @@
 "EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.metric" = "Chiên Chả Giò từ đợt trong dầu. Độ nóng của dầu khoảng 163ºC.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 */
-"EggRollsComponent.Instructions.Step.5.Part.2.us" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
-"EggRollsComponent.Instructions.Step.5.Part.2.metric" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 63ºC. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2.us" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2.metric" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 63ºC. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.us" = "Chiên đến khi Chả Giò vàng nâu và độ nóng giữa của Chả Giò là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.metric" = "Chiên đến khi Chả Giò vàng nâu và độ nóng giữa của Chả Giò là ít nhất 63ºC. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 8 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.us" = "Chiên đến khi Chả Giò vàng nâu và độ nóng giữa của Chả Giò là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.metric" = "Chiên đến khi Chả Giò vàng nâu và độ nóng giữa của Chả Giò là ít nhất 63ºC. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
 
 /* Egg Rolls Component Instructions Step 5 Note 1 */
 "EggRollsComponent.Instructions.Step.5.Note.1" = "Có thể chiên hết một lược hoặc là chiên một ít và số còn lại thì để đồng đá.";
