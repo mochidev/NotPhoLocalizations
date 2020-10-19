@@ -305,6 +305,12 @@
 "Crepe.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "1 và phân nữa cốc";
 "Crepe.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "360 mi li lít";
 
+/* Crepe Ingredients Oil Amount */
+"Crepe.Ingredients.Oil.Amount" = "4-5 muỗng canh";
+
+/* Crepe Ingredients Oil Amount (VoiceOver) */
+"Crepe.Ingredients.Oil.AccessibilityAmount" = "4 đến 5 muỗng canh";
+
 /* Crepe Instructions Header */
 "Crepe.Instructions.Header" = "Cách Làm";
 
@@ -342,10 +348,10 @@
 "Crepe.Instructions.Step.2.Image" = "Bước 2";
 
 /* Crepe Instructions Step 2 Part 1 */
-"Crepe.Instructions.Step.2.Part.1" = "Dùng chảo không dính để làm ##Bánh Xèo##. Đầu tiên là mở lửa lên, nhiệt độ trung bình đến cao và cho ##Dầu## vào trên chảo.";
+"Crepe.Instructions.Step.2.Part.1" = "Dùng chảo không dính để làm ##Bánh Xèo##. Đầu tiên là mở lửa lên, nhiệt độ trung bình đến cao và cho một ít ##Dầu## vào trên chảo.";
 
 /* Crepe Instructions Step 2 Part 1 (VoiceOver) */
-"Crepe.Instructions.Step.2.Part.1.Accessibility" = "Dùng chảo không dính để làm Bánh Xèo. Đầu tiên là mở lửa lên, nhiệt độ trung bình đến cao và cho Dầu vào trên chảo.";
+"Crepe.Instructions.Step.2.Part.1.Accessibility" = "Dùng chảo không dính để làm Bánh Xèo. Đầu tiên là mở lửa lên, nhiệt độ trung bình đến cao và cho một ít Dầu vào trên chảo.";
 
 /* Crepe Instructions Step 2 Part 2 */
 "Crepe.Instructions.Step.2.Part.2" = "Thêm ##Củ Hành## lát vào chảo và xào 10 tới 20 giây.";

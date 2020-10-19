@@ -303,6 +303,12 @@
 "Crepe.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "1 and a half cups";
 "Crepe.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "360 milliliters";
 
+/* Crepe Ingredients Oil Amount */
+"Crepe.Ingredients.Oil.Amount" = "4-5 tbsp";
+
+/* Crepe Ingredients Oil Amount (VoiceOver) */
+"Crepe.Ingredients.Oil.AccessibilityAmount" = "4 to 5 tablespoons";
+
 /* Crepe Instructions Header */
 "Crepe.Instructions.Header" = "Instructions";
 
