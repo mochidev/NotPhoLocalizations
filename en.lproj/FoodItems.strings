@@ -6,87 +6,110 @@
   Copyright © 2020 Mochi Develoment, Inc. All rights reserved.
 */
 
-/* These represent the individual item button on each page that often lead to other pages. `.Subtitle` should be the translated text, while `.AccessibilitySubtitle` will be the VoiceOver equivalent. */
+/* These represent the individual item button on each page that often lead to other pages.
+ `.Subtitle` should be the translated text for item row, however, this should be in English for Vietnamese localization.
+ `.AccessibilitySubtitle` will be the VoiceOver equivalent for main page title.
+ */
 
 // MARK: Vietnamese Food Tab
 
 /* Grilled Pork Sandwich */
 "grilledPorkBanhMi.Subtitle" = "Grilled Pork Sandwich";
+"grilledPorkBanhMi.AccessibilityPageTitle" = "Grilled Pork Sandwich";
 
 /* Vietnamese Crepes */
 "crepe.Subtitle" = "Vietnamese Crêpes";
+"crepe.AccessibilityPageTitle" = "Vietnamese Crepes";
 
 /* Grilled Pork & Egg Roll Vermicelli Noodles */
 "grilledPorkVermicelli.Subtitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
+"grilledPorkVermicelli.AccessibilityPageTitle" = "Grilled Pork and Egg Roll Vermicelli Noodles";
 
 /* Egg Rolls (Platter) */
 "eggRollPlatter.Subtitle" = "Egg Rolls";
+"eggRollPlatter.AccessibilityPageTitle" = "Egg Rolls";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf */
 "brokenRice.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
+"brokenRice.AccessibilityPageTitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 
 
 // MARK: Recipes Tab
 
 /* Crepe Batter */
-"crepeBatter.Subtitle" = "Crêpe Batter";
+"crepeBatter.Subtitle" = "Vietnamese Crêpe Batter";
+"crepeBatter.AccessibilityPageTitle" = "Vietnamese Crepe Batter";
 
 /* Egg Rolls */
 "eggRolls.Subtitle" = "Egg Rolls";
+"eggRolls.AccessibilityPageTitle" = "Egg Rolls";
 
 /* Egg Meatloaf */
 "eggMeatloaf.Subtitle" = "Egg Meatloaf";
+"eggMeatloaf.AccessibilityPageTitle" = "Egg Meatloaf";
 
 /* Annatto Oil */
 "annattoOil.Subtitle" = "Annatto Oil";
+"annattoOil.AccessibilityPageTitle" = "Annatto Oil";
 
 /* Pickled Carrot and Daikon */
 "pickles.Subtitle" = "Pickled Carrot and Daikon";
+"pickles.AccessibilityPageTitle" = "Pickled Carrot and Daikon";
 
 /* Scallion & Oil Garnish */
 "scallionsOil.Subtitle" = "Scallion & Oil Garnish";
+"scallionsOil.AccessibilitySubtitle" = "Scallion & Oil Garnish";
 
 /* Mixed Fish Sauce */
 "nuocMam.Subtitle" = "Mixed Fish Sauce";
+"nuocMam.AccessibilitySubtitle" = "Mixed Fish Sauce";
 
 /* Leafy Greens */
 "leafyGreens.Subtitle" = "Leafy Greens";
+"leafyGreens.AccessibilitySubtitle" = "Leafy Greens";
 
 /* Mayonnaise */
 "mayo.Subtitle" = "Mayonnaise";
+"mayo.AccessibilitySubtitle" = "Mayonnaise";
 
 /* Grilled Pork */
 "grilledPork.Subtitle" = "Grilled Pork";
+"grilledPork.AccessibilitySubtitle" = "Grilled Pork";
 
 
 // MARK: Ingredients Tab
 
 /* Baguette */
 "baguette.Subtitle" = "Baguette";
+"baguette.AccessibilitySubtitle" = "Baguette";
 
 /* Carrot */
 "carrot.Subtitle" = "Carrot";
+"carrot.AccessibilitySubtitle" = "Carrot";
 
 /* Broken Rice */
 "rice.Subtitle" = "Broken Rice";
+"rice.AccessibilitySubtitle" = "Broken Rice";
 
 /* Daikon */
 "daikon.Subtitle" = "Daikon";
+"daikon.AccessibilitySubtitle" = "Daikon";
 
 /* Cucumber */
 "cucumber.Subtitle" = "Cucumber";
+"cucumber.AccessibilitySubtitle" = "Cucumber";
 
 /* Fish Sauce */
 "fishSauce.Subtitle" = "Fish Sauce";
-
-/* Perilla */
-"perilla.Subtitle" = "Perilla";
+"fishSauce.AccessibilitySubtitle" = "Fish Sauce";
 
 /* Lemongrass */
 "lemongrass.Subtitle" = "Lemongrass";
-
-/* Lemongrass */
 "lemongrass.AccessibilitySubtitle" = "Lemon-grass";
+
+/* Perilla */
+"perilla.Subtitle" = "Perilla";
+"perilla.AccessibilitySubtitle" = "Perilla";
 
 
 // MARK: Entries with no dedicated page
@@ -153,9 +176,6 @@
 
 /* Black Pepper */
 "pepper.Subtitle" = "Black Pepper";
-
-/* Vietnamese Perilla */
-"perilla.Subtitle" = "Perilla";
 
 /* Pork Belly */
 "porkBelly.Subtitle" = "Pork Belly";

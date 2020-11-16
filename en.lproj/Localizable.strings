@@ -99,15 +99,6 @@
  Notes: Banh mi as a sandwhich has entered the english vocabulary, so we use it as is in the VoiceOver trnascriptions, but if your language does not have a word for this specific type of sandwhich, you should use the word for "sandwhich" in the VoiceOver trnascription instead.
  */
 
-/* Banh Mi Page Title - Should Be in Vietnamese */
-"BanhMi.Page.Title" = "Bánh Mì Thịt Nướng";
-
-/* Banh Mi Page Subtitle - This is the translation */
-"BanhMi.Page.Subtitle" = "Grilled Pork Bánh Mì";
-
-/* Banh Mi Page Title (VoiceOver) */
-"BanhMi.Page.AccessibilityTitle" = "Grilled Pork Banh Mi";
-
 /* Banh Mi Main Image (VoiceOver) */
 "BanhMi.Main.Image" = "Info";
 
@@ -230,15 +221,6 @@
 
 
 // MARK: Banh Xeo (Vietnamese Crepes) Page
-
-/* Crepe Page Title - Should Be in Vietnamese */
-"Crepe.Page.Title" = "Bánh Xèo";
-
-/* Crepe Page Subtitle - This is the translation */
-"Crepe.Page.Subtitle" = "Vietnamese Crêpes";
-
-/* Crepe Page Title (VoiceOver) */
-"Crepe.Page.AccessibilityTitle" = "Vietnamese Crepes";
 
 /* Crepe Main Image (VoiceOver) */
 "Crepe.Main.Image" = "Info";
@@ -477,15 +459,6 @@
 
 // MARK: Bun Thit Nuong Cha Gio (Grilled Pork & Egg Roll Vermicelli Noodles) Page
 
-/* Vermicelli Page Title - Should Be in Vietnamese */
-"Vermicelli.Page.Title" = "Bún Thịt Nướng Chả Giò";
-
-/* Vermicelli Page Subtitle - This is the translation */
-"Vermicelli.Page.Subtitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
-
-/* Vermicelli Page Title (VoiceOver) */
-"Vermicelli.Page.AccessibilityTitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
-
 /* Vermicelli Main Image (VoiceOver) */
 "Vermicelli.Main.Image" = "Info";
 
@@ -640,15 +613,6 @@
 
 // MARK: Cha Gio (Egg Roll Appetizer) Page
 
-/* Egg Rolls Page Title - Should Be in Vietnamese */
-"EggRolls.Page.Title" = "Chả Giò";
-
-/* Egg Rolls Page Subtitle - This is the translation */
-"EggRolls.Page.Subtitle" = "Egg Roll Appetizer";
-
-/* Egg Rolls Page Title (VoiceOver) */
-"EggRolls.Page.AccessibilityTitle" = "Egg Roll Appetizer";
-
 /* Egg Rolls Main Image (VoiceOver) */
 "EggRolls.Main.Image" = "Info";
 
@@ -718,15 +682,6 @@
 
 
 // MARK: Com Tam Thit Nuong Cha (Broken Rice with Grilled Pork & Egg Meatloaf) Page
-
-/* Broken Rice Title - Should Be in Vietnamese */
-"BrokenRice.Page.Title" = "Cơm Tấm Thịt Nướng Chả";
-
-/* Broken Rice Subtitle - This is the translation */
-"BrokenRice.Page.Subtitle" = "Broken Rice with Grilled Pork & Egg Meatloaf";
-
-/* Broken Rice Title (VoiceOver) */
-"BrokenRice.Page.AccessibilityTitle" = "Broken Rice with Grilled Pork & Egg Meatloaf";
 
 /* Broken Rice Main Image (VoiceOver) */
 "BrokenRice.Main.Image" = "Info";
@@ -894,15 +849,6 @@
 
 // MARK: Bot Banh Xeo (Vietnamese Crepe Batter) Page
 
-/* Crepe Batter Title - Should Be in Vietnamese */
-"CrepeBatter.Page.Title" = "Bột Bánh Xèo";
-
-/* Crepe Batter Subtitle - This is the translation */
-"CrepeBatter.Page.Subtitle" = "Vietnamese Crêpe Batter";
-
-/* Crepe Batter Title (VoiceOver) */
-"CrepeBatter.Page.AccessibilityTitle" = "Vietnamese Crepe Batter";
-
 /* Crepe Batter Main Image (VoiceOver) */
 "CrepeBatter.Main.Image" = "Info";
 
@@ -1002,15 +948,6 @@
 
 
 // MARK: Cha Gio - Recipe (Egg Rolls) Page
-
-/* Egg Rolls Component Title - Should Be in Vietnamese */
-"EggRollsComponent.Page.Title" = "Chả Giò";
-
-/* Egg Rolls Component Subtitle - This is the translation */
-"EggRollsComponent.Page.Subtitle" = "Egg Rolls";
-
-/* Egg Rolls Component Title (VoiceOver) */
-"EggRollsComponent.Page.AccessibilityTitle" = "Egg Rolls";
 
 /* Egg Rolls Component Main Image (VoiceOver) */
 "EggRollsComponent.Main.Image" = "Info";
@@ -1229,15 +1166,6 @@
 
 
 // MARK: Cha Trung (Egg Meatloaf) Page
-
-/* Egg Meatloaf Title - Should Be in Vietnamese */
-"EggMeatloaf.Page.Title" = "Chả Trứng";
-
-/* Egg Meatloaf Subtitle - This is the translation */
-"EggMeatloaf.Page.Subtitle" = "Egg Meatloaf";
-
-/* Egg Meatloaf Title (VoiceOver) */
-"EggMeatloaf.Page.AccessibilityTitle" = "Egg Meatloaf";
 
 /* Egg Meatloaf Main Image (VoiceOver) */
 "EggMeatloaf.Main.Image" = "Info";
@@ -1458,15 +1386,6 @@
 
 // MARK: Dau Annatto (Annatto Oil) Page
 
-/* Annatto Oil Title - Should Be in Vietnamese */
-"AnnattoOil.Page.Title" = "Dầu Hạt Điều";
-
-/* Annatto Oil Subtitle - This is the translation */
-"AnnattoOil.Page.Subtitle" = "Annatto Oil";
-
-/* Annatto Oil Title (VoiceOver) */
-"AnnattoOil.Page.AccessibilityTitle" = "Annatto Oil";
-
 /* Annatto Oil Main Image (VoiceOver) */
 "AnnattoOil.Main.Image" = "Info";
 
@@ -1574,15 +1493,6 @@
 
 
 // MARK: Do Chua (Pickled Carrot and Daikon) Page
-
-/* Pickles Title - Should Be in Vietnamese */
-"Pickles.Page.Title" = "Đồ Chua";
-
-/* Pickles Subtitle - This is the translation */
-"Pickles.Page.Subtitle" = "Pickled Carrot and Daikon";
-
-/* Pickles Title (VoiceOver) */
-"Pickles.Page.AccessibilityTitle" = "Pickled Carrot and Daikon";
 
 /* Pickles Main Image (VoiceOver) */
 "Pickles.Main.Image" = "Info";
@@ -1765,15 +1675,6 @@
 
 // MARK: Mo Hanh (Scallion and Oil Garnish) Page
 
-/* Scallion and Oil Garnish Title - Should Be in Vietnamese */
-"ScallionOil.Page.Title" = "Mỡ Hành";
-
-/* Scallion and Oil Garnish Subtitle - This is the translation */
-"ScallionOil.Page.Subtitle" = "Scallion and Oil Garnish";
-
-/* Scallion and Oil Garnish Title (VoiceOver) */
-"ScallionOil.Page.AccessibilityTitle" = "Scallion and Oil Garnish";
-
 /* Scallion and Oil Garnish Main Image (VoiceOver) */
 "ScallionOil.Main.Image" = "Info";
 
@@ -1831,15 +1732,6 @@
 
 
 // MARK: Nuoc Mam Cham (Mixed Fish Sauce) Page
-
-/* Mixed Fish Sauce Title - Should Be in Vietnamese */
-"MixedFishSauce.Page.Title" = "Nước Mắm Chấm";
-
-/* Mixed Fish Sauce Subtitle - This is the translation */
-"MixedFishSauce.Page.Subtitle" = "Mixed Fish Sauce";
-
-/* Mixed Fish Sauce Title (VoiceOver) */
-"MixedFishSauce.Page.AccessibilityTitle" = "Mixed Fish Sauce";
 
 /* Mixed Fish Sauce Main Image (VoiceOver) */
 "MixedFishSauce.Main.Image" = "Info";
@@ -1978,15 +1870,6 @@
 
 // MARK: Rau (Leafy Greens) Page
 
-/* Leafy Greens Title - Should Be in Vietnamese */
-"LeafyGreens.Page.Title" = "Rau";
-
-/* Leafy Greens Subtitle - This is the translation */
-"LeafyGreens.Page.Subtitle" = "Leafy Greens";
-
-/* Leafy Greens Title (VoiceOver) */
-"LeafyGreens.Page.AccessibilityTitle" = "Leafy Greens";
-
 /* Leafy Greens Main Image (VoiceOver) */
 "LeafyGreens.Main.Image" = "Info";
 
@@ -2007,15 +1890,6 @@
 
 
 // MARK: Sot Mayonnaise (Mayonnaise) Page
-
-/* Mayo Title - Should Be in Vietnamese */
-"Mayo.Page.Title" = "Sốt Mayonnaise";
-
-/* Mayo Subtitle - This is the translation */
-"Mayo.Page.Subtitle" = "Mayonnaise";
-
-/* Mayo Title (VoiceOver) */
-"Mayo.Page.AccessibilityTitle" = "Mayonnaise";
 
 /* Mayo Main Image (VoiceOver) */
 "Mayo.Main.Image" = "Info";
@@ -2120,15 +1994,6 @@
 
 
 // MARK: Thit Nuong (Grilled Pork) Page
-
-/* Grilled Pork Title - Should Be in Vietnamese */
-"GrilledPork.Page.Title" = "Thịt Nướng";
-
-/* Grilled Pork Subtitle - This is the translation */
-"GrilledPork.Page.Subtitle" = "Grilled Pork";
-
-/* Grilled Pork Title (VoiceOver) */
-"GrilledPork.Page.AccessibilityTitle" = "Grilled Pork";
 
 /* Grilled Pork Main Image (VoiceOver) */
 "GrilledPork.Main.Image" = "Info";
@@ -2304,15 +2169,6 @@
 
 // MARK: Banh Mi - Ingredient (Baguette) Page
 
-/* Baguette Page Title - Should Be in Vietnamese */
-"Baguette.Page.Title" = "Bánh Mì";
-
-/* Baguette Page Subtitle - This is the translation */
-"Baguette.Page.Subtitle" = "Baguette";
-
-/* Baguette Page Title (VoiceOver) */
-"Baguette.Page.AccessibilityTitle" = "Baguette";
-
 /* Baguette Main Image (VoiceOver) */
 "Baguette.Main.Image" = "Info";
 
@@ -2349,15 +2205,6 @@
 
 // MARK: Ca Rot (Carrot) Page
 
-/* Carrot Page Title - Should Be in Vietnamese */
-"Carrot.Page.Title" = "Cà Rốt";
-
-/* Carrot Page Subtitle - This is the translation */
-"Carrot.Page.Subtitle" = "Carrot";
-
-/* Carrot Page Title (VoiceOver) */
-"Carrot.Page.AccessibilityTitle" = "Carrot";
-
 /* Carrot Main Image (VoiceOver) */
 "Carrot.Main.Image" = "Info";
 
@@ -2373,38 +2220,20 @@
 
 // MARK: Com Tam (Cooked Broken Rice) Page
 
-/* Rice Page Title - Should Be in Vietnamese */
-"Rice.Page.Title" = "Cơm Tấm";
-
-/* Rice Page Subtitle - This is the translation */
-"Rice.Page.Subtitle" = "Cooked Broken Rice";
-
-/* Rice Page Title (VoiceOver) */
-"Rice.Page.AccessibilityTitle" = "Cooked Broken Rice";
-
 /* Rice Main Image (VoiceOver) */
 "Rice.Main.Image" = "Info";
 
 /* Rice Introduction */
-"Rice.Introduction" = "##Cơm Tấm## (cooked broken rice) is made from ##Gạo Tấm## (broken rice grains), which is jasmine rice that has been fragmented and broken during regular processing. ##Gạo Tấm## (broken rice grains) were once considered inferior because they were not pretty enough and of high enough quality to be sold, but the flavor is no different from regular jasmine rice. Aside from their appearance, they tend to be slightly dryer than regular rice grains, but instead of throwing them away, farmers thought to eat them with ##Nước Mắm Chấm## (mixed fish sauce) since they soak up the sauce nicely in the plate, inventing the variety of ##Cơm Tấm## (broken rice) dishes in the process.";
+"Rice.Introduction" = "##Cơm Tấm## (broken rice) is made from ##Gạo Tấm## (broken rice grains), which is jasmine rice that has been fragmented and broken during regular processing. ##Gạo Tấm## (broken rice grains) were once considered inferior because they were not pretty enough and of high enough quality to be sold, but the flavor is no different from regular jasmine rice. Aside from their appearance, they tend to be slightly dryer than regular rice grains, but instead of throwing them away, farmers thought to eat them with ##Nước Mắm Chấm## (mixed fish sauce) since they soak up the sauce nicely in the plate, inventing the variety of ##Cơm Tấm## (broken rice) dishes in the process.";
 
 /* Rice Introduction (VoiceOver) */
-"Rice.Introduction.Accessibility" = "Cooked broken rice is made from broken rice grains, which is jasmine rice that has been fragmented and broken during regular processing. Broken rice grains were once considered inferior because they were not pretty enough and of high enough quality to be sold, but the flavor is no different from regular jasmine rice. Aside from their appearance, they tend to be slightly dryer than regular rice grains, but instead of throwing them away, farmers thought to eat them with mixed fish sauce since they soak up the sauce nicely in the plate, inventing the variety of broken rice dishes in the process.";
+"Rice.Introduction.Accessibility" = "Broken rice is made from broken rice grains, which is jasmine rice that has been fragmented and broken during regular processing. Broken rice grains were once considered inferior because they were not pretty enough and of high enough quality to be sold, but the flavor is no different from regular jasmine rice. Aside from their appearance, they tend to be slightly dryer than regular rice grains, but instead of throwing them away, farmers thought to eat them with mixed fish sauce since they soak up the sauce nicely in the plate, inventing the variety of broken rice dishes in the process.";
 
 /* Rice Used In Header */
 "Rice.UsedIn.Header" = "Used In";
 
 
 // MARK: Cu Cai Trang (Daikon) Page
-
-/* Daikon Page Title - Should Be in Vietnamese */
-"Daikon.Page.Title" = "Củ Cải Trắng";
-
-/* Daikon Page Subtitle - This is the translation */
-"Daikon.Page.Subtitle" = "Daikon";
-
-/* Daikon Page Title (VoiceOver) */
-"Daikon.Page.AccessibilityTitle" = "Daikon";
 
 /* Daikon Main Image (VoiceOver) */
 "Daikon.Main.Image" = "Info";
@@ -2420,15 +2249,6 @@
 
 
 // MARK: Dua Leo (Cucumber) Page
-
-/* Cucumber Page Title - Should Be in Vietnamese */
-"Cucumber.Page.Title" = "Dưa Leo";
-
-/* Cucumber Page Subtitle - This is the translation */
-"Cucumber.Page.Subtitle" = "Cucumber";
-
-/* Cucumber Page Title (VoiceOver) */
-"Cucumber.Page.AccessibilityTitle" = "Cucumber";
 
 /* Cucumber Main Image (VoiceOver) */
 "Cucumber.Main.Image" = "Info";
@@ -2469,15 +2289,6 @@
 
 // MARK: Nuoc Mam (Fish Sauce) Page
 
-/* Fish Sauce Page Title - Should Be in Vietnamese */
-"FishSauce.Page.Title" = "Nước Mắm";
-
-/* Fish Sauce Page Subtitle - This is the translation */
-"FishSauce.Page.Subtitle" = "Fish Sauce";
-
-/* Fish Sauce Page Title (VoiceOver) */
-"FishSauce.Page.AccessibilityTitle" = "Fish Sauce";
-
 /* Fish Sauce Main Image (VoiceOver) */
 "FishSauce.Main.Image" = "Info";
 
@@ -2497,16 +2308,22 @@
 "FishSauce.UsedIn.Header" = "Used In";
 
 
+// MARK: Xa (Lemongrass) Page
+
+/* Lemongrass Main Image (VoiceOver) */
+"Lemongrass.Main.Image" = "Info";
+
+/* Lemongrass Introduction */
+"Lemongrass.Introduction" = "##Sả## (lemongrass) is a type of grass that has a lemon-ginger-mint flavor and it is a very common ingredient in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even as a component to the broth in noodle soup.";
+
+/* Lemongrass Introduction (VoiceOver) */
+"Lemongrass.Introduction.Accessibility" = "Lemon-grass is a type of grass that has a lemon-ginger-mint flavor and it is a very common ingredient in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even as a component to the broth in noodle soup.";
+
+/* Lemongrass Used In Header */
+"Lemongrass.UsedIn.Header" = "Used In";
+
+
 // MARK: Tia To (Perilla) Page
-
-/* Perilla Page Title - Should Be in Vietnamese */
-"Perilla.Page.Title" = "Tía Tô";
-
-/* Perilla Page Subtitle - This is the translation */
-"Perilla.Page.Subtitle" = "Perilla";
-
-/* Perilla Page Title (VoiceOver) */
-"Perilla.Page.AccessibilityTitle" = "Perilla";
 
 /* Perilla Main Image (VoiceOver) */
 "Perilla.Main.Image" = "Info";
@@ -2528,31 +2345,6 @@
 
 /* Perilla Used In Header */
 "Perilla.UsedIn.Header" = "Used In";
-
-
-// MARK: Xa (Lemongrass) Page
-
-/* Lemongrass Page Title - Should Be in Vietnamese */
-"Lemongrass.Page.Title" = "Sả";
-
-/* Lemongrass Page Subtitle - This is the translation */
-"Lemongrass.Page.Subtitle" = "Lemongrass";
-
-/* Lemongrass Page Title (VoiceOver) */
-"Lemongrass.Page.AccessibilityTitle" = "Lemon-grass";
-
-/* Lemongrass Main Image (VoiceOver) */
-"Lemongrass.Main.Image" = "Info";
-
-/* Lemongrass Introduction */
-"Lemongrass.Introduction" = "##Sả## (lemongrass) is a type of grass that has a lemon-ginger-mint flavor and it is a very common ingredient in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even as a component to the broth in noodle soup.";
-
-/* Lemongrass Introduction (VoiceOver) */
-"Lemongrass.Introduction.Accessibility" = "Lemon-grass is a type of grass that has a lemon-ginger-mint flavor and it is a very common ingredient in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even as a component to the broth in noodle soup.";
-
-/* Lemongrass Used In Header */
-"Lemongrass.UsedIn.Header" = "Used In";
-
 
 
 // MARK: - # About Tab:

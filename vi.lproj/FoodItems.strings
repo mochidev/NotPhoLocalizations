@@ -6,88 +6,133 @@
   Copyright © 2020 Mochi Develoment, Inc. All rights reserved.
 */
 
-/* These represent the individual item button on each page that often lead to other pages. `.Subtitle` should be the translated text, while `.AccessibilitySubtitle` will be the VoiceOver equivalent. */
+/* These represent the individual item button on each page that often lead to other pages.
+ `.Subtitle` should be the translated text for item row, however, this should be in English for Vietnamese localization.
+ `.AccessibilitySubtitle` will be the VoiceOver equivalent for main page title.
+ */
 
 // MARK: Vietnamese Food Tab
 
 /* Grilled Pork Sandwich */
 "grilledPorkBanhMi.Subtitle" = "Grilled Pork Sandwich";
+"grilledPorkBanhMi.AccessibilitySubtitle" = "Bánh Mì Thịt Nướng";
+"grilledPorkBanhMi.AccessibilityPageTitle" = "Bánh Mì Thịt Nướng";
 
 /* Vietnamese Crepes */
 "crepe.Subtitle" = "Vietnamese Crêpes";
+"crepe.AccessibilitySubtitle" = "Bánh Xèo";
+"crepe.AccessibilityPageTitle" = "Bánh Xèo";
 
 /* Grilled Pork & Egg Roll Vermicelli Noodles */
 "grilledPorkVermicelli.Subtitle" = "Grilled Pork & Egg Roll Vermicelli Noodles";
+"grilledPorkVermicelli.AccessibilitySubtitle" = "Bún Thịt Nướng Chả Giò";
+"grilledPorkVermicelli.AccessibilityPageTitle" = "Bún Thịt Nướng Chả Giò";
 
 /* Egg Rolls (Platter) */
 "eggRollPlatter.Subtitle" = "Egg Rolls";
+"eggRollPlatter.AccessibilitySubtitle" = "Chả Giò";
+"eggRollPlatter.AccessibilityPageTitle" = "Chả Giò";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf */
 "brokenRice.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
+"brokenRice.AccessibilitySubtitle" = "Cơm Tấm Thịt Nướng Chả";
+"brokenRice.AccessibilityPageTitle" = "Cơm Tấm Thịt Nướng Chả";
 
 
 // MARK: Recipes Tab
 
 /* Crepe Batter */
-"crepeBatter.Subtitle" = "Crêpe Batter";
+"crepeBatter.Subtitle" = "Vietnamese Crêpe Batter";
+"crepeBatter.AccessibilitySubtitle" = "Bột Bánh Xèo";
+"crepeBatter.AccessibilityPageTitle" = "Bột Bánh Xèo";
 
 /* Egg Rolls */
 "eggRolls.Subtitle" = "Egg Rolls";
+"eggRolls.AccessibilitySubtitle" = "Chả Giò";
+"eggRolls.AccessibilityPageTitle" = "Chả Giò";
 
 /* Egg Meatloaf */
 "eggMeatloaf.Subtitle" = "Egg Meatloaf";
+"eggMeatloaf.AccessibilitySubtitle" = "Chả Trứng";
+"eggMeatloaf.AccessibilityPageTitle" = "Chả Trứng";
 
 /* Annatto Oil */
 "annattoOil.Subtitle" = "Annatto Oil";
+"annattoOil.AccessibilitySubtitle" = "Dầu Hạt Điều";
+"annattoOil.AccessibilityPageTitle" = "Dầu Hạt Điều";
 
 /* Pickled Carrot and Daikon */
 "pickles.Subtitle" = "Pickled Carrot and Daikon";
+"pickles.AccessibilitySubtitle" = "Đồ Chua";
+"pickles.AccessibilityPageTitle" = "Đồ Chua";
 
 /* Scallion & Oil Garnish */
 "scallionsOil.Subtitle" = "Scallion & Oil Garnish";
+"scallionsOil.AccessibilitySubtitle" = "Mỡ Hành";
+"scallionsOil.AccessibilityPageTitle" = "Mỡ Hành";
 
 /* Mixed Fish Sauce */
 "nuocMam.Subtitle" = "Mixed Fish Sauce";
+"nuocMam.AccessibilitySubtitle" = "Nước Mắm Chấm";
+"nuocMam.AccessibilityPageTitle" = "Nước Mắm Chấm";
 
 /* Leafy Greens */
 "leafyGreens.Subtitle" = "Leafy Greens";
+"leafyGreens.AccessibilitySubtitle" = "Rau";
+"leafyGreens.AccessibilityPageTitle" = "Rau";
 
 /* Mayonnaise */
 "mayo.Subtitle" = "Mayonnaise";
+"mayo.AccessibilitySubtitle" = "Sốt Mayonnaise";
+"mayo.AccessibilityPageTitle" = "Sốt Mayonnaise";
 
 /* Grilled Pork */
 "grilledPork.Subtitle" = "Grilled Pork";
+"grilledPork.AccessibilitySubtitle" = "Thịt Nướng";
+"grilledPork.AccessibilityPageTitle" = "Thịt Nướng";
 
 
 // MARK: Ingredients Tab
 
 /* Baguette */
 "baguette.Subtitle" = "Baguette";
+"baguette.AccessibilitySubtitle" = "Bánh Mì";
+"baguette.AccessibilityPageTitle" = "Bánh Mì";
 
 /* Carrot */
 "carrot.Subtitle" = "Carrot";
+"carrot.AccessibilitySubtitle" = "Cà Rốt";
+"carrot.AccessibilityPageTitle" = "Cà Rốt";
 
 /* Broken Rice */
 "rice.Subtitle" = "Broken Rice";
+"rice.AccessibilitySubtitle" = "Cơm Tấm";
+"rice.AccessibilityPageTitle" = "Cơm Tấm";
 
 /* Daikon */
 "daikon.Subtitle" = "Daikon";
+"daikon.AccessibilitySubtitle" = "Củ Cải Trắng";
+"daikon.AccessibilityPageTitle" = "Củ Cải Trắng";
 
 /* Cucumber */
 "cucumber.Subtitle" = "Cucumber";
+"cucumber.AccessibilitySubtitle" = "Dưa Leo";
+"cucumber.AccessibilityPageTitle" = "Dưa Leo";
 
 /* Fish Sauce */
 "fishSauce.Subtitle" = "Fish Sauce";
-
-/* Perilla */
-"perilla.Subtitle" = "Perilla";
+"fishSauce.AccessibilitySubtitle" = "Nước Mắm";
+"fishSauce.AccessibilityPageTitle" = "Nước Mắm";
 
 /* Lemongrass */
 "lemongrass.Subtitle" = "Lemongrass";
+"lemongrass.AccessibilitySubtitle" = "Sả";
+"lemongrass.AccessibilityPageTitle" = "Sả";
 
-/* Lemongrass */
-"lemongrass.AccessibilitySubtitle" = "Lemon-grass";
-
+/* Perilla */
+"perilla.Subtitle" = "Perilla";
+"perilla.AccessibilitySubtitle" = "Tía Tô";
+"perilla.AccessibilityPageTitle" = "Tía Tô";
 
 // MARK: Entries with no dedicated page
 
@@ -153,9 +198,6 @@
 
 /* Black Pepper */
 "pepper.Subtitle" = "Black Pepper";
-
-/* Vietnamese Perilla */
-"perilla.Subtitle" = "Perilla";
 
 /* Pork Belly */
 "porkBelly.Subtitle" = "Pork Belly";
