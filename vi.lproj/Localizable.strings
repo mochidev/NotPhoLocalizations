@@ -2399,6 +2399,18 @@
 /* About Introduction 2 */
 "About.Introduction.2" = "Có rất nhiều người khi nghe đến đồ ăn Việt Nam chỉ biết đến Phở nhưng đồ ăn Việt Nam không chỉ có vậy. Mình muốn dùng cái APP này để chia sẽ những món ăn độc đáo khác của Việt Nam. Công thức nấu ăn viết trong APP là qua sự trải nghiệm của mình nhưng mình không phải là đầu bếp chuyên nghiệp cho nên nếu có sự xây xước gì thì xin bạn thông cảm cho.";
 
+/* About Subscription Header */
+"About.Subscription.Header" = "Câu Lạc Bộ Đầu Bếp";
+
+/* About Subscription Text */
+"About.Subscription.Text" = "Tham gia câu lạc bộ để mở khóa thêm món ăn khác.";
+
+/* About Subscription Text (VoiceOver) */
+"About.Subscription.AccessibilityText" = "Tham gia câu lạc bộ để mở khóa thêm món ăn khác.";
+
+/* About Subscription Button Text */
+"About.Subscription.ButtonText" = "Quản Lý Đăng Ký Dài Hạn";
+
 /* About Reviews Header */
 "About.Reviews.Header" = "Để Lại Đánh Giá!";
 

@@ -2373,6 +2373,18 @@
 /* About Introduction 2 */
 "About.Introduction.2" = "These are all recipes that I’ve grown up with and collected & modified over the years to my taste, but they are by no means sacred. Please use this app as a springboard to learning more about Vietnamese cuisine!";
 
+/* About Subscription Header */
+"About.Subscription.Header" = "The Chef Club";
+
+/* About Subscription Text */
+"About.Subscription.Text" = "Want to see more delicious dishes? Join the club to unlock more recipes!";
+
+/* About Subscription Text (VoiceOver) */
+"About.Subscription.AccessibilityText" = "Want to see more delicious dishes? Join the club to unlock more recipes!";
+
+/* About Subscription Button Text */
+"About.Subscription.ButtonText" = "Manage Subscription";
+
 /* About Reviews Header */
 "About.Reviews.Header" = "Leave a Review!";
 
