@@ -2573,6 +2573,9 @@
 /* Subscription View Offer 1 Title */
 "SubscriptionView.Offer.1.Title" = "Temp Chef";
 
+/* Subscription View Offer 1 Title (VoiceOver) */
+"SubscriptionView.Offer.1.AccessibilityTitle" = "Tier 1 Temp Chef";
+
 /* Subscription View Offer 1 Price */
 "SubscriptionView.Offer.1.Price" = "$1.99 / Month";
 
@@ -2588,8 +2591,14 @@
 /* Subscription View Offer 1 Bullet Text 1 */
 "SubscriptionView.Offer.1.BulletText.1" = "Unlock all current recipes.";
 
+/* Subscription View Offer 1 Bullet Text 1 (VoiceOver) */
+"SubscriptionView.Offer.1.BulletText.1.Accessibility" = "Benefits. Unlock all current recipes.";
+
 /* Subscription View Offer 2 Title */
 "SubscriptionView.Offer.2.Title" = "Sous Chef";
+
+/* Subscription View Offer 2 Title (VoiceOver) */
+"SubscriptionView.Offer.2.AccessibilityTitle" = "Tier 2 Sous Chef";
 
 /* Subscription View Offer 2 Price */
 "SubscriptionView.Offer.2.Price" = "$19.99 / Year";
@@ -2612,11 +2621,17 @@
 /* Subscription View Offer 2 Bullet Text 1 */
 "SubscriptionView.Offer.2.BulletText.1" = "Unlock all current recipes,";
 
+/* Subscription View Offer 2 Bullet Text 1 (VoiceOver) */
+"SubscriptionView.Offer.2.BulletText.1.Accessibility" = "Benefits. Unlock all current recipes.";
+
 /* Subscription View Offer 2 Bullet Text 2 */
 "SubscriptionView.Offer.2.BulletText.2" = "Keep access to unlocked recipes even if you cancel.";
 
 /* Subscription View Offer 3 Title */
 "SubscriptionView.Offer.3.Title" = "Executive Chef";
+
+/* Subscription View Offer 3 Title (VoiceOver) */
+"SubscriptionView.Offer.3.AccessibilityTitle" = "Tier 3 Executive Chef";
 
 /* Subscription View Offer 3 Price */
 "SubscriptionView.Offer.3.Price" = "$49.99 One-Time";
@@ -2635,6 +2650,9 @@
 
 /* Subscription View Offer 3 Bullet Text 1 */
 "SubscriptionView.Offer.3.BulletText.1" = "Unlock all current recipes,";
+
+/* Subscription View Offer 3 Bullet Text 1 (VoiceOver) */
+"SubscriptionView.Offer.3.BulletText.1.Accessibility" = "Benefits. Unlock all current recipes.";
 
 /* Subscription View Offer 3 Bullet Text 2 */
 "SubscriptionView.Offer.3.BulletText.2" = "Free updates for up to 3 years,";

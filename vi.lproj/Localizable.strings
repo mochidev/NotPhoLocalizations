@@ -2599,6 +2599,9 @@
 /* Subscription View Offer 1 Title */
 "SubscriptionView.Offer.1.Title" = "Đầu Bếp Tạm Thời";
 
+/* Subscription View Offer 1 Title (VoiceOver) */
+"SubscriptionView.Offer.1.AccessibilityTitle" = "Chọn Lựa 1 Đầu Bếp Tạm Thời";
+
 /* Subscription View Offer 1 Price */
 "SubscriptionView.Offer.1.Price" = "$1,99 / Tháng";
 
@@ -2614,8 +2617,14 @@
 /* Subscription View Offer 1 Bullet Text 1 */
 "SubscriptionView.Offer.1.BulletText.1" = "Mở khóa tất cả món ăn hiện tại.";
 
+/* Subscription View Offer 1 Bullet Text 1 (VoiceOver) */
+"SubscriptionView.Offer.1.BulletText.1.Accessibility" = "Lợi ích. Mở khóa tất cả món ăn hiện tại.";
+
 /* Subscription View Offer 2 Title */
 "SubscriptionView.Offer.2.Title" = "Đầu Bếp Phó";
+
+/* Subscription View Offer 2 Title (VoiceOver) */
+"SubscriptionView.Offer.2.AccessibilityTitle" = "Chọn Lựa 2 Đầu Bếp Phó";
 
 /* Subscription View Offer 2 Price */
 "SubscriptionView.Offer.2.Price" = "$19,99 / Năm";
@@ -2638,11 +2647,17 @@
 /* Subscription View Offer 2 Bullet Text 1 */
 "SubscriptionView.Offer.2.BulletText.1" = "Mở khóa tất cả món ăn hiện tại,";
 
+/* Subscription View Offer 2 Bullet Text 1 (VoiceOver) */
+"SubscriptionView.Offer.2.BulletText.1.Accessibility" = "Lợi ích. Mở khóa tất cả món ăn hiện tại.";
+
 /* Subscription View Offer 2 Bullet Text 2 */
 "SubscriptionView.Offer.2.BulletText.2" = "Giữ quyền sử dụng các công thức nấu ăn đã mở khóa ngay cả khi bạn ngừng đăng ký.";
 
 /* Subscription View Offer 3 Title */
 "SubscriptionView.Offer.3.Title" = "Đầu Bếp Trưởng";
+
+/* Subscription View Offer 3 Title (VoiceOver) */
+"SubscriptionView.Offer.3.AccessibilityTitle" = "Chọn Lựa 3 Đầu Bếp Trưởng";
 
 /* Subscription View Offer 3 Price */
 "SubscriptionView.Offer.3.Price" = "$49,99 Một Lần";
@@ -2661,6 +2676,9 @@
 
 /* Subscription View Offer 3 Bullet Text 1 */
 "SubscriptionView.Offer.3.BulletText.1" = "Mở khóa tất cả món ăn hiện tại,";
+
+/* Subscription View Offer 3 Bullet Text 1 (VoiceOver) */
+"SubscriptionView.Offer.3.BulletText.1.Accessibility" = "Lợi ích. Mở khóa tất cả món ăn hiện tại.";
 
 /* Subscription View Offer 3 Bullet Text 2 */
 "SubscriptionView.Offer.3.BulletText.2" = "Cập nhật miễn phí lên đến 3 năm,";
