@@ -134,6 +134,11 @@
 "perilla.AccessibilitySubtitle" = "Tía Tô";
 "perilla.AccessibilityPageTitle" = "Tía Tô";
 
+/* Oyster Sauce */
+"oysterSauce.Subtitle" = "Oyster Sauce";
+"oysterSauce.AccessibilitySubtitle" = "Dầu Hào";
+"oysterSauce.AccessibilityPageTitle" = "Dầu Hào";
+
 // MARK: Entries with no dedicated page
 
 /* Bean Sprouts */

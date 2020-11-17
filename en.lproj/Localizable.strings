@@ -2347,6 +2347,27 @@
 "Perilla.UsedIn.Header" = "Used In";
 
 
+// MARK: Dau Hao (Oyster Sauce) Page
+
+/* Oyster Sauce Main Image (VoiceOver) */
+"OysterSauce.Main.Image" = "Info";
+
+/* Oyster Sauce Introduction 1 */
+"OysterSauce.Introduction.1" = "##Dầu Hào## (oyster sauce) is made from cooking oysters with sugar, salt, and water until the oysters are dissolved and combined with corn starch to thicken it. It is great as a seasoning sauce or a condiment to enhance the flavor of a dish.";
+
+/* Oyster Sauce Introduction 1 (VoiceOver) */
+"OysterSauce.Introduction.1.Accessibility" = "Oyster sauce is made from cooking oysters with sugar, salt, and water until the oysters are dissolved and combined with corn starch to thicken it. It is great as a seasoning sauce or a condiment to enhance the flavor of a dish.";
+
+/* Oyster Sauce Introduction 2 */
+"OysterSauce.Introduction.2" = "There are many brands of oyster sauce, but the most well known brand is Lee Kum Kee, which is founded by Lee Kum Sheng who invented the sauce in 1888. Even though oyster sauce is a Cantonese invention, it has become a popular seasoning sauce in many southeast Asian cuisine. Lee Kum Kee oyster sauce is available in almost all Asian supermarkets, but I usually use the Kikkoman brand because it can be found outside of Asian stores. However, depending on the brand, the sodium content may vary so you may have to adjust any recipes that require oyster sauce to better fit your taste.";
+
+/* Oyster Sauce Introduction 2 (VoiceOver) */
+"OysterSauce.Introduction.2.Accessibility" = "There are many brands of oyster sauce, but the most well known brand is Lee Kum Kee, which is founded by Lee Kum Sheng who invented the sauce in 1888. Even though oyster sauce is a Cantonese invention, it has become a popular seasoning sauce in many southeast Asian cuisine. Lee Kum Kee oyster sauce is available in almost all Asian supermarkets, but I usually use the Kikkoman brand because it can be found outside of Asian stores. However, depending on the brand, the sodium content may vary so you may have to adjust any recipes that require oyster sauce to better fit your taste.";
+
+/* Oyster Sauce Used In Header */
+"OysterSauce.UsedIn.Header" = "Used In";
+
+
 // MARK: - # About Tab:
 
 /* About Tab Page Title */

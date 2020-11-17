@@ -111,6 +111,10 @@
 "perilla.Subtitle" = "Perilla";
 "perilla.AccessibilitySubtitle" = "Perilla";
 
+/* Oyster Sauce */
+"oysterSauce.Subtitle" = "Oyster Sauce";
+"oysterSauce.AccessibilitySubtitle" = "Oyster Sauce";
+
 
 // MARK: Entries with no dedicated page
 

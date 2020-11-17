@@ -2373,6 +2373,26 @@
 "Perilla.UsedIn.Header" = "Dùng Trong";
 
 
+// MARK: Dau Hao (Oyster Sauce) Page
+
+/* Oyster Sauce Main Image (VoiceOver) */
+"OysterSauce.Main.Image" = "Thông tin.";
+
+/* Oyster Sauce Introduction 1 */
+"OysterSauce.Introduction.1" = "##Dầu Hào## được làm từ cách nấu hào với muối đường và nước cho đến khi hàu tan, và trộn với bột ngô cho đặc. ##Dầu Hào## có thể dùng để nấu hoặc dùng làm nước chấm.";
+
+/* Oyster Sauce Introduction 1 (VoiceOver) */
+"OysterSauce.Introduction.1.Accessibility" = "Dầu Hàu được làm từ cách nấu hàu với muối đường và nước cho đến khi hàu tan, và trộn với bột ngô cho đặc. Dầu Hàu có thể dùng để nấu hoặc dùng làm nước chấm.";
+
+/* Oyster Sauce Introduction 2 */
+"OysterSauce.Introduction.2" = "Có nhiều thương hiệu ##Dầu Hào##, nhưng thương hiệu được biết đến nhiều nhất là Lee Kum Kee, được thành lập bởi Lee Kum Sheng, người đã phát minh ra nước sốt vào năm 1888. Mặc dù dầu hào là một phát minh của người Quảng Đông, nhưng nó đã trở thành một loại gia vị phổ biến trong ẩm thực Đông Nam Á. ##Dầu Hào## Lee Kum Kee có bán ở hầu hết các siêu thị châu Á, nhưng tôi thường dùng nhãn hiệu Kikkoman vì nó có thể tìm thấy ở bất kỳ siêu thị nào. Tuy nhiên, tùy thuộc vào thương hiệu, hàm lượng natri có thể khác nhau, vì vậy bạn có thể phải điều chỉnh bất kỳ công thức nấu ăn nào yêu cầu dầu hào để phù hợp hơn với khẩu vị của bạn.";
+
+/* Oyster Sauce Introduction 2 (VoiceOver) */
+"OysterSauce.Introduction.2.Accessibility" = "Có nhiều thương hiệu Dầu Hào, nhưng thương hiệu được biết đến nhiều nhất là Lee Kum Kee, được thành lập bởi Lee Kum Sheng, người đã phát minh ra nước sốt vào năm 1888. Mặc dù dầu hào là một phát minh của người Quảng Đông, nhưng nó đã trở thành một loại gia vị phổ biến trong ẩm thực Đông Nam Á. Dầu Hào Lee Kum Kee có bán ở hầu hết các siêu thị châu Á, nhưng tôi thường dùng nhãn hiệu Kikkoman vì nó có thể tìm thấy ở bất kỳ siêu thị nào. Tuy nhiên, tùy thuộc vào thương hiệu, hàm lượng natri có thể khác nhau, vì vậy bạn có thể phải điều chỉnh bất kỳ công thức nấu ăn nào yêu cầu dầu hào để phù hợp hơn với khẩu vị của bạn.";
+
+/* Oyster Sauce Used In Header */
+"OysterSauce.UsedIn.Header" = "Dùng Trong";
+
 // MARK: - # About Tab:
 
 /* About Tab Page Title */
