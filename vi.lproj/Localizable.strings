@@ -2578,3 +2578,104 @@
 
 /* About Copyright (VoiceOver) */
 "About.Copyright.Accessibility" = "Copyright 2020 Mochi Development Inc. All rights reserved.";
+
+
+// MARK: - # Subscription View:
+
+/* Subscription View Title */
+"SubscriptionView.Title" = "Câu Lạc Bộ Đầu Bếp";
+
+/* Subscription View Description Text 1 */
+"SubscriptionView.DescriptionText.1" = "Tham gia câu lạc bộ để tiến một bước gần hơn đến việc trở thành đầu bếp hàng đầu thế giới bằng cách mở rộng kiến ​​thức về ẩm thực Việt Nam!";
+
+/* Subscription View Description Text 2 */
+"SubscriptionView.DescriptionText.2" = "Chọn một trong các lựa chọn bên dưới để mở khóa tất cả món ăn hiện tại và những món trong tương lai khi được thêm vào.";
+
+/* Subscription View Description Text 3 */
+/* Should be "" for English.
+ Other languages should translate the following sentence and replace the "" with the translated version: "Not all Chef Club recipes will be localized at the moment, but will be available in English." */
+"SubscriptionView.DescriptionText.3" = "Hiện tại, không phải tất cả các món ăn và công thức của Câu Lạc Bộ Đầu Bếp đều được bản địa hóa nhưng sẽ có sẵn bằng tiếng Anh.";
+
+/* Subscription View Offer 1 Title */
+"SubscriptionView.Offer.1.Title" = "Đầu Bếp Tạm Thời";
+
+/* Subscription View Offer 1 Price */
+"SubscriptionView.Offer.1.Price" = "$1,99 / Tháng";
+
+/* Subscription View Offer 1 Price (VoiceOver) */
+"SubscriptionView.Offer.1.AccessibilityPrice" = "$1,99 mỗi tháng";
+
+/* Subscription View Offer 1 Purchase Button */
+"SubscriptionView.Offer.1.PurchaseButton" = "ĐĂNG KÝ";
+
+/* Subscription View Offer 1 Trial */
+"SubscriptionView.Offer.1.Trial" = "Dùng Thử Miễn Phí 1 Tuần";
+
+/* Subscription View Offer 1 Bullet Text 1 */
+"SubscriptionView.Offer.1.BulletText.1" = "Mở khóa tất cả món ăn hiện tại.";
+
+/* Subscription View Offer 2 Title */
+"SubscriptionView.Offer.2.Title" = "Đầu Bếp Phó";
+
+/* Subscription View Offer 2 Price */
+"SubscriptionView.Offer.2.Price" = "$19,99 / Năm";
+
+/* Subscription View Offer 2 Price (VoiceOver) */
+"SubscriptionView.Offer.2.AccessibilityPrice" = "$19,99 mỗi năm";
+
+/* Subscription View Offer 2 Savings */
+"SubscriptionView.Offer.2.Savings" = "(12 tháng với $1,66/tháng. Tiết kiệm 16%)";
+
+/* Subscription View Offer 2 Savings (VoiceOver) */
+"SubscriptionView.Offer.2.AccessibilitySavings" = "12 tháng với $1,66 mỗi tháng. Tiết kiệm 16 phần trăm.";
+
+/* Subscription View Offer 2 Purchase Button */
+"SubscriptionView.Offer.2.PurchaseButton" = "ĐĂNG KÝ";
+
+/* Subscription View Offer 2 Trial */
+"SubscriptionView.Offer.2.Trial" = "Dùng Thử Miễn Phí 1 Tuần";
+
+/* Subscription View Offer 2 Bullet Text 1 */
+"SubscriptionView.Offer.2.BulletText.1" = "Mở khóa tất cả món ăn hiện tại,";
+
+/* Subscription View Offer 2 Bullet Text 2 */
+"SubscriptionView.Offer.2.BulletText.2" = "Giữ quyền sử dụng các công thức nấu ăn đã mở khóa ngay cả khi bạn ngừng đăng ký.";
+
+/* Subscription View Offer 3 Title */
+"SubscriptionView.Offer.3.Title" = "Đầu Bếp Trưởng";
+
+/* Subscription View Offer 3 Price */
+"SubscriptionView.Offer.3.Price" = "$49,99 Một Lần";
+
+/* Subscription View Offer 3 Price (VoiceOver) */
+"SubscriptionView.Offer.3.AccessibilityPrice" = "$49,99 một lần.";
+
+/* Subscription View Offer 3 Savings */
+"SubscriptionView.Offer.3.Savings" = "(3 năm với $16,66 mỗi năm. Tiết kiệm 16%)";
+
+/* Subscription View Offer 3 Savings (VoiceOver) */
+"SubscriptionView.Offer.3.AccessibilitySavings" = "3 năm với $16,66 mỗi năm. Tiết kiệm 16 phần trăm.";
+
+/* Subscription View Offer 3 Purchase Button */
+"SubscriptionView.Offer.3.PurchaseButton" = "MUA";
+
+/* Subscription View Offer 3 Bullet Text 1 */
+"SubscriptionView.Offer.3.BulletText.1" = "Mở khóa tất cả món ăn hiện tại,";
+
+/* Subscription View Offer 3 Bullet Text 2 */
+"SubscriptionView.Offer.3.BulletText.2" = "Cập nhật miễn phí lên đến 3 năm,";
+
+/* Subscription View Offer 3 Bullet Text 3 */
+"SubscriptionView.Offer.3.BulletText.3" = "Không đăng ký dài hạn.";
+
+/* Subscription View Restore Purchases */
+"SubscriptionView.RestorePurchases" = "Khôi Phục Sự Đăng Ký";
+
+/* Subscription View Terms Of Service */
+"SubscriptionView.TermsOfService" = "Điều Khoản Dịch Vụ";
+
+/* Subscription View And */
+"SubscriptionView.And" = "và";
+
+/* Subscription View Privacy Policy */
+"SubscriptionView.PrivacyPolicy" = "Chính Sách Bảo Mật";

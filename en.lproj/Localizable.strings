@@ -2552,3 +2552,104 @@
 
 /* About Copyright (VoiceOver) */
 "About.Copyright.Accessibility" = "Copyright 2020 Mochi Development Inc. All rights reserved.";
+
+
+// MARK: - # Subscription View:
+
+/* Subscription View Title */
+"SubscriptionView.Title" = "The Chef Club";
+
+/* Subscription View Description Text 1 */
+"SubscriptionView.DescriptionText.1" = "Join the club to be one step closer to becoming a world-rounded chef by expanding your expertise with Vietnamese cuisine!";
+
+/* Subscription View Description Text 2 */
+"SubscriptionView.DescriptionText.2" = "Select a course below to unlock all current recipes and gain access to future recipes as they get added.";
+
+/* Subscription View Description Text 3 */
+/* Should be "" for English.
+ Other languages should translate the following sentence and replace the "" with the translated version: "Not all Chef Club recipes will be localized at the moment, but will be available in English." */
+"SubscriptionView.DescriptionText.3" = "";
+
+/* Subscription View Offer 1 Title */
+"SubscriptionView.Offer.1.Title" = "Temp Chef";
+
+/* Subscription View Offer 1 Price */
+"SubscriptionView.Offer.1.Price" = "$1.99 / Month";
+
+/* Subscription View Offer 1 Price (VoiceOver) */
+"SubscriptionView.Offer.1.AccessibilityPrice" = "$1.99 per Month";
+
+/* Subscription View Offer 1 Purchase Button */
+"SubscriptionView.Offer.1.PurchaseButton" = "SUBSCRIBE";
+
+/* Subscription View Offer 1 Trial */
+"SubscriptionView.Offer.1.Trial" = "Try 1 Week Free";
+
+/* Subscription View Offer 1 Bullet Text 1 */
+"SubscriptionView.Offer.1.BulletText.1" = "Unlock all current recipes.";
+
+/* Subscription View Offer 2 Title */
+"SubscriptionView.Offer.2.Title" = "Sous Chef";
+
+/* Subscription View Offer 2 Price */
+"SubscriptionView.Offer.2.Price" = "$19.99 / Year";
+
+/* Subscription View Offer 2 Price (VoiceOver) */
+"SubscriptionView.Offer.2.AccessibilityPrice" = "$19.99 per Year";
+
+/* Subscription View Offer 2 Savings */
+"SubscriptionView.Offer.2.Savings" = "(12 months at $1.66/mo. Save 16%)";
+
+/* Subscription View Offer 2 Savings (VoiceOver) */
+"SubscriptionView.Offer.2.AccessibilitySavings" = "12 months at $1.66 per month. Save 16 percent.";
+
+/* Subscription View Offer 2 Purchase Button */
+"SubscriptionView.Offer.2.PurchaseButton" = "SUBSCRIBE";
+
+/* Subscription View Offer 2 Trial */
+"SubscriptionView.Offer.2.Trial" = "Try 1 Week Free";
+
+/* Subscription View Offer 2 Bullet Text 1 */
+"SubscriptionView.Offer.2.BulletText.1" = "Unlock all current recipes,";
+
+/* Subscription View Offer 2 Bullet Text 2 */
+"SubscriptionView.Offer.2.BulletText.2" = "Keep access to unlocked recipes even if you cancel.";
+
+/* Subscription View Offer 3 Title */
+"SubscriptionView.Offer.3.Title" = "Executive Chef";
+
+/* Subscription View Offer 3 Price */
+"SubscriptionView.Offer.3.Price" = "$49.99 One-Time";
+
+/* Subscription View Offer 3 Price (VoiceOver) */
+"SubscriptionView.Offer.3.AccessibilityPrice" = "$49.99 One Time";
+
+/* Subscription View Offer 3 Savings */
+"SubscriptionView.Offer.3.Savings" = "(3 years at $16.66/yr. Save 16%)";
+
+/* Subscription View Offer 3 Savings (VoiceOver) */
+"SubscriptionView.Offer.3.AccessibilitySavings" = "3 years at $16.66 per year. Save 16 percent.";
+
+/* Subscription View Offer 3 Purchase Button */
+"SubscriptionView.Offer.3.PurchaseButton" = "BUY";
+
+/* Subscription View Offer 3 Bullet Text 1 */
+"SubscriptionView.Offer.3.BulletText.1" = "Unlock all current recipes,";
+
+/* Subscription View Offer 3 Bullet Text 2 */
+"SubscriptionView.Offer.3.BulletText.2" = "Free updates for up to 3 years,";
+
+/* Subscription View Offer 3 Bullet Text 3 */
+"SubscriptionView.Offer.3.BulletText.3" = "No subscription.";
+
+/* Subscription View Restore Purchases */
+"SubscriptionView.RestorePurchases" = "Restore Purchases";
+
+/* Subscription View Terms Of Service */
+"SubscriptionView.TermsOfService" = "Terms of Service";
+
+/* Subscription View And */
+"SubscriptionView.And" = "and";
+
+/* Subscription View Privacy Policy */
+"SubscriptionView.PrivacyPolicy" = "Privacy Policy";
