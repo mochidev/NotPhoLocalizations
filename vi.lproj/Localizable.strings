@@ -2697,3 +2697,6 @@
 
 /* Subscription View Privacy Policy */
 "SubscriptionView.PrivacyPolicy" = "Chính Sách Bảo Mật";
+
+/* Subscription Continuation Message - ties main content to subscription view */
+"SubscriptionView.ContinuationMessage" = "Công thức này được tiếp tục sau khi đăng ký…";

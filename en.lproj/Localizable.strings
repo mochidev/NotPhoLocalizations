@@ -2671,3 +2671,6 @@
 
 /* Subscription View Privacy Policy */
 "SubscriptionView.PrivacyPolicy" = "Privacy Policy";
+
+/* Subscription Continuation Message - ties main content to subscription view */
+"SubscriptionView.ContinuationMessage" = "This recipe is continued and joined by many others in…";
