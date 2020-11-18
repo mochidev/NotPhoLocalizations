@@ -92,6 +92,11 @@
 "grilledPork.AccessibilityPageTitle" = "Thịt Nướng";
 
 
+/* Pork Belly with Oyster Sauce */
+"porkBellyWithOysterSauce.Subtitle" = "Pork Belly with Oyster Sauce";
+"porkBellyWithOysterSauce.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Dầu Hào";
+"porkBellyWithOysterSauce.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Dầu Hào";
+
 // MARK: Ingredients Tab
 
 /* Baguette */

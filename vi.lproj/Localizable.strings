@@ -2175,6 +2175,131 @@
 "GrilledPork.UsedIn.Header" = "Dùng Trong";
 
 
+// MARK: Thit Ba Roi Xao Voi Dau Hao (Pork Belly with Oyster Sauce) Page
+
+/* Pork Belly with Oyster Sauce Main Image (VoiceOver) */
+"PorkBellyWithOysterSauce.Main.Image" = "Thông tin.";
+
+/* Pork Belly with Oyster Sauce Introduction 1 */
+"PorkBellyWithOysterSauce.Introduction.1" = "##Thịt Ba Rọi Xào Dầu Hào## là một món ăn rất đơn giản nhưng ngon.Vì ##Thịt Bà Rọi Xào Dầu Hào## rất mặn và ngon nên ăn với cơm trắng nóng hổi cũng rất tuyệt.";
+
+/* Pork Belly with Oyster Sauce Introduction 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Introduction.1.Accessibility" = "Thịt Ba Rọi Xào Dầu Hào là một món ăn rất đơn giản nhưng ngon.Vì Thịt Bà Rọi Xào Dầu Hào rất mặn và ngon nên ăn với cơm trắng nóng hổi cũng rất tuyệt.";
+
+/* Pork Belly with Oyster Sauce Introduction 2 */
+"PorkBellyWithOysterSauce.Introduction.2" = "Công thức này làm cho 1 người ăn.";
+
+/* Pork Belly with Oyster Sauce Ingredients Header */
+"PorkBellyWithOysterSauce.Ingredients.Header" = "Nguyên Liệu";
+
+/* Pork Belly with Oyster Sauce Ingredients Pork Belly Amount */
+"PorkBellyWithOysterSauce.Ingredients.PorkBelly.Amount.us" = "3-4 oz";
+"PorkBellyWithOysterSauce.Ingredients.PorkBelly.Amount.metric" = "80-100 g";
+
+/* Pork Belly with Oyster Sauce Ingredients Pork Belly Amount (VoiceOver) */
+"PorkBellyWithOysterSauce.Ingredients.PorkBelly.AccessibilityAmount.us" = "3 đến 4 aoxơ";
+"PorkBellyWithOysterSauce.Ingredients.PorkBelly.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
+
+/* Pork Belly with Oyster Sauce Ingredients Oyster Sauce Amount */
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.Amount.us" = "2 tsp";
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.Amount.metric" = "2 muỗng cà phê";
+
+/* Pork Belly with Oyster Sauce Ingredients Oyster Sauce Amount (VoiceOver) */
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.AccessibilityAmount" = "2 muỗng cà phê";
+
+/* Pork Belly with Oyster Sauce Ingredients Sugar Amount */
+"PorkBellyWithOysterSauce.Ingredients.Sugar.Amount.us" = "⅔ tsp";
+"PorkBellyWithOysterSauce.Ingredients.Sugar.Amount.metric" = "⅔ muỗng cà phê";
+
+/* Pork Belly with Oyster Sauce Ingredients Sugar Amount (VoiceOver) */
+"PorkBellyWithOysterSauce.Ingredients.Sugar.AccessibilityAmount" = "hai phần ba muỗng cà phê";
+
+/* Pork Belly with Oyster Sauce Ingredients Pepper Amount */
+"PorkBellyWithOysterSauce.Ingredients.Pepper.Amount.us" = "⅛ tsp";
+"PorkBellyWithOysterSauce.Ingredients.Pepper.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Pork Belly with Oyster Sauce Ingredients Pepper Amount (VoiceOver) */
+"PorkBellyWithOysterSauce.Ingredients.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Pork Belly with Oyster Sauce Instructions Header */
+"PorkBellyWithOysterSauce.Instructions.Header" = "Cách Làm";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.1" = "Bước 1";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Part 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Part.1" = "Cắt ##Thịt Ba Rọi## thành miếng vừa ăn.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Part 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Part.1.Accessibility" = "Cắt Thịt Ba Rọi thành miếng vừa ăn.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Note 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Note.1" = "Bạn có thể tìm thấy ##Thịt Ba Rọi## đã được cắt thành từng miếng nhỏ ở hầu hết các siêu thị Châu Á.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Note 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Note.1.Accessibility" = "Bạn có thể tìm thấy Thịt Ba Rọi đã được cắt thành từng miếng nhỏ ở hầu hết các siêu thị Châu Á.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Note 2 */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Note.2" = "Hoặc bạn có thể mua một miếng ##Thịt Ba Rọi## và tự cắt ra.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Note 2 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Note.2.Accessibility" = "Hoặc bạn có thể mua một miếng Thịt Ba Rọi và tự cắt ra.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 */
+"PorkBellyWithOysterSauce.Instructions.Step.2" = "Bước 2";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Part 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.1" = "Cho ##Thịt Ba Rọi## vào chảo với lửa khoảng trung bình đến cao.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Part 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.1.Accessibility" = "Cho Thịt Ba Rọi vào chảo với lửa khoảng trung bình đến cao.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Part 2 */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.2" = "Nấu ##Thịt Ba Rọi## cho đến khi chín.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Part 2 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.2.Accessibility" = "Nấu Thịt Ba Rọi cho đến khi chín.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Note 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Note.1" = "Không cần thêm dầu vì ##Thịt Ba Rọi## sẽ tiết dầu khi nấu.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Note 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Note.1.Accessibility" = "Không cần thêm dầu vì Thịt Ba Rọi sẽ tiết dầu khi nấu.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 */
+"PorkBellyWithOysterSauce.Instructions.Step.3" = "Bước 3";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 Part 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.3.Part.1" = "Thêm ##Dầu Hào##, ##Đường##, và ##Tiêu Đen##.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 Part 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.3.Part.1.Accessibility" = "Thêm Dầu Hào, Đường, và Tiêu Đen.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 Part 2 */
+"PorkBellyWithOysterSauce.Instructions.Step.3.Part.2" = "Xào mọi thứ đều.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 Part 2 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.3.Part.2.Accessibility" = "Xào mọi thứ đều.";
+
+/* Pork Belly with Oyster Sauce How To Header */
+"PorkBellyWithOysterSauce.HowTo.Header" = "Cách Thưởng Thức";
+
+/* Pork Belly with Oyster Sauce How To 1 */
+"PorkBellyWithOysterSauce.HowTo.1" = "Món ##Thịt Ba Rọi Xào Dầu Hào## này ăn với cơm rất ngon.";
+
+/* Pork Belly with Oyster Sauce How To 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.HowTo.1.Accessibility" = "Món Thịt Ba Rọi Xào Dầu Hào này ăn với cơm rất ngon.";
+
+/* Pork Belly with Oyster Sauce How To 2 */
+"PorkBellyWithOysterSauce.HowTo.2" = "Món này thay thế cho ##Thịt Ba Rọi## thường trong ##Bánh Xèo## cũng rất ngon.";
+
+/* Pork Belly with Oyster Sauce How To 2 (VoiceOver) */
+"PorkBellyWithOysterSauce.HowTo.2.Accessibility" = "Món này thay thế cho Thịt Ba Rọi thường trong Bánh Xèo cũng rất ngon.";
+
+/* Pork Belly with Oyster Sauce Used In Header */
+"PorkBellyWithOysterSauce.UsedIn.Header" = "Dùng Trong";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

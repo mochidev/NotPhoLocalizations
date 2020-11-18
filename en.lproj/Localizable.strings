@@ -2149,6 +2149,128 @@
 "GrilledPork.UsedIn.Header" = "Used In";
 
 
+// MARK: Thit Ba Roi Xao Voi Dau Hao (Pork Belly with Oyster Sauce) Page
+
+/* Pork Belly with Oyster Sauce Main Image (VoiceOver) */
+"PorkBellyWithOysterSauce.Main.Image" = "Info";
+
+/* Pork Belly with Oyster Sauce Introduction 1 */
+"PorkBellyWithOysterSauce.Introduction.1" = "##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) is a very simple but delicious dish. It came about when I was making ##Bánh Xèo## (Vietnamese crêpe) with a friend many years back, and ##Thịt Ba Rọi## (pork belly) was one of the meat options and she suggested that I add some ##Dầu Hào## (oyster sauce) to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I made ##Bánh Xèo## (Vietnamese crêpe). Since ##Thịt Ba Rọi## (pork belly) with ##Dầu Hào## (oyster sauce) is so savory and delicious, it also goes great with hot white rice.";
+
+/* Pork Belly with Oyster Sauce Introduction 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Introduction.1.Accessibility" = "Pork belly with oyster sauce is a very simple but delicious dish. It came about when I was making Vietnamese crêpe with a friend many years back, and pork belly was one of the meat options and she suggested that I add some oyster sauce to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I made Vietnamese crêpe. Since pork belly with oyster sauce is so savory and delicious, it also goes great with hot white rice.";
+
+/* Pork Belly with Oyster Sauce Introduction 2 */
+"PorkBellyWithOysterSauce.Introduction.2" = "This recipe serves one.";
+
+/* Pork Belly with Oyster Sauce Ingredients Header */
+"PorkBellyWithOysterSauce.Ingredients.Header" = "Ingredients";
+
+/* Pork Belly with Oyster Sauce Ingredients Pork Belly Amount */
+"PorkBellyWithOysterSauce.Ingredients.PorkBelly.Amount.us" = "3-4 oz";
+"PorkBellyWithOysterSauce.Ingredients.PorkBelly.Amount.metric" = "80-100 g";
+
+/* Pork Belly with Oyster Sauce Ingredients Pork Belly Amount (VoiceOver) */
+"PorkBellyWithOysterSauce.Ingredients.PorkBelly.AccessibilityAmount.us" = "3 to 4 ounces";
+"PorkBellyWithOysterSauce.Ingredients.PorkBelly.AccessibilityAmount.metric" = "80 to 100 grams";
+
+/* Pork Belly with Oyster Sauce Ingredients Oyster Sauce Amount */
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.Amount" = "2 tsp";
+
+/* Pork Belly with Oyster Sauce Ingredients Oyster Sauce Amount (VoiceOver) */
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.AccessibilityAmount" = "2 teaspoons";
+
+/* Pork Belly with Oyster Sauce Ingredients Sugar Amount */
+"PorkBellyWithOysterSauce.Ingredients.Sugar.Amount" = "⅔ tsp";
+
+/* Pork Belly with Oyster Sauce Ingredients Sugar Amount (VoiceOver) */
+"PorkBellyWithOysterSauce.Ingredients.Sugar.AccessibilityAmount" = "two third teaspoons";
+
+/* Pork Belly with Oyster Sauce Ingredients Pepper Amount */
+"PorkBellyWithOysterSauce.Ingredients.Pepper.Amount" = "⅛ tsp";
+
+/* Pork Belly with Oyster Sauce Ingredients Pepper Amount (VoiceOver) */
+"PorkBellyWithOysterSauce.Ingredients.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Pork Belly with Oyster Sauce Instructions Header */
+"PorkBellyWithOysterSauce.Instructions.Header" = "Instructions";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.1" = "Step 1";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Part 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Part.1" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite-sized pieces.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Part 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Part.1.Accessibility" = "Cut the pork belly into bite sized pieces.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Note 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Note.1" = "You can find ##Thịt Ba Rọi## (pork belly) already cut into small pieces at most Asian supermarkets.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Note 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Note.1.Accessibility" = "You can find pork belly already cut into small pieces at most Asian supermarkets.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Note 2 */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Note.2" = "Or you can buy a slab of ##Thịt Ba Rọi## (pork belly) and cut it yourself.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 1 Note 2 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.1.Note.2.Accessibility" = "Or you can buy a slab of pork belly and cut it yourself.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 */
+"PorkBellyWithOysterSauce.Instructions.Step.2" = "Step 2";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Part 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.1" = "In a medium-high heat wok/pan, add the ##Thịt Ba Rọi## (pork belly).";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Part 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok or pan, add the pork belly.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Part 2 */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.2" = "Cook until the ##Thịt Ba Rọi## (pork belly) is cooked.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Part 2 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.2.Accessibility" = "Cook until the pork belly is cooked.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Note 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Note.1" = "No cooking oil is needed because the ##Thịt Ba Rọi## (pork belly) fat will melt during cooking and there will be plenty to keep the ingredients from sticking to the wok/pan.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 2 Note 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.2.Note.1.Accessibility" = "No cooking oil is needed because the pork belly fat will melt during cooking and there will be plenty to keep the ingredients from sticking to the wok or pan.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 */
+"PorkBellyWithOysterSauce.Instructions.Step.3" = "Step 3";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 Part 1 */
+"PorkBellyWithOysterSauce.Instructions.Step.3.Part.1" = "Add ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (pepper).";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 Part 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.3.Part.1.Accessibility" = "Add oyster sauce, sugar, and pepper.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 Part 2 */
+"PorkBellyWithOysterSauce.Instructions.Step.3.Part.2" = "Stir fry everything together until the ##Thịt Ba Rọi## (pork belly) is well coated in sauce.";
+
+/* Pork Belly with Oyster Sauce Instructions Step 3 Part 2 (VoiceOver) */
+"PorkBellyWithOysterSauce.Instructions.Step.3.Part.2.Accessibility" = "Stir fry everything together until the pork belly is well coated in sauce.";
+
+/* Pork Belly with Oyster Sauce How To Header */
+"PorkBellyWithOysterSauce.HowTo.Header" = "How To";
+
+/* Pork Belly with Oyster Sauce How To 1 */
+"PorkBellyWithOysterSauce.HowTo.1" = "This dish is best enjoyed with rice.";
+
+/* Pork Belly with Oyster Sauce How To 1 (VoiceOver) */
+"PorkBellyWithOysterSauce.HowTo.1.Accessibility" = "This dish is best enjoyed with rice.";
+
+/* Pork Belly with Oyster Sauce How To 2 */
+"PorkBellyWithOysterSauce.HowTo.2" = "It is also great as a component to substitute the plain ##Thịt Ba Rọi## (pork belly) in ##Bánh Xèo## (Vietnamese crêpes).";
+
+/* Pork Belly with Oyster Sauce How To 2 (VoiceOver) */
+"PorkBellyWithOysterSauce.HowTo.2.Accessibility" = "It is also great as a component to substitute the plain pork belly in Vietnamese crepes.";
+
+/* Pork Belly with Oyster Sauce Used In Header */
+"PorkBellyWithOysterSauce.UsedIn.Header" = "Used In";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

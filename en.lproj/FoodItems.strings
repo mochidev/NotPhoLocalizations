@@ -76,6 +76,9 @@
 "grilledPork.Subtitle" = "Grilled Pork";
 "grilledPork.AccessibilitySubtitle" = "Grilled Pork";
 
+/* Pork Belly with Oyster Sauce */
+"porkBellyWithOysterSauce.Subtitle" = "Pork Belly with Oyster Sauce";
+"porkBellyWithOysterSauce.AccessibilitySubtitle" = "Pork Belly with Oyster Sauce";
 
 // MARK: Ingredients Tab
 
