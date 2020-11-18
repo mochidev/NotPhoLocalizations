@@ -33,6 +33,10 @@
 "brokenRice.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 "brokenRice.AccessibilityPageTitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 
+/* Pork Belly with Onion */
+"porkBellyWithOnion.Subtitle" = "Pork Belly with Onion";
+"porkBellyWithOnion.AccessibilitySubtitle" = "Pork Belly with Onion";
+
 
 // MARK: Recipes Tab
 
@@ -79,6 +83,7 @@
 /* Pork Belly with Oyster Sauce */
 "porkBellyWithOysterSauce.Subtitle" = "Pork Belly with Oyster Sauce";
 "porkBellyWithOysterSauce.AccessibilitySubtitle" = "Pork Belly with Oyster Sauce";
+
 
 // MARK: Ingredients Tab
 

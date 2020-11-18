@@ -38,6 +38,10 @@
 "brokenRice.AccessibilitySubtitle" = "Cơm Tấm Thịt Nướng Chả";
 "brokenRice.AccessibilityPageTitle" = "Cơm Tấm Thịt Nướng Chả";
 
+/* Pork Belly with Onion */
+"porkBellyWithOnion.Subtitle" = "Pork Belly with Onion";
+"porkBellyWithOnion.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Hành";
+"porkBellyWithOnion.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Hành";
 
 // MARK: Recipes Tab
 

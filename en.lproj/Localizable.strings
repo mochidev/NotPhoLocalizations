@@ -829,6 +829,74 @@
 "Broken.Rice.HowTo.3.Accessibility" = "You can also pour the mixed fish sauce over everything on the plate and enjoy it all together.";
 
 
+// MARK: Thit Ba Roi Xao Hanh (Pork Belly with Onion) Page
+
+/* Pork Belly with Onion Main Image (VoiceOver) */
+"PorkBellyWithOnion.Main.Image" = "Info";
+
+/* Pork Belly with Onion Introduction 1 */
+"PorkBellyWithOnion.Introduction.1" = "##Thịt Ba Rọi Xào Hành## (pork belly with onion) may not be a true Vietnamese dish, but it is delicious. What I mean by ‘true’ is that you would not find this dish on a menu at a Vietnamese restaurant, but it is an authentic home cooked dish. It is very simple and quick to make it, and I usually cook this whenever I get lazy.";
+
+/* Pork Belly with Onion Introduction 1 (VoiceOver) */
+"PorkBellyWithOnion.Introduction.1.Accessibility" = "Pork belly with onion may not be a true Vietnamese dish, but it is delicious. What I mean by ‘true’ is that you would not find this dish on a menu at a Vietnamese restaurant, but it is an authentic home cooked dish. It is very simple and quick to make it, and I usually cook this whenever I get lazy.";
+
+/* Pork Belly with Onion Introduction 2 */
+"PorkBellyWithOnion.Introduction.2" = "This recipe serves one.";
+
+/* Pork Belly with Onion Ingredients Header */
+"PorkBellyWithOnion.Ingredients.Header" = "Ingredients";
+
+/* Pork Belly with Onion Ingredients Rice Amount */
+"PorkBellyWithOnion.Ingredients.Rice.Amount.us" = "½ cup, cooked";
+"PorkBellyWithOnion.Ingredients.Rice.Amount.metric" = "90 g, cooked";
+
+/* Pork Belly with Onion Ingredients Rice Amount (VoiceOver) */
+"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
+"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
+
+/* Pork Belly with Onion Ingredients Pork Belly With Oyster Sauce Amount */
+"PorkBellyWithOnion.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 serving";
+
+/* Pork Belly with Onion Ingredients Spring Onion Amount */
+"PorkBellyWithOnion.Ingredients.SpringOnion.Amount" = "1 stalk";
+
+/* Pork Belly with Onion Instructions Header */
+"PorkBellyWithOnion.Instructions.Header" = "Instructions";
+
+/* Pork Belly with Onion Instructions 1 */
+"PorkBellyWithOnion.Instructions.1" = "Follow the recipe for ##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce).";
+
+/* Pork Belly with Onion Instructions 1 (VoiceOver) */
+"PorkBellyWithOnion.Instructions.1.Accessibility" = "Follow the recipe for pork belly with oyster sauce.";
+
+/* Pork Belly with Onion Instructions 2 */
+"PorkBellyWithOnion.Instructions.2" = "Before removing the ##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) from the wok/pan, add the ##Hành Lá## (spring onion).";
+
+/* Pork Belly with Onion Instructions 2 (VoiceOver) */
+"PorkBellyWithOnion.Instructions.2.Accessibility" = "Before removing the pork belly with oyster sauce from the wok/pan, add the spring onion.";
+
+/* Pork Belly with Onion Instructions 3 */
+"PorkBellyWithOnion.Instructions.3" = "Toss all the ingredients together.";
+
+/* Pork Belly with Onion Instructions Note 1 */
+"PorkBellyWithOnion.Instructions.Note.1" = "##Hành Lá## (spring onion) is a garnish so you don't want to over cook it.";
+
+/* Pork Belly with Onion Instructions Note 1 (VoiceOver) */
+"PorkBellyWithOnion.Instructions.Note.1.Accessibility" = "Spring onion is a garnish so you don't want to over cook it.";
+
+/* Pork Belly with Onion Instructions Note 2 */
+"PorkBellyWithOnion.Instructions.Note.2" = "Unless you don't like the flavor of raw ##Hành Lá## (spring onion), then cooking it a bit longer is perfectly fine.";
+
+/* Pork Belly with Onion Instructions Note 2 (VoiceOver) */
+"PorkBellyWithOnion.Instructions.Note.2.Accessibility" = "Unless you don't like the flavor of raw spring onion, then cooking it a bit longer is perfectly fine.";
+
+/* Pork Belly with Onion How To Header */
+"PorkBellyWithOnion.HowTo.Header" = "How To";
+
+/* Pork Belly with Onion How To 1 */
+"PorkBellyWithOnion.HowTo.1" = "This dish is great to be enjoyed with rice.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */
