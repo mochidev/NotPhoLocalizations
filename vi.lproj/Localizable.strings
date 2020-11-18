@@ -224,12 +224,6 @@
 
 // MARK: Banh Xeo (Vietnamese Crepes) Page
 
-/* Crepe Main Image (VoiceOver) */
-"Crepe.Main.Image" = "Thông tin.";
-
-/* Crepe Main Image Action Hint (VoiceOver) */
-"Crepe.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
-
 /* Crepe Introduction */
 "Crepe.Introduction.1" = "##Bánh Xèo## mô tả âm thanh phát ra khi bột chạm vào chảo nóng. ##Bánh Xèo## là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Thông thường ##Bánh Xèo## được kết hợp với ##Rau## thơm và ##Nước Mắm Chấm##.";
 
@@ -241,9 +235,6 @@
 
 /* Crepe Introduction 2 (VoiceOver) */
 "Crepe.Introduction.2.Accessibility" = "Công thức này làm cho 4 đến 5 người ăn.";
-
-/* Crepe Ingredients Header */
-"Crepe.Ingredients.Header" = "Nguyên Liệu";
 
 /* Crepe Ingredients Crepe Batter Amount */
 "Crepe.Ingredients.CrepeBatter.Amount" = "1 gói";
@@ -293,12 +284,6 @@
 /* Crepe Ingredients Oil Amount (VoiceOver) */
 "Crepe.Ingredients.Oil.AccessibilityAmount" = "4 đến 5 muỗng canh";
 
-/* Crepe Instructions Header */
-"Crepe.Instructions.Header" = "Cách Làm";
-
-/* Crepe Instructions Step 1 Image (VoiceOver) */
-"Crepe.Instructions.Step.1.Image" = "Bước 1";
-
 /* Crepe Instructions Step 1 Part 1 */
 "Crepe.Instructions.Step.1.Part.1" = "Pha ##Bột Bánh Xèo## theo cách thức ở trên bao bì của bịch bột.";
 
@@ -326,9 +311,6 @@
 /* Crepe Instructions Step 1 Note 1 (VoiceOver) */
 "Crepe.Instructions.Step.1.Note.1.Accessibility" = "Nếu không tìm được Bột Bánh Xèo trộn sẵn thì có thể theo cách thức làm bột ở trên trang Bột Bánh Xèo.";
 
-/* Crepe Instructions Step 2 Image (VoiceOver) */
-"Crepe.Instructions.Step.2.Image" = "Bước 2";
-
 /* Crepe Instructions Step 2 Part 1 */
 "Crepe.Instructions.Step.2.Part.1" = "Dùng chảo không dính để làm ##Bánh Xèo##. Đầu tiên là mở lửa lên, nhiệt độ trung bình đến cao và cho một ít ##Dầu## vào trên chảo.";
 
@@ -341,9 +323,6 @@
 /* Crepe Instructions Step 2 Part 2 (VoiceOver) */
 "Crepe.Instructions.Step.2.Part.2.Accessibility" = "Thêm Củ Hàn lát vào chảo và xào 10 tới 20 giây.";
 
-/* Crepe Instructions Step 3 Image (VoiceOver) */
-"Crepe.Instructions.Step.3.Image" = "Bước 3";
-
 /* Crepe Instructions Step 3 Part 1 */
 "Crepe.Instructions.Step.3.Part.1" = "Thêm vài con ##Tôm## và vài miếng ##Thịt Ba Rọi## vào và tiếp tục xào.";
 
@@ -353,17 +332,11 @@
 /* Crepe Instructions Step 3 Note */
 "Crepe.Instructions.Step3.Note.1" = "Tới bước này ##Tôm## và ##Thịt## không cần phải nấu chín.";
 
-/* Crepe Instructions Step 4 Image (VoiceOver) */
-"Crepe.Instructions.Step.4.Image" = "Bước 4";
-
 /* Crepe Instructions Step 4 Part 1 */
 "Crepe.Instructions.Step.4.Part.1" = "Di chuyển mọi thứ trên chảo sang một bên.";
 
 /* Crepe Instructions Step 4 Part 1 (VoiceOver) */
 "Crepe.Instructions.Step.4.Part.1.Accessibility" = "Di chuyển mọi thứ trên chảo sang một bên.";
-
-/* Crepe Instructions Step 5 Image (VoiceOver) */
-"Crepe.Instructions.Step.5.Image" = "Bước 5";
 
 /* Crepe Instructions Step 5 Part 1 */
 "Crepe.Instructions.Step.5.Part.1" = "Đổ một ít ##Bột Bánh Xèo## vào chảo và duy chuyển chảo liền để bột lan ra.";
@@ -377,9 +350,6 @@
 /* Crepe Instructions Step 5 Note 1 (VoiceOver) */
 "Crepe.Instructions.Step.5.Note.1.Accessibility" = "Thêm Bột Bánh Xèo đến khi nào không thấy chảo. Nên chú ý đừng bỏ nhiều Bột Bánh Xèo tại vì muốn vỏ Bánh Xèo mỏng và giòn.";
 
-/* Crepe Instructions Step 6 Image (VoiceOver) */
-"Crepe.Instructions.Step.6.Image" = "Bước 6";
-
 /* Crepe Instructions Step 6 Part 1 */
 "Crepe.Instructions.Step.6.Part.1" = "Thêm một ít ##Giá Đậu##.";
 
@@ -391,9 +361,6 @@
 
 /* Crepe Instructions Step 6 Part 2 (VoiceOver) */
 "Crepe.Instructions.Step.6.Part.2.Accessibility" = "Đầy nắp chảo lại để mọi thứ có thể nấu chín.";
-
-/* Crepe Instructions Step 7 Image (VoiceOver) */
-"Crepe.Instructions.Step.7.Image" = "Bước 7";
 
 /* Crepe Instructions Step 7 Part 1 */
 "Crepe.Instructions.Step.7.Part.1" = "Sau khi mọi thứ đã nấu chín thì lấy khỏi nắp chảo. Tiếp tục để ##Bánh Xèo## trên chảo và nấu thêm một hai phút để vỏ ##Bánh Xèo## được giòn.";

@@ -222,12 +222,6 @@
 
 // MARK: Banh Xeo (Vietnamese Crepes) Page
 
-/* Crepe Main Image (VoiceOver) */
-"Crepe.Main.Image" = "Info";
-
-/* Crepe Main Image Action Hint (VoiceOver) */
-"Crepe.Main.Image.Hint" = "Scroll down to learn more.";
-
 /* Crepe Introduction 1 */
 "Crepe.Introduction.1" = "##Bánh Xèo## (Vietnamese crêpes) is literally translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. ##Bánh Xèo## (Vietnamese crêpes) are a popular street snack in Vietnam, and these savory crêpes are always paired with a plate of ##Rau## (leafy greens) and a surplus of sweet, sour, and savory ##Nước Mắm Chấm## (mixed fish sauce).";
 
@@ -239,9 +233,6 @@
 
 /* Crepe Introduction 2 (VoiceOver) */
 "Crepe.Introduction.2.Accessibility" = "This recipe serves 4 to 5 people.";
-
-/* Crepe Ingredients Header */
-"Crepe.Ingredients.Header" = "Ingredients";
 
 /* Crepe Ingredients Crepe Batter Amount */
 "Crepe.Ingredients.CrepeBatter.Amount" = "1 package";
@@ -291,12 +282,6 @@
 /* Crepe Ingredients Oil Amount (VoiceOver) */
 "Crepe.Ingredients.Oil.AccessibilityAmount" = "4 to 5 tablespoons";
 
-/* Crepe Instructions Header */
-"Crepe.Instructions.Header" = "Instructions";
-
-/* Crepe Instructions Step 1 Image (VoiceOver) */
-"Crepe.Instructions.Step.1.Image" = "Step 1";
-
 /* Crepe Instructions Step 1 Part 1 */
 "Crepe.Instructions.Step.1.Part.1" = "Prepare the ##Bột Bánh Xèo## (crêpe batter) according to the instructions on the package.";
 
@@ -339,9 +324,6 @@
 /* Crepe Instructions Step 2 Part 2 (VoiceOver) */
 "Crepe.Instructions.Step.2.Part.2.Accessibility" = "Add some sliced onions and sauté for about 10 to 20 seconds.";
 
-/* Crepe Instructions Step 3 Image (VoiceOver) */
-"Crepe.Instructions.Step.3.Image" = "Step 3";
-
 /* Crepe Instructions Step 3 Part 1 */
 "Crepe.Instructions.Step.3.Part.1" = "Add several ##Tôm## (shrimp) and several pieces of thinly sliced ##Thịt Ba Rọi## (pork belly); continuing to sauté everything.";
 
@@ -351,17 +333,11 @@
 /* Crepe Instructions Step 3 Note */
 "Crepe.Instructions.Step3.Note.1" = "The meat and shrimp should be lightly seared, but should not be fully cooked by this point, as they will continue to cook in the following steps.";
 
-/* Crepe Instructions Step 4 Image (VoiceOver) */
-"Crepe.Instructions.Step.4.Image" = "Step 4";
-
 /* Crepe Instructions Step 4 Part 1 */
 "Crepe.Instructions.Step.4.Part.1" = "Move the ##Củ Hành## (onion), ##Tôm## (shrimp), and ##Thịt Ba Rọi## (pork belly) to one side of the pan — this will become the bottom of the crêpe.";
 
 /* Crepe Instructions Step 4 Part 1 (VoiceOver) */
 "Crepe.Instructions.Step.4.Part.1.Accessibility" = "Move the onion, shrimp, and pork belly to one side of the pan — this will become the bottom of the crepe.";
-
-/* Crepe Instructions Step 5 Image (VoiceOver) */
-"Crepe.Instructions.Step.5.Image" = "Step 5";
 
 /* Crepe Instructions Step 5 Part 1 */
 "Crepe.Instructions.Step.5.Part.1" = "Pour in some ##Bột Bánh Xèo## (crêpe batter) and quickly swirl the pan to spread the batter.";
@@ -375,9 +351,6 @@
 /* Crepe Instructions Step 5 Note 1 (VoiceOver) */
 "Crepe.Instructions.Step.5.Note.1.Accessibility" = "Add more crepe batter until the bottom of the pan is covered, but don’t add too much — you want the crepe to be thin.";
 
-/* Crepe Instructions Step 6 Image (VoiceOver) */
-"Crepe.Instructions.Step.6.Image" = "Step 6";
-
 /* Crepe Instructions Step 6 Part 1 */
 "Crepe.Instructions.Step.6.Part.1" = "Add some ##Giá Đậu## (bean sprouts).";
 
@@ -389,9 +362,6 @@
 
 /* Crepe Instructions Step 6 Part 2 (VoiceOver) */
 "Crepe.Instructions.Step.6.Part.2.Accessibility" = "Cover the pan with a lid so the shrimp, pork belly, and bean sprouts can steam and cook fully.";
-
-/* Crepe Instructions Step 7 Image (VoiceOver) */
-"Crepe.Instructions.Step.7.Image" = "Step 7";
 
 /* Crepe Instructions Step 7 Part 1 */
 "Crepe.Instructions.Step.7.Part.1" = "Remove the lid, and let the ##Bánh Xèo## (crêpe) sit on the pan to crisp up the shell.";
