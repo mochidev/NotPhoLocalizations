@@ -226,7 +226,7 @@
 // MARK: Banh Xeo (Vietnamese Crepes) Page
 
 /* Crepe Introduction 1 */
-"Crepe.Introduction.1" = "##Bánh Xèo## (Vietnamese crêpes) is literally translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. ##Bánh Xèo## (Vietnamese crêpes) are a popular street snack in Vietnam, and these savory crêpes are always paired with a plate of ##Rau## (leafy greens) and a surplus of sweet, sour, and savory ##Nước Mắm Chấm## (mixed fish sauce).";
+"Crepe.Introduction.1" = "##Bánh Xèo## (Vietnamese crêpes) is literally translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. ##Bánh Xèo## (crêpes) are a popular street snack in Vietnam, and these savory crêpes are always paired with a plate of ##Rau## (leafy greens) and a surplus of sweet, sour, and savory ##Nước Mắm Chấm## (mixed fish sauce).";
 
 /* Crepe Introduction 1 (VoiceOver) */
 "Crepe.Introduction.1.Accessibility" = "Vietnamese crepe, in Vietnamese, is translated as “sizzling cake” because of the sound the rice batter makes when hitting the hot pan. Vietnamese crepes are a popular street snack in Vietnam, and these savory crepes are always paired with a plate of leafy greens and a surplus of sweet, sour, and savory mixed fish sauce.";
@@ -289,7 +289,7 @@
 "Crepe.Instructions.Step.1.Part.1" = "Prepare the ##Bột Bánh Xèo## (crêpe batter) according to the instructions on the package.";
 
 /* Crepe Instructions Step 1 Part 1 (VoiceOver) */
-"Crepe.Instructions.Step.1.Part.1.Accessibility" = "Prepare the crepe batter according to the instructions on the package.";
+"Crepe.Instructions.Step.1.Part.1.Accessibility" = "Prepare the crêpe batter according to the instructions on the package.";
 
 /* Crepe Instructions Step 1 Part 2 */
 "Crepe.Instructions.Step.1.Part.2" = "Slice the ##Hành Lá## (spring onion) and add it to the batter mix.";
@@ -310,10 +310,7 @@
 "Crepe.Instructions.Step.1.Note.1" = "If you can’t find pre-mixed ##Bột Bánh Xèo## (crêpe batter), you can make it yourself using the recipe on the batter page.";
 
 /* Crepe Instructions Step 1 Note 1 (VoiceOver) */
-"Crepe.Instructions.Step.1.Note.1.Accessibility" = "If you can’t find pre-mixed crepe batter, you can make it yourself using the recipe on the batter page in the Ingredients section.";
-
-/* Crepe Instructions Step 2 Image (VoiceOver) */
-"Crepe.Instructions.Step.2.Image" = "Step 2";
+"Crepe.Instructions.Step.1.Note.1.Accessibility" = "If you can’t find pre-mixed crêpe batter, you can make it yourself using the recipe on the batter page in the Ingredients section.";
 
 /* Crepe Instructions Step 2 Part 1 */
 "Crepe.Instructions.Step.2.Part.1" = "In a medium to high heat non-stick pan, add some ##Dầu Canola## (canola oil).";
@@ -418,7 +415,7 @@
 "Crepe.HowTo.2" = "Break off a piece of ##Bánh Xèo## (crêpe) and place it in the middle of your ##Rau Xà Lách## (lettuce).";
 
 /* Crepe How To 2 (VoiceOver) */
-"Crepe.HowTo.2.Accessibility" = "Break off a piece of crepe and place it in the middle of your lettuce leaf.";
+"Crepe.HowTo.2.Accessibility" = "Break off a piece of crêpe and place it in the middle of your lettuce leaf.";
 
 /* Crepe How To 3 */
 "Crepe.HowTo.3" = "Add some ##Tía Tô## (perilla leaves), ##Bạc Hà## (mint), ##Húng Quế## (Thai basil), and ##Ngò## (cilantro).";
@@ -991,7 +988,7 @@
 "CrepeBatter.Instructions.5" = "Let the ##Bột Bánh Xèo## (crêpe batter) sit for at least 30 minutes.";
 
 /* Crepe Batter Instructions 5 (VoiceOver) */
-"CrepeBatter.Instructions.5.Accessibility" = "Let the crepe batter sit for at least 30 minutes.";
+"CrepeBatter.Instructions.5.Accessibility" = "Let the crêpe batter sit for at least 30 minutes.";
 
 /* Crepe Batter Instructions Note 1 */
 "CrepeBatter.Instructions.Note.1" = "If you don't have ##Nước Cốt Dừa## (coconut milk) then substitute it with ##Nước## (water) or even beer to make it extra crispy.";
