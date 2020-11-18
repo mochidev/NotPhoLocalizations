@@ -18,6 +18,9 @@
 /* The Heading for Instructions sections */
 "Heading.Instructions" = "Instructions";
 
+/* The Heading for Variants sections */
+"Heading.Variants" = "Variants";
+
 /* The Heading for How To sections */
 "Heading.HowTo" = "How To";
 
@@ -381,8 +384,29 @@
 /* Crepe Instructions Step 7 Note 1 (VoiceOver) */
 "Crepe.Instructions.Step.7.Note.1.Accessibility" = "Making crepes can be hard work on the chef, as the crepes seem to disappear faster than they get made! Consider using multiple small pans to make several at once, or turn this into a family activity by eating in the kitchen (if space is available), or bringing the kitchen to the dining area with a small portable burner.";
 
-/* Crepe How To Header */
-"Crepe.HowTo.Header" = "How To";
+/* Crepe Variants 1 */
+"Crepe.Variants.1" = "You can substitute the ##Thịt Ba Rọi## (pork belly) here with the ##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) recipe.";
+
+/* Crepe Variants 1 (VoiceOver) */
+"Crepe.Variants.1.Accessibility" = "You can substitute the pork belly here with the pork belly with oyster sauce recipe.";
+
+/* Crepe Variants 2 */
+"Crepe.Variants.2" = "You can skip the part about sautéing the ##Thịt Ba Rọi## (pork belly) with the ##Tôm## (shrimps), and add the ##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) in after you pour the ##Bột Bánh Xèo## (crêpe batter).";
+
+/* Crepe Variants 2 (VoiceOver) */
+"Crepe.Variants.2.Accessibility" = "You can skip the part about sautéing the pork belly with the shrimps, and add the pork belly with oyster sauce in after you pour the crepe batter.";
+
+/* Crepe Variants 3 */
+"Crepe.Variants.3" = "You can also use the oyster sauce recipe with the ##Tôm## (shrimps) that way both the ##Tôm## (shrimps) and ##Thịt Ba Rọi## (pork belly) are seasoned.";
+
+/* Crepe Variants 3 (VoiceOver) */
+"Crepe.Variants.3.Accessibility" = "You can also use the oyster sauce recipe with the shrimps that way both the shrimps and pork belly are seasoned.";
+
+/* Crepe Variants 4 */
+"Crepe.Variants.4" = "I find this technique gives the ##Tôm## (shrimps) and ##Thịt Ba Rọi## (pork belly) even more flavors.";
+
+/* Crepe Variants 4 (VoiceOver) */
+"Crepe.Variants.4.Accessibility" = "I find this technique gives the shrimps and pork belly even more flavors.";
 
 /* Crepe How To 1 */
 "Crepe.HowTo.1" = "Grab a piece of ##Rau Xà Lách## (lettuce).";

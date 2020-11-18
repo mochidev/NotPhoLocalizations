@@ -18,6 +18,9 @@
 /* The Heading for Instructions sections */
 "Heading.Instructions" = "Cách Làm";
 
+/* The Heading for Variants sections */
+"Heading.Variants" = "Các Biến Thể";
+
 /* The Heading for How To sections */
 "Heading.HowTo" = "Cách Thưởng Thức";
 
@@ -380,8 +383,30 @@
 /* Crepe Instructions Step 7 Note 1 (VoiceOver) */
 "Crepe.Instructions.Step.7.Note.1.Accessibility" = "Làm Bánh Xèo cần rất nhiều công thức nên nếu có thể rủ gia đình cùng làm.";
 
-/* Crepe How To Header */
-"Crepe.HowTo.Header" = "Cách Thưởng Thức";
+/* Crepe Variants 1 */
+"Crepe.Variants.1" = "Bạn có thể thay thế ##Thịt Ba Rọi## (pork belly) tại đây bằng món ##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce).";
+
+/* Crepe Variants 1 (VoiceOver) */
+"Crepe.Variants.1.Accessibility" = "Bạn có thể thay thế Thịt Ba Rọi tại đây bằng món Thịt Ba Rọi Xào Dầu Hào.";
+
+/* Crepe Variants 2 */
+"Crepe.Variants.2" = "Bạn có thể bỏ qua phần xào ##Thịt Ba Rọi## (pork belly) với ##Tôm## (shrimps), và dùng ##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) sau khi đổ ##Bột Bánh Xèo## (crepe batter).";
+
+/* Crepe Variants 2 (VoiceOver) */
+"Crepe.Variants.2.Accessibility" = "Bạn có thể bỏ qua phần xào Thịt Ba Rọi với tôm, và dùng Thịt Ba Rọi Xào Dầu Hào sau khi đổ Bột Bánh Xèo.";
+
+/* Crepe Variants 3 */
+"Crepe.Variants.3" = "
+Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimps) để ##Tôm## (shrimps) ngon hơn.";
+
+/* Crepe Variants 3 (VoiceOver) */
+"Crepe.Variants.3.Accessibility" = "Bạn cũng có thể sử dụng công thức dầu hào với tôm để tôm ngon hơn.";
+
+/* Crepe Variants 4 */
+"Crepe.Variants.4" = "Tôi thấy công thức này mang lại cho ##Tôm## (shrimps) và ##Thịt Ba Rọi## (pork belly) nhiều hương vị hơn.";
+
+/* Crepe Variants 4 (VoiceOver) */
+"Crepe.Variants.4.Accessibility" = "Tôi thấy công thức này mang lại cho tôm và Thịt Ba Rọi nhiều hương vị hơn.";
 
 /* Crepe How To 1 */
 "Crepe.HowTo.1" = "Lấy một lá ##Rau Xà Lách## trong tay.";
