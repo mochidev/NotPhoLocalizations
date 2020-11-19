@@ -21,6 +21,9 @@
 /* The Heading for Variants sections */
 "Heading.Variants" = "Các Biến Thể";
 
+/* The Heading for Tips sections */
+"Heading.Tips" = "Gợi Ý";
+
 /* The Heading for How To sections */
 "Heading.HowTo" = "Cách Thưởng Thức";
 
@@ -2571,6 +2574,46 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Oyster Sauce Used In Header */
 "OysterSauce.UsedIn.Header" = "Dùng Trong";
+
+
+// MARK: Thit Ba Roi (Pork Belly) Page
+
+/* Pork Belly Introduction 1 */
+"PorkBelly.Introduction.1" = "##Thịt Ba Rọi## (pork belly) là phần thịt ngon nhất, theo tôi, vì nửa thịt nửa mỡ nên chúng rất ngon trong các món xào và hầm.";
+
+/* Pork Belly Introduction 1 (VoiceOVer) */
+"PorkBelly.Introduction.1.Accessibility" = "Thịt Ba Rọi là phần thịt ngon nhất, theo tôi, vì nửa thịt nửa mỡ nên chúng rất ngon trong các món xào và hầm.";
+
+/* Pork Belly Introduction 2 */
+"PorkBelly.Introduction.2" = "Khi nói đến tạp hóa, hầu hết mọi thứ đều được bán với số lượng lớn, điều này có thể khá lãng phí nếu bạn không thể sử dụng hết trước khi chúng hư. Tôi học cách đông lạnh thịt khi mua quá nhiều và xả đá khi cần, tôi hy vọng phương pháp này hữu ích cho bạn.";
+
+/* Pork Belly Tips 1 */
+"PorkBelly.Tips.1" = "##Thịt Ba Rọi## (pork belly) thường được bán bằng miếng lớn khoảng 900 g.";
+
+/* Pork Belly Tips 1 (VoiceOVer) */
+"PorkBelly.Tips.1.Accessibility" = "Thịt Ba Rọi thường được bán bằng miếng lớn khoảng 900 gờ ram.";
+
+/* Pork Belly Tips 2 */
+"PorkBelly.Tips.2" = "Tôi thường cắt ##Thịt Ba Rọi## (pork belly) thành miếng vừa ăn, và chia thịt thành từng phần nhỏ, từ 3-4 oz, trong túi nhựa và đông lạnh chúng.";
+
+/* Pork Belly Tips 2 (VoiceOVer) */
+"PorkBelly.Tips.2.Accessibility" = "Tôi thường cắt Thịt Ba Rọi thành miếng vừa ăn, và chia thịt thành từng phần nhỏ, từ 3 đến 4 aoxơ, trong túi ni lông và đông lạnh chúng.";
+
+/* Pork Belly Tips 3 */
+"PorkBelly.Tips.3" = "Đông lạnh thịt sẽ giữ được lâu hơn, khoảng vài tháng, đặc biệt nếu bạn không cần nấu cho nhiều người.";
+
+/* Pork Belly Tips 4 */
+"PorkBelly.Tips.4" = "Hãy nhớ ghi loại thịt và ngày tháng ở bên ngoài túi ni lông để lần sau nhìn lại bạn có thể nhớ.";
+
+/* Pork Belly Tips 5 */
+"PorkBelly.Tips.5" = "Khi cần sử dụng ##Thịt Ba Rọi## (pork belly), chỉ cần xả đá thịt cùng với túi ni lông dưới vòi nước lạnh.";
+
+/* Pork Belly Tips 6 */
+"PorkBelly.Tips.6" = "Bạn có thể sử dụng kỹ thuật này cho thit gà, tôm và thịt heo.";
+
+/* Pork Belly Tips Note 1 */
+"PorkBelly.Tips.Note.1" = "Thịt bò tốt nhất nên ăn tươi vì vậy đừng đông lạnh.";
+
 
 // MARK: - # About Tab:
 

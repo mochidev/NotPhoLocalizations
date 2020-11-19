@@ -21,6 +21,9 @@
 /* The Heading for Variants sections */
 "Heading.Variants" = "Variants";
 
+/* The Heading for Tips sections */
+"Heading.Tips" = "Tips";
+
 /* The Heading for How To sections */
 "Heading.HowTo" = "How To";
 
@@ -2541,6 +2544,45 @@
 
 /* Oyster Sauce Used In Header */
 "OysterSauce.UsedIn.Header" = "Used In";
+
+
+// MARK: Thit Ba Roi (Pork Belly) Page
+
+/* Pork Belly Introduction 1 */
+"PorkBelly.Introduction.1" = "##Thịt Ba Rọi## (pork belly) is the greatest meat, in my opinion, because it is half meat and half fat that goes well in stir-fry and stew dishes.";
+
+/* Pork Belly Introduction 1 (VoiceOVer) */
+"PorkBelly.Introduction.1.Accessibility" = "Pork Belly is the greatest meat, in my opinion, because it is half meat and half fat that goes well in stir fry and stew dishes.";
+
+/* Pork Belly Introduction 2 */
+"PorkBelly.Introduction.2" = "When it comes to grocery, most things are sold in large quantities, which could be quite wasteful if you can’t use them all before they go bad. I learn to freeze meat when I buy too much and thaw when I need, and it has worked very well so I hope this could help you as well.";
+
+/* Pork Belly Tips 1 */
+"PorkBelly.Tips.1" = "##Thịt Ba Rọi## (pork belly) is usually sold as a slab, about 2 pounds, which is a lot of meat.";
+
+/* Pork Belly Tips 1 (VoiceOVer) */
+"PorkBelly.Tips.1.Accessibility" = "Pork belly is usually sold as a slab, about 2 pounds, which is a lot of meat.";
+
+/* Pork Belly Tips 2 */
+"PorkBelly.Tips.2" = "I usually would cut the ##Thịt Ba Rọi## (pork belly) into bite sized pieces, unless they are already pre-cut, and portion the meat out into individual servings (3-4 oz) in ziplock bags and freeze them.";
+
+/* Pork Belly Tips 2 (VoiceOVer) */
+"PorkBelly.Tips.2.Accessibility" = "I usually would cut the pork belly into bite sized pieces, unless they are already pre cut, and portion the meat out into individual servings, 3 to 4 ounces, in ziplock bags and freeze them.";
+
+/* Pork Belly Tips 3 */
+"PorkBelly.Tips.3" = "Freezing the meat will keep them last longer, which is about a couple months, especially if you don’t need to cook for many people.";
+
+/* Pork Belly Tips 4 */
+"PorkBelly.Tips.4" = "Do remember to label and the date the outside of the ziplock bag before freezing so the next time you know exactly what is in the bag and how long it has been in your freezer.";
+
+/* Pork Belly Tips 5 */
+"PorkBelly.Tips.5" = "When you need to use the meat, just thaw the entire ziplock bag under light running cold water in the sink.";
+
+/* Pork Belly Tips 6 */
+"PorkBelly.Tips.6" = "I do this for other kinds of meat as well, like chicken, shrimp, and pork.";
+
+/* Pork Belly Tips Note 1 */
+"PorkBelly.Tips.Note.1" = "Beef is best enjoy fresh when you just bought it.";
 
 
 // MARK: - # About Tab:
