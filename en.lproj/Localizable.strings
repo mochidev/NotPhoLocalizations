@@ -2327,6 +2327,183 @@
 "PorkBellyWithOysterSauce.UsedIn.Header" = "Used In";
 
 
+// MARK: Bo Luc Lac (Shaken Beef) Entree Page
+
+/* Shaken Beef Introduction 1 */
+"ShakenBeef.Introduction.1" = "##Bò Lúc Lắc## is literally translated as (Shaken Beef) because you shake the wok when cooking it. It makes a great dish for when you’re craving the texture of steak but also want a Vietnamese flavor. ##Bò Lúc Lắc## (shaken beef) tastes best when the meat is cooked just right, which is from rare to medium-rare; any more than that the beef will become tough to eat.";
+
+/* Shaken Beef Introduction 1 (VoiceOver) */
+"ShakenBeef.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, translates to shaking the wok when cooking the beef. It makes a great dish for when you’re craving the texture of steak but also want a Vietnamese flavor. Shaken beef tastes best when the meat is cooked just right, which is from rare to medium-rare; any more than that the beef will become tough to eat.";
+
+/* Shaken Beef Introduction 2 */
+"ShakenBeef.Introduction.2" = "It is thanks to this dish that my husband now eats ##Ớt Chuông## (bell peppers)! However, he prefers orange ##Ớt Chuông## (bell peppers) because orange is his favorite color.";
+
+/* Shaken Beef Introduction 2 (VoiceOver) */
+"ShakenBeef.Introduction.2.Accessibility" = "It is thanks to this dish that my husband now eats bell peppers! However, he prefers orange bell peppers because orange is his favorite color.";
+
+/* Shaken Beef Introduction 3 */
+"ShakenBeef.Introduction.3" = "This recipe serves one.";
+
+/* Shaken Beef Ingredients Ribeye Steak Amount */
+"ShakenBeef.RibeyeSteak.Amount.us" = "3-4 oz";
+"ShakenBeef.RibeyeSteak.Amount.metric" = "80-100 g";
+
+/* Shaken Beef Ingredients Ribeye Steak Amount (VoiceOver) */
+"ShakenBeef.RibeyeSteak.AccessibilityAmount.us" = "3 to 4 ounces";
+"ShakenBeef.RibeyeSteak.AccessibilityAmount.metric" = "80 to 100 grams";
+
+/* Shaken Beef Ingredients Bell Pepper Amount */
+"ShakenBeef.BellPepper.Amount.us" = "¼ cup";
+"ShakenBeef.BellPepper.Amount.metric" = "40-45 g";
+
+/* Shaken Beef Ingredients Bell Pepper Amount (VoiceOver) */
+"ShakenBeef.BellPepper.AccessibilityAmount.us" = "one quarter cup";
+"ShakenBeef.BellPepper.AccessibilityAmount.metric" = "40 to 45 grams";
+
+/* Shaken Beef Ingredients Onion Amount */
+"ShakenBeef.Onion.Amount.us" = "¼ cup";
+"ShakenBeef.Onion.Amount.metric" = "25-30 g";
+
+/* Shaken Beef Ingredients Onion Amount (VoiceOver) */
+"ShakenBeef.Onion.AccessibilityAmount.us" = "one quarter cup";
+"ShakenBeef.Onion.AccessibilityAmount.metric" = "25 to 30 grams";
+
+/* Shaken Beef Ingredients Oyster Sauce Amount */
+"ShakenBeef.OysterSauce.Amount" = "1 tsp";
+
+/* Shaken Beef Ingredients Oyster Sauce Amount (VoiceOver) */
+"ShakenBeef.OysterSauce.AccessibilityAmount" = "one teaspoon";
+
+/* Shaken Beef Ingredients Soy Sauce Amount */
+"ShakenBeef.SoySauce.Amount" = "1 tsp";
+
+/* Shaken Beef Ingredients Soy Sauce Amount (VoiceOver) */
+"ShakenBeef.SoySauce.AccessibilityAmount" = "one teaspoon";
+
+/* Shaken Beef Ingredients Sake Amount */
+"ShakenBeef.Sake.Amount" = "1 tsp";
+
+/* Shaken Beef Ingredients Sake Amount (VoiceOver) */
+"ShakenBeef.Sake.AccessibilityAmount" = "one teaspoon";
+
+/* Shaken Beef Ingredients Oil Amount */
+"ShakenBeef.Oil.Amount" = "1 tsp";
+
+/* Shaken Beef Ingredients Oil Amount (VoiceOver) */
+"ShakenBeef.Oil.AccessibilityAmount" = "one teaspoon";
+
+/* Shaken Beef Ingredients Sugar Amount */
+"ShakenBeef.Sugar.Amount" = "2 tsp";
+
+/* Shaken Beef Ingredients Sugar Amount (VoiceOver) */
+"ShakenBeef.Sugar.AccessibilityAmount." = "two teaspoons";
+
+/* Shaken Beef Ingredients Pepper Steak Amount */
+"ShakenBeef.Pepper.Amount" = "⅛ tsp";
+
+/* Shaken Beef Ingredients Pepper Amount (VoiceOver) */
+"ShakenBeef.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Shaken Beef Instructions Step 1 Part 1 */
+"ShakenBeef.Instructions.Step.1.Part.1" = "Cut the ##Thịt Bò## (beef) and ##Ớt Chuông## (bell pepper) into bite sized pieces.";
+
+/* Shaken Beef Instructions Step 1 Part 1 (VoiceOver) */
+"ShakenBeef.Instructions.Step.1.Part.1.Accessibility" = "Cut the beef and bell pepper into bite sized pieces.";
+
+/* Shaken Beef Instructions Step 1 Part 2 */
+"ShakenBeef.Instructions.Step.1.Part.2" = "Cut the ##Củ Hành## (onion) into slices.";
+
+/* Shaken Beef Instructions Step 1 Part 2 (VoiceOver) */
+"ShakenBeef.Instructions.Step.1.Part.2.Accessibility" = "Cut the onion into slices.";
+
+/* Shaken Beef Instructions Step 1 Part 3 */
+"ShakenBeef.Instructions.Step.1.Part.3" = "Mix together the ##Dầu Hào## (oyster sauce), ##Nước Tương## (soy sauce), ##Rượu Sake Nhật Bản## (Japanese sake), and ##Đường## (sugar), and set aside.";
+
+/* Shaken Beef Instructions Step 1 Part 3 (VoiceOver) */
+"ShakenBeef.Instructions.Step.1.Part.3.Accessibility" = "Mix together the oyster sauce, soy sauce, Japanese sakay, and sugar, and set aside.";
+
+/* Shaken Beef Instructions Step 1 Note 1 */
+"ShakenBeef.Instructions.Step.1.Note.1" = "I use Ribeye steak for this recipe.";
+
+/* Shaken Beef Instructions Step 1 Note 1 (VoiceOver) */
+"ShakenBeef.Instructions.Step.1.Note.1.Accessibility" = "I use Ribeye steak for this recipe.";
+
+/* Shaken Beef Instructions Step 1 Note 2 */
+"ShakenBeef.Instructions.Step.1.Note.2" = "I find that using ##Rượu Sake Nhật Bản## (Japanese sake) adds a nice depth to the flavor, but you can use water if you don't have ##Rượu Sake Nhật Bản## (Japanese sake).";
+
+/* Shaken Beef Instructions Step 1 Note 2 (VoiceOver) */
+"ShakenBeef.Instructions.Step.1.Note.2.Accessibility" = "I find that using Japanese sakay adds a nice depth to the flavor, but you can use water if you don't have Japanese sakay.";
+
+/* Shaken Beef Instructions Step 2 Part 1 */
+"ShakenBeef.Instructions.Step.2.Part.1" = "In a medium-high heat wok, add ##Dầu## (oil), ##Củ Hành## (onion), and ##Ớt Chuông## (bell pepper).";
+
+/* Shaken Beef Instructions Step 2 Part 1 (VoiceOver) */
+"ShakenBeef.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok, add oil, onion, and bell pepper.";
+
+/* Shaken Beef Instructions Step 2 Part 2 */
+"ShakenBeef.Instructions.Step.2.Part.2" = "Sautée for 1-2 minutes, or until the ##Củ Hành## (onion) and ##Ớt Chuông## (bell pepper) are cooked enough for you.";
+
+/* Shaken Beef Instructions Step 2 Part 2 (VoiceOver) */
+"ShakenBeef.Instructions.Step.2.Part.2.Accessibility" = "Sautee for 1 to 2 minutes, or until the onion and bell pepper are cooked enough for you.";
+
+/* Shaken Beef Instructions Step 3 Part 1 */
+"ShakenBeef.Instructions.Step.3.Part.1" = "Add the ##Thịt Bò## (beef) to the wok.";
+
+/* Shaken Beef Instructions Step 3 Part 1 (VoiceOver) */
+"ShakenBeef.Instructions.Step.3.Part.1.Accessibility" = "Add the beef to the wok.";
+
+/* Shaken Beef Instructions Step 3 Part 2 */
+"ShakenBeef.Instructions.Step.3.Part.2" = "Sautée for 1-2 minutes, or until the ##Thịt Bò## (beef) is cooked enough for you.";
+
+/* Shaken Beef Instructions Step 3 Part 2 (VoiceOver) */
+"ShakenBeef.Instructions.Step.3.Part.2.Accessibility" = "Sautee for 1 to 2 minutes, or until the beef is cooked enough for you.";
+
+/* Shaken Beef Instructions Step 3 Part 3 */
+"ShakenBeef.Instructions.Step.3.Part.3" = "This part is where the name ##Lúc Lắc## (shaken) comes from - shake the wok often so the ##Thịt Bò## (beef) doesn’t over cooked.";
+
+/* Shaken Beef Instructions Step 3 Part 3 (VoiceOver) */
+"ShakenBeef.Instructions.Step.3.Part.3.Accessibility" = "This part is where the name shaken comes from. Shake the wok often so the beef doesn’t over cooked.";
+
+/* Shaken Beef Instructions Step 3 Note 1 */
+"ShakenBeef.Instructions.Step.3.Note.1" = "I prefer the ##Thịt Bò## (beef) rare, but if you like the ##Thịt Bò## (beef) more cooked then do increase the cook time.";
+
+/* Shaken Beef Instructions Step 3 Note 1 (VoiceOver) */
+"ShakenBeef.Instructions.Step.3.Note.1.Accessibility" = "I prefer the beef rare, but if you like the beef more cooked then do increase the cook time.";
+
+/* Shaken Beef Instructions Step 4 Part 1 */
+"ShakenBeef.Instructions.Step.4.Part.1" = "Add the oyster sauce mixture you mixed earlier and give it a few toss until everything is combined.";
+
+/* Shaken Beef Instructions Step 4 Part 2 */
+"ShakenBeef.Instructions.Step.4.Part.2" = "Serve on a plate.";
+
+/* Shaken Beef Variants 1 */
+"ShakenBeef.Variants.1" = "Instead of adding the oyster/soy sauce mixture in when cooking, you can use it to marinate the ##Thịt Bò## (beef) overnight.";
+
+/* Shaken Beef Variants 1 (VoiceOver) */
+"ShakenBeef.Variants.1.Accessibility" = "Instead of adding the oyster soy sauce mixture in when cooking, you can use it to marinate the beef overnight.";
+
+/* Shaken Beef Variants 2 */
+"ShakenBeef.Variants.2" = "This will help develop the flavor of the ##Thịt Bò## (beef) even more.";
+
+/* Shaken Beef Variants 2 (VoiceOver) */
+"ShakenBeef.Variants.2.Accessibility" = "This will help develop the flavor of the beef even more.";
+
+/* Shaken Beef Tips 1 */
+"ShakenBeef.Tips.1" = "The ideal meat should be tender and easy to eat in one bite. Cuts such as ribeye, filet mignon, and chunk eye all work great when cut against the grain. Wagyu beef is also an excellent choice if you can find it and are willing to spend the money. Since Wagyu beef has a high fat content, the texture is much more tender, but the flavor may be too intense for some.";
+
+/* Shaken Beef How To 1 */
+"ShakenBeef.HowTo.1" = "##Bò Lúc Lắc## (shaken beef) is often served with rice.";
+
+/* Shaken Beef How To 1 (VoiceOver) */
+"ShakenBeef.HowTo.1.Accessibility" = "Shaken Beef is often served with rice.";
+
+/* Shaken Beef How To 2 */
+"ShakenBeef.HowTo.2" = "Most restaurant serves ##Bò Lúc Lắc## (shaken beef) with ##Cơm Đỏ## (tomato rice), though I still prefer white rice.";
+
+/* Shaken Beef How To 2 (VoiceOver) */
+"ShakenBeef.HowTo.2.Accessibility" = "Most restaurant serves Shaken Beef with tomato rice, though I still prefer white rice.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */
