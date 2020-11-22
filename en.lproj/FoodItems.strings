@@ -84,6 +84,10 @@
 "porkBellyWithOysterSauce.Subtitle" = "Pork Belly with Oyster Sauce";
 "porkBellyWithOysterSauce.AccessibilitySubtitle" = "Pork Belly with Oyster Sauce";
 
+/* Shaken Beef Entree */
+"shakenBeef.Subtitle" = "Shaken Beef";
+"shakenBeef.AccessibilitySubtitle" = "Shaken Beef";
+
 
 // MARK: Ingredients Tab
 

@@ -101,6 +101,13 @@
 "porkBellyWithOysterSauce.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Dầu Hào";
 "porkBellyWithOysterSauce.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Dầu Hào";
 
+
+/* Shaken Beef Entree */
+"shakenBeef.Subtitle" = "Shaken Beef";
+"shakenBeef.AccessibilitySubtitle" = "Bò Lúc Lắc";
+"shakenBeef.AccessibilityPageTitle" = "Bò Lúc Lắc";
+
+
 // MARK: Ingredients Tab
 
 /* Baguette */
