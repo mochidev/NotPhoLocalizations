@@ -316,10 +316,10 @@
 "Crepe.Instructions.Step.1.Note.1.Accessibility" = "If you can’t find pre-mixed crêpe batter, you can make it yourself using the recipe on the batter page in the Ingredients section.";
 
 /* Crepe Instructions Step 2 Part 1 */
-"Crepe.Instructions.Step.2.Part.1" = "In a medium to high heat non-stick pan, add some ##Dầu Canola## (canola oil).";
+"Crepe.Instructions.Step.2.Part.1" = "In a medium to high heat non-stick pan, add some ##Dầu## (oil).";
 
 /* Crepe Instructions Step 2 Part 1 (VoiceOver) */
-"Crepe.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat non-stick pan, add some canola oil.";
+"Crepe.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat non-stick pan, add some oil.";
 
 /* Crepe Instructions Step 2 Part 2 */
 "Crepe.Instructions.Step.2.Part.2" = "Add some sliced ##Củ Hành## (onions) and sauté for about 10-20 seconds.";
@@ -1485,10 +1485,10 @@
 "AnnattoOil.Instructions.Step.1" = "Step 1";
 
 /* Annatto Oil Ingredients Step 1 Part 1 */
-"AnnattoOil.Instructions.Step.1.Part.1" = "Add the ##Hạt Điều## (annatto seeds) and ##Dầu Canola## (canola oil) into a sauce pan.";
+"AnnattoOil.Instructions.Step.1.Part.1" = "Add the ##Hạt Điều## (annatto seeds) and ##Dầu## (oil) into a sauce pan.";
 
 /* Annatto Oil Ingredients Step 1 Part 1 (VoiceOver) */
-"AnnattoOil.Instructions.Step.1.Part.1.Accessibility" = "Add the annatto seeds and canola oil into a sauce pan..";
+"AnnattoOil.Instructions.Step.1.Part.1.Accessibility" = "Add the annatto seeds and oil into a sauce pan..";
 
 /* Annatto Oil Ingredients Step 1 Part 2 */
 "AnnattoOil.Instructions.Step.1.Part.2" = "Cook the ##Hạt Điều## (annatto seeds) on medium heat.";
@@ -1763,10 +1763,10 @@
 "ScallionOil.Instructions.1.Accessibility" = "Slice the spring onion and add it to a small microwave-safe bowl.";
 
 /* Scallion and Oil Garnish Instructions 2 */
-"ScallionOil.Instructions.2" = "Add some ##Dầu Canola## (canola oil) to the bowl with the sliced ##Hành Lá## (spring onion).";
+"ScallionOil.Instructions.2" = "Add some ##Dầu## (oil) to the bowl with the sliced ##Hành Lá## (spring onion).";
 
 /* Scallion and Oil Garnish Instructions 2 (VoiceOver) */
-"ScallionOil.Instructions.2.Accessibility" = "Add some canola oil to the bowl with the sliced spring onion.";
+"ScallionOil.Instructions.2.Accessibility" = "Add some oil to the bowl with the sliced spring onion.";
 
 /* Scallion and Oil Garnish Instructions 3 */
 "ScallionOil.Instructions.3" = "Microwave the bowl on high for 20-30 seconds.";
@@ -1998,22 +1998,22 @@
 "Mayo.Instructions.Step.2" = "Step 2";
 
 /* Mayo Instructions Step 2 Part 1 */
-"Mayo.Instructions.Step.2.Part.1" = "While the ##Lòng Đỏ Trứng## (egg yolks) are being whisked, slowly incorporate the ##Dầu Canola## (canola oil).";
+"Mayo.Instructions.Step.2.Part.1" = "While the ##Lòng Đỏ Trứng## (egg yolks) are being whisked, slowly incorporate the ##Dầu## (oil).";
 
 /* Mayo Instructions Step 2 Part 1 (VoiceOver) */
-"Mayo.Instructions.Step.2.Part.1.Accessibility" = "While the egg yolks are being whisked, slowly incorporate the canola oil.";
+"Mayo.Instructions.Step.2.Part.1.Accessibility" = "While the egg yolks are being whisked, slowly incorporate the oil.";
 
 /* Mayo Instructions Step 2 Note 1 */
-"Mayo.Instructions.Step.2.Note.1" = "Adding the ##Dầu Canola## (canola oil) should be spread over 5-10 minutes.";
+"Mayo.Instructions.Step.2.Note.1" = "Adding the ##Dầu## (oil) should be spread over 5-10 minutes.";
 
 /* Mayo Instructions Step 2 Note 1 (VoiceOver) */
 "Mayo.Instructions.Step.2.Note.1.Accessibility" = "Adding the oil should be spread over 5 to 10 minutes.";
 
 /* Mayo Instructions Step 2 Note 2 */
-"Mayo.Instructions.Step.2.Note.2" = "If the ##Dầu Canola## (canola oil) is added too quickly, it will not combine well with the ##Lòng Đỏ Trứng## (egg yolks).";
+"Mayo.Instructions.Step.2.Note.2" = "If the ##Dầu## (oil) is added too quickly, it will not combine well with the ##Lòng Đỏ Trứng## (egg yolks).";
 
 /* Mayo Instructions Step 2 Note 2 (VoiceOver) */
-"Mayo.Instructions.Step.2.Note.2.Accessibility" = "If the canola oil is added too quickly, it will not combine well with the egg yolks.";
+"Mayo.Instructions.Step.2.Note.2.Accessibility" = "If the oil is added too quickly, it will not combine well with the egg yolks.";
 
 /* Mayo Instructions Step 2 Note 3 */
 "Mayo.Instructions.Step.2.Note.3" = "Olive oil also works well, but may have too strong of a flavor depending on the variety.";
@@ -2170,10 +2170,10 @@
 "GrilledPork.Instructions.Step.4" = "Step 4";
 
 /* Grilled Pork Instructions Step 4 Part 1 */
-"GrilledPork.Instructions.Step.4.Part.1" = "In a medium-high heat skillet, add the ##Dầu Canola## (canola oil).";
+"GrilledPork.Instructions.Step.4.Part.1" = "In a medium-high heat skillet, add the ##Dầu## (oil).";
 
 /* Grilled Pork Instructions Step 4 Part 1 (VoiceOver) */
-"GrilledPork.Instructions.Step.4.Part.1.Accessibility" = "In a medium-high heat skillet, add the canola oil.";
+"GrilledPork.Instructions.Step.4.Part.1.Accessibility" = "In a medium-high heat skillet, add the oil.";
 
 /* Grilled Pork Instructions Step 4 Part 2 */
 "GrilledPork.Instructions.Step.4.Part.2" = "Add the pre-marinated pork to the skillet.";
