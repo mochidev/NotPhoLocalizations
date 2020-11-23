@@ -88,6 +88,10 @@
 "shakenBeefEntree.Subtitle" = "Shaken Beef";
 "shakenBeefEntree.AccessibilitySubtitle" = "Shaken Beef";
 
+/* Lime Dipping Sauce */
+"limeDippingSauce.Subtitle" = "Lime Dipping Sauce";
+"limeDippingSauce.AccessibilitySubtitle" = "Lime Dipping Sauce";
+
 
 // MARK: Ingredients Tab
 

@@ -2540,6 +2540,42 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShakenBeef.HowTo.2.Accessibility" = "Có rất nhiều nhà hàng kết hợp Bò Lúc Lắc với Cơm Đỏ, nhưng tôi vẫn thích cơm trắng hơn.";
 
 
+// MARK: Muoi Tieu Chanh (Lime Dipping Sauce) Page
+
+/* Lime Dipping Sauce Introduction */
+"LimeDippingSauce.Introduction" = "##Muối Tiêu Chanh## (lime dipping sauce) là một loại nước chấm rất đơn giản nhưng nó làm tăng thêm hương vị tuyệt vời cho bất kỳ loại thịt hoặc hải sản nào. Nước sốt này hợp với Bò Lúc Lắc, gà chiên, hoặc cua hấp.";
+
+/* Lime Dipping Sauce Introduction (VoiceOver) */
+"LimeDippingSauce.Introduction.Accessibility" = "Muối Tiêu Chanh là một loại nước chấm rất đơn giản nhưng nó làm tăng thêm hương vị tuyệt vời cho bất kỳ loại thịt hoặc hải sản nào. Nước sốt này hợp với Bò Lúc Lắc, gà chiên, hoặc cua hấp.";
+
+/* Lime Dipping Sauce Ingredients Lime Juice Amount */
+"LimeDippingSauce.LimeJuice.Amount.us" = "4 tsp";
+"LimeDippingSauce.LimeJuice.Amount.metric" = "4 muỗng cà phê";
+
+/* Lime Dipping Sauce Ingredients Lime Juice Amount (VoiceOver) */
+"LimeDippingSauce.LimeJuice.AccessibilityAmount" = "4 muỗng cà phê";
+
+/* Lime Dipping Sauce Ingredients Salt Amount */
+"LimeDippingSauce.Salt.Amount" = "¼ tsp";
+"LimeDippingSauce.Salt.Amount.metric" = "¼ muỗng cà phê";
+
+/* Lime Dipping Sauce Ingredients Salt Amount (VoiceOver) */
+"LimeDippingSauce.Salt.AccessibilityAmount" = "một phần tư muỗng cà phê";
+
+/* Lime Dipping Sauce Ingredients Pepper Amount */
+"LimeDippingSauce.Pepper.Amount" = "¼ tsp";
+"LimeDippingSauce.Pepper.Amount.metric" = "¼ muỗng cà phê";
+
+/* Lime Dipping Sauce Ingredients Pepper Amount (VoiceOver) */
+"LimeDippingSauce.Pepper.AccessibilityAmount" = "một phần tư muỗng cà phê";
+
+/* Lime Dipping Sauce How To 1 */
+"LimeDippingSauce.HowTo.1" = "Trộn đều tất cả các nguyên liệu với nhau.";
+
+/* Lime Dipping Sauce How To 2 */
+"LimeDippingSauce.HowTo.2" = "Dùng làm nước chấm.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

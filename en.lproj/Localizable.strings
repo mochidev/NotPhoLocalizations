@@ -2504,6 +2504,39 @@
 "ShakenBeef.HowTo.2.Accessibility" = "Most restaurant serves Shaken Beef with tomato rice, though I still prefer white rice.";
 
 
+// MARK: Muoi Tieu Chanh (Lime Dipping Sauce) Page
+
+/* Lime Dipping Sauce Introduction */
+"LimeDippingSauce.Introduction" = "##Muối Tiêu Chanh## (lime dipping sauce) is a very simple sauce but it adds a nice punch of flavor to any meat or seafood. This sauce goes well with Shaken Beef, Fried Chicken, or Steamed Crabs.";
+
+/* Lime Dipping Sauce Introduction (VoiceOver) */
+"LimeDippingSauce.Introduction.Accessibility" = "Lime dipping sauce is a very simple sauce but it adds a nice punch of flavor to any meat or seafood. This sauce goes well with Shaken Beef, Fried Chicken, or Steamed Crabs.";
+
+/* Lime Dipping Sauce Ingredients Lime Juice Amount */
+"LimeDippingSauce.LimeJuice.Amount" = "4 tsp";
+
+/* Lime Dipping Sauce Ingredients Lime Juice Amount (VoiceOver) */
+"LimeDippingSauce.LimeJuice.AccessibilityAmount" = "4 teaspoons";
+
+/* Lime Dipping Sauce Ingredients Salt Amount */
+"LimeDippingSauce.Salt.Amount" = "¼ tsp";
+
+/* Lime Dipping Sauce Ingredients Salt Amount (VoiceOver) */
+"LimeDippingSauce.Salt.AccessibilityAmount" = "one quarter teaspoon";
+
+/* Lime Dipping Sauce Ingredients Pepper Amount */
+"LimeDippingSauce.Pepper.Amount" = "¼ tsp";
+
+/* Lime Dipping Sauce Ingredients Pepper Amount (VoiceOver) */
+"LimeDippingSauce.Pepper.AccessibilityAmount" = "one quarter teaspoon";
+
+/* Lime Dipping Sauce How To 1 */
+"LimeDippingSauce.HowTo.1" = "Mix all the ingredients together.";
+
+/* Lime Dipping Sauce How To 2 */
+"LimeDippingSauce.HowTo.2" = "Use as a dipping sauce.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

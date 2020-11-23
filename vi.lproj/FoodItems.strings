@@ -105,6 +105,11 @@
 "shakenBeefEntree.AccessibilitySubtitle" = "Bò Lúc Lắc";
 "shakenBeefEntree.AccessibilityPageTitle" = "Bò Lúc Lắc";
 
+/* Lime Dipping Sauce */
+"limeDippingSauce.Subtitle" = "Lime Dipping Sauce";
+"limeDippingSauce.AccessibilitySubtitle" = "Muối Tiêu Chanh";
+"limeDippingSauce.AccessibilityPageTitle" = "Muối Tiêu Chanh";
+
 
 // MARK: Ingredients Tab
 
