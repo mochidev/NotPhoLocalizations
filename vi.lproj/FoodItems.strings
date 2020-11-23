@@ -158,6 +158,7 @@
 "oysterSauce.AccessibilitySubtitle" = "Dầu Hào";
 "oysterSauce.AccessibilityPageTitle" = "Dầu Hào";
 
+
 // MARK: Entries with no dedicated page
 
 /* Bean Sprouts */
@@ -165,6 +166,15 @@
 
 /* Bean Thread Noodles */
 "beanThreads.Subtitle" = "Bean Thread Noodles";
+
+/* Beef */
+"beef.Subtitle" = "Beef";
+
+/* Bell Pepper */
+"bellPepper.Subtitle" = "Bell Pepper";
+
+/* Chicken Bouillon */
+"chickenBouillon.Subtitle" = "Chicken Bouillon";
 
 /* Chili */
 "chili.Subtitle" = "Chili";
@@ -212,10 +222,13 @@
 "mint.Subtitle" = "Mint";
 
 /* Oil */
-"oil.Subtitle" = "Canola Oil";
+"oil.Subtitle" = "Oil";
 
 /* Onion */
 "onion.Subtitle" = "Onion";
+
+/* Oyster Sauce */
+"oysterSauce.Subtitle" = "Oyster Sauce";
 
 /* Peanuts */
 "peanut.Subtitle" = "Peanuts";
@@ -232,6 +245,12 @@
 /* Rice Flour */
 "riceFlour.Subtitle" = "Rice Flour";
 
+/* Sake */
+"sake.Subtitle" = "Japanese Sake";
+
+/* Salad */
+"salad.Subtitle" = "Salad";
+
 /* Salt */
 "salt.Subtitle" = "Salt";
 
@@ -240,6 +259,9 @@
 
 /* Shrimp */
 "shrimp.Subtitle" = "Shrimp";
+
+/* Soy Sauce */
+"soySauce.Subtitle" = "Soy Sauce";
 
 /* Sugar */
 "sugar.Subtitle" = "Sugar";
@@ -261,6 +283,3 @@
 
 /* Water */
 "water.Subtitle" = "Water";
-
-/* Chicken Bouillon */
-"chickenBouillon.Subtitle" = "Chicken Bouillon";
