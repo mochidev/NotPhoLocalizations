@@ -1813,9 +1813,9 @@
 "MixedFishSauce.FishSauce.Amount.us" = "5 tbsp";
 "MixedFishSauce.FishSauce.Amount.metric" = "75 mL";
 
-/* Mixed Fish Sauce Ingredients Lime Amount */
-"MixedFishSauce.Lime.Amount.us" = "6 tbsp, juiced";
-"MixedFishSauce.Lime.Amount.metric" = "90 mL, juiced";
+/* Mixed Fish Sauce Ingredients Lime Juice Amount */
+"MixedFishSauce.LimeJuice.Amount.us" = "6 tbsp";
+"MixedFishSauce.LimeJuice.Amount.metric" = "90 mL";
 
 /* Mixed Fish Sauce Ingredients Water Amount */
 "MixedFishSauce.Water.Amount.us" = "¾ cups + 2 tbsp";
