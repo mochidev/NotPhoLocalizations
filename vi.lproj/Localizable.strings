@@ -2359,185 +2359,185 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 // MARK: Bo Luc Lac (Shaken Beef) Entree Page
 
-/* Shaken Beef Introduction 1 */
-"ShakenBeef.Introduction.1" = "Món ăn này được đặt tên là ##Bò Lúc Lắc## (shaken beef) vì bạn lắc chảo khi xào thịt bò. ##Bò Lúc Lắc## (shaken beef) ngon nhất khi thịt vừa chín tới, vì thịt bò chín quá sẽ rất dai.";
+/* Shaken Beef Entree Introduction 1 */
+"ShakenBeefEntree.Introduction.1" = "Món ăn này được đặt tên là ##Bò Lúc Lắc## (shaken beef) vì bạn lắc chảo khi xào thịt bò. ##Bò Lúc Lắc## (shaken beef) ngon nhất khi thịt vừa chín tới, vì thịt bò chín quá sẽ rất dai.";
 
-/* Shaken Beef Introduction 1 (VoiceOver) */
-"ShakenBeef.Introduction.1.Accessibility" = "Món ăn này được đặt tên là Bò Lúc Lắc vì bạn lắc chảo khi xào thịt bò. Bò Lúc Lắc ngon nhất khi thịt vừa chín tới, vì thịt bò chín quá sẽ rất dai.";
+/* Shaken Beef Entree Introduction 1 (VoiceOver) */
+"ShakenBeefEntree.Introduction.1.Accessibility" = "Món ăn này được đặt tên là Bò Lúc Lắc vì bạn lắc chảo khi xào thịt bò. Bò Lúc Lắc ngon nhất khi thịt vừa chín tới, vì thịt bò chín quá sẽ rất dai.";
 
-/* Shaken Beef Introduction 2 */
-"ShakenBeef.Introduction.2" = "Chính nhờ món này mà giờ chồng tôi mới ăn được ##Ớt Chuông## (bell peppers)! Tuy nhiên, anh ấy thích ##Ớt Chuông## (bell peppers) màu cam vì màu cam là màu anh ấy yêu thích nhất.";
+/* Shaken Beef Entree Introduction 2 */
+"ShakenBeefEntree.Introduction.2" = "Chính nhờ món này mà giờ chồng tôi mới ăn được ##Ớt Chuông## (bell peppers)! Tuy nhiên, anh ấy thích ##Ớt Chuông## (bell peppers) màu cam vì màu cam là màu anh ấy yêu thích nhất.";
 
-/* Shaken Beef Introduction 2 (VoiceOver) */
-"ShakenBeef.Introduction.2.Accessibility" = "Chính nhờ món này mà giờ chồng tôi mới ăn được Ớt Chuông! Tuy nhiên, anh ấy thích Ớt Chuông màu cam vì màu cam là màu anh ấy yêu thích nhất.";
+/* Shaken Beef Entree Introduction 2 (VoiceOver) */
+"ShakenBeefEntree.Introduction.2.Accessibility" = "Chính nhờ món này mà giờ chồng tôi mới ăn được Ớt Chuông! Tuy nhiên, anh ấy thích Ớt Chuông màu cam vì màu cam là màu anh ấy yêu thích nhất.";
 
-/* Shaken Beef Introduction 3 */
-"ShakenBeef.Introduction.3" = "Công thức này làm cho một người ăn.";
+/* Shaken Beef Entree Introduction 3 */
+"ShakenBeefEntree.Introduction.3" = "Công thức này làm cho một người ăn.";
 
-/* Shaken Beef Ingredients Ribeye Steak Amount */
-"ShakenBeef.RibeyeSteak.Amount.us" = "3-4 oz";
-"ShakenBeef.RibeyeSteak.Amount.metric" = "80-100 g";
+/* Shaken Beef Entree Ingredients Ribeye Steak Amount */
+"ShakenBeefEntree.RibeyeSteak.Amount.us" = "3-4 oz";
+"ShakenBeefEntree.RibeyeSteak.Amount.metric" = "80-100 g";
 
-/* Shaken Beef Ingredients Ribeye Steak Amount (VoiceOver) */
-"ShakenBeef.RibeyeSteak.AccessibilityAmount.us" = "3 đến 4 aoxơ";
-"ShakenBeef.RibeyeSteak.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
+/* Shaken Beef Entree Ingredients Ribeye Steak Amount (VoiceOver) */
+"ShakenBeefEntree.RibeyeSteak.AccessibilityAmount.us" = "3 đến 4 aoxơ";
+"ShakenBeefEntree.RibeyeSteak.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
 
-/* Shaken Beef Ingredients Bell Pepper Amount */
-"ShakenBeef.BellPepper.Amount.us" = "¼ cup";
-"ShakenBeef.BellPepper.Amount.metric" = "40-45 g";
+/* Shaken Beef Entree Ingredients Bell Pepper Amount */
+"ShakenBeefEntree.BellPepper.Amount.us" = "¼ cup";
+"ShakenBeefEntree.BellPepper.Amount.metric" = "40-45 g";
 
-/* Shaken Beef Ingredients Bell Pepper Amount (VoiceOver) */
-"ShakenBeef.BellPepper.AccessibilityAmount.us" = "một phần tư cốc";
-"ShakenBeef.BellPepper.AccessibilityAmount.metric" = "40 đến 45 gờ ram";
+/* Shaken Beef Entree Ingredients Bell Pepper Amount (VoiceOver) */
+"ShakenBeefEntree.BellPepper.AccessibilityAmount.us" = "một phần tư cốc";
+"ShakenBeefEntree.BellPepper.AccessibilityAmount.metric" = "40 đến 45 gờ ram";
 
-/* Shaken Beef Ingredients Onion Amount */
-"ShakenBeef.Onion.Amount.us" = "¼ cup";
-"ShakenBeef.Onion.Amount.metric" = "25-30 g";
+/* Shaken Beef Entree Ingredients Onion Amount */
+"ShakenBeefEntree.Onion.Amount.us" = "¼ cup";
+"ShakenBeefEntree.Onion.Amount.metric" = "25-30 g";
 
-/* Shaken Beef Ingredients Onion Amount (VoiceOver) */
-"ShakenBeef.Onion.AccessibilityAmount.us" = "một phần tư cốc";
-"ShakenBeef.Onion.AccessibilityAmount.metric" = "25 đến 30 gờ ram";
+/* Shaken Beef Entree Ingredients Onion Amount (VoiceOver) */
+"ShakenBeefEntree.Onion.AccessibilityAmount.us" = "một phần tư cốc";
+"ShakenBeefEntree.Onion.AccessibilityAmount.metric" = "25 đến 30 gờ ram";
 
-/* Shaken Beef Ingredients Oyster Sauce Amount */
-"ShakenBeef.OysterSauce.Amount.us" = "1 tsp";
-"ShakenBeef.OysterSauce.Amount.metric" = "1 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Oyster Sauce Amount */
+"ShakenBeefEntree.OysterSauce.Amount.us" = "1 tsp";
+"ShakenBeefEntree.OysterSauce.Amount.metric" = "1 muỗng cà phê";
 
-/* Shaken Beef Ingredients Oyster Sauce Amount (VoiceOver) */
-"ShakenBeef.OysterSauce.AccessibilityAmount" = "1 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Oyster Sauce Amount (VoiceOver) */
+"ShakenBeefEntree.OysterSauce.AccessibilityAmount" = "1 muỗng cà phê";
 
-/* Shaken Beef Ingredients Soy Sauce Amount */
-"ShakenBeef.SoySauce.Amount.us" = "1 tsp";
-"ShakenBeef.SoySauce.Amount.metric" = "1 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Soy Sauce Amount */
+"ShakenBeefEntree.SoySauce.Amount.us" = "1 tsp";
+"ShakenBeefEntree.SoySauce.Amount.metric" = "1 muỗng cà phê";
 
-/* Shaken Beef Ingredients Soy Sauce Amount (VoiceOver) */
-"ShakenBeef.SoySauce.AccessibilityAmount" = "1 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Soy Sauce Amount (VoiceOver) */
+"ShakenBeefEntree.SoySauce.AccessibilityAmount" = "1 muỗng cà phê";
 
-/* Shaken Beef Ingredients Sake Amount */
-"ShakenBeef.Sake.Amount.us" = "1 tsp";
-"ShakenBeef.Sake.Amount.metric" = "1 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Sake Amount */
+"ShakenBeefEntree.Sake.Amount.us" = "1 tsp";
+"ShakenBeefEntree.Sake.Amount.metric" = "1 muỗng cà phê";
 
-/* Shaken Beef Ingredients Sake Amount (VoiceOver) */
-"ShakenBeef.Sake.AccessibilityAmount" = "1 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Sake Amount (VoiceOver) */
+"ShakenBeefEntree.Sake.AccessibilityAmount" = "1 muỗng cà phê";
 
-/* Shaken Beef Ingredients Oil Amount */
-"ShakenBeef.Oil.Amount.us" = "1 tsp";
-"ShakenBeef.Oil.Amount.metric" = "1 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Oil Amount */
+"ShakenBeefEntree.Oil.Amount.us" = "1 tsp";
+"ShakenBeefEntree.Oil.Amount.metric" = "1 muỗng cà phê";
 
-/* Shaken Beef Ingredients Oil Amount (VoiceOver) */
-"ShakenBeef.Oil.AccessibilityAmount" = "1 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Oil Amount (VoiceOver) */
+"ShakenBeefEntree.Oil.AccessibilityAmount" = "1 muỗng cà phê";
 
-/* Shaken Beef Ingredients Sugar Amount */
-"ShakenBeef.Sugar.Amount.us" = "2 tsp";
-"ShakenBeef.Sugar.Amount.metric" = "2 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Sugar Amount */
+"ShakenBeefEntree.Sugar.Amount.us" = "2 tsp";
+"ShakenBeefEntree.Sugar.Amount.metric" = "2 muỗng cà phê";
 
-/* Shaken Beef Ingredients Sugar Amount (VoiceOver) */
-"ShakenBeef.Sugar.AccessibilityAmount." = "2 muỗng cà phê";
+/* Shaken Beef Entree Ingredients Sugar Amount (VoiceOver) */
+"ShakenBeefEntree.Sugar.AccessibilityAmount." = "2 muỗng cà phê";
 
-/* Shaken Beef Ingredients Pepper Steak Amount */
-"ShakenBeef.Pepper.Amount.us" = "⅛ tsp";
-"ShakenBeef.Pepper.Amount.metric" = "⅛ muỗng cà phê";
+/* Shaken Beef Entree Ingredients Pepper Steak Amount */
+"ShakenBeefEntree.Pepper.Amount.us" = "⅛ tsp";
+"ShakenBeefEntree.Pepper.Amount.metric" = "⅛ muỗng cà phê";
 
-/* Shaken Beef Ingredients Pepper Amount (VoiceOver) */
-"ShakenBeef.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+/* Shaken Beef Entree Ingredients Pepper Amount (VoiceOver) */
+"ShakenBeefEntree.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
 
-/* Shaken Beef Instructions Step 1 Part 1 */
-"ShakenBeef.Instructions.Step.1.Part.1" = "Cắt ##Thịt Bò## (beef) và ##Ớt Chuông## (bell pepper) thành miếng vừa ăn.";
+/* Shaken Beef Entree Instructions Step 1 Part 1 */
+"ShakenBeefEntree.Instructions.Step.1.Part.1" = "Cắt ##Thịt Bò## (beef) và ##Ớt Chuông## (bell pepper) thành miếng vừa ăn.";
 
-/* Shaken Beef Instructions Step 1 Part 1 (VoiceOver) */
-"ShakenBeef.Instructions.Step.1.Part.1.Accessibility" = "Cắt thịt bò và ớt chuông thành miếng vừa ăn.";
+/* Shaken Beef Entree Instructions Step 1 Part 1 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.1.Part.1.Accessibility" = "Cắt thịt bò và ớt chuông thành miếng vừa ăn.";
 
-/* Shaken Beef Instructions Step 1 Part 2 */
-"ShakenBeef.Instructions.Step.1.Part.2" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+/* Shaken Beef Entree Instructions Step 1 Part 2 */
+"ShakenBeefEntree.Instructions.Step.1.Part.2" = "Cắt ##Củ Hành## (onion) thành từng lát.";
 
-/* Shaken Beef Instructions Step 1 Part 2 (VoiceOver) */
-"ShakenBeef.Instructions.Step.1.Part.2.Accessibility" = "Cắt hành tây thành từng lát.";
+/* Shaken Beef Entree Instructions Step 1 Part 2 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.1.Part.2.Accessibility" = "Cắt hành tây thành từng lát.";
 
-/* Shaken Beef Instructions Step 1 Part 3 */
-"ShakenBeef.Instructions.Step.1.Part.3" = "Trộn chung ##Dầu Hào## (oyster sauce), ##Nước Tương## (soy sauce), ##Rượu Sake Nhật Bản## (Japanese sake) và ##Đường## (sugar), để riêng ra dùng sau.";
+/* Shaken Beef Entree Instructions Step 1 Part 3 */
+"ShakenBeefEntree.Instructions.Step.1.Part.3" = "Trộn chung ##Dầu Hào## (oyster sauce), ##Nước Tương## (soy sauce), ##Rượu Sake Nhật Bản## (Japanese sake) và ##Đường## (sugar), để riêng ra dùng sau.";
 
-/* Shaken Beef Instructions Step 1 Part 3 (VoiceOver) */
-"ShakenBeef.Instructions.Step.1.Part.3.Accessibility" = "Trộn chung dầu hào, xì dầu, Rượu Sake Nhật Bản và đường, để riêng ra dùng sau.";
+/* Shaken Beef Entree Instructions Step 1 Part 3 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.1.Part.3.Accessibility" = "Trộn chung dầu hào, xì dầu, Rượu Sake Nhật Bản và đường, để riêng ra dùng sau.";
 
-/* Shaken Beef Instructions Step 1 Note 1 */
-"ShakenBeef.Instructions.Step.1.Note.1" = "Tôi sử dụng bít tết Ribeye cho công thức này.";
+/* Shaken Beef Entree Instructions Step 1 Note 1 */
+"ShakenBeefEntree.Instructions.Step.1.Note.1" = "Tôi sử dụng bít tết Ribeye cho công thức này.";
 
-/* Shaken Beef Instructions Step 1 Note 1 (VoiceOver) */
-"ShakenBeef.Instructions.Step.1.Note.1.Accessibility" = "Tôi sử dụng bít tết Ribeye cho công thức này.";
+/* Shaken Beef Entree Instructions Step 1 Note 1 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.1.Note.1.Accessibility" = "Tôi sử dụng bít tết Ribeye cho công thức này.";
 
-/* Shaken Beef Instructions Step 1 Note 2 */
-"ShakenBeef.Instructions.Step.1.Note.2" = "Tôi thấy rằng sử dụng ##Rượu Sake Nhật Bản## (Japanese sake) sẽ làm tăng thêm độ đậm đà cho hương vị, nhưng bạn có thể dùng nước nếu không có ##Rượu Sake Nhật Bản## (Japanese sake).";
+/* Shaken Beef Entree Instructions Step 1 Note 2 */
+"ShakenBeefEntree.Instructions.Step.1.Note.2" = "Tôi thấy rằng sử dụng ##Rượu Sake Nhật Bản## (Japanese sake) sẽ làm tăng thêm độ đậm đà cho hương vị, nhưng bạn có thể dùng nước nếu không có ##Rượu Sake Nhật Bản## (Japanese sake).";
 
-/* Shaken Beef Instructions Step 1 Note 2 (VoiceOver) */
-"ShakenBeef.Instructions.Step.1.Note.2.Accessibility" = "Tôi thấy rằng sử dụng Rượu Sake Nhật Bản sẽ làm tăng thêm độ đậm đà cho hương vị, nhưng bạn có thể dùng nước nếu không có Rượu Sake Nhật Bản.";
+/* Shaken Beef Entree Instructions Step 1 Note 2 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.1.Note.2.Accessibility" = "Tôi thấy rằng sử dụng Rượu Sake Nhật Bản sẽ làm tăng thêm độ đậm đà cho hương vị, nhưng bạn có thể dùng nước nếu không có Rượu Sake Nhật Bản.";
 
-/* Shaken Beef Instructions Step 2 Part 1 */
-"ShakenBeef.Instructions.Step.2.Part.1" = "Cho ##Dầu## (oil), ##Củ Hành## (onion) và ##Ớt Chuông## (bell pepper) vào chảo ở lửa vừa đến cao.";
+/* Shaken Beef Entree Instructions Step 2 Part 1 */
+"ShakenBeefEntree.Instructions.Step.2.Part.1" = "Cho ##Dầu## (oil), ##Củ Hành## (onion) và ##Ớt Chuông## (bell pepper) vào chảo ở lửa vừa đến cao.";
 
-/* Shaken Beef Instructions Step 2 Part 1 (VoiceOver) */
-"ShakenBeef.Instructions.Step.2.Part.1.Accessibility" = "Cho dầu, Củ Hành và ớt chuông vào chảo ở lửa vừa đến cao.";
+/* Shaken Beef Entree Instructions Step 2 Part 1 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.2.Part.1.Accessibility" = "Cho dầu, Củ Hành và ớt chuông vào chảo ở lửa vừa đến cao.";
 
-/* Shaken Beef Instructions Step 2 Part 2 */
-"ShakenBeef.Instructions.Step.2.Part.2" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi ##Củ Hành## (onion) và ##Ớt Chuông## (bell pepper) đủ chín.";
+/* Shaken Beef Entree Instructions Step 2 Part 2 */
+"ShakenBeefEntree.Instructions.Step.2.Part.2" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi ##Củ Hành## (onion) và ##Ớt Chuông## (bell pepper) đủ chín.";
 
-/* Shaken Beef Instructions Step 2 Part 2 (VoiceOver) */
-"ShakenBeef.Instructions.Step.2.Part.2.Accessibility" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi Củ Hành và ớt chuông đủ chín.";
+/* Shaken Beef Entree Instructions Step 2 Part 2 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.2.Part.2.Accessibility" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi Củ Hành và ớt chuông đủ chín.";
 
-/* Shaken Beef Instructions Step 3 Part 1 */
-"ShakenBeef.Instructions.Step.3.Part.1" = "Cho ##Thịt Bò## (beef) vào chảo.";
+/* Shaken Beef Entree Instructions Step 3 Part 1 */
+"ShakenBeefEntree.Instructions.Step.3.Part.1" = "Cho ##Thịt Bò## (beef) vào chảo.";
 
-/* Shaken Beef Instructions Step 3 Part 1 (VoiceOver) */
-"ShakenBeef.Instructions.Step.3.Part.1.Accessibility" = "Cho thịt bò vào chảo.";
+/* Shaken Beef Entree Instructions Step 3 Part 1 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.3.Part.1.Accessibility" = "Cho thịt bò vào chảo.";
 
-/* Shaken Beef Instructions Step 3 Part 2 */
-"ShakenBeef.Instructions.Step.3.Part.2" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi ##Thịt Bò## (beef) đủ chín.";
+/* Shaken Beef Entree Instructions Step 3 Part 2 */
+"ShakenBeefEntree.Instructions.Step.3.Part.2" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi ##Thịt Bò## (beef) đủ chín.";
 
-/* Shaken Beef Instructions Step 3 Part 2 (VoiceOver) */
-"ShakenBeef.Instructions.Step.3.Part.2.Accessibility" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi thịt bò đủ chín.";
+/* Shaken Beef Entree Instructions Step 3 Part 2 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.3.Part.2.Accessibility" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi thịt bò đủ chín.";
 
-/* Shaken Beef Instructions Step 3 Part 3 */
-"ShakenBeef.Instructions.Step.3.Part.3" = "##Lắc## (shaken=) chảo thường xuyên để ##Thịt Bò## (beef) không bị chín quá.";
+/* Shaken Beef Entree Instructions Step 3 Part 3 */
+"ShakenBeefEntree.Instructions.Step.3.Part.3" = "##Lắc## (shaken=) chảo thường xuyên để ##Thịt Bò## (beef) không bị chín quá.";
 
-/* Shaken Beef Instructions Step 3 Part 3 (VoiceOver) */
-"ShakenBeef.Instructions.Step.3.Part.3.Accessibility" = "Lắc chảo thường xuyên để thịt bò không bị chín quá.";
+/* Shaken Beef Entree Instructions Step 3 Part 3 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.3.Part.3.Accessibility" = "Lắc chảo thường xuyên để thịt bò không bị chín quá.";
 
-/* Shaken Beef Instructions Step 3 Note 1 */
-"ShakenBeef.Instructions.Step.3.Note.1" = "Tôi thích ##Thịt Bò## (beef) sống hơn một chút nhưng nếu bạn muốn ##Thịt Bò## (beef) chín hơn thì hãy tăng thời gian xào lên.";
+/* Shaken Beef Entree Instructions Step 3 Note 1 */
+"ShakenBeefEntree.Instructions.Step.3.Note.1" = "Tôi thích ##Thịt Bò## (beef) sống hơn một chút nhưng nếu bạn muốn ##Thịt Bò## (beef) chín hơn thì hãy tăng thời gian xào lên.";
 
-/* Shaken Beef Instructions Step 3 Note 1 (VoiceOver) */
-"ShakenBeef.Instructions.Step.3.Note.1.Accessibility" = "Tôi thích thịt bò sống hơn một chút nhưng nếu bạn muốn thịt bò chín hơn thì hãy tăng thời gian xào lên.";
+/* Shaken Beef Entree Instructions Step 3 Note 1 (VoiceOver) */
+"ShakenBeefEntree.Instructions.Step.3.Note.1.Accessibility" = "Tôi thích thịt bò sống hơn một chút nhưng nếu bạn muốn thịt bò chín hơn thì hãy tăng thời gian xào lên.";
 
-/* Shaken Beef Instructions Step 4 Part 1 */
-"ShakenBeef.Instructions.Step.4.Part.1" = "Thêm nước sốt bạn đã trộn trước đó và xào cho đến khi mọi thứ kết hợp.";
+/* Shaken Beef Entree Instructions Step 4 Part 1 */
+"ShakenBeefEntree.Instructions.Step.4.Part.1" = "Thêm nước sốt bạn đã trộn trước đó và xào cho đến khi mọi thứ kết hợp.";
 
-/* Shaken Beef Instructions Step 4 Part 2 */
-"ShakenBeef.Instructions.Step.4.Part.2" = "chuyển thịt bò lên đĩa.";
+/* Shaken Beef Entree Instructions Step 4 Part 2 */
+"ShakenBeefEntree.Instructions.Step.4.Part.2" = "chuyển thịt bò lên đĩa.";
 
-/* Shaken Beef Variants 1 */
-"ShakenBeef.Variants.1" = "Thay vì cho nước sốt vào khi nấu, bạn có thể dùng nó để ướp ##Thịt Bò## (beef) qua đêm.";
+/* Shaken Beef Entree Variants 1 */
+"ShakenBeefEntree.Variants.1" = "Thay vì cho nước sốt vào khi nấu, bạn có thể dùng nó để ướp ##Thịt Bò## (beef) qua đêm.";
 
-/* Shaken Beef Variants 1 (VoiceOver) */
-"ShakenBeef.Variants.1.Accessibility" = "Thay vì cho nước sốt vào khi nấu, bạn có thể dùng nó để ướp thịt bò qua đêm.";
+/* Shaken Beef Entree Variants 1 (VoiceOver) */
+"ShakenBeefEntree.Variants.1.Accessibility" = "Thay vì cho nước sốt vào khi nấu, bạn có thể dùng nó để ướp thịt bò qua đêm.";
 
-/* Shaken Beef Variants 2 */
-"ShakenBeef.Variants.2" = "Làm như vậy sẽ giúp hương vị của ##Thịt Bò## (beef) đậm đà hơn.";
+/* Shaken Beef Entree Variants 2 */
+"ShakenBeefEntree.Variants.2" = "Làm như vậy sẽ giúp hương vị của ##Thịt Bò## (beef) đậm đà hơn.";
 
-/* Shaken Beef Variants 2 (VoiceOver) */
-"ShakenBeef.Variants.2.Accessibility" = "Làm như vậy sẽ giúp hương vị của thịt bò đậm đà hơn.";
+/* Shaken Beef Entree Variants 2 (VoiceOver) */
+"ShakenBeefEntree.Variants.2.Accessibility" = "Làm như vậy sẽ giúp hương vị của thịt bò đậm đà hơn.";
 
-/* Shaken Beef Tips 1 */
-"ShakenBeef.Tips.1" = "Thịt lý tưởng cho công thức này phải là thịt Ribeye, thịt thăn và mắt chuck. Thịt bò Wagyu cũng là một lựa chọn tuyệt vời nếu bạn có thể tìm thấy nó ở siêu thị và không ngại phí thêm một chút tiền. Vì thịt bò Wagyu có hàm lượng chất béo cao nên thịt mềm hơn nhiều, nhưng hương vị có thể quá đậm đối với một số người.";
+/* Shaken Beef Entree Tips 1 */
+"ShakenBeefEntree.Tips.1" = "Thịt lý tưởng cho công thức này phải là thịt Ribeye, thịt thăn và mắt chuck. Thịt bò Wagyu cũng là một lựa chọn tuyệt vời nếu bạn có thể tìm thấy nó ở siêu thị và không ngại phí thêm một chút tiền. Vì thịt bò Wagyu có hàm lượng chất béo cao nên thịt mềm hơn nhiều, nhưng hương vị có thể quá đậm đối với một số người.";
 
-/* Shaken Beef How To 1 */
-"ShakenBeef.HowTo.1" = "##Bò Lúc Lắc## (shaken beef) thường dùng với cơm.";
+/* Shaken Beef Entree How To 1 */
+"ShakenBeefEntree.HowTo.1" = "##Bò Lúc Lắc## (shaken beef) thường dùng với cơm.";
 
-/* Shaken Beef How To 1 (VoiceOver) */
-"ShakenBeef.HowTo.1.Accessibility" = "Bò Lúc Lắc thường dùng với cơm.";
+/* Shaken Beef Entree How To 1 (VoiceOver) */
+"ShakenBeefEntree.HowTo.1.Accessibility" = "Bò Lúc Lắc thường dùng với cơm.";
 
-/* Shaken Beef How To 2 */
-"ShakenBeef.HowTo.2" = "Có rất nhiều nhà hàng kết hợp ##Bò Lúc Lắc## (shaken beef) với ##Cơm Đỏ## (tomato rice), nhưng tôi vẫn thích cơm trắng hơn.";
+/* Shaken Beef Entree How To 2 */
+"ShakenBeefEntree.HowTo.2" = "Có rất nhiều nhà hàng kết hợp ##Bò Lúc Lắc## (shaken beef) với ##Cơm Đỏ## (tomato rice), nhưng tôi vẫn thích cơm trắng hơn.";
 
-/* Shaken Beef How To 2 (VoiceOver) */
-"ShakenBeef.HowTo.2.Accessibility" = "Có rất nhiều nhà hàng kết hợp Bò Lúc Lắc với Cơm Đỏ, nhưng tôi vẫn thích cơm trắng hơn.";
+/* Shaken Beef Entree How To 2 (VoiceOver) */
+"ShakenBeefEntree.HowTo.2.Accessibility" = "Có rất nhiều nhà hàng kết hợp Bò Lúc Lắc với Cơm Đỏ, nhưng tôi vẫn thích cơm trắng hơn.";
 
 
 // MARK: Muoi Tieu Chanh (Lime Dipping Sauce) Page
