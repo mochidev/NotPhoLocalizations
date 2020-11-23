@@ -95,17 +95,15 @@
 "grilledPork.AccessibilitySubtitle" = "Thịt Nướng";
 "grilledPork.AccessibilityPageTitle" = "Thịt Nướng";
 
-
 /* Pork Belly with Oyster Sauce */
 "porkBellyWithOysterSauce.Subtitle" = "Pork Belly with Oyster Sauce";
 "porkBellyWithOysterSauce.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Dầu Hào";
 "porkBellyWithOysterSauce.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Dầu Hào";
 
-
 /* Shaken Beef Entree */
-"shakenBeef.Subtitle" = "Shaken Beef";
-"shakenBeef.AccessibilitySubtitle" = "Bò Lúc Lắc";
-"shakenBeef.AccessibilityPageTitle" = "Bò Lúc Lắc";
+"shakenBeefEntree.Subtitle" = "Shaken Beef";
+"shakenBeefEntree.AccessibilitySubtitle" = "Bò Lúc Lắc";
+"shakenBeefEntree.AccessibilityPageTitle" = "Bò Lúc Lắc";
 
 
 // MARK: Ingredients Tab
