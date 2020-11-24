@@ -30,6 +30,9 @@
 /* The Heading for Used In sections */
 "Heading.UsedIn" = "Used In";
 
+/* The Heading for Part Of sections */
+"Heading.PartOf" = "Part Of";
+
 /*
  The following are used instead of images on various pages when the user must have the contents read to them.
  */
@@ -883,6 +886,66 @@
 
 /* Pork Belly with Onion How To 1 */
 "PorkBellyWithOnion.HowTo.1" = "This dish is great to be enjoyed with rice.";
+
+
+// MARK: Bo Luc Lac (Shaken Beef) Main Page
+
+
+// MARK: Bo Luc Lac Xa Lach (Shaken Beef Salad) Page
+
+/* Shaken Beef Salad Introduction 1 */
+"ShakenBeefSalad.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. Most restaurants serves this dish with either ##Cơm Trắng## (white rice) or ##Cơm Đỏ## (tomato rice). For a lighter meal, just replace the rice with some ##Xà Lách## (salad).";
+
+/* Shaken Beef Salad Introduction 1 (VoiceOver) */
+"ShakenBeefSalad.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. Most restaurants serves this dish with either white rice or tomato rice. For a lighter meal, just replace the rice with some salad.";
+
+/* Shaken Beef Salad Introduction 2 */
+"ShakenBeefSalad.Introduction.2" = "This recipe serves one.";
+
+/* Shaken Beef Salad Ingredients Salad Amount */
+"ShakenBeefSalad.Ingredients.Salad.Amount" = "1 portion";
+
+/* Shaken Beef Salad Ingredients Shaken Beef Entree Amount */
+"ShakenBeefSalad.Ingredients.ShakenBeefEntree.Amount" = "1 portion";
+
+/* Shaken Beef Salad Ingredients Lime Dipping Sauce Amount */
+"ShakenBeefSalad.Ingredients.LimeDippingSauce.Amount" = "1 portion";
+
+/* Shaken Beef Salad Instructions 1 */
+"ShakenBeefSalad.Instructions.1" = "Start by preparing the ##Xà Lách## (salad).";
+
+/* Shaken Beef Salad Instructions 1 (VoiceOver) */
+"ShakenBeefSalad.Instructions.1.Accessibility" = "Start by preparing the salad.";
+
+/* Shaken Beef Salad Instructions 2 */
+"ShakenBeefSalad.Instructions.2" = "Cut some lettuce into bite sized pieces, and laid them on a plate.";
+
+/* Shaken Beef Salad Instructions 3 */
+"ShakenBeefSalad.Instructions.3" = "Or, use any salad greens you prefer.";
+
+/* Shaken Beef Salad Instructions 4 */
+"ShakenBeefSalad.Instructions.4" = "Add some cucumber and tomato slices.";
+
+/* Shaken Beef Salad Instructions 5 */
+"ShakenBeefSalad.Instructions.5" = "Prepare the ##Muối Tiêu Chanh## (lime dipping sauce) and set aside.";
+
+/* Shaken Beef Salad Instructions 5 (VoiceOver) */
+"ShakenBeefSalad.Instructions.5.Accessibility" = "Prepare the lime dipping sauce and set aside.";
+
+/* Shaken Beef Salad Instructions 6 */
+"ShakenBeefSalad.Instructions.6" = "Make the ##Bò Lúc Lắc## (shaken beef), and add it on top of the salad.";
+
+/* Shaken Beef Salad Instructions 6 (VoiceOver) */
+"ShakenBeefSalad.Instructions.6.Accessibility" = "Make the Shaken Beef, and add it on top of the salad.";
+
+/* Shaken Beef Salad Instructions 7 */
+"ShakenBeefSalad.Instructions.7" = "Serve immediately.";
+
+/* Shaken Beef Salad How To 1 */
+"ShakenBeefSalad.HowTo.1" = "Dip the morsels of ##Bò Lúc Lắc## (shaken beef) into the ##Muối Tiêu Chanh## (lime dipping sauce) for a tangy punch.";
+
+/* Shaken Beef Salad How To 1 (VoiceOver) */
+"ShakenBeefSalad.HowTo.1.Accessibility" = "Dip the morsels of Shaken Beef into the Lime Dipping Sauce for a tangy punch.";
 
 
 // MARK: - # Recipes Tab:
@@ -2333,7 +2396,7 @@
 "ShakenBeefEntree.Introduction.1" = "##Bò Lúc Lắc## is literally translated as (Shaken Beef) because you shake the wok when cooking it. It makes a great dish for when you’re craving the texture of steak but also want a Vietnamese flavor. ##Bò Lúc Lắc## (shaken beef) tastes best when the meat is cooked just right, which is from rare to medium-rare; any more than that the beef will become tough to eat.";
 
 /* Shaken Beef Entree Introduction 1 (VoiceOver) */
-"ShakenBeefEntree.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, translates to shaking the wok when cooking the beef. It makes a great dish for when you’re craving the texture of steak but also want a Vietnamese flavor. Shaken beef tastes best when the meat is cooked just right, which is from rare to medium-rare; any more than that the beef will become tough to eat.";
+"ShakenBeefEntree.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. It makes a great dish for when you’re craving the texture of steak but also want a Vietnamese flavor. Shaken beef tastes best when the meat is cooked just right, which is from rare to medium-rare; any more than that the beef will become tough to eat.";
 
 /* Shaken Beef Entree Introduction 2 */
 "ShakenBeefEntree.Introduction.2" = "It is thanks to this dish that my husband now eats ##Ớt Chuông## (bell peppers)! However, he prefers orange ##Ớt Chuông## (bell peppers) because orange is his favorite color.";

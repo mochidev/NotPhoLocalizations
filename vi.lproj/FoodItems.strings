@@ -110,6 +110,16 @@
 "limeDippingSauce.AccessibilitySubtitle" = "Muối Tiêu Chanh";
 "limeDippingSauce.AccessibilityPageTitle" = "Muối Tiêu Chanh";
 
+/* Shaken Beef Main Page */
+"shakenBeefMain.Subtitle" = "Shaken Beef";
+"shakenBeefMain.AccessibilitySubtitle" = "Bò Lúc Lắc";
+"shakenBeefMain.AccessibilityPageTitle" = "Bò Lúc Lắc";
+
+/* Shaken Beef Salad */
+"shakenBeefSalad.Subtitle" = "Shaken Beef Salad";
+"shakenBeefSalad.AccessibilitySubtitle" = "Bò Lúc Lắc Xà Lách";
+"shakenBeefSalad.AccessibilityPageTitle" = "Bò Lúc Lắc Xà Lách";
+
 
 // MARK: Ingredients Tab
 

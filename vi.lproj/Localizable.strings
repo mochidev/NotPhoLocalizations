@@ -30,6 +30,9 @@
 /* The Heading for Used In sections */
 "Heading.UsedIn" = "Dùng Trong";
 
+/* The Heading for Part Of sections */
+"Heading.PartOf" = "Thuộc Về";
+
 /*
  The following are used instead of images on various pages when the user must have the contents read to them.
  */
@@ -890,6 +893,72 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Pork Belly with Onion How To 1 */
 "PorkBellyWithOnion.HowTo.1" = "Món này thưởng thức với cơm rất tuyệt.";
+
+
+// MARK: Bo Luc Lac (Shaken Beef) Main Page
+
+
+// MARK: Bo Luc Lac Xa Lach (Shaken Beef Salad) Page
+
+/* Shaken Beef Salad Introduction 1 */
+"ShakenBeefSalad.Introduction.1" = "Món ăn này được đặt tên là ##Bò Lúc Lắc## (shaken beef) vì bạn lắc chảo khi xào thịt bò. Có rất nhiều nhà hàng phối hợp ##Bò Lúc Lắc## (shaken beef) với ##Cơm Trắng## (white rice) hoặc là với ##Cơm Đỏ## (tomato rice). Để bữa ăn nhẹ nhàng hơn, bạn chỉ cần thay cơm bằng một ít ##Xà Lách## (salad).";
+
+/* Shaken Beef Salad Introduction 1 (VoiceOver) */
+"ShakenBeefSalad.Introduction.1" = "Món ăn này được đặt tên là Bò Lúc Lắc vì bạn lắc chảo khi xào thịt bò. Có rất nhiều nhà hàng phối hợp Bò Lúc Lắc với Cơm Trắng hoặc là với Cơm Đỏ. Để bữa ăn nhẹ nhàng hơn, bạn chỉ cần thay cơm bằng một ít Xà Lách.";
+
+/* Shaken Beef Salad Introduction 2 */
+"ShakenBeefSalad.Introduction.2" = "Công thức này làm cho 1 người ăn.";
+
+/* Shaken Beef Salad Ingredients Salad Amount */
+"ShakenBeefSalad.Ingredients.Salad.Amount" = "1 phần";
+
+/* Shaken Beef Salad Ingredients Shaken Beef Entree Amount */
+"ShakenBeefSalad.Ingredients.ShakenBeefEntree.Amount" = "1 phần";
+
+/* Shaken Beef Salad Ingredients Lime Dipping Sauce Amount */
+"ShakenBeefSalad.Ingredients.LimeDippingSauce.Amount" = "1 phần";
+
+/* Shaken Beef Salad Instructions 1 */
+"ShakenBeefSalad.Instructions.1" = "Bước đầu tiên là chuẩn bị món ##Xà Lách## (salad).";
+
+/* Shaken Beef Salad Instructions 1 (VoiceOver) */
+"ShakenBeefSalad.Instructions.1.Accessibility" = "Bước đầu tiên là chuẩn bị món Xà Lách.";
+
+/* Shaken Beef Salad Instructions 2 */
+"ShakenBeefSalad.Instructions.2" = "Cắt một ít rau xà lách thành từng miếng nhỏ và bày ra đĩa.";
+
+/* Shaken Beef Salad Instructions 3 */
+"ShakenBeefSalad.Instructions.3" = "Hoặc sử dụng bất kỳ loại rau xanh nào để làm món ##Xà Lách## (salad) bạn muốn.";
+
+/* Shaken Beef Salad Instructions 3 (VoiceOver) */
+"ShakenBeefSalad.Instructions.3.Accessibility" = "Hoặc sử dụng bất kỳ loại rau xanh nào để làm món ##Xà Lách## (salad) bạn muốn.";
+
+/* Shaken Beef Salad Instructions 4 */
+"ShakenBeefSalad.Instructions.4" = "Thêm vài miếng dưa leo và cà chua.";
+
+/* Shaken Beef Salad Instructions 5 */
+"ShakenBeefSalad.Instructions.5" = "Chuẩn bị nước ##Muối Tiêu Chanh## (lime dipping sauce) và để riêng một bên.";
+
+/* Shaken Beef Salad Instructions 5 (VoiceOver) */
+"ShakenBeefSalad.Instructions.5.Accessibility" = "Chuẩn bị nước Muối Tiêu Chanh và để riêng một bên.";
+
+/* Shaken Beef Salad Instructions 6 */
+"ShakenBeefSalad.Instructions.6" = "Làm món ##Bò Lúc Lắc## (shaken beef) và đặt nó lên trên ##Xà Lách## (salad).";
+
+/* Shaken Beef Salad Instructions 6 (VoiceOver) */
+"ShakenBeefSalad.Instructions.6.Accessibility" = "Làm món Bò Lúc Lắc và đặt nó lên trên Xà Lách.";
+
+/* Shaken Beef Salad Instructions 7 */
+"ShakenBeefSalad.Instructions.7" = "Đặt mọi thứ vào đĩa và ăn liền.";
+
+/* Shaken Beef Salad How To 1 */
+"ShakenBeefSalad.HowTo.1" = "Chấm ##Thịt Bò## (beef) vào nước ##Muối Tiêu Chanh## (lime dipping sauce) để ăn.";
+
+/* Shaken Beef Salad How To 1 (VoiceOver) */
+"ShakenBeefSalad.HowTo.1.Accessibility" = "Chấm thịt bò vào nước Muối Tiêu Chanh để ăn.";
+
+
+
 
 
 // MARK: - # Recipes Tab:
@@ -2534,10 +2603,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShakenBeefEntree.HowTo.1.Accessibility" = "Bò Lúc Lắc thường dùng với cơm.";
 
 /* Shaken Beef Entree How To 2 */
-"ShakenBeefEntree.HowTo.2" = "Có rất nhiều nhà hàng kết hợp ##Bò Lúc Lắc## (shaken beef) với ##Cơm Đỏ## (tomato rice), nhưng tôi vẫn thích cơm trắng hơn.";
+"ShakenBeefEntree.HowTo.2" = "Có rất nhiều nhà hàng phối hợp ##Bò Lúc Lắc## (shaken beef) với ##Cơm Đỏ## (tomato rice), nhưng tôi vẫn thích cơm trắng hơn.";
 
 /* Shaken Beef Entree How To 2 (VoiceOver) */
-"ShakenBeefEntree.HowTo.2.Accessibility" = "Có rất nhiều nhà hàng kết hợp Bò Lúc Lắc với Cơm Đỏ, nhưng tôi vẫn thích cơm trắng hơn.";
+"ShakenBeefEntree.HowTo.2.Accessibility" = "Có rất nhiều nhà hàng phối hợp Bò Lúc Lắc với Cơm Đỏ, nhưng tôi vẫn thích cơm trắng hơn.";
 
 
 // MARK: Muoi Tieu Chanh (Lime Dipping Sauce) Page

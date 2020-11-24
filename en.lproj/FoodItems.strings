@@ -92,6 +92,13 @@
 "limeDippingSauce.Subtitle" = "Lime Dipping Sauce";
 "limeDippingSauce.AccessibilitySubtitle" = "Lime Dipping Sauce";
 
+/* Shaken Beef Main Page */
+"shakenBeefMain.Subtitle" = "Shaken Beef";
+"shakenBeefMain.AccessibilitySubtitle" = "Shaken Beef";
+
+/* Shaken Beef Salad */
+"shakenBeefSalad.Subtitle" = "Shaken Beef Salad";
+"shakenBeefSalad.AccessibilitySubtitle" = "Shaken Beef Salad";
 
 // MARK: Ingredients Tab
 
