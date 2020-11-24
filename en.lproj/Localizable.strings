@@ -21,6 +21,9 @@
 /* The Heading for Variants sections */
 "Heading.Variants" = "Variants";
 
+/* The Heading for Variations sections */
+"Heading.Variations" = "Variations";
+
 /* The Heading for Tips sections */
 "Heading.Tips" = "Tips";
 
@@ -889,6 +892,15 @@
 
 
 // MARK: Bo Luc Lac (Shaken Beef) Main Page
+
+/* Shaken Beef Main Introduction 1 */
+"ShakenBeefMain.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. I have seen many variations of this dish, and they are all equally delicious.";
+
+/* Shaken Beef Main Introduction 1 (VoiceOver) */
+"ShakenBeefMain.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. I have seen many variations of this dish, and they are all equally delicious.";
+
+/* Shaken Beef Main Introduction 2 */
+"ShakenBeefMain.Introduction.2" = "If you’re feeling adventurous, give all the variations a try!";
 
 
 // MARK: Bo Luc Lac Xa Lach (Shaken Beef Salad) Page

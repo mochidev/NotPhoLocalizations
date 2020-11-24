@@ -21,6 +21,9 @@
 /* The Heading for Variants sections */
 "Heading.Variants" = "Các Biến Thể";
 
+/* The Heading for Variations sections */
+"Heading.Variations" = "Các Biến Thể";
+
 /* The Heading for Tips sections */
 "Heading.Tips" = "Gợi Ý";
 
@@ -896,6 +899,15 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 
 // MARK: Bo Luc Lac (Shaken Beef) Main Page
+
+/* Shaken Beef Main Introduction 1 */
+"ShakenBeefMain.Introduction.1" = "Món ăn này được đặt tên là ##Bò Lúc Lắc## (shaken beef) vì bạn lắc chảo khi xào thịt bò. Tôi đã thấy nhiều biến thể của món ăn này và chúng đều ngon như nhau.";
+
+/* Shaken Beef Main Introduction 1 (VoiceOver) */
+"ShakenBeefMain.Introduction.1.Accessibility" = "Món ăn này được đặt tên là Bò Lúc Lắc vì bạn lắc chảo khi xào thịt bò. Tôi đã thấy nhiều biến thể của món ăn này và chúng đều ngon như nhau.";
+
+/* Shaken Beef Main Introduction 2 */
+"ShakenBeefMain.Introduction.2" = "Nếu bạn cảm thấy hiếu kỳ thì nên thử tất cả các biến thể!";
 
 
 // MARK: Bo Luc Lac Xa Lach (Shaken Beef Salad) Page
