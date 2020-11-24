@@ -46,8 +46,12 @@
 "shakenBeefSalad.AccessibilitySubtitle" = "Shaken Beef Salad";
 
 /* Shaken Beef with White Rice */
-"shakenBeefWithRice.Subtitle" = "Shaken Beef with White Rice";
-"shakenBeefWithRice.AccessibilitySubtitle" = "Shaken Beef with White Rice";
+"shakenBeefWhiteRice.Subtitle" = "Shaken Beef with White Rice";
+"shakenBeefWhiteRice.AccessibilitySubtitle" = "Shaken Beef with White Rice";
+
+/* Shaken Beef with Tomato Rice */
+"shakenBeefWithTomatoRice.Subtitle" = "Shaken Beef with Tomato Rice";
+"shakenBeefWithTomatoRice.AccessibilitySubtitle" = "Shaken Beef with Tomato Rice";
 
 
 // MARK: Recipes Tab
