@@ -112,8 +112,8 @@
 "carrot.AccessibilitySubtitle" = "Carrot";
 
 /* Broken Rice */
-"rice.Subtitle" = "Broken Rice";
-"rice.AccessibilitySubtitle" = "Broken Rice";
+"brokenRice.Subtitle" = "Broken Rice";
+"brokenRice.AccessibilitySubtitle" = "Broken Rice";
 
 /* Daikon */
 "daikon.Subtitle" = "Daikon";

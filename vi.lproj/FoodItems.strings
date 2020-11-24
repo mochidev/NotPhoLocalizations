@@ -135,9 +135,9 @@
 "carrot.AccessibilityPageTitle" = "Cà Rốt";
 
 /* Broken Rice */
-"rice.Subtitle" = "Broken Rice";
-"rice.AccessibilitySubtitle" = "Cơm Tấm";
-"rice.AccessibilityPageTitle" = "Cơm Tấm";
+"brokenRice.Subtitle" = "Broken Rice";
+"brokenRice.AccessibilitySubtitle" = "Cơm Tấm";
+"brokenRice.AccessibilityPageTitle" = "Cơm Tấm";
 
 /* Daikon */
 "daikon.Subtitle" = "Daikon";

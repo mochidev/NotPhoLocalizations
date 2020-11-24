@@ -2713,17 +2713,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 // MARK: Com Tam (Cooked Broken Rice) Page
 
-/* Rice Main Image (VoiceOver) */
-"Rice.Main.Image" = "Thông tin.";
+/* Broken Rice Introduction */
+"BrokenRice.Introduction" = "##Cơm Tấm## là làm từ gạo bị gãy khi di chuyển và gọi là ##Gạo Tấm##. Có một thời gian ##Gạo Tấm## không thể bán được tại vì nhiều người nghĩ là gạo bị hư cho nên lúc đó nông phu chỉ có thể giữ lại để ăn. Nhưng gì vậy nà muốn ăn ##Cơm Tấm## được phát minh. Bây giờ món ăn ##Cơm Tấm## rất là được quan nên ở Việt Nam.";
 
-/* Rice Introduction */
-"Rice.Introduction" = "##Cơm Tấm## là làm từ gạo bị gãy khi di chuyển và gọi là ##Gạo Tấm##. Có một thời gian ##Gạo Tấm## không thể bán được tại vì nhiều người nghĩ là gạo bị hư cho nên lúc đó nông phu chỉ có thể giữ lại để ăn. Nhưng gì vậy nà muốn ăn ##Cơm Tấm## được phát minh. Bây giờ món ăn ##Cơm Tấm## rất là được quan nên ở Việt Nam.";
-
-/* Rice Introduction (VoiceOver) */
-"Rice.Introduction.Accessibility" = "Cơm Tấm là làm từ gạo bị gãy khi di chuyển và gọi là Gạo Tấm. Có một thời gian Gạo Tấm không thể bán được tại vì nhiều người nghĩ là gạo bị hư cho nên lúc đó nông phu chỉ có thể giữ lại để ăn. Nhưng gì vậy nà muốn ăn Cơm Tấm được phát minh. Bây giờ món ăn Cơm Tấm rất là được quan nên ở Việt Nam.";
-
-/* Rice Used In Header */
-"Rice.UsedIn.Header" = "Dùng Trong";
+/* Broken Rice Introduction (VoiceOver) */
+"BrokenRice.Introduction.Accessibility" = "Cơm Tấm là làm từ gạo bị gãy khi di chuyển và gọi là Gạo Tấm. Có một thời gian Gạo Tấm không thể bán được tại vì nhiều người nghĩ là gạo bị hư cho nên lúc đó nông phu chỉ có thể giữ lại để ăn. Nhưng gì vậy nà muốn ăn Cơm Tấm được phát minh. Bây giờ món ăn Cơm Tấm rất là được quan nên ở Việt Nam.";
 
 
 // MARK: Cu Cai Trang (Daikon) Page
