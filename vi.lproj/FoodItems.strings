@@ -34,9 +34,9 @@
 "eggRollPlatter.AccessibilityPageTitle" = "Chả Giò";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf */
-"brokenRice.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
-"brokenRice.AccessibilitySubtitle" = "Cơm Tấm Thịt Nướng Chả";
-"brokenRice.AccessibilityPageTitle" = "Cơm Tấm Thịt Nướng Chả";
+"BrokenRiceGrilledPorkEggMeatloaf.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
+"BrokenRiceGrilledPorkEggMeatloaf.AccessibilitySubtitle" = "Cơm Tấm Thịt Nướng Chả";
+"BrokenRiceGrilledPorkEggMeatloaf.AccessibilityPageTitle" = "Cơm Tấm Thịt Nướng Chả";
  
 /* Pork Belly with Onion */
 "porkBellyWithOnion.Subtitle" = "Pork Belly with Onion";

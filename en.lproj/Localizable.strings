@@ -683,150 +683,132 @@
 
 // MARK: Com Tam Thit Nuong Cha (Broken Rice with Grilled Pork & Egg Meatloaf) Page
 
-/* Broken Rice Main Image (VoiceOver) */
-"BrokenRice.Main.Image" = "Info";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Introduction 1 */
+"BrokenRiceGrilledPorkEggMeatloaf.Introduction.1" = "##Cơm Tấm## (broken rice) was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of ##Cơm Tấm## (broken rice) dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, ##Chả Trứng## (steamed egg meatloaf), fresh vegetables, pickles, and ##Nước Mắm Chấm## (mixed fish sauce) on the side.";
 
-/* Broken Rice Main Image Action Hint (VoiceOver) */
-"BrokenRice.Main.Image.Hint" = "Scroll down to learn more.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Introduction 1 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Introduction.1.Accessibility" = "Broken rice was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of broken rice dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, steamed egg meatloaf, fresh vegetables, pickles, and mixed fish sauce on the side.";
 
-/* Broken Rice Introduction 1 */
-"BrokenRice.Introduction.1" = "##Cơm Tấm## (broken rice) was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of ##Cơm Tấm## (broken rice) dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, ##Chả Trứng## (steamed egg meatloaf), fresh vegetables, pickles, and ##Nước Mắm Chấm## (mixed fish sauce) on the side.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Introduction 2 */
+"BrokenRiceGrilledPorkEggMeatloaf.Introduction.2" = "This recipe yields 1 plate.";
 
-/* Broken Rice Introduction 1 (VoiceOver) */
-"BrokenRice.Introduction.1.Accessibility" = "Broken rice was originally a popular dish among poor rice farmers because they could only use the broken grains of jasmine rice for themselves, unable to sell them for the same price as whole grains, but it is now enjoyed by everyone. There are many variations of broken rice dishes, but the most common is composed of the iconic broken rice, follow by some kind of grilled meat, steamed egg meatloaf, fresh vegetables, pickles, and mixed fish sauce on the side.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Rice Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.Amount.us" = "½ cup, cooked";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.Amount.metric" = "90 g, cooked";
 
-/* Broken Rice Introduction 2 */
-"BrokenRice.Introduction.2" = "This recipe yields 1 plate.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Rice Amount (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
 
-/* Broken Rice Ingredients Header */
-"BrokenRice.Ingredients.Header" = "Ingredients";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Grilled Pork Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
 
-/* Broken Rice Ingredients Rice Amount */
-"BrokenRice.Ingredients.Rice.Amount.us" = "½ cup, cooked";
-"BrokenRice.Ingredients.Rice.Amount.metric" = "90 g, cooked";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Grilled Pork Amount (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 to 4 ounces";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 to 100 grams";
 
-/* Broken Rice Ingredients Rice Amount (VoiceOver) */
-"BrokenRice.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
-"BrokenRice.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Egg Meatloaf Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.EggMeatloaf.Amount.us" = "2-3 oz";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.EggMeatloaf.Amount.metric" = "60-80 g";
 
-/* Broken Rice Ingredients Grilled Pork Amount */
-"BrokenRice.Ingredients.GrilledPork.Amount.us" = "3-4 oz";
-"BrokenRice.Ingredients.GrilledPork.Amount.metric" = "80-100 g";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Egg Meatloaf Amount (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.EggMeatloaf.AccessibilityAmount.us" = "2 to 3 ounces";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.EggMeatloaf.AccessibilityAmount.metric" = "60 to 80 grams";
 
-/* Broken Rice Ingredients Grilled Pork Amount (VoiceOver) */
-"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount.us" = "3 to 4 ounces";
-"BrokenRice.Ingredients.GrilledPork.AccessibilityAmount.metric" = "80 to 100 grams";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Pickles Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Pickles.Amount.us" = "1-2 oz";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Pickles.Amount.metric" = "40-45 g";
 
-/* Broken Rice Ingredients Egg Meatloaf Amount */
-"BrokenRice.Ingredients.EggMeatloaf.Amount.us" = "2-3 oz";
-"BrokenRice.Ingredients.EggMeatloaf.Amount.metric" = "60-80 g";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Pickles Amount (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Pickles.AccessibilityAmount.metric" = "40 to 45 grams";
 
-/* Broken Rice Ingredients Egg Meatloaf Amount (VoiceOver) */
-"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount.us" = "2 to 3 ounces";
-"BrokenRice.Ingredients.EggMeatloaf.AccessibilityAmount.metric" = "60 to 80 grams";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Cucumber Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Cucumber.Amount" = "3 slices";
 
-/* Broken Rice Ingredients Pickles Amount */
-"BrokenRice.Ingredients.Pickles.Amount.us" = "1-2 oz";
-"BrokenRice.Ingredients.Pickles.Amount.metric" = "40-45 g";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Tomato Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Tomato.Amount" = "2 slices";
 
-/* Broken Rice Ingredients Pickles Amount (VoiceOver) */
-"BrokenRice.Ingredients.Pickles.AccessibilityAmount.us" = "1 to 2 ounces";
-"BrokenRice.Ingredients.Pickles.AccessibilityAmount.metric" = "40 to 45 grams";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Scallion & Oil Garnish Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
 
-/* Broken Rice Ingredients Cucumber Amount */
-"BrokenRice.Ingredients.Cucumber.Amount" = "3 slices";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.ScallionsOil.AccessibilityAmount" = "1 to 2 tablespoons";
 
-/* Broken Rice Ingredients Tomato Amount */
-"BrokenRice.Ingredients.Tomato.Amount" = "2 slices";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Mixed Fish Sauce Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
-/* Broken Rice Ingredients Scallion & Oil Garnish Amount */
-"BrokenRice.Ingredients.ScallionsOil.Amount" = "1-2 tbsp";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Mixed Fish Sauce Amount (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
-/* Broken Rice Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
-"BrokenRice.Ingredients.ScallionsOil.AccessibilityAmount" = "1 to 2 tablespoons";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 1 */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.1" = "Scoop the ##Cơm Tấm## (cooked broken rice) into a small bowl, then invert the bowl over a plate to form the rice into a half-sphere shape.";
 
-/* Broken Rice Ingredients Mixed Fish Sauce Amount */
-"BrokenRice.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
-"BrokenRice.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 1 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.1.Accessibility" = "Scoop the cooked broken rice into a small bowl, then invert the bowl over a plate to form the rice into a half-sphere shape.";
 
-/* Broken Rice Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
-"BrokenRice.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 2 */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.2" = "Arrange the ##Thịt Nướng## (grilled pork) and ##Chả Trứng## (steamed egg meatloaf) on the plate next to the ##Cơm Tấm## (cooked broken rice).";
 
-/* Broken Rice Instructions Header */
-"Broken.Rice.Instructions.Header" = "Instructions";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 2 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.2.Accessibility" = "Arrange the grilled pork and steamed egg meatloaf on the plate next to the cooked broken rice.";
 
-/* Broken Rice Instructions 1 */
-"Broken.Rice.Instructions.1" = "Scoop the ##Cơm Tấm## (cooked broken rice) into a small bowl, then invert the bowl over a plate to form the rice into a half-sphere shape.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 3 */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.3" = "Cut the ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato), and arrange them along the side of the plate.";
 
-/* Broken Rice Ingredients Instructions 1 (VoiceOver) */
-"Broken.Rice.Instructions.1.Accessibility" = "Scoop the cooked broken rice into a small bowl, then invert the bowl over a plate to form the rice into a half-sphere shape.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 3 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.3.Accessibility" = "Cut the cucumber and tomato, and arrange them along the side of the plate.";
 
-/* Broken Rice Instructions 2 */
-"Broken.Rice.Instructions.2" = "Arrange the ##Thịt Nướng## (grilled pork) and ##Chả Trứng## (steamed egg meatloaf) on the plate next to the ##Cơm Tấm## (cooked broken rice).";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 4 */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.4" = "Drain the ##Đồ Chua## (pickles) and place them next to the slices of ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato).";
 
-/* Broken Rice Ingredients Instructions 2 (VoiceOver) */
-"Broken.Rice.Instructions.2.Accessibility" = "Arrange the grilled pork and steamed egg meatloaf on the plate next to the cooked broken rice.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 4 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.4.Accessibility" = "Drain the pickles and place them next to the slices of cucumber and tomato.";
 
-/* Broken Rice Instructions 3 */
-"Broken.Rice.Instructions.3" = "Cut the ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato), and arrange them along the side of the plate.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 5 */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5" = "Add some ##Mỡ Hành## (scallion and oil garnish) on top of the ##Cơm Tấm## (cooked broken rice) and ##Thịt Nướng## (grilled pork).";
 
-/* Broken Rice Ingredients Instructions 3 (VoiceOver) */
-"Broken.Rice.Instructions.3.Accessibility" = "Cut the cucumber and tomato, and arrange them along the side of the plate.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 5 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5.Accessibility" = "Add some scallion and oil garnish on top of the cooked broken rice and grilled pork.";
 
-/* Broken Rice Instructions 4 */
-"Broken.Rice.Instructions.4" = "Drain the ##Đồ Chua## (pickles) and place them next to the slices of ##Dưa Leo## (cucumber) and ##Cà Chua## (tomato).";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 6 */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.6" = "Prepare the ##Nước Mắm Chấm## (mixed fish sauce) in a side bowl to be used as a dressing or dipping sauce for the dish.";
 
-/* Broken Rice Ingredients Instructions 4 (VoiceOver) */
-"Broken.Rice.Instructions.4.Accessibility" = "Drain the pickles and place them next to the slices of cucumber and tomato.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 6 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.6.Accessibility" = "Prepare the mixed fish sauce in a side bowl to be used as a dressing or dipping sauce for the dish.";
 
-/* Broken Rice Instructions 5 */
-"Broken.Rice.Instructions.5" = "Add some ##Mỡ Hành## (scallion and oil garnish) on top of the ##Cơm Tấm## (cooked broken rice) and ##Thịt Nướng## (grilled pork).";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Tips 1 */
+"BrokenRiceGrilledPorkEggMeatloaf.Tips.1" = "For best result, use a rice cooker to cook the rice.";
 
-/* Broken Rice Ingredients Instructions 5 (VoiceOver) */
-"Broken.Rice.Instructions.5.Accessibility" = "Add some scallion and oil garnish on top of the cooked broken rice and grilled pork.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Tips 2 */
+"BrokenRiceGrilledPorkEggMeatloaf.Tips.2" = "Normally for broken rice, you want to use a tiny bit less water than regular Jasmine rice. I usually do about 1 millimetter less from the water mark line on the pot.";
 
-/* Broken Rice Instructions 6 */
-"Broken.Rice.Instructions.6" = "Prepare the ##Nước Mắm Chấm## (mixed fish sauce) in a side bowl to be used as a dressing or dipping sauce for the dish.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Tips 3 */
+"BrokenRiceGrilledPorkEggMeatloaf.Tips.3" = "You can find Jasmine broken rice at most Asian markets.";
 
-/* Broken Rice Ingredients Instructions 6 (VoiceOver) */
-"Broken.Rice.Instructions.6.Accessibility" = "Prepare the mixed fish sauce in a side bowl to be used as a dressing or dipping sauce for the dish.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf Tips 4 */
+"BrokenRiceGrilledPorkEggMeatloaf.Tips.4" = "If you don't have broken rice, you can use regular Jasmine rice.";
 
-/* Broken Rice Tips Header */
-"Broken.Rice.Tips.Header" = "Tips";
+/* Broken Rice with Grilled Pork and Egg Meatloaf How To 1 */
+"BrokenRiceGrilledPorkEggMeatloaf.HowTo.1" = "Drizzle some ##Nước Mắm Chấm## (mixed fish sauce) over the ##Cơm Tấm## (cooked broken rice) to enjoy.";
 
-/* Broken Rice Tips 1 */
-"Broken.Rice.Tips.1" = "For best result, use a rice cooker to cook the rice.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf How To 1 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.HowTo.1.Accessibility" = "Drizzle some mixed fish sauce over the cooked broken rice to enjoy.";
 
-/* Broken Rice Tips 2 */
-"Broken.Rice.Tips.2" = "Normally for broken rice, you want to use a tiny bit less water than regular Jasmine rice. I usually do about 1 millimetter less from the water mark line on the pot.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf How To 2 */
+"BrokenRiceGrilledPorkEggMeatloaf.HowTo.2" = "Save some ##Nước Mắm Chấm## (mixed fish sauce) on the side as a dipping sauce for the ##Thịt Nướng## (grilled pork) and ##Chả Trứng## (steamed egg meatloaf).";
 
-/* Broken Rice Tips 3 */
-"Broken.Rice.Tips.3" = "You can find Jasmine broken rice at most Asian markets.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf How To 2 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.HowTo.2.Accessibility" = "Save some mixed fish sauce on the side as a dipping sauce for the grilled pork and steamed egg meatloaf.";
 
-/* Broken Rice Tips 4 */
-"Broken.Rice.Tips.4" = "If you don't have broken rice, you can use regular Jasmine rice.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf How To 3 */
+"BrokenRiceGrilledPorkEggMeatloaf.HowTo.3" = "You can also pour the ##Nước Mắm Chấm## (mixed fish sauce) over everything on the plate and enjoy it all together.";
 
-/* Broken Rice How To Header */
-"Broken.Rice.HowTo.Header" = "How To";
-
-/* Broken Rice How To 1 */
-"Broken.Rice.HowTo.1" = "Drizzle some ##Nước Mắm Chấm## (mixed fish sauce) over the ##Cơm Tấm## (cooked broken rice) to enjoy.";
-
-/* Broken Rice How To 1 (VoiceOver) */
-"Broken.Rice.HowTo.1.Accessibility" = "Drizzle some mixed fish sauce over the cooked broken rice to enjoy.";
-
-/* Broken Rice How To 2 */
-"Broken.Rice.HowTo.2" = "Save some ##Nước Mắm Chấm## (mixed fish sauce) on the side as a dipping sauce for the ##Thịt Nướng## (grilled pork) and ##Chả Trứng## (steamed egg meatloaf).";
-
-/* Broken Rice How To 2 (VoiceOver) */
-"Broken.Rice.HowTo.2.Accessibility" = "Save some mixed fish sauce on the side as a dipping sauce for the grilled pork and steamed egg meatloaf.";
-
-/* Broken Rice How To 3 */
-"Broken.Rice.HowTo.3" = "You can also pour the ##Nước Mắm Chấm## (mixed fish sauce) over everything on the plate and enjoy it all together.";
-
-/* Broken Rice How To 3 (VoiceOver) */
-"Broken.Rice.HowTo.3.Accessibility" = "You can also pour the mixed fish sauce over everything on the plate and enjoy it all together.";
+/* Broken Rice with Grilled Pork and Egg Meatloaf How To 3 (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.HowTo.3.Accessibility" = "You can also pour the mixed fish sauce over everything on the plate and enjoy it all together.";
 
 
 // MARK: Thit Ba Roi Xao Hanh (Pork Belly with Onion) Page

@@ -30,8 +30,8 @@
 "eggRollPlatter.AccessibilityPageTitle" = "Egg Rolls";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf */
-"brokenRice.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
-"brokenRice.AccessibilityPageTitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
+"BrokenRiceGrilledPorkEggMeatloaf.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
+"BrokenRiceGrilledPorkEggMeatloaf.AccessibilityPageTitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 
 /* Pork Belly with Onion */
 "porkBellyWithOnion.Subtitle" = "Pork Belly with Onion";
