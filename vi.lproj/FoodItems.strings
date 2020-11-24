@@ -53,6 +53,11 @@
 "shakenBeefSalad.AccessibilitySubtitle" = "Bò Lúc Lắc Xà Lách";
 "shakenBeefSalad.AccessibilityPageTitle" = "Bò Lúc Lắc Xà Lách";
 
+/* Shaken Beef with White Rice */
+"shakenBeefWithRice.Subtitle" = "Shaken Beef with White Rice";
+"shakenBeefWithRice.AccessibilitySubtitle" = "Bò Lúc Lắc Với Cơm Trắng";
+"shakenBeefWithRice.AccessibilityPageTitle" = "Bò Lúc Lắc Với Cơm Trắng";
+
 
 // MARK: Recipes Tab
 
@@ -294,3 +299,6 @@
 
 /* Water */
 "water.Subtitle" = "Water";
+
+/* White Rice */
+"whiteRice.Subtitle" = "White Rice";

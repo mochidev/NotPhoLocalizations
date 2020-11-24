@@ -45,6 +45,10 @@
 "shakenBeefSalad.Subtitle" = "Shaken Beef Salad";
 "shakenBeefSalad.AccessibilitySubtitle" = "Shaken Beef Salad";
 
+/* Shaken Beef with White Rice */
+"shakenBeefWithRice.Subtitle" = "Shaken Beef with White Rice";
+"shakenBeefWithRice.AccessibilitySubtitle" = "Shaken Beef with White Rice";
+
 
 // MARK: Recipes Tab
 
@@ -264,3 +268,6 @@
 
 /* Water */
 "water.Subtitle" = "Water";
+
+/* White Rice */
+"whiteRice.Subtitle" = "White Rice";

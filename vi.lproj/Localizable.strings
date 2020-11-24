@@ -955,7 +955,63 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShakenBeefSalad.HowTo.1.Accessibility" = "Chấm thịt bò vào nước Muối Tiêu Chanh để ăn.";
 
 
+// MARK: Bo Luc Lac Voi Com Trang (Shaken Beef with White Rice) Page
 
+/* Shaken Beef with White Rice Introduction 1 */
+"ShakenBeefWhiteRice.Introduction.1" = "Món ăn này được đặt tên là ##Bò Lúc Lắc## (shaken beef) vì bạn lắc chảo khi xào thịt bò. Có rất nhiều nhà hàng phối hợp ##Bò Lúc Lắc## (shaken beef) với ##Cơm Trắng## (white rice) hoặc là với ##Cơm Đỏ## (tomato rice).";
+
+/* Shaken Beef with White Rice Introduction 1 (VoiceOver) */
+"ShakenBeefWhiteRice.Introduction.1.Accessibility" = "Món ăn này được đặt tên là Bò Lúc Lắc vì bạn lắc chảo khi xào thịt bò. Có rất nhiều nhà hàng phối hợp Bò Lúc Lắc với Cơm Trắng hoặc là với Cơm Đỏ.";
+
+/* Shaken Beef with White Rice Introduction 2 */
+"ShakenBeefWhiteRice.Introduction.2" = "Công thức này làm cho 1 người ăn.";
+
+/* Shaken Beef with White Rice Ingredients White Rice Amount */
+"ShakenBeefWhiteRice.Ingredients.WhiteRice.Amount.us" = "½ cup, cơm chín";
+"ShakenBeefWhiteRice.Ingredients.WhiteRice.Amount.metric" = "90 g, cơm chín";
+
+/* Shaken Beef with White Rice Ingredients White Rice Amount (VoiceOver) */
+"ShakenBeefWhiteRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "phân nữa cốc, cơm chín";
+"ShakenBeefWhiteRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "90 gờ ram, cơm chín";
+
+/* Shaken Beef with White Rice Ingredients Shaken Beef Entree Amount */
+"ShakenBeefWhiteRice.Ingredients.ShakenBeefEntree.Amount" = "1 phần";
+
+/* Shaken Beef with White Rice Ingredients Lime Dipping Sauce Amount */
+"ShakenBeefWhiteRice.Ingredients.LimeDippingSauce.Amount" = "1 phần";
+
+/* Shaken Beef with White Rice Instructions 1 */
+"ShakenBeefWhiteRice.Instructions.1" = "Bước đầu tiên là chuẩn bị món ##Cơm Trắng## (white rice).";
+
+/* Shaken Beef with White Rice Instructions 1 (VoiceOver) */
+"ShakenBeefWhiteRice.Instructions.1.Accessibility" = "Bước đầu tiên là chuẩn bị món Cơm Trắng.";
+
+/* Shaken Beef with White Rice Instructions 2 */
+"ShakenBeefWhiteRice.Instructions.2" = "Chuẩn bị nước ##Muối Tiêu Chanh## (lime dipping sauce) và để riêng một bên.";
+
+/* Shaken Beef with White Rice Instructions 2 (VoiceOver) */
+"ShakenBeefWhiteRice.Instructions.2.Accessibility" = "Chuẩn bị nước Muối Tiêu Chanh và để riêng một bên.";
+
+/* Shaken Beef with White Rice Instructions 3 */
+"ShakenBeefWhiteRice.Instructions.3" = "Sau khi cơm chín rồi thì làm ##Bò Lúc Lắc## (shaken beef).";
+
+/* Shaken Beef with White Rice Instructions 3 (VoiceOver) */
+"ShakenBeefWhiteRice.Instructions.3.Accessibility" = "Sau khi cơm chín rồi thì làm Bò Lúc Lắc.";
+
+/* Shaken Beef with White Rice Instructions 4 */
+"ShakenBeefWhiteRice.Instructions.4" = "Đặt mọi thứ vào đĩa và ăn liền.";
+
+/* Shaken Beef with White Rice How To 1 */
+"ShakenBeefWhiteRice.HowTo.1" = "Chấm ##Thịt Bò## (beef) vào nước ##Muối Tiêu Chanh## (lime dipping sauce) để ăn.";
+
+/* Shaken Beef with White Rice How To 1 (VoiceOver) */
+"ShakenBeefWhiteRice.HowTo.1.Accessibility" = "Chấm thịt bò vào nước Muối Tiêu Chanh để ăn.";
+
+/* Shaken Beef with White Rice How To 2 */
+"ShakenBeefWhiteRice.HowTo.2" = "Nước sốt ##Bò Lúc Lắc## (shaken beef) rất hợp với cơm.";
+
+/* Shaken Beef with White Rice How To 2 (VoiceOver) */
+"ShakenBeefWhiteRice.HowTo.2.Accessibility" = "Nước sốt Bò Lúc Lắc rất hợp với cơm.";
 
 
 // MARK: - # Recipes Tab:
