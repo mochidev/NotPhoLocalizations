@@ -112,6 +112,10 @@
 "limeDippingSauce.Subtitle" = "Lime Dipping Sauce";
 "limeDippingSauce.AccessibilitySubtitle" = "Lime Dipping Sauce";
 
+/* Egg Fried Rice */
+"eggFriedRice.Subtitle" = "Egg Fried Rice";
+"eggFriedRice.AccessibilitySubtitle" = "Egg Fried Rice";
+
 
 // MARK: Ingredients Tab
 

@@ -136,6 +136,11 @@
 "limeDippingSauce.AccessibilitySubtitle" = "Muối Tiêu Chanh";
 "limeDippingSauce.AccessibilityPageTitle" = "Muối Tiêu Chanh";
 
+/* Egg Fried Rice */
+"eggFriedRice.Subtitle" = "Egg Fried Rice";
+"eggFriedRice.AccessibilitySubtitle" = "Cơm Chiên Trứng";
+"eggFriedRice.AccessibilityPageTitle" = "Cơm Chiên Trứng";
+
 
 // MARK: Ingredients Tab
 

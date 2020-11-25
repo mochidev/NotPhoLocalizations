@@ -2761,6 +2761,110 @@
 "LimeDippingSauce.HowTo.2" = "Use as a dipping sauce.";
 
 
+// MARK: Com Chien Trung (Egg Fried Rice) Page
+
+/* Egg Fried Rice Introduction 1 */
+"EggFriedRice.Introduction.1" = "##Cơm Chiên Trứng## (egg fried rice) is a very quick recipe that can dress up plain white rice, and make it even more delicious. It goes well with any meat entrees.";
+
+/* Egg Fried Rice Introduction 1 (VoiceOver) */
+"EggFriedRice.Introduction.1.Accessibility" = "Egg fried rice is a very quick recipe that can dress up plain white rice, and make it even more delicious. It goes well with any meat entrees.";
+
+/* Egg Fried Rice Introduction 2 */
+"EggFriedRice.Introduction.2" = "This recipe serves one.";
+
+/* Egg Fried Rice Ingredients White Rice Amount */
+"EggFriedRice.WhiteRice.Amount.us" = "⅔ cup";
+"EggFriedRice.WhiteRice.Amount.metric" = "120 g";
+
+/* Egg Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"EggFriedRice.WhiteRice.AccessibilityAmount.us" = "two third cups";
+"EggFriedRice.WhiteRice.AccessibilityAmount.metric" = "120 grams";
+
+/* Egg Fried Rice Ingredients Egg Amount */
+"EggFriedRice.Egg.Amount" = "1 large";
+
+/* Egg Fried Rice Ingredients Chicken Bouillon Amount */
+"EggFriedRice.ChickenBouillon.Amount" = "⅛ tsp";
+
+/* Egg Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"EggFriedRice.ChickenBouillon.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Egg Fried Rice Ingredients Pepper Amount */
+"EggFriedRice.Pepper.Amount" = "⅛ tsp";
+
+/* Egg Fried Rice Ingredients Pepper Amount (VoiceOver) */
+"EggFriedRice.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Egg Fried Rice Ingredients Oil Amount */
+"EggFriedRice.Oil.Amount" = "1 tsp";
+
+/* Egg Fried Rice Ingredients Oil Amount (VoiceOver) */
+"EggFriedRice.Oil.AccessibilityAmount" = "one teaspoon";
+
+/* Egg Fried Rice Instructions Step 1 Part 1 */
+"EggFriedRice.Instructions.Step.1.Part.1" = "In a medium-high heat wok, add the ##Dầu## (oil).";
+
+/* Egg Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"EggFriedRice.Instructions.Step.1.Part.1.Accessibility" = "In a medium to high heat wok, add the oil.";
+
+/* Egg Fried Rice Instructions Step 1 Part 2 */
+"EggFriedRice.Instructions.Step.1.Part.2" = "Add the ##Trứng## (egg).";
+
+/* Egg Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"EggFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Add the egg.";
+
+/* Egg Fried Rice Instructions Step 1 Part 3 */
+"EggFriedRice.Instructions.Step.1.Part.3" = "Scramble the ##Trứng## (egg) lightly.";
+
+/* Egg Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"EggFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Scramble the egg lightly.";
+
+/* Egg Fried Rice Instructions Step 2 Part 1 */
+"EggFriedRice.Instructions.Step.2.Part.1" = "Add the cold ##Cơm Trắng## (white rice).";
+
+/* Egg Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"EggFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Add the white rice.";
+
+/* Egg Fried Rice Instructions Step 2 Part 2 */
+"EggFriedRice.Instructions.Step.2.Part.2" = "Stir fry the ##Cơm Trắng## (white rice) and ##Trứng## (egg) together until the rice is soft again.";
+
+/* Egg Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"EggFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Stir fry the rice and egg together until the rice is soft again.";
+
+/* Egg Fried Rice Instructions Step 2 Note 1 */
+"EggFriedRice.Instructions.Step.2.Note.1" = "Use your hands to separate the cold rice into individual grains so they are not one giant clump.";
+
+/* Egg Fried Rice Instructions Step 3 Part 1 */
+"EggFriedRice.Instructions.Step.3.Part.1" = "Add the ##Bột Nêm Gà## (chicken bouillon) and ##Tiêu Đen## (pepper).";
+
+/* Egg Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"EggFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Add the chicken bouillon and pepper.";
+
+/* Egg Fried Rice Instructions Step 3 Part 2 */
+"EggFriedRice.Instructions.Step.3.Part.2" = "Stir fry until the seasonings are mixed in and serve.";
+
+/* Egg Fried Rice Instructions Step 3 Note 1 */
+"EggFriedRice.Instructions.Step.3.Note.1" = "If you don’t have ##Bột Nêm Gà## (chicken bouillon), you can substitute it with salt.";
+
+/* Egg Fried Rice Instructions Step 3 Note 1 (VoiceOver) */
+"EggFriedRice.Instructions.Step.3.Note.1.Accessibility" = "If you don’t have chicken bouillon, you can substitute it with salt.";
+
+/* Egg Fried Rice Tips 1 */
+"EggFriedRice.Tips.1" = "For a prefect fried rice, you want to use day old rice.";
+
+/* Egg Fried Rice Tips 2 */
+"EggFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold its shape when stir fried.";
+
+/* Egg Fried Rice Tips 3 */
+"EggFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
+
+/* Egg Fried Rice How To 1 */
+"EggFriedRice.HowTo.1" = "This rice will pair well with the ##Bò Lúc Lắc## (shaken beef) recipe.";
+
+/* Egg Fried Rice How To 1 (VoiceOver) */
+"EggFriedRice.HowTo.1.Accessibility" = "This rice will pair well with the Shaken Beef recipe.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

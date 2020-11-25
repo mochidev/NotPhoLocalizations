@@ -2806,6 +2806,113 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "LimeDippingSauce.HowTo.2" = "Dùng làm nước chấm.";
 
 
+// MARK: Com Chien Trung (Egg Fried Rice) Page
+
+/* Egg Fried Rice Introduction 1 */
+"EggFriedRice.Introduction.1" = "##Cơm Chiên Trứng## (egg fried rice) là một công thức rất nhanh có thể làm cơm trắng trở nên ngon hơn. Nó rất phù hợp với bất kỳ món ăn thịt xào nào.";
+
+/* Egg Fried Rice Introduction 1 (VoiceOver) */
+"EggFriedRice.Introduction.1.Accessibility" = "Cơm chiên trứng là một công thức rất nhanh có thể làm cơm trắng trở nên ngon hơn. Nó rất phù hợp với bất kỳ món ăn thịt xào nào.";
+
+/* Egg Fried Rice Introduction 2 */
+"EggFriedRice.Introduction.2" = "Công thức này làm cho một người ăn.";
+
+/* Egg Fried Rice Ingredients White Rice Amount */
+"EggFriedRice.WhiteRice.Amount.us" = "⅔ cup";
+"EggFriedRice.WhiteRice.Amount.metric" = "120 g";
+
+/* Egg Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"EggFriedRice.WhiteRice.AccessibilityAmount.us" = "hai phần ba cốc";
+"EggFriedRice.WhiteRice.AccessibilityAmount.metric" = "120 gờ ram";
+
+/* Egg Fried Rice Ingredients Egg Amount */
+"EggFriedRice.Egg.Amount" = "1 trứng lớn";
+
+/* Egg Fried Rice Ingredients Chicken Bouillon Amount */
+"EggFriedRice.ChickenBouillon.Amount.us" = "⅛ tsp";
+"EggFriedRice.ChickenBouillon.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Egg Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"EggFriedRice.ChickenBouillon.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Egg Fried Rice Ingredients Pepper Amount */
+"EggFriedRice.Pepper.Amount.us" = "⅛ tsp";
+"EggFriedRice.Pepper.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Egg Fried Rice Ingredients Pepper Amount (VoiceOver) */
+"EggFriedRice.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Egg Fried Rice Ingredients Oil Amount */
+"EggFriedRice.Oil.Amount.us" = "1 tsp";
+"EggFriedRice.Oil.Amount.metric" = "1 muỗng cà phê";
+
+/* Egg Fried Rice Ingredients Oil Amount (VoiceOver) */
+"EggFriedRice.Oil.AccessibilityAmount" = "1 muỗng cà phê";
+
+/* Egg Fried Rice Instructions Step 1 Part 1 */
+"EggFriedRice.Instructions.Step.1.Part.1" = "Cho ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Egg Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"EggFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cho dầu vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Egg Fried Rice Instructions Step 1 Part 2 */
+"EggFriedRice.Instructions.Step.1.Part.2" = "Thêm ##Trứng## (egg) vào chảo.";
+
+/* Egg Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"EggFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Thêm Trứng vào chảo.";
+
+/* Egg Fried Rice Instructions Step 1 Part 3 */
+"EggFriedRice.Instructions.Step.1.Part.3" = "Xào nhẹ ##Trứng## (egg).";
+
+/* Egg Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"EggFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Xào nhẹ Trứng.";
+
+/* Egg Fried Rice Instructions Step 2 Part 1 */
+"EggFriedRice.Instructions.Step.2.Part.1" = "Thêm ##Cơm Trắng## (white rice) nguội vào chảo.";
+
+/* Egg Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"EggFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Thêm Cơm nguội vào chảo.";
+
+/* Egg Fried Rice Instructions Step 2 Part 2 */
+"EggFriedRice.Instructions.Step.2.Part.2" = "Xào ##Cơm Trắng## (white rice) và ##Trứng## (egg) cho đến khi cơm mềm trở lại.";
+
+/* Egg Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"EggFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
+
+/* Egg Fried Rice Instructions Step 2 Note 1 */
+"EggFriedRice.Instructions.Step.2.Note.1" = "Dùng tay tách cơm nguội thành từng hạt để dễ xào.";
+
+/* Egg Fried Rice Instructions Step 3 Part 1 */
+"EggFriedRice.Instructions.Step.3.Part.1" = "Thêm ##Bột Nêm Gà## (chicken bouillon) và ##Tiêu Đen## (pepper).";
+
+/* Egg Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"EggFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Thêm Bột Nêm Gà và Tiêu Đen.";
+
+/* Egg Fried Rice Instructions Step 3 Part 2 */
+"EggFriedRice.Instructions.Step.3.Part.2" = "Xào cho đến khi gia vị trộn đều và dọn ra đĩa.";
+
+/* Egg Fried Rice Instructions Step 3 Note 1 */
+"EggFriedRice.Instructions.Step.3.Note.1" = "Nếu không có ##Bột Nêm Gà## (chicken bouillon), bạn có thể thay thế bằng muối.";
+
+/* Egg Fried Rice Instructions Step 3 Note 1 (VoiceOver) */
+"EggFriedRice.Instructions.Step.3.Note.1.Accessibility" = "Nếu không có Bột Nêm Gà, bạn có thể thay thế bằng muối.";
+
+/* Egg Fried Rice Tips 1 */
+"EggFriedRice.Tips.1" = "Để có một món cơm chiên hoàn hảo, bạn muốn sử dụng cơm qua đêm.";
+
+/* Egg Fried Rice Tips 2 */
+"EggFriedRice.Tips.2" = "Cơm để qua đêm sẽ có ít độ ẩm hơn, giúp hạt gạo giữ được hình dạng khi xào.";
+
+/* Egg Fried Rice Tips 3 */
+"EggFriedRice.Tips.3" = "Thông thường, nếu còn cơm thừa, tôi sẽ để tủ lạnh và dùng ngày hôm sau để làm cơm chiên.";
+
+/* Egg Fried Rice How To 1 */
+"EggFriedRice.HowTo.1" = "Cơm chiên này rất hợp với món ##Bò Lúc Lắc## (shaken beef).";
+
+/* Egg Fried Rice How To 1 (VoiceOver) */
+"EggFriedRice.HowTo.1.Accessibility" = "Cơm chiên này rất hợp với món Bò Lúc Lắc.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */
