@@ -2820,10 +2820,10 @@
 "EggFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Scramble the egg lightly.";
 
 /* Egg Fried Rice Instructions Step 2 Part 1 */
-"EggFriedRice.Instructions.Step.2.Part.1" = "Add the cold ##Cơm Trắng## (white rice).";
+"EggFriedRice.Instructions.Step.2.Part.1" = "Use cold ##Cơm Trắng## (white rice).";
 
 /* Egg Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
-"EggFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Add the white rice.";
+"EggFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Use cold white rice.";
 
 /* Egg Fried Rice Instructions Step 2 Part 2 */
 "EggFriedRice.Instructions.Step.2.Part.2" = "Stir fry the ##Cơm Trắng## (white rice) and ##Trứng## (egg) together until the rice is soft again.";
