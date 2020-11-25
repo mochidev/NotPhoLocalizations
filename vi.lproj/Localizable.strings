@@ -3165,6 +3165,47 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBelly.Tips.Note.1" = "Thịt bò tốt nhất nên ăn tươi vì vậy đừng đông lạnh.";
 
 
+// MARK: Nuoc Tuong (Soy Sauce) Page
+
+/* Soy Sauce Introduction */
+"SoySauce.Introduction" = "Theo truyền thống ##Nước Tương## hoặc ##Xì Dầu## (soy sauce) được làm từ đậu tương lên men, muối, lúa mì và nước trong thời gian nhiều tháng. Tuy nhiên, có một số nhãn hiệu nước tương được làm từ chất đạm thủy phân bằng axit có thể chỉ mất vài ngày.";
+
+/* Soy Sauce Introduction (VoiceOVer) */
+"SoySauce.Introduction.Accessibility" = "Theo truyền thống Nước tương hoặc Xì Dầu được làm từ đậu tương lên men, muối, lúa mì và nước trong thời gian nhiều tháng. Tuy nhiên, có một số nhãn hiệu nước tương được làm từ chất đạm thủy phân bằng axit có thể chỉ mất vài ngày.";
+
+"SoySauce.Types.Header" = "Các Loại";
+
+"SoySauce.Types.1" = "Có hai loại ##Nước Tương## (soy sauce); một tập trung vào màu sắc và một tập trung vào hương vị. Thuật ngữ ##light## (lợt) hoặc ##dark## (đậm) thường đề cập đến màu sắc của nước tương, không phải là độ mặn. Một số loại nước tương ##light## (lợt) có thể mặn hơn loại ##dark## (đậm).";
+
+"SoySauce.Types.1.Accessibility" = "Có hai loại nước tương; một tập trung vào màu sắc và một tập trung vào hương vị. Thuật ngữ lợt hoặc đậm thường đề cập đến màu sắc của nước tương, không phải là độ mặn. Một số loại nước tương lợt có thể mặn hơn loại đậm.";
+
+"SoySauce.Types.2" = "Bạn nên thử nghiệm xem loại ##Nước Tương## (soy sauce) nào hợp khẩu vị của mình hơn.";
+
+"SoySauce.Types.2.Accessibility" = "Bạn nên thử nghiệm xem loại nước tương nào hợp khẩu vị của mình hơn.";
+
+"SoySauce.Brands.Header" = "Nhãn Hiệu";
+
+"SoySauce.Brands.1.AccessibilityLabel" = "Nước Tương Golden Mountain";
+
+"SoySauce.Brands.1" = "Các nhãn hiệu như ##Golden Mountain## và ##Maggi## rất phổ biến trong các hộ gia đình Việt Nam, nhưng tôi thích nước tương ##Golden Mountain## hơn ##Maggi## vì nó có mùi thơm ngọt hơn.";
+
+"SoySauce.Brands.1.Accessibility" = "Các nhãn hiệu như Golden Mountain và Maggi rất phổ biến trong các hộ gia đình Việt Nam, nhưng tôi thích nước tương Golden Mountain hơn Maggi vì nó có mùi thơm ngọt hơn.";
+
+"SoySauce.Brands.2.AccessibilityLabel" = "Nước Tương Kikkoman";
+
+"SoySauce.Brands.2" = "Những năm gần đây, tôi thích dùng một loại nước tương kiểu Nhật tên là ##Usukuchi## nghĩa là nước tương nhạt miệng, vì nó có hương vị khói, màu lợt và ít mặn.";
+
+"SoySauce.Brands.2.Accessibility" = "Những năm gần đây, tôi thích dùng một loại nước tương kiểu Nhật tên là Usukuchi, nghĩa là nước tương nhạt miệng, vì nó có hương vị khói, màu lợt và ít mặn.";
+
+"SoySauce.HowTo.1" = "Tôi thay thế giữa nước tương ##Golden Mountain## và ##Kikkoman Usukuchi## tùy theo hương vị tôi muốn.";
+
+"SoySauce.HowTo.1.Accessibility" = "Tôi thay thế giữa nước tương Golden Mountain và Kikkoman Usukuchi tùy theo hương vị tôi muốn.";
+
+"SoySauce.HowTo.2" = "Tôi dùng hiệu nước tương ##Golden Mountain## in ##Cơm Chiên Tôm## (shrimp fried rice) và hiệu ##Kikkoman Usukuchi## in ##Bò Lúc Lắc## (shaken beef).";
+
+"SoySauce.HowTo.2.Accessibility" = "Tôi dùng hiệu nước tương Golden Mountain trong cơm chiên tôm và hiệu Kikkoman Usukuchi trong Bò Lúc Lắc.";
+
+
 // MARK: - # About Tab:
 
 /* About Tab Page Title */

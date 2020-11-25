@@ -155,6 +155,10 @@
 "oysterSauce.Subtitle" = "Oyster Sauce";
 "oysterSauce.AccessibilitySubtitle" = "Oyster Sauce";
 
+/* Soy Sauce */
+"soySauce.Subtitle" = "Soy Sauce";
+"soySauce.AccessibilitySubtitle" = "Soy Sauce";
+
 
 // MARK: Entries with no dedicated page
 

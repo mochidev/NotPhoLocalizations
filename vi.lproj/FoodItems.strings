@@ -189,6 +189,11 @@
 "oysterSauce.AccessibilitySubtitle" = "Dầu Hào";
 "oysterSauce.AccessibilityPageTitle" = "Dầu Hào";
 
+/* Soy Sauce */
+"soySauce.Subtitle" = "Soy Sauce";
+"soySauce.AccessibilitySubtitle" = "Nước Tương";
+"soySauce.AccessibilityPageTitle" = "Nước Tương";
+
 
 // MARK: Entries with no dedicated page
 

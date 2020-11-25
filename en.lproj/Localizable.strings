@@ -3117,6 +3117,47 @@
 "PorkBelly.Tips.Note.1" = "Beef is best enjoy fresh when you just bought it.";
 
 
+// MARK: Nuoc Tuong (Soy Sauce) Page
+
+/* Soy Sauce Introduction */
+"SoySauce.Introduction" = "##Nước Tương## or ##Xì Dầu## (soy sauce) is traditionally made from fermenting soy bean, salt, wheat, and water over a period of months. However, some brands of soy sauce are made from acid-hydrolyzed protein that could take just a few days. Whether one is better for your health or not is up to you to decide, but for me it is all about the taste.";
+
+/* Soy Sauce Introduction (VoiceOVer) */
+"SoySauce.Introduction.Accessibility" = "Soy sauce is traditionally made from fermenting soy bean, salt, wheat, and water over a period of months. However, some brands of soy sauce are made from acid hydrolyzed protein that could take just a few days. Whether one is better for your health or not is up to you to decide, but for me it is all about the taste.";
+
+"SoySauce.Types.Header" = "Types";
+
+"SoySauce.Types.1" = "There are two types of ##Nước Tương## (soy sauce); one focuses on color and the other on flavor. The term ##light## or ##dark## often refers to the color of the sauce, not the saltiness. Some ##light## soy sauces can be saltier than ##dark## ones.";
+
+"SoySauce.Types.1.Accessibility" = "There are two types of soy sauce; one focuses on color and the other on flavor. The term light or dark often refers to the color of the sauce, not the saltiness. Some light soy sauces can be saltier than dark ones.";
+
+"SoySauce.Types.2" = "You would need to experiment to see which type of ##Nước Tương## (soy sauce) is better for your taste.";
+
+"SoySauce.Types.2.Accessibility" = "You would need to experiment to see which type of soy sauce is better for your taste.";
+
+"SoySauce.Brands.Header" = "Brands";
+
+"SoySauce.Brands.1.AccessibilityLabel" = "Golden Mountain Soy Sauce";
+
+"SoySauce.Brands.1" = "Brands like ##Golden Mountain## and ##Maggi## are very popular amongst Vietnamese households, but I favor ##Golden Mountain## more than ##Maggi## because it has a sweeter aroma.";
+
+"SoySauce.Brands.1.Accessibility" = "Brands like Golden Mountain and Maggi are very popular amongst Vietnamese households, but I favor Golden Mountain soy sauce more than Maggi because it has a sweeter aroma.";
+
+"SoySauce.Brands.2.AccessibilityLabel" = "Kikkoman Soy Sauce";
+
+"SoySauce.Brands.2" = "In recent years, I like to use a Japanese style soy sauce called ##Usukuchi## (pale mouth) soy sauce because it has a smoky taste, light in color, and less salty. ";
+
+"SoySauce.Brands.2.Accessibility" = "In recent years, I like to use a Japanese style soy sauce called Usukuchi, meaning pale mouth, soy sauce because it has a smoky taste, light in color, and less salty. ";
+
+"SoySauce.HowTo.1" = "I alternate between ##Golden Mountain## and ##Kikkoman Usukuchi## soy sauce based on the flavor profile I want.";
+
+"SoySauce.HowTo.1.Accessibility" = "I alternate between Golden Mountain and Kikkoman Usukuchi soy sauce based on the flavor profile I want.";
+
+"SoySauce.HowTo.2" = "I use ##Golden Mountain## in ##Cơm Chiên Tôm## (shrimp fried rice) and ##Kikkoman Usukuchi## in ##Bò Lúc Lắc## (shaken beef).";
+
+"SoySauce.HowTo.2.Accessibility" = "I use Golden Mountain in shrimp fried rice and Kikkoman Usukuchi in shaken beef.";
+
+
 // MARK: - # About Tab:
 
 /* About Tab Page Title */
