@@ -1068,6 +1068,60 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShakenBeefWithTomatoRice.HowTo.2.Accessibility" = "Nước sốt Bò Lúc Lắc rất hợp với cơm.";
 
 
+// MARK: Bo Luc Lac Voi Com Chien (Shaken Beef with Fried Rice) Page
+
+/* Shaken Beef with Fried Rice Introduction 1 */
+"ShakenBeefWithFriedRice.Introduction.1" = "Món ăn này được đặt tên là ##Bò Lúc Lắc## (shaken beef) vì bạn lắc chảo khi xào thịt bò. Có rất nhiều nhà hàng phối hợp ##Bò Lúc Lắc## (shaken beef) với ##Cơm Trắng## (white rice) hoặc là với ##Cơm Đỏ## (tomato rice). Hãy thử ăn món này với Cơm Chiên Trứng để xem bạn có thích nó hơn hay không.";
+
+/* Shaken Beef with Fried Rice Introduction 1 (VoiceOver) */
+"ShakenBeefWithFriedRice.Introduction.1.Accessibility" = "Món ăn này được đặt tên là Bò Lúc Lắc vì bạn lắc chảo khi xào thịt bò. Có rất nhiều nhà hàng phối hợp Bò Lúc Lắc với Cơm Trắng hoặc là với Cơm Đỏ. Hãy thử ăn món này với Cơm Chiên Trứng để xem bạn có thích nó hơn hay không.";
+
+/* Shaken Beef with Fried Rice Introduction 2 */
+"ShakenBeefWithFriedRice.Introduction.2" = "Công thức này làm cho 1 người ăn.";
+
+/* Shaken Beef with Fried Rice Ingredients Egg Fried Rice Amount */
+"ShakenBeefWithFriedRice.Ingredients.EggFriedRice.Amount" = "1 phần";
+
+/* Shaken Beef with Fried Rice Ingredients Shaken Beef Entree Amount */
+"ShakenBeefWithFriedRice.Ingredients.ShakenBeefEntree.Amount" = "1 phần";
+
+/* Shaken Beef with Fried Rice Ingredients Lime Dipping Sauce Amount */
+"ShakenBeefWithFriedRice.Ingredients.LimeDippingSauce.Amount" = "1 phần";
+
+/* Shaken Beef with Fried Rice Instructions 1 */
+"ShakenBeefWithFriedRice.Instructions.1" = "Bước đầu tiên là chuẩn bị món ##Cơm Chiên Trứng## (egg fried rice).";
+
+/* Shaken Beef with Fried Rice Instructions 1 (VoiceOver) */
+"ShakenBeefWithFriedRice.Instructions.1.Accessibility" = "Bước đầu tiên là chuẩn bị món Cơm Chiên Trứng.";
+
+/* Shaken Beef with Fried Rice Instructions 2 */
+"ShakenBeefWithFriedRice.Instructions.2" = "Chuẩn bị nước ##Muối Tiêu Chanh## (lime dipping sauce) và để riêng một bên.";
+
+/* Shaken Beef with Fried Rice Instructions 2 (VoiceOver) */
+"ShakenBeefWithFriedRice.Instructions.2.Accessibility" = "Chuẩn bị nước Muối Tiêu Chanh và để riêng một bên.";
+
+/* Shaken Beef with Fried Rice Instructions 3 */
+"ShakenBeefWithFriedRice.Instructions.3" = "Sau khi cơm chín rồi thì làm ##Bò Lúc Lắc## (shaken beef).";
+
+/* Shaken Beef with Fried Rice Instructions 3 (VoiceOver) */
+"ShakenBeefWithFriedRice.Instructions.3.Accessibility" = "Sau khi cơm chín rồi thì làm Bò Lúc Lắc.";
+
+/* Shaken Beef with Fried Rice Instructions 4 */
+"ShakenBeefWithFriedRice.Instructions.4" = "Đặt mọi thứ vào đĩa và ăn liền.";
+
+/* Shaken Beef with Tomato Rice How To 1 */
+"ShakenBeefWithFriedRice.HowTo.1" = "Chấm ##Thịt Bò## (beef) vào nước ##Muối Tiêu Chanh## (lime dipping sauce) để ăn.";
+
+/* Shaken Beef with Tomato Rice How To 1 (VoiceOver) */
+"ShakenBeefWithFriedRice.HowTo.1.Accessibility" = "Chấm thịt bò vào nước Muối Tiêu Chanh để ăn.";
+
+/* Shaken Beef with Tomato Rice How To 2 */
+"ShakenBeefWithFriedRice.HowTo.2" = "Nước sốt ##Bò Lúc Lắc## (shaken beef) rất hợp với cơm.";
+
+/* Shaken Beef with Tomato Rice How To 2 (VoiceOver) */
+"ShakenBeefWithFriedRice.HowTo.2.Accessibility" = "Nước sốt Bò Lúc Lắc rất hợp với cơm.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

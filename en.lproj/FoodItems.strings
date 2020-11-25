@@ -53,6 +53,10 @@
 "shakenBeefWithTomatoRice.Subtitle" = "Shaken Beef with Tomato Rice";
 "shakenBeefWithTomatoRice.AccessibilitySubtitle" = "Shaken Beef with Tomato Rice";
 
+/* Shaken Beef with Fried Rice */
+"ShakenBeefWithFriedRice.Subtitle" = "Shaken Beef with Fried Rice";
+"ShakenBeefWithFriedRice.AccessibilitySubtitle" = "Shaken Beef with Fried Rice";
+
 
 // MARK: Recipes Tab
 

@@ -63,6 +63,11 @@
 "shakenBeefWithTomatoRice.AccessibilitySubtitle" = "Bò Lúc Lắc Với Cơm Đỏ";
 "shakenBeefWithTomatoRice.AccessibilityPageTitle" = "Bò Lúc Lắc Với Cơm Đỏ";
 
+/* Shaken Beef with Fried Rice */
+"ShakenBeefWithFriedRice.Subtitle" = "Shaken Beef with Fried Rice";
+"ShakenBeefWithFriedRice.AccessibilitySubtitle" = "Bò Lúc Lắc Với Cơm Chiên";
+"ShakenBeefWithFriedRice.AccessibilityPageTitle" = "Bò Lúc Lắc Với Cơm Chiên";
+
 
 // MARK: Recipes Tab
 
