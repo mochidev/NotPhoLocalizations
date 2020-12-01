@@ -116,6 +116,10 @@
 "eggFriedRice.Subtitle" = "Egg Fried Rice";
 "eggFriedRice.AccessibilitySubtitle" = "Egg Fried Rice";
 
+/* Tomato Rice */
+"tomatoRice.Subtitle" = "Tomato Rice";
+"tomatoRice.AccessibilitySubtitle" = "Tomato Rice";
+
 
 // MARK: Ingredients Tab
 
@@ -272,6 +276,9 @@
 
 /* Tomato */
 "tomato.Subtitle" = "Tomato";
+
+/* Tomato Paste */
+"tomatoPaste.Subtitle" = "Tomato Paste";
 
 /* Turmeric */
 "turmeric.Subtitle" = "Turmeric";

@@ -1049,10 +1049,10 @@
 "ShakenBeefWithTomatoRice.HowTo.1.Accessibility" = "Dip the morsels of Shaken Beef into the Lime Dipping Sauce for a tangy punch.";
 
 /* Shaken Beef with Tomato Rice How To 2 */
-"shakenBeefWithTomatoRice.HowTo.2" = "Enjoy any extra ##Bò Lúc Lắc## (shaken beef) sauce with the rice; they taste deliciuos together.";
+"ShakenBeefWithTomatoRice.HowTo.2" = "Enjoy any extra ##Bò Lúc Lắc## (shaken beef) sauce with the rice; they taste deliciuos together.";
 
 /* Shaken Beef with Tomato Rice How To 2 (VoiceOver) */
-"shakenBeefWithTomatoRice.HowTo.2.Accessibility" = "Enjoy any extra shaken beef sauce with the rice; they taste deliciuos together.";
+"ShakenBeefWithTomatoRice.HowTo.2.Accessibility" = "Enjoy any extra shaken beef sauce with the rice; they taste deliciuos together.";
 
 
 // MARK: Bo Luc Lac Voi Com Chien (Shaken Beef with Fried Rice) Page
@@ -2863,6 +2863,140 @@
 
 /* Egg Fried Rice How To 1 (VoiceOver) */
 "EggFriedRice.HowTo.1.Accessibility" = "This rice will pair well with the Shaken Beef recipe.";
+
+
+// MARK: Com Do (Tomato Rice) Page
+
+/* Tomato Rice Introduction 1 */
+"TomatoRice.Introduction.1" = "##Cơm Đỏ## means “red rice” is usually served with roasted meat. I am not sure where ##Cơm Đỏ## (tomato rice) originated from, but it is made from cooking ##Cơm Trắng## (white rice) with ##Tương Cà Chua## (tomato paste) to give it an orange-reddish hue.";
+
+/* Tomato Rice Introduction 1 (VoiceOver) */
+"TomatoRice.Introduction.1.Accessibility" = "Tomato rice or red rice is usually served with roasted meat. I am not sure where tomato rice originated from, but it is made from cooking white rice with tomato paste to give it an orange-reddish hue.";
+
+/* Tomato Rice Introduction 2 */
+"TomatoRice.Introduction.2" = "This recipe serves one.";
+
+/* Tomato Rice Ingredients White Rice Amount */
+"TomatoRice.WhiteRice.Amount.us" = "⅔ cup";
+"TomatoRice.WhiteRice.Amount.metric" = "120 g";
+
+/* Tomato Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"TomatoRice.WhiteRice.AccessibilityAmount.us" = "two third cups";
+"TomatoRice.WhiteRice.AccessibilityAmount.metric" = "120 grams";
+
+/* Tomato Rice Ingredients Tomato Paste Amount */
+"TomatoRice.TomatoPaste.Amount" = "1 tsp";
+
+/* Tomato Rice Ingredients Tomato Paste Amount (VoiceOver) */
+"TomatoRice.TomatoPaste.AccessibilityAmount" = "one teaspoon";
+
+/* Tomato Rice Ingredients Water Amount */
+"TomatoRice.Water.Amount" = "½ tsp";
+
+/* Tomato Rice Ingredients Water Amount (VoiceOver) */
+"TomatoRice.Water.AccessibilityAmount" = "one half teaspoon";
+
+/* Tomato Rice Ingredients Garlic Amount */
+"TomatoRice.Garlic.Amount" = "1 clove";
+
+/* Tomato Rice Ingredients Chicken Bouillon Amount */
+"TomatoRice.ChickenBouillon.Amount" = "⅛ tsp";
+
+/* Tomato Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"TomatoRice.ChickenBouillon.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Tomato Rice Ingredients Pepper Amount */
+"TomatoRice.Pepper.Amount" = "⅛ tsp";
+
+/* Tomato Rice Ingredients Pepper Amount (VoiceOver) */
+"TomatoRice.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Tomato Rice Ingredients Oil Amount */
+"TomatoRice.Oil.Amount" = "1 tsp";
+
+/* Tomato Rice Ingredients Oil Amount (VoiceOver) */
+"TomatoRice.Oil.AccessibilityAmount" = "one teaspoon";
+
+/* Tomato Rice Instructions Step 1 Part 1 */
+"TomatoRice.Instructions.Step.1.Part.1" = "Mince the ##Tỏi## (garlic).";
+
+/* Tomato Rice Instructions Step 1 Part 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.1.Part.1.Accessibility" = "Mince the garlic.";
+
+/* Tomato Rice Instructions Step 1 Part 2 */
+"TomatoRice.Instructions.Step.1.Part.2" = "Use your hands to separate the cold ##Cơm Trắng## (white rice) into individual grains so they are not one giant clump.";
+
+/* Tomato Rice Instructions Step 1 Part 2 (VoiceOver) */
+"TomatoRice.Instructions.Step.1.Part.2.Accessibility" = "Use your hands to separate the cold rice into individual grains so they are not one giant clump.";
+
+/* Tomato Rice Instructions Step 1 Part 3 */
+"TomatoRice.Instructions.Step.1.Part.3" = "Mix the ##Tương Cà Chua## (tomato paste) with ##Nước## (water) to loosen the paste, and set aside.";
+
+/* Tomato Rice Instructions Step 1 Part 3 (VoiceOver) */
+"TomatoRice.Instructions.Step.1.Part.3.Accessibility" = "Mix the tomato paste with water to loosen the paste, and set aside.";
+
+/* Tomato Rice Instructions Step 2 Part 1 */
+"TomatoRice.Instructions.Step.2.Part.1" = "In a medium-high heat wok/pan, add the ##Dầu## (oil).";
+
+/* Tomato Rice Instructions Step 2 Part 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok or pan, add the oil.";
+
+/* Tomato Rice Instructions Step 2 Part 2 */
+"TomatoRice.Instructions.Step.2.Part.2" = "Add the ##Tỏi## (garlic) and sauté until lightly brown.";
+
+/* Tomato Rice Instructions Step 2 Part 2 (VoiceOver) */
+"TomatoRice.Instructions.Step.2.Part.2.Accessibility" = "Add the garlic and sauté until lightly brown.";
+
+/* Tomato Rice Instructions Step 2 Part 3 */
+"TomatoRice.Instructions.Step.2.Part.3" = "Add the ##Cơm Trắng## (white rice).";
+
+/* Tomato Rice Instructions Step 2 Part 3 (VoiceOver) */
+"TomatoRice.Instructions.Step.2.Part.3.Accessibility" = "Add the white rice.";
+
+/* Tomato Rice Instructions Step 2 Note 1 */
+"TomatoRice.Instructions.Step.2.Note.1" = "Substitute the ##Dầu## (oil) with butter for a richer flavor.";
+
+/* Tomato Rice Instructions Step 2 Note 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.2.Note.1.Accessibility" = "Substitute the oil with butter for a richer flavor.";
+
+/* Tomato Rice Instructions Step 3 Part 1 */
+"TomatoRice.Instructions.Step.3.Part.1" = "Add the ##Tương Cà Chua## (tomato paste) mixture.";
+
+/* Tomato Rice Instructions Step 3 Part 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.3.Part.1.Accessibility" = "Add the tomato paste mixture.";
+
+/* Tomato Rice Instructions Step 3 Part 2 */
+"TomatoRice.Instructions.Step.3.Part.2" = "Add the ##Bột Nêm Gà## (chicken bouillon) and ##Tiêu Đen## (pepper).";
+
+/* Tomato Rice Instructions Step 3 Part 2 (VoiceOver) */
+"TomatoRice.Instructions.Step.3.Part.2.Accessibility" = "Add the chicken bouillon and pepper.";
+
+/* Tomato Rice Instructions Step 3 Part 3 */
+"TomatoRice.Instructions.Step.3.Part.3" = "Sauté until the ##Cơm Trắng## (white rice) is well mixed with the ##Tương Cà Chua## (tomato paste).";
+
+/* Tomato Rice Instructions Step 3 Part 3 (VoiceOver) */
+"TomatoRice.Instructions.Step.3.Part.3.Accessibility" = "Sauté until the rice is well mixed with the tomato paste.";
+
+/* Tomato Rice Instructions Step 3 Note 1 */
+"TomatoRice.Instructions.Step.3.Note.1" = "If you don’t have ##Bột Nêm Gà## (chicken bouillon), you can substitute it with ##Muối## (salt).";
+
+/* Tomato Rice Instructions Step 3 Note 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.3.Note.1.Accessibility" = "If you don’t have chicken bouillon, you can substitute it with salt.";
+
+/* Tomato Rice Tips 1 */
+"TomatoRice.Tips.1" = "For a prefect fried rice, you want to use day old rice.";
+
+/* Tomato Rice Tips 2 */
+"TomatoRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold its shape when stir fried.";
+
+/* Tomato Rice Tips 3 */
+"TomatoRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
+
+/* Tomato Rice How To 1 */
+"TomatoRice.HowTo.1" = "This rice will pair well with the ##Bò Lúc Lắc## (shaken beef) recipe.";
+
+/* Tomato Rice How To 1 (VoiceOver) */
+"TomatoRice.HowTo.1.Accessibility" = "This rice will pair well with the Shaken Beef recipe.";
 
 
 // MARK: - # Ingredients Tab:

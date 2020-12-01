@@ -2913,6 +2913,145 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "EggFriedRice.HowTo.1.Accessibility" = "Cơm chiên này rất hợp với món Bò Lúc Lắc.";
 
 
+// MARK: Com Do (Tomato Rice) Page
+
+/* Tomato Rice Introduction 1 */
+"TomatoRice.Introduction.1" = "##Cơm Đỏ## thường được dùng với món thịt. Tôi không biết ##Cơm Đỏ## (tomato rice) có nguồn gốc từ đâu, nhưng nó được làm bằng cách xào ##Cơm Trắng## (white rice) với ##Tương Cà Chua## (tomato paste).";
+
+/* Tomato Rice Introduction 1 (VoiceOver) */
+"TomatoRice.Introduction.1.Accessibility" = "Cơm Đỏ thường được dùng với món thịt. Tôi không biết Cơm Đỏ có nguồn gốc từ đâu, nhưng nó được làm bằng cách xào Cơm Trắng với tương cà chua.";
+
+/* Tomato Rice Introduction 2 */
+"TomatoRice.Introduction.2" = "Công thức này làm cho một người ăn.";
+
+/* Tomato Rice Ingredients White Rice Amount */
+"TomatoRice.WhiteRice.Amount.us" = "⅔ cup";
+"TomatoRice.WhiteRice.Amount.metric" = "120 g";
+
+/* Tomato Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"TomatoRice.WhiteRice.AccessibilityAmount.us" = "hai phần ba cốc";
+"TomatoRice.WhiteRice.AccessibilityAmount.metric" = "120 gờ ram";
+
+/* Tomato Rice Ingredients Tomato Paste Amount */
+"TomatoRice.TomatoPaste.Amount.us" = "1 tsp";
+"TomatoRice.TomatoPaste.Amount.metric" = "1 muỗng cà phê";
+
+/* Tomato Rice Ingredients Tomato Paste Amount (VoiceOver) */
+"TomatoRice.TomatoPaste.AccessibilityAmount" = "một muỗng cà phê";
+
+/* Tomato Rice Ingredients Water Amount */
+"TomatoRice.Water.Amount.us" = "½ tsp";
+"TomatoRice.Water.Amount.metric" = "½ muỗng cà phê";
+
+/* Tomato Rice Ingredients Water Amount (VoiceOver) */
+"TomatoRice.Water.AccessibilityAmount" = "một phần hai muỗng cà phê";
+
+/* Tomato Rice Ingredients Garlic Amount */
+"TomatoRice.Garlic.Amount" = "1 tép";
+
+/* Tomato Rice Ingredients Chicken Bouillon Amount */
+"TomatoRice.ChickenBouillon.Amount.us" = "⅛ tsp";
+"TomatoRice.ChickenBouillon.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Tomato Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"TomatoRice.ChickenBouillon.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Tomato Rice Ingredients Pepper Amount */
+"TomatoRice.Pepper.Amount.us" = "⅛ tsp";
+"TomatoRice.Pepper.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Tomato Rice Ingredients Pepper Amount (VoiceOver) */
+"TomatoRice.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Tomato Rice Ingredients Oil Amount */
+"TomatoRice.Oil.Amount.us" = "1 tsp";
+"TomatoRice.Oil.Amount.metric" = "1 muỗng cà phê";
+
+/* Tomato Rice Ingredients Oil Amount (VoiceOver) */
+"TomatoRice.Oil.AccessibilityAmount" = "1 muỗng cà phê";
+
+/* Tomato Rice Instructions Step 1 Part 1 */
+"TomatoRice.Instructions.Step.1.Part.1" = "Bầm ##Tỏi## (garlic).";
+
+/* Tomato Rice Instructions Step 1 Part 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.1.Part.1.Accessibility" = "Bầm Tỏi.";
+
+/* Tomato Rice Instructions Step 1 Part 2 */
+"TomatoRice.Instructions.Step.1.Part.2" = "Dùng tay tách ##Cơm Trắng## (white rice) nguội thành từng hạt để dễ xào.";
+
+/* Tomato Rice Instructions Step 1 Part 2 (VoiceOver) */
+"TomatoRice.Instructions.Step.1.Part.2.Accessibility" = "Dùng tay tách cơm nguội thành từng hạt để dễ xào.";
+
+/* Tomato Rice Instructions Step 1 Part 3 */
+"TomatoRice.Instructions.Step.1.Part.3" = "Pha ##Tương Cà Chua## (tomato paste) với ##Nước## (water) để làm ##Tương Cà Chua## (tomato paste) lỏng ra.";
+
+/* Tomato Rice Instructions Step 1 Part 3 (VoiceOver) */
+"TomatoRice.Instructions.Step.1.Part.3.Accessibility" = "Pha tương cà chua với nước để làm tương cà chua lỏng ra.";
+
+/* Tomato Rice Instructions Step 2 Part 1 */
+"TomatoRice.Instructions.Step.2.Part.1" = "Cho ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Tomato Rice Instructions Step 2 Part 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.2.Part.1.Accessibility" = "Cho dầu vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Tomato Rice Instructions Step 2 Part 2 */
+"TomatoRice.Instructions.Step.2.Part.2" = "Cho ##Tỏi## (garlic) vào chảo và xào cho đến khi ##Tỏi## (garlic) hơi vàng.";
+
+/* Tomato Rice Instructions Step 2 Part 2 (VoiceOver) */
+"TomatoRice.Instructions.Step.2.Part.2.Accessibility" = "Cho tỏi vào chảo và xào cho đến khi tỏi hơi vàng.";
+
+/* Tomato Rice Instructions Step 2 Part 3 */
+"TomatoRice.Instructions.Step.2.Part.3" = "Cho ##Cơm Trắng## (white rice) vào chảo.";
+
+/* Tomato Rice Instructions Step 2 Part 3 (VoiceOver) */
+"TomatoRice.Instructions.Step.2.Part.3.Accessibility" = "Cho Cơm Trắng vào chảo.";
+
+/* Tomato Rice Instructions Step 2 Note 1 */
+"TomatoRice.Instructions.Step.2.Note.1" = "Có thể thay thế ##Dầu## (oil) bằng bơ cho hương vị phong phú hơn.";
+
+/* Tomato Rice Instructions Step 2 Note 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.2.Note.1.Accessibility" = "Có thể thay thế Dầu bằng bơ cho hương vị phong phú hơn.";
+
+/* Tomato Rice Instructions Step 3 Part 1 */
+"TomatoRice.Instructions.Step.3.Part.1" = "Cho ##Tương Cà Chua## (tomato paste) pha sẵn vào chảo.";
+
+/* Tomato Rice Instructions Step 3 Part 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.3.Part.1.Accessibility" = "Cho Tương Cà Chua pha sẵn vào chảo.";
+
+/* Tomato Rice Instructions Step 3 Part 2 */
+"TomatoRice.Instructions.Step.3.Part.2" = "Thêm ##Bột Nêm Gà## (chicken bouillon) và ##Tiêu Đen## (pepper).";
+
+/* Tomato Rice Instructions Step 3 Part 2 (VoiceOver) */
+"TomatoRice.Instructions.Step.3.Part.2.Accessibility" = "Thêm Bột Nêm Gà và Tiêu Đen.";
+
+/* Tomato Rice Instructions Step 3 Part 3 */
+"TomatoRice.Instructions.Step.3.Part.3" = "Xào cho đến khi tất cả các nguyên liệu được trộn đều.";
+
+/* Tomato Rice Instructions Step 3 Part 3 (VoiceOver) */
+"TomatoRice.Instructions.Step.3.Part.3.Accessibility" = "Xào cho đến khi tất cả các nguyên liệu được trộn đều.";
+
+/* Tomato Rice Instructions Step 3 Note 1 */
+"TomatoRice.Instructions.Step.3.Note.1" = "Nếu không có ##Bột Nêm Gà## (chicken bouillon), bạn có thể thay thế bằng muối.";
+
+/* Tomato Rice Instructions Step 3 Note 1 (VoiceOver) */
+"TomatoRice.Instructions.Step.3.Note.1.Accessibility" = "Nếu không có Bột Nêm Gà, bạn có thể thay thế bằng muối.";
+
+/* Tomato Rice Tips 1 */
+"TomatoRice.Tips.1" = "Để có một món cơm chiên hoàn hảo, bạn muốn sử dụng cơm qua đêm.";
+
+/* Tomato Rice Tips 2 */
+"TomatoRice.Tips.2" = "Cơm để qua đêm sẽ có ít độ ẩm hơn, giúp hạt gạo giữ được hình dạng khi xào.";
+
+/* Tomato Rice Tips 3 */
+"TomatoRice.Tips.3" = "Thông thường, nếu còn cơm thừa, tôi sẽ để tủ lạnh và dùng ngày hôm sau để làm cơm chiên.";
+
+/* Tomato Rice How To 1 */
+"TomatoRice.HowTo.1" = "Cơm chiên này rất hợp với món ##Bò Lúc Lắc## (shaken beef).";
+
+/* Tomato Rice How To 1 (VoiceOver) */
+"TomatoRice.HowTo.1.Accessibility" = "Cơm chiên này rất hợp với món Bò Lúc Lắc.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

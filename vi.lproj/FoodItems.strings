@@ -141,6 +141,11 @@
 "eggFriedRice.AccessibilitySubtitle" = "Cơm Chiên Trứng";
 "eggFriedRice.AccessibilityPageTitle" = "Cơm Chiên Trứng";
 
+/* Tomato Rice */
+"tomatoRice.Subtitle" = "Tomato Rice";
+"tomatoRice.AccessibilitySubtitle" = "Cơm Đỏ";
+"tomatoRice.AccessibilityPageTitle" = "Cơm Đỏ";
+
 
 // MARK: Ingredients Tab
 
@@ -307,6 +312,9 @@
 
 /* Tomato */
 "tomato.Subtitle" = "Tomato";
+
+/* Tomato Paste */
+"tomatoPaste.Subtitle" = "Tomato Paste";
 
 /* Turmeric */
 "turmeric.Subtitle" = "Turmeric";
