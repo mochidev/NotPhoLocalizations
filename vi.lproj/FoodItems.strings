@@ -273,9 +273,6 @@
 /* Onion */
 "onion.Subtitle" = "Onion";
 
-/* Oyster Sauce */
-"oysterSauce.Subtitle" = "Oyster Sauce";
-
 /* Peanuts */
 "peanut.Subtitle" = "Peanuts";
 
@@ -305,9 +302,6 @@
 
 /* Shrimp */
 "shrimp.Subtitle" = "Shrimp";
-
-/* Soy Sauce */
-"soySauce.Subtitle" = "Soy Sauce";
 
 /* Sugar */
 "sugar.Subtitle" = "Sugar";
