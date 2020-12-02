@@ -57,6 +57,10 @@
 "ShakenBeefWithFriedRice.Subtitle" = "Shaken Beef with Fried Rice";
 "ShakenBeefWithFriedRice.AccessibilitySubtitle" = "Shaken Beef with Fried Rice";
 
+/* Fried Rice Main */
+"friedRice.Subtitle" = "Fried Rice";
+"friedRice.AccessibilitySubtitle" = "Fried Rice";
+
 
 // MARK: Recipes Tab
 

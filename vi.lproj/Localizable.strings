@@ -1122,6 +1122,18 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShakenBeefWithFriedRice.HowTo.2.Accessibility" = "Nước sốt Bò Lúc Lắc rất hợp với cơm.";
 
 
+// MARK: Com Chien (Fried Rice) Main Page
+
+/* Fried Rice Introduction 1 */
+"FriedRice.Introduction.1" = "##Cơm Chiên## (fried rice) được làm từ cơm trắng, trứng, rau và thịt, và có thể thưởng thức nó như thế này hoặc với các món ăn khác. Kỷ lục đầu tiên về món ##Cơm Chiên## (fried rice) bắt đầu từ triều đại nhà Tùy, Trung Quốc vào năm 581, và văn hóa và truyền thống của Việt Nam và Trung Quốc có nhiều điểm tương đồng, đặc biệt là về ẩm thực. Vì là một món ăn tự làm ở nhà, ##Cơm Chiên## (fried rice) thường được làm từ các nguyên liệu thừa nên thức ăn không bị lãng phí.";
+
+/* Fried Rice Introduction 1 (VoiceOver) */
+"FriedRice.Introduction.1.Accessibility" = "Cơm chiên được làm từ cơm trắng, trứng, rau và thịt, và có thể thưởng thức nó như thế này hoặc với các món ăn khác. Kỷ lục đầu tiên về món cơm chiên bắt đầu từ triều đại nhà Tùy, Trung Quốc vào năm 581, và văn hóa và truyền thống của Việt Nam và Trung Quốc có nhiều điểm tương đồng, đặc biệt là về ẩm thực. Vì là một món ăn tự làm ở nhà, cơm chiên thường được làm từ các nguyên liệu thừa nên thức ăn không bị lãng phí.";
+
+/* Fried Rice Introduction 2 */
+"FriedRice.Introduction.2" = "Nếu bạn cảm thấy hiếu kỳ thì nên thử tất cả các biến thể!";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

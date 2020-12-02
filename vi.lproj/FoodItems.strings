@@ -68,6 +68,11 @@
 "ShakenBeefWithFriedRice.AccessibilitySubtitle" = "Bò Lúc Lắc Với Cơm Chiên";
 "ShakenBeefWithFriedRice.AccessibilityPageTitle" = "Bò Lúc Lắc Với Cơm Chiên";
 
+/* Fried Rice Main */
+"friedRice.Subtitle" = "Fried Rice";
+"friedRice.AccessibilitySubtitle" = "Cơm Chiên";
+"friedRice.AccessibilityPageTitle" = "Cơm Chiên";
+
 
 // MARK: Recipes Tab
 

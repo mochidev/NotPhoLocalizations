@@ -1109,6 +1109,18 @@
 "ShakenBeefWithFriedRice.HowTo.2.Accessibility" = "Enjoy any extra shaken beef sauce with the rice; they taste deliciuos together.";
 
 
+// MARK: Com Chien (Fried Rice) Main Page
+
+/* Fried Rice Introduction 1 */
+"FriedRice.Introduction.1" = "##Cơm Chiên## (fried rice) is made from stir-frying rice with eggs, vegetables, and meat, and it can be eaten by itself or as a side to other main dishes. The first known record of ##Cơm Chiên## (fried rice) dated back to the Sui Dynasty, China in the year 581, and both Vietnamese and Chinese cultures share many similarities, particularly in food. As a homemade dish, ##Cơm Chiên## (fried rice) is often made from leftover ingredients so food aren’t wasted.";
+
+/* Fried Rice Introduction 1 (VoiceOver) */
+"FriedRice.Introduction.1.Accessibility" = "Fried rice is made from stir frying rice with eggs, vegetables, and meat, and it can be eaten by itself or as a side to other main dishes. The first known record of fried rice dated back to the Sui Dynasty, China in the year 581, and both Vietnamese and Chinese cultures share many similarities, particularly in food. As a homemade dish, fried rice is often made from leftover ingredients so food aren’t wasted.";
+
+/* Fried Rice Introduction 2 */
+"FriedRice.Introduction.2" = "If you’re feeling adventurous, give all the variations a try!";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */
