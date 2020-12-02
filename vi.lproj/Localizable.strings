@@ -1134,6 +1134,202 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "FriedRice.Introduction.2" = "Nếu bạn cảm thấy hiếu kỳ thì nên thử tất cả các biến thể!";
 
 
+// MARK: Com Chien Tom (Shrimp Fried Rice) Page
+
+/* Shrimp Fried Rice Introduction 1 */
+"ShrimpFriedRice.Introduction.1" = "##Cơm Chiên Tôm## (shrimp fried rice) là một công thức rất nhanh và dễ có thể làm bất cứ lúc nào. ##Cơm Chiên## (fried rice) thường được làm từ các nguyên liệu thừa và biến chúng thành một bữa ăn ngon.";
+
+/* Shrimp Fried Rice Introduction 1 (VoiceOver) */
+"ShrimpFriedRice.Introduction.1.Accessibility" = "Cơm Chiên Tôm là một công thức rất nhanh và dễ có thể làm bất cứ lúc nào. Cơm Chiên thường được làm từ các nguyên liệu thừa và biến chúng thành một bữa ăn ngon.";
+
+/* Shrimp Fried Rice Introduction 2 */
+"ShrimpFriedRice.Introduction.2" = "Công thức này làm cho một người ăn.";
+
+/* Shrimp Fried Rice Ingredients White Rice Amount */
+"ShrimpFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup";
+"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 g";
+
+/* Shrimp Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "ba phần tư cốc";
+"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 gờ ram";
+
+/* Shrimp Fried Rice Ingredients Shrimp Amount */
+"ShrimpFriedRice.Ingredients.Shrimp.Amount" = "5-6 con";
+
+/* Shrimp Fried Rice Ingredients Shrimp Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.Shrimp.AccessibilityAmount" = "5 đến 6 con";
+
+/* Shrimp Fried Rice Ingredients Egg Amount */
+"ShrimpFriedRice.Ingredients.Egg.Amount" = "1 lớn";
+
+/* Shrimp Fried Rice Ingredients Peas And Carrots Amount */
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.Amount.us" = "¼ cup";
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 g";
+
+/* Shrimp Fried Rice Ingredients Peas And Carrots Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.us" = "một phần tư cốc";
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 gờ ram";
+
+/* Shrimp Fried Rice Ingredients Onion Amount */
+"ShrimpFriedRice.Ingredients.Onion.Amount.us" = "¼ cup";
+"ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 g";
+
+/* Shrimp Fried Rice Ingredients Onion Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "một phần tư cốc";
+"ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 gờ ram";
+
+/* Shrimp Fried Rice Ingredients Golden Mountain Soy Sauce Amount */
+"ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.Amount.us" = "½ tsp";
+"ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.Amount.metric" = "½ muỗng cà phê";
+
+/* Shrimp Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "một phần hai muỗng cà phê";
+
+/* Shrimp Fried Rice Ingredients Chicken Bouillon Amount */
+"ShrimpFriedRice.Ingredients.ChickenBouillon.Amount.us" = "½ tsp";
+"ShrimpFriedRice.Ingredients.ChickenBouillon.Amount.metric" = "½ muỗng cà phê";
+
+/* Shrimp Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "một phần hai muỗng cà phê";
+
+/* Shrimp Fried Rice Ingredients Pepper Amount */
+"ShrimpFriedRice.Ingredients.Pepper.Amount.us" = "⅛ tsp";
+"ShrimpFriedRice.Ingredients.Pepper.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Shrimp Fried Rice Ingredients Pepper (VoiceOver) */
+"ShrimpFriedRice.Ingredients.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Shrimp Fried Rice Ingredients Oil Amount */
+"ShrimpFriedRice.Ingredients.Oil.Amount.us" = "2 tsp";
+"ShrimpFriedRice.Ingredients.Oil.Amount.metric" = "2 muỗng cà phê";
+
+/* Shrimp Fried Rice Ingredients Oil (VoiceOver) */
+"ShrimpFriedRice.Ingredients.Oil.AccessibilityAmount" = "2 muỗng cà phê";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 1 */
+"ShrimpFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cắt Củ Hành thành từng lát.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 2 */
+"ShrimpFriedRice.Instructions.Step.1.Part.2" = "Lột vỏ và khoét sâu ##Tôm## (shrimps).";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Lột vỏ và khoét sâu tôm.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 3 */
+"ShrimpFriedRice.Instructions.Step.1.Part.3" = "Xả đá ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Xả đá Đậu Và Cà Rốt.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 4 */
+"ShrimpFriedRice.Instructions.Step.1.Part.4" = "Dùng tay tách ##Cơm Trắng## (white rice) nguội thành từng hạt để dễ xào.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Dùng tay tách cơm nguội thành từng hạt để dễ xào.";
+
+/* Shrimp Fried Rice Instructions Step 1 Note 1 */
+"ShrimpFriedRice.Instructions.Step.1.Note.1" = "Có thể thay thế ##Đậu Và Cà Rốt## (peas and carrots) đông đá bằng Cà Rốt và đậu que tươi.";
+
+/* Shrimp Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Note.1.Accessibility" = "Có thể thay thế Đậu Và Cà Rốt đông đá bằng Cà Rốt và đậu que tươi.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 1 */
+"ShrimpFriedRice.Instructions.Step.2.Part.1" = "Cho một nửa ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Cho một nửa dầu vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 2 */
+"ShrimpFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Tôm## (shrimps), ##Củ Hành## (onion), ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Tôm, Củ Hành, Đậu Và Cà Rốt.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 3 */
+"ShrimpFriedRice.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Tôm## (shrimps) chín.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 3 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi tôm chín.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 4 */
+"ShrimpFriedRice.Instructions.Step.2.Part.4" = "Chuyển nguyên liệu chín vào tô nhỏ để sử dụng sau.";
+
+/* Shrimp Fried Rice Instructions Step 2 Note 1 */
+"ShrimpFriedRice.Instructions.Step.2.Note.1" = "Ở bước này, rửa sạch chảo nếu dơ.";
+
+/* Shrimp Fried Rice Instructions Step 2 Note 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.2.Note.1.Accessibility" = "Ở bước này, rửa sạch chảo nếu dơ.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 1 */
+"ShrimpFriedRice.Instructions.Step.3.Part.1" = "Cho phân nữa ##Dầu## (oil) còn lại vào chảo.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Cho phân nữa Dầu còn lại vào chảo.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 2 */
+"ShrimpFriedRice.Instructions.Step.3.Part.2" = "Thêm ##Trứng## (egg) vào chảo và xào nhẹ.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 2 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.3.Part.2.Accessibility" = "Thêm Trứng vào chảo và xào nhẹ.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 3 */
+"ShrimpFriedRice.Instructions.Step.3.Part.3" = "Thêm ##Cơm Trắng## (white rice) nguội vào chảo.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 3 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.3.Part.3.Accessibility" = "Thêm Cơm nguội vào chảo.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 4 */
+"ShrimpFriedRice.Instructions.Step.3.Part.4" = "Xào ##Cơm Trắng## (white rice) và ##Trứng## (egg) cho đến khi cơm mềm trở lại.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 4 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 1 */
+"ShrimpFriedRice.Instructions.Step.4.Part.1" = "Cho ##Tôm## (shrimps), ##Củ Hành## (onion), ##Đậu Và Cà Rốt## (peas and carrots) vào chảo trở lại.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Tôm, Củ Hành, Đậu Và Cà Rốt vào chảo trở lại.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 2 */
+"ShrimpFriedRice.Instructions.Step.4.Part.2" = "Thêm ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), và ##Tiêu Đen## (pepper).";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 2 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.4.Part.2.Accessibility" = "Thêm Nước Tương Golden Mountain, Bột Nêm Gà và Tiêu Đen.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 3 */
+"ShrimpFriedRice.Instructions.Step.4.Part.3" = "Xào cho đến khi gia vị trộn đều.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 4 */
+"ShrimpFriedRice.Instructions.Step.4.Part.4" = "Cho cơm chiên lên dĩa và thêm hành lá lên trên.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 4 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.4.Part.4.Accessibility" = "Cho cơm chiên lên dĩa và thêm hành lá lên trên.";
+
+/* Shrimp Fried Rice Tips 1 */
+"ShrimpFriedRice.Tips.1" = "Để có một món cơm chiên hoàn hảo, bạn muốn sử dụng cơm qua đêm.";
+
+/* Shrimp Fried Rice Tips 2 */
+"ShrimpFriedRice.Tips.2" = "Cơm để qua đêm sẽ có ít độ ẩm hơn, giúp hạt gạo giữ được hình dạng khi xào.";
+
+/* Shrimp Fried Rice Tips 3 */
+"ShrimpFriedRice.Tips.3" = "Thông thường, nếu còn cơm thừa, tôi sẽ để tủ lạnh và dùng ngày hôm sau để làm cơm chiên.";
+
+/* Shrimp Fried Rice How To 1 */
+"ShrimpFriedRice.HowTo.1" = "##Cơm Chiên## (fried rice) ngon nhất là khi ăn nóng.";
+
+/* Shrimp Fried Rice How To 1 (VoiceOver) */
+"ShrimpFriedRice.HowTo.1.Accessibility" = "Cơm Chiên ngon nhất là khi ăn nóng.";
+
+/* Shrimp Fried Rice How To 2 */
+"ShrimpFriedRice.HowTo.2" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn ##Cơm Chiên## (fried rice) với ##Nước Mắm Chấm## (mixed fish sauce) như chồng tôi thường ăn.";
+
+/* Shrimp Fried Rice How To 2 (VoiceOver) */
+"ShrimpFriedRice.HowTo.2.Accessibility" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn cơm chiên với Nước Mắm Chấm như chồng tôi thường ăn!";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

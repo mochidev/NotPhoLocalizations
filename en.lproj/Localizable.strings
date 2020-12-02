@@ -1121,6 +1121,198 @@
 "FriedRice.Introduction.2" = "If you’re feeling adventurous, give all the variations a try!";
 
 
+// MARK: Com Chien Tom (Shrimp Fried Rice) Page
+
+/* Shrimp Fried Rice Introduction 1 */
+"ShrimpFriedRice.Introduction.1" = "##Cơm Chiên Tôm## (shrimp fried rice) is a quick and easy recipe that can be enjoyed any time. ##Cơm Chiên## (fried rice) is a great way to salvage any leftover ingredients and turn them into a delicious meal.";
+
+/* Shrimp Fried Rice Introduction 1 (VoiceOver) */
+"ShrimpFriedRice.Introduction.1.Accessibility" = "Shrimp fried rice is a quick and easy recipe that can be enjoyed any time. Fried rice is a great way to salvage any leftover ingredients and turn them into a delicious meal.";
+
+/* Shrimp Fried Rice Introduction 2 */
+"ShrimpFriedRice.Introduction.2" = "This recipe serves one.";
+
+/* Shrimp Fried Rice Ingredients White Rice Amount */
+"ShrimpFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup";
+"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 g";
+
+/* Shrimp Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "three quarter cups";
+"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 grams";
+
+/* Shrimp Fried Rice Ingredients Shrimp Amount */
+"ShrimpFriedRice.Ingredients.Shrimp.Amount" = "5-6 pieces";
+
+/* Shrimp Fried Rice Ingredients Shrimp Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.Shrimp.AccessibilityAmount" = "5 to 6 pieces";
+
+/* Shrimp Fried Rice Ingredients Egg Amount */
+"ShrimpFriedRice.Ingredients.Egg.Amount" = "1 large";
+
+/* Shrimp Fried Rice Ingredients Peas And Carrots Amount */
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.Amount.us" = "¼ cup";
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 g";
+
+/* Shrimp Fried Rice Ingredients Peas And Carrots Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.us" = "one quarter cup";
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 grams";
+
+/* Shrimp Fried Rice Ingredients Onion Amount */
+"ShrimpFriedRice.Ingredients.Onion.Amount.us" = "¼ cup";
+"ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 g";
+
+/* Shrimp Fried Rice Ingredients Onion Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "one quarter cup";
+"ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 grams";
+
+/* Shrimp Fried Rice Ingredients Golden Mountain Soy Sauce Amount */
+"ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.Amount" = "½ tsp";
+
+/* Shrimp Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "half a teaspoon";
+
+/* Shrimp Fried Rice Ingredients Chicken Bouillon Amount */
+"ShrimpFriedRice.Ingredients.ChickenBouillon.Amount" = "½ tsp";
+
+/* Shrimp Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "half a teaspoon";
+
+/* Shrimp Fried Rice Ingredients Pepper Amount */
+"ShrimpFriedRice.Ingredients.Pepper.Amount" = "⅛ tsp";
+
+/* Shrimp Fried Rice Ingredients Pepper (VoiceOver) */
+"ShrimpFriedRice.Ingredients.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Shrimp Fried Rice Ingredients Oil Amount */
+"ShrimpFriedRice.Ingredients.Oil.Amount" = "2 tsp";
+
+/* Shrimp Fried Rice Ingredients Oil (VoiceOver) */
+"ShrimpFriedRice.Ingredients.Oil.AccessibilityAmount" = "two teaspoons";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 1 */
+"ShrimpFriedRice.Instructions.Step.1.Part.1" = "Cut the ##Củ Hành## (onion) into thin slices.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cut the onion into thin slices.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 2 */
+"ShrimpFriedRice.Instructions.Step.1.Part.2" = "Peel and devein the ##Tôm## (shrimps).";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Peel and devein the shrimps.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 3 */
+"ShrimpFriedRice.Instructions.Step.1.Part.3" = "Thaw the frozen ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Thaw the frozen peas and carrots.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 4 */
+"ShrimpFriedRice.Instructions.Step.1.Part.4" = "Use your hands to separate the cold ##Cơm Trắng## (white rice) into individual grains so they are not one giant clump.";
+
+/* Shrimp Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Use your hands to separate the cold white rice into individual grains so they are not one giant clump.";
+
+/* Shrimp Fried Rice Instructions Step 1 Note 1 */
+"ShrimpFriedRice.Instructions.Step.1.Note.1" = "You can substitute the frozen ##Đậu Và Cà Rốt## (peas and carrots) with fresh carrots and spring beans.";
+
+/* Shrimp Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.1.Note.1.Accessibility" = "You can substitute the frozen peas and carrots with fresh carrots and spring beans.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 1 */
+"ShrimpFriedRice.Instructions.Step.2.Part.1" = "In a medium-high heat wok, add half of the ##Dầu## (oil).";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok, add the oil.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 2 */
+"ShrimpFriedRice.Instructions.Step.2.Part.2" = "Add the ##Tôm## (shrimps), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Add the shrimps, onion, and peas and carrots.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 3 */
+"ShrimpFriedRice.Instructions.Step.2.Part.3" = "Stir fry until the ##Tôm## (shrimps) are cooked.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 3 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Stir fry until the shrimps are cooked.";
+
+/* Shrimp Fried Rice Instructions Step 2 Part 4 */
+"ShrimpFriedRice.Instructions.Step.2.Part.4" = "Transfer the ingredients to a bowl to use later.";
+
+/* Shrimp Fried Rice Instructions Step 2 Note 1 */
+"ShrimpFriedRice.Instructions.Step.2.Note.1" = "At this point, rinse the wok if it has to much burnt residue left from the ##Tôm## (shrimps).";
+
+/* Shrimp Fried Rice Instructions Step 2 Note 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.2.Note.1.Accessibility" = "At this point, rinse the wok if it has to much burnt residue left from the shrimps.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 1 */
+"ShrimpFriedRice.Instructions.Step.3.Part.1" = "Add the last half of the ##Dầu## (oil) to the wok.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Add the last half of the oil to the wok.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 2 */
+"ShrimpFriedRice.Instructions.Step.3.Part.2" = "Add the ##Trứng## (egg) and scramble lightly.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 2 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.3.Part.2.Accessibility" = "Add the egg and scramble lightly.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 3 */
+"ShrimpFriedRice.Instructions.Step.3.Part.3" = "Add the ##Cơm Trắng## (white rice).";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 3 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.3.Part.3.Accessibility" = "Add the white rice.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 4 */
+"ShrimpFriedRice.Instructions.Step.3.Part.4" = "Stir fry the ##Cơm Trắng## (white rice) and ##Trứng## (egg) together until the rice is soft again.";
+
+/* Shrimp Fried Rice Instructions Step 3 Part 4 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Stir fry the white rice and egg together until the rice is soft again.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 1 */
+"ShrimpFriedRice.Instructions.Step.4.Part.1" = "Add the ##Tôm## (shrimps), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots) back in with the ##Cơm Trắng## (white rice) and ##Trứng## (egg).";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Add the shrimps, onion, and peas and carrots back in with the white rice and egg.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 2 */
+"ShrimpFriedRice.Instructions.Step.4.Part.2" = "Add ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), and ##Tiêu Đen## (pepper).";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 2 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.4.Part.2.Accessibility" = "Add Golden Mountain soy sauce, chicken bouillon, and pepper.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 3 */
+"ShrimpFriedRice.Instructions.Step.4.Part.3" = "Stir fry until the seasonings are mixed in.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 4 */
+"ShrimpFriedRice.Instructions.Step.4.Part.4" = "Garnish with chopped spring onions.";
+
+/* Shrimp Fried Rice Instructions Step 4 Part 4 (VoiceOver) */
+"ShrimpFriedRice.Instructions.Step.4.Part.4.Accessibility" = "Garnish with chopped spring onions.";
+
+/* Shrimp Fried Rice Tips 1 */
+"ShrimpFriedRice.Tips.1" = "For a prefect fried rice, you want to use day old rice.";
+
+/* Shrimp Fried Rice Tips 2 */
+"ShrimpFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold its shape when stir fried.";
+
+/* Shrimp Fried Rice Tips 3 */
+"ShrimpFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
+
+/* Shrimp Fried Rice How To 1 */
+"ShrimpFriedRice.HowTo.1" = "##Cơm Chiên## (fried rice) is best served hot.";
+
+/* Shrimp Fried Rice How To 1 (VoiceOver) */
+"ShrimpFriedRice.HowTo.1.Accessibility" = "Fried rice is best served hot.";
+
+/* Shrimp Fried Rice How To 2 */
+"ShrimpFriedRice.HowTo.2" = "If you are adventurous, you can try it with some ##Nước Mắm Chấm## (mixed fish sauce) like my husband does.";
+
+/* Shrimp Fried Rice How To 2 (VoiceOver) */
+"ShrimpFriedRice.HowTo.2.Accessibility" = "If you are adventurous, you can try it with some mixed fish sauce like my husband does.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

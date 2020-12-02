@@ -61,6 +61,10 @@
 "friedRice.Subtitle" = "Fried Rice";
 "friedRice.AccessibilitySubtitle" = "Fried Rice";
 
+/* Shrimp Fried Rice */
+"shrimpFriedRice.Subtitle" = "Shrimp Fried Rice";
+"shrimpFriedRice.AccessibilitySubtitle" = "Shrimp Fried Rice";
+
 
 // MARK: Recipes Tab
 
@@ -238,6 +242,9 @@
 
 /* Peanuts */
 "peanut.Subtitle" = "Peanuts";
+
+/* Peas and Carrots */
+"peasAndCarrots.Subtitle" = "Peas and Carrots";
 
 /* Black Pepper */
 "pepper.Subtitle" = "Black Pepper";

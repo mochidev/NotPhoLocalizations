@@ -73,6 +73,11 @@
 "friedRice.AccessibilitySubtitle" = "Cơm Chiên";
 "friedRice.AccessibilityPageTitle" = "Cơm Chiên";
 
+/* Shrimp Fried Rice */
+"shrimpFriedRice.Subtitle" = "Shrimp Fried Rice";
+"shrimpFriedRice.AccessibilitySubtitle" = "Cơm Chiên Tôm";
+"shrimpFriedRice.AccessibilityPageTitle" = "Cơm Chiên Tôm";
+
 
 // MARK: Recipes Tab
 
@@ -275,6 +280,9 @@
 
 /* Peanuts */
 "peanut.Subtitle" = "Peanuts";
+
+/* Peas and Carrots */
+"peasAndCarrots.Subtitle" = "Peas and Carrots";
 
 /* Black Pepper */
 "pepper.Subtitle" = "Black Pepper";
