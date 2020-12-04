@@ -171,6 +171,10 @@
 "soySauce.Subtitle" = "Soy Sauce";
 "soySauce.AccessibilitySubtitle" = "Soy Sauce";
 
+/* Curry Powder */
+"curryPowder.Subtitle" = "Curry Powder";
+"curryPowder.AccessibilitySubtitle" = "Curry Powder";
+
 
 // MARK: Entries with no dedicated page
 
@@ -191,6 +195,9 @@
 
 /* Chili */
 "chili.Subtitle" = "Chili";
+
+/* Chili Powder */
+"chiliPowder.Subtitle" = "Chili Powder";
 
 /* Cilantro */
 "cilantro.Subtitle" = "Cilantro";
@@ -216,8 +223,14 @@
 /* Garlic */
 "garlic.Subtitle" = "Garlic";
 
+/* Garlic Powder */
+"garlicPowder.Subtitle" = "Garlic Powder";
+
 /* Spring Onion */
 "greenOnion.Subtitle" = "Spring Onion";
+
+/* Ground Cumin */
+"groundCumin.Subtitle" = "Ground Cumin";
 
 /* Ground Pork */
 "groundPork.Subtitle" = "Ground Pork";
@@ -234,11 +247,17 @@
 /* Mint */
 "mint.Subtitle" = "Mint";
 
+/* McCormick Curry Powder */
+"mcCormickCurryPowder.Subtitle" = "McCormick Curry Powder";
+
 /* Oil */
 "oil.Subtitle" = "Oil";
 
 /* Onion */
 "onion.Subtitle" = "Onion";
+
+/* Onion Powder */
+"onionPowder.Subtitle" = "Onion Powder";
 
 /* Peanuts */
 "peanut.Subtitle" = "Peanuts";

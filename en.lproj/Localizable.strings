@@ -3203,6 +3203,87 @@
 "TomatoRice.HowTo.1.Accessibility" = "This rice will pair well with the Shaken Beef recipe.";
 
 
+// MARK: Bot Ca Ri (Curry Powder) Page
+
+/* Curry Powder Introduction 1 */
+"CurryPowder.Introduction.1" = "##Bột Cà Ri## (curry powder) is one of the main ingredients in ##Cà Ri## (curry) dishes, and it is available at most Asian markets. There are many brands, but the ones I often found at the markets I go to are in a yellow bag with either an image of four red elephants or a red pyramid at the top left corner. The bag is often labeled as ##Cà Ri Nị (Cay)## (curry powder-hot), ##Cà Ri Bơ (Ít Cay)## (curry powder-mild), or ##Cà Ri Nị Ấn Độ## (Madras curry powder).";
+
+/* Curry Powder Introduction 1 (VoiceOver) */
+"CurryPowder.Introduction.1.Accessibility" = "Curry powder is one of the main ingredients in curry dishes, and it is available at most Asian markets. There are many brands, but the ones I often found at the markets I go to are in a yellow bag with either an image of four red elephants or a red pyramid at the top left corner. The bag is often labeled as curry powder hot, curry powder mild, or Madras curry powder.";
+
+/* Curry Powder Introduction 2 */
+"CurryPowder.Introduction.2" = "If you can’t get pre-mixed ##Bột Cà Ri## (curry powder), you can buy individual ingredients and mix them together. After trials and errors, I came up with a recipe that is very closed to the pre-mixed ##Bột Cà Ri## (curry powder).";
+
+/* Curry Powder Introduction 2 (VoiceOver) */
+"CurryPowder.Introduction.2.Accessibility" = "If you can’t get pre-mixed curry powder, you can buy individual ingredients and mix them together. After trials and errors, I came up with a recipe that is very closed to the pre-mixed curry powder.";
+
+/* Curry Powder Introduction 3 */
+"CurryPowder.Introduction.3" = "This recipe yields about 1 ½ tablespoons, enough to use for the ##Cà Ri Gà## (chicken curry) recipe.";
+
+/* Curry Powder Introduction 3 (VoiceOver) */
+"CurryPowder.Introduction.3.Accessibility" = "This recipe yields about 1 and one half tablespoons, enough to use for the chicken curry recipe.";
+
+/* Curry Powder Ingredients McCormick Curry Powder Amount */
+"CurryPowder.McCormickCurryPowder.Amount" = "1 tbsp (base)";
+
+/* Curry Powder Ingredients McCormick Curry Powder Amount (VoiceOver) */
+"CurryPowder.McCormickCurryPowder.AccessibilityAmount" = "one tablespoon (base)";
+
+/* Curry Powder Ingredients Ground Cumin Amount */
+"CurryPowder.GroundCumin.Amount" = "¼ tsp (only add if curry powder base doesn't already have it)";
+
+/* Curry Powder Ingredients Ground Cumin Amount (VoiceOver) */
+"CurryPowder.GroundCumin.AccessibilityAmount" = "one quarter teaspoon (only add if curry powder base doesn't already have it)";
+
+/* Curry Powder Ingredients Garlic Powder Amount */
+"CurryPowder.GarlicPowder.Amount" = "½ tsp";
+
+/* Curry Powder Ingredients Garlic Powder Amount (VoiceOver) */
+"CurryPowder.GarlicPowder.AccessibilityAmount" = "one half teaspoon";
+
+/* Curry Powder Ingredients Onion Powder Amount */
+"CurryPowder.OnionPowder.Amount" = "1 tsp";
+
+/* Curry Powder Ingredients Onion Powder Amount (VoiceOver) */
+"CurryPowder.OnionPowder.AccessibilityAmount" = "one teaspoon";
+
+/* Curry Powder Ingredients Salt Amount */
+"CurryPowder.Salt.Amount" = "¼ tsp";
+
+/* Curry Powder Ingredients Salt Amount (VoiceOver) */
+"CurryPowder.Salt.AccessibilityAmount" = "one quarter teaspoon";
+
+/* Curry Powder Ingredients Pepper Amount */
+"CurryPowder.Pepper.Amount" = "⅛ tsp";
+
+/* Curry Powder Ingredients Pepper Amount (VoiceOver) */
+"CurryPowder.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Curry Powder Ingredients Chili Powder Amount */
+"CurryPowder.ChiliPowder.Amount" = "optional";
+
+/* Curry Powder Instructions 1 */
+"CurryPowder.Instructions.1" = "Mix all the ingredients together and use.";
+
+/* Curry Powder Instructions 2 */
+"CurryPowder.Instructions.2" = "This curry mix is mild so if you like spicy food, you can definitely add chili powder to the mix.";
+
+/* Curry Powder Instructions 3 */
+"CurryPowder.Instructions.3" = "The McCormick curry powder used here as the base is sold at most chain grocery stores, at least in the US.";
+
+/* Curry Powder Instructions 4 */
+"CurryPowder.Instructions.4" = "Curry is consisted of turmeric, coriander, fenugreek, cumin, and chili powder.";
+
+/* Curry Powder Instructions 5 */
+"CurryPowder.Instructions.5" = "If the brand you end up buying doesn’t have cumin, then do add it, otherwise, leave it out.";
+
+/* Curry Powder How To 1 */
+"CurryPowder.HowTo.1" = "Use this ##Bột Cà Ri## (curry powder) with the ##Cà Ri Gà## (chicken curry) recipe.";
+
+/* Curry Powder How To 1 (VoiceOver) */
+"CurryPowder.HowTo.1.Accessibility" = "Use this curry powder with the chicken curry recipe.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

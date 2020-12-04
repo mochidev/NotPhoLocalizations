@@ -3260,6 +3260,93 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "TomatoRice.HowTo.1.Accessibility" = "Cơm chiên này rất hợp với món Bò Lúc Lắc.";
 
 
+// MARK: Bot Ca Ri (Curry Powder) Page
+
+/* Curry Powder Introduction 1 */
+"CurryPowder.Introduction.1" = "##Bột Cà Ri## (curry powder) là một trong những nguyên liệu chính trong các món cà ri và nó được bán ở hầu hết các siêu thị Châu Á. Bạn nên tìm bột cà ri được gọi là ##Cà Ri Nị (Cay)## (curry powder-hot), ##Cà Ri Bơ (Ít Cay)## (curry powder-mild), hoặc ##Cà Ri Nị Ấn Độ## (Madras curry powder).";
+
+/* Curry Powder Introduction 1 (VoiceOver) */
+"CurryPowder.Introduction.1.Accessibility" = "Bột Cà Ri là một trong những nguyên liệu chính trong các món cà ri và nó được bán ở hầu hết các siêu thị Châu Á. Bạn nên tìm bột cà ri được gọi là Cà Ri Nị Cay, Cà Ri Bơ Ít Cay, hoặc Cà Ri Nị Ấn Độ.";
+
+/* Curry Powder Introduction 2 */
+"CurryPowder.Introduction.2" = "Nếu không thể mua ##Bột Cà Ri## (curry powder) trộn sẵn, bạn có thể mua các nguyên liệu riêng lẻ và trộn chúng với nhau. Sau những thử nghiệm, tôi tạo ra một công thức rất giống ##Bột Cà Ri## (curry powder) trộn sẵn.";
+
+/* Curry Powder Introduction 2 (VoiceOver) */
+"CurryPowder.Introduction.2.Accessibility" = "Nếu không thể mua bột cà ri trộn sẵn, bạn có thể mua các nguyên liệu riêng lẻ và trộn chúng với nhau. Sau những thử nghiệm, tôi tạo ra một công thức rất giống bột cà ri trộn sẵn.";
+
+/* Curry Powder Introduction 3 */
+"CurryPowder.Introduction.3" = "Công thức này mang lại khoảng 1 ½ muỗng canh, đủ dùng cho công thức cà ri gà ##Cà Ri Gà## (chicken curry).";
+
+/* Curry Powder Introduction 3 (VoiceOver) */
+"CurryPowder.Introduction.3.Accessibility" = "Công thức này mang lại khoảng 1 muỗng canh rưỡi, đủ dùng cho công thức cà ri gà.";
+
+/* Curry Powder Ingredients McCormick Curry Powder Amount */
+"CurryPowder.McCormickCurryPowder.Amount.us" = "1 tbsp (điểm bắt đầu)";
+"CurryPowder.McCormickCurryPowder.Amount.metric" = "1 muỗng canh (điểm bắt đầu)";
+
+/* Curry Powder Ingredients McCormick Curry Powder Amount (VoiceOver) */
+"CurryPowder.McCormickCurryPowder.AccessibilityAmount" = "1 muỗng canh, điểm bắt đầu";
+
+/* Curry Powder Ingredients Ground Cumin Amount */
+"CurryPowder.GroundCumin.Amount.us" = "¼ tsp (chỉ thêm nếu nguyên liệu cà ri chính không có)";
+"CurryPowder.GroundCumin.Amount.metric" = "¼ muỗng cà phê (chỉ thêm nếu nguyên liệu cà ri chính không có)";
+
+/* Curry Powder Ingredients Ground Cumin Amount (VoiceOver) */
+"CurryPowder.GroundCumin.AccessibilityAmount" = "một phần tư muỗng cà phê chỉ thêm nếu nguyên liệu cà ri chính không có";
+
+/* Curry Powder Ingredients Garlic Powder Amount */
+"CurryPowder.GarlicPowder.Amount.us" = "½ tsp";
+"CurryPowder.GarlicPowder.Amount.metric" = "½ muỗng cà phê";
+
+/* Curry Powder Ingredients Garlic Powder Amount (VoiceOver) */
+"CurryPowder.GarlicPowder.AccessibilityAmount" = "phần nửa muỗng cà phê";
+
+/* Curry Powder Ingredients Onion Powder Amount */
+"CurryPowder.OnionPowder.Amount.us" = "1 tsp";
+"CurryPowder.OnionPowder.Amount.metric" = "1 muỗng cà phê";
+
+/* Curry Powder Ingredients Onion Powder Amount (VoiceOver) */
+"CurryPowder.OnionPowder.AccessibilityAmount" = "1 muỗng cà phê";
+
+/* Curry Powder Ingredients Salt Amount */
+"CurryPowder.Salt.Amount.us" = "¼ tsp";
+"CurryPowder.Salt.Amount.metric" = "¼ muỗng cà phê";
+
+/* Curry Powder Ingredients Salt Amount (VoiceOver) */
+"CurryPowder.Salt.AccessibilityAmount" = "một phần tư muỗng cà phê";
+
+/* Curry Powder Ingredients Pepper Amount */
+"CurryPowder.Pepper.Amount.us" = "⅛ tsp";
+"CurryPowder.Pepper.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Curry Powder Ingredients Pepper Amount (VoiceOver) */
+"CurryPowder.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Curry Powder Ingredients Chili Powder Amount */
+"CurryPowder.ChiliPowder.Amount" = "tùy ý";
+
+/* Curry Powder Instructions 1 */
+"CurryPowder.Instructions.1" = "Trộn tất cả nguyên liệu với nhau và sử dụng.";
+
+/* Curry Powder Instructions 2 */
+"CurryPowder.Instructions.2" = "Nếu bạn thích ăn cay, bạn có thể thêm bột ớt.";
+
+/* Curry Powder Instructions 3 */
+"CurryPowder.Instructions.3" = "Bột cà ri McCormick được bán ở hầu hết các cửa hàng siêu thị tại Mỹ.";
+
+/* Curry Powder Instructions 4 */
+"CurryPowder.Instructions.4" = "Cà ri được làm từ nghệ, rau mùi, cỏ cà ri, thì là, và bột ớt.";
+
+/* Curry Powder Instructions 5 */
+"CurryPowder.Instructions.5" = "Nếu bột cà ri bạn mua không có thì là thì hãy thêm vào.";
+
+/* Curry Powder How To 1 */
+"CurryPowder.HowTo.1" = "Dụng ##Bột Cà Ri## (curry powder) này với món ##Cà Ri Gà## (chicken curry).";
+
+/* Curry Powder How To 1 (VoiceOver) */
+"CurryPowder.HowTo.1.Accessibility" = "Dụng bột cà ri này với món cà ri gà.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */
