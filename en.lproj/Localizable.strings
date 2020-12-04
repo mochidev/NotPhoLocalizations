@@ -512,7 +512,7 @@
 "Vermicelli.Ingredients.Cucumber.Amount.metric" = "55 g, sliced";
 
 /* Vermicelli Ingredients Cucumber Amount (VoiceOver) */
-"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.us" = "half a persian cucumber, sliced";
+"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.us" = "one half persian cucumber, sliced";
 "Vermicelli.Ingredients.Cucumber.AccessibilityAmount.metric" = "55 grams, sliced";
 
 /* Vermicelli Ingredients Bean Sprouts Amount */
@@ -523,7 +523,7 @@
 "Vermicelli.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
+"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "one half cup";
 "Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Vermicelli Ingredients Scallion & Oil Garnish Amount */
@@ -650,7 +650,7 @@
 "EggRolls.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
+"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "one half cup";
 "EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Egg Rolls How To Header */
@@ -697,7 +697,7 @@
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.Amount.metric" = "90 g, cooked";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Rice Amount (VoiceOver) */
-"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.AccessibilityAmount.us" = "one half cup, cooked";
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Grilled Pork Amount */
@@ -741,7 +741,7 @@
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "one half cup";
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 1 */
@@ -827,7 +827,7 @@
 "PorkBellyWithOnion.Ingredients.Rice.Amount.metric" = "90 g, cooked";
 
 /* Pork Belly with Onion Ingredients Rice Amount (VoiceOver) */
-"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
+"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.us" = "one half cup, cooked";
 "PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
 
 /* Pork Belly with Onion Ingredients Pork Belly With Oyster Sauce Amount */
@@ -958,7 +958,7 @@
 "ShakenBeefWhiteRice.Ingredients.WhiteRice.Amount.metric" = "90 g, cooked";
 
 /* Shaken Beef with White Rice Ingredients White Rice Amount (VoiceOver) */
-"ShakenBeefWhiteRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "half a cup, cooked";
+"ShakenBeefWhiteRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "one half cup, cooked";
 "ShakenBeefWhiteRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "90 grams, cooked";
 
 /* Shaken Beef with White Rice Ingredients Shaken Beef Entree Amount */
@@ -1169,13 +1169,13 @@
 "ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.Amount" = "½ tsp";
 
 /* Shrimp Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
-"ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "half a teaspoon";
+"ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "one half teaspoon";
 
 /* Shrimp Fried Rice Ingredients Chicken Bouillon Amount */
 "ShrimpFriedRice.Ingredients.ChickenBouillon.Amount" = "½ tsp";
 
 /* Shrimp Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
-"ShrimpFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "half a teaspoon";
+"ShrimpFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "one half teaspoon";
 
 /* Shrimp Fried Rice Ingredients Pepper Amount */
 "ShrimpFriedRice.Ingredients.Pepper.Amount" = "⅛ tsp";
