@@ -1133,12 +1133,12 @@
 "ShrimpFriedRice.Introduction.2" = "This recipe serves one.";
 
 /* Shrimp Fried Rice Ingredients White Rice Amount */
-"ShrimpFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup";
-"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 g";
+"ShrimpFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup, cooked";
+"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 g, cooked";
 
 /* Shrimp Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
-"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "three quarter cups";
-"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 grams";
+"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "three quarter cups, cooked";
+"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 grams, cooked";
 
 /* Shrimp Fried Rice Ingredients Shrimp Amount */
 "ShrimpFriedRice.Ingredients.Shrimp.Amount" = "5-6 pieces";
@@ -2977,12 +2977,12 @@
 "EggFriedRice.Introduction.2" = "This recipe serves one.";
 
 /* Egg Fried Rice Ingredients White Rice Amount */
-"EggFriedRice.WhiteRice.Amount.us" = "⅔ cup";
-"EggFriedRice.WhiteRice.Amount.metric" = "120 g";
+"EggFriedRice.WhiteRice.Amount.us" = "⅔ cup, cooked";
+"EggFriedRice.WhiteRice.Amount.metric" = "120 g, cooked";
 
 /* Egg Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
-"EggFriedRice.WhiteRice.AccessibilityAmount.us" = "two third cups";
-"EggFriedRice.WhiteRice.AccessibilityAmount.metric" = "120 grams";
+"EggFriedRice.WhiteRice.AccessibilityAmount.us" = "two third cups, cooked";
+"EggFriedRice.WhiteRice.AccessibilityAmount.metric" = "120 grams, cooked";
 
 /* Egg Fried Rice Ingredients Egg Amount */
 "EggFriedRice.Egg.Amount" = "1 large";
@@ -3081,12 +3081,12 @@
 "TomatoRice.Introduction.2" = "This recipe serves one.";
 
 /* Tomato Rice Ingredients White Rice Amount */
-"TomatoRice.WhiteRice.Amount.us" = "⅔ cup";
-"TomatoRice.WhiteRice.Amount.metric" = "120 g";
+"TomatoRice.WhiteRice.Amount.us" = "⅔ cup, cooked";
+"TomatoRice.WhiteRice.Amount.metric" = "120 g, cooked";
 
 /* Tomato Rice Ingredients Whtie Rice Amount (VoiceOver) */
-"TomatoRice.WhiteRice.AccessibilityAmount.us" = "two third cups";
-"TomatoRice.WhiteRice.AccessibilityAmount.metric" = "120 grams";
+"TomatoRice.WhiteRice.AccessibilityAmount.us" = "two third cups, cooked";
+"TomatoRice.WhiteRice.AccessibilityAmount.metric" = "120 grams, cooked";
 
 /* Tomato Rice Ingredients Tomato Paste Amount */
 "TomatoRice.TomatoPaste.Amount" = "1 tsp";
