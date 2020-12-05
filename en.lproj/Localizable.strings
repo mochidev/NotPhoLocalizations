@@ -270,7 +270,7 @@
 "Crepe.Ingredients.BeanSprouts.Amount.metric" = "340 g";
 
 /* Crepe Ingredients Bean Sprouts Amount (VoiceOver) */
-"Crepe.Ingredients.BeanSprouts.AccessibilityAmount.us" = "three quarter pounds";
+"Crepe.Ingredients.BeanSprouts.AccessibilityAmount.us" = "three quarters of a pound";
 "Crepe.Ingredients.BeanSprouts.AccessibilityAmount.metric" = "340 grams";
 
 /* Crepe Ingredients Green Onion Amount */
@@ -281,7 +281,7 @@
 "Crepe.Ingredients.LeafyGreens.Amount" = "assortment";
 
 /* Crepe Ingredients Mixed Fish Sauce Amount */
-"Crepe.Ingredients.MixedFishSauce.Amount.us" = "1 ½ cups";
+"Crepe.Ingredients.MixedFishSauce.Amount.us" = "1½ cups";
 "Crepe.Ingredients.MixedFishSauce.Amount.metric" = "360 mL";
 
 /* Crepe Ingredients Mixed Fish Sauce Amount (VoiceOver) */
@@ -512,7 +512,7 @@
 "Vermicelli.Ingredients.Cucumber.Amount.metric" = "55 g, sliced";
 
 /* Vermicelli Ingredients Cucumber Amount (VoiceOver) */
-"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.us" = "one half persian cucumber, sliced";
+"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.us" = "half a persian cucumber, sliced";
 "Vermicelli.Ingredients.Cucumber.AccessibilityAmount.metric" = "55 grams, sliced";
 
 /* Vermicelli Ingredients Bean Sprouts Amount */
@@ -523,7 +523,7 @@
 "Vermicelli.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Vermicelli Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "one half cup";
+"Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
 "Vermicelli.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Vermicelli Ingredients Scallion & Oil Garnish Amount */
@@ -650,7 +650,7 @@
 "EggRolls.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "one half cup";
+"EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
 "EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Egg Rolls How To Header */
@@ -697,7 +697,7 @@
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.Amount.metric" = "90 g, cooked";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Rice Amount (VoiceOver) */
-"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.AccessibilityAmount.us" = "one half cup, cooked";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Grilled Pork Amount */
@@ -741,7 +741,7 @@
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "one half cup";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 1 */
@@ -827,7 +827,7 @@
 "PorkBellyWithOnion.Ingredients.Rice.Amount.metric" = "90 g, cooked";
 
 /* Pork Belly with Onion Ingredients Rice Amount (VoiceOver) */
-"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.us" = "one half cup, cooked";
+"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
 "PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
 
 /* Pork Belly with Onion Ingredients Pork Belly With Oyster Sauce Amount */
@@ -958,7 +958,7 @@
 "ShakenBeefWhiteRice.Ingredients.WhiteRice.Amount.metric" = "90 g, cooked";
 
 /* Shaken Beef with White Rice Ingredients White Rice Amount (VoiceOver) */
-"ShakenBeefWhiteRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "one half cup, cooked";
+"ShakenBeefWhiteRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "half a cup, cooked";
 "ShakenBeefWhiteRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "90 grams, cooked";
 
 /* Shaken Beef with White Rice Ingredients Shaken Beef Entree Amount */
@@ -1169,19 +1169,19 @@
 "ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.Amount" = "½ tsp";
 
 /* Shrimp Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
-"ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "one half teaspoon";
+"ShrimpFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "half a teaspoon";
 
 /* Shrimp Fried Rice Ingredients Chicken Bouillon Amount */
 "ShrimpFriedRice.Ingredients.ChickenBouillon.Amount" = "½ tsp";
 
 /* Shrimp Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
-"ShrimpFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "one half teaspoon";
+"ShrimpFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "half a teaspoon";
 
 /* Shrimp Fried Rice Ingredients Pepper Amount */
 "ShrimpFriedRice.Ingredients.Pepper.Amount" = "⅛ tsp";
 
 /* Shrimp Fried Rice Ingredients Pepper (VoiceOver) */
-"ShrimpFriedRice.Ingredients.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+"ShrimpFriedRice.Ingredients.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Shrimp Fried Rice Ingredients Oil Amount */
 "ShrimpFriedRice.Ingredients.Oil.Amount" = "2 tsp";
@@ -1369,7 +1369,7 @@
 "CrepeBatter.Ingredients.Turmeric.Amount" = "⅛ tsp";
 
 /* Crepe Batter Ingredients Turmeric Amount (VoiceOver) */
-"CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "1 eighth teaspoon";
+"CrepeBatter.Ingredients.Turmeric.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Crepe Batter Ingredients Coconut Milk Amount */
 "CrepeBatter.Ingredients.CoconutMilk.Amount.us" = "¼ cup";
@@ -1472,7 +1472,7 @@
 "EggRollsComponent.Onion.Amount.metric" = "40 g";
 
 /* Egg Rolls Component Onion Amount (VoiceOver) */
-"EggRollsComponent.Onion.AccessibilityAmount.us" = "a quarter cup";
+"EggRollsComponent.Onion.AccessibilityAmount.us" = "one quarter cup";
 "EggRollsComponent.Onion.AccessibilityAmount.metric" = "40 grams";
 
 /* Egg Rolls Component Dried Mushroom Amount */
@@ -1480,7 +1480,7 @@
 "EggRollsComponent.DriedMushroom.Amount.metric" = "45 g, soaked";
 
 /* Egg Rolls Component Dried Mushroom Amount (VoiceOver) */
-"EggRollsComponent.DriedMushroom.AccessibilityAmount.us" = "a third cup, soaked";
+"EggRollsComponent.DriedMushroom.AccessibilityAmount.us" = "one third of a cup, soaked";
 "EggRollsComponent.DriedMushroom.AccessibilityAmount.metric" = "45 grams, soaked";
 
 /* Egg Rolls Component Bean Threads Amount */
@@ -1488,7 +1488,7 @@
 "EggRollsComponent.BeanThreads.Amount.metric" = "30 g, soaked";
 
 /* Egg Rolls Component Bean Threads Amount (VoiceOver) */
-"EggRollsComponent.BeanThreads.AccessibilityAmount.us" = "a quarter cup, soaked";
+"EggRollsComponent.BeanThreads.AccessibilityAmount.us" = "one quarter cup, soaked";
 "EggRollsComponent.BeanThreads.AccessibilityAmount.metric" = "30 grams, soaked";
 
 /* Egg Rolls Component Fish Sauce Amount */
@@ -1504,7 +1504,7 @@
 "EggRollsComponent.BlackPepper.Amount" = "¼ tsp";
 
 /* Egg Rolls Component Black Pepper Amount (VoiceOver) */
-"EggRollsComponent.BlackPepper.AccessibilityAmount" = "a quarter teaspoon";
+"EggRollsComponent.BlackPepper.AccessibilityAmount" = "one quarter teaspoon";
 
 /* Egg Rolls Component Egg Roll Wrappers Amount */
 "EggRollsComponent.EggRollWrappers.Amount" = "1 pack";
@@ -1684,7 +1684,7 @@
 "EggMeatloaf.Ingredients.Onion.Amount.metric" = "130 g";
 
 /* Egg Meatloaf Ingredients Onion Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.Onion.AccessibilityAmount.us" = "one third cup";
+"EggMeatloaf.Ingredients.Onion.AccessibilityAmount.us" = "one third of a cup";
 "EggMeatloaf.Ingredients.Onion.AccessibilityAmount.metric" = "130 grams";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
@@ -1692,7 +1692,7 @@
 "EggMeatloaf.Ingredients.DriedMushroom.Amount.metric" = "40-45 g, soaked";
 
 /* Egg Meatloaf Ingredients Dried Mushroom Amount */
-"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount.us" = "one third cup, soaked";
+"EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount.us" = "one third of a cup, soaked";
 "EggMeatloaf.Ingredients.DriedMushroom.AccessibilityAmount.metric" = "40 to 45 grams, soaked";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount */
@@ -1700,7 +1700,7 @@
 "EggMeatloaf.Ingredients.BeanThreads.Amount.metric" = "40-45 g, soaked";
 
 /* Egg Meatloaf Ingredients Bean Threads Amount (VoiceOver) */
-"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount.us" = "one third cup, soaked";
+"EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount.us" = "one third of a cup, soaked";
 "EggMeatloaf.Ingredients.BeanThreads.AccessibilityAmount.metric" = "40 to 45 grams, soaked";
 
 /* Egg Meatloaf Ingredients Fish Sauce Amount */
@@ -1884,7 +1884,7 @@
 "AnnattoOil.Introduction.2.metric" = "This recipe yields 60 mL.";
 
 /* Annatto Oil Introduction 2 (VoiceOver) */
-"AnnattoOil.Introduction.2.Accessibility.us" = "This recipe yields a quarter cup.";
+"AnnattoOil.Introduction.2.Accessibility.us" = "This recipe yields one quarter cup.";
 "AnnattoOil.Introduction.2.Accessibility.metric" = "This recipe yields 60 milliliters.";
 
 /* Annatto Oil Ingredients Header */
@@ -1903,7 +1903,7 @@
 "AnnattoOil.Ingredients.2.metric" = "60 mL";
 
 /* Annatto Oil Ingredients 2 (VoiceOver) */
-"AnnattoOil.Ingredients.2.Accessibility.us" = "a quarter cup";
+"AnnattoOil.Ingredients.2.Accessibility.us" = "one quarter cup";
 "AnnattoOil.Ingredients.2.Accessibility.metric" = "60 milliliters";
 
 /* Annatto Oil Instructions Header */
@@ -2021,7 +2021,7 @@
 "Pickles.Ingredients.Sugar.Amount.metric" = "4 tbsp";
 
 /* Pickles Ingredients Sugar Amount (VoiceOver) */
-"Pickles.Ingredients.Sugar.AccessibilityAmount.us" = "a quarter cup";
+"Pickles.Ingredients.Sugar.AccessibilityAmount.us" = "one quarter cup";
 "Pickles.Ingredients.Sugar.AccessibilityAmount.metric" = "4 tablespoons";
 
 /* Pickles Ingredients Vinegar Amount */
@@ -2029,7 +2029,7 @@
 "Pickles.Ingredients.Vinegar.Amount.metric" = "80 mL";
 
 /* Pickles Ingredients Vinegar Amount (VoiceOver) */
-"Pickles.Ingredients.Vinegar.AccessibilityAmount.us" = "two third cups";
+"Pickles.Ingredients.Vinegar.AccessibilityAmount.us" = "two thirds of a cup";
 "Pickles.Ingredients.Vinegar.AccessibilityAmount.metric" = "80 milliliters";
 
 /* Pickles Ingredients Water Amount */
@@ -2051,7 +2051,7 @@
 "Pickles.Instructions.Step.1.Part.1.metric" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into 3 mm-thick strips.";
 
 /* Pickles Instructions Step 1 Part 1 (VoiceOver) */
-"Pickles.Instructions.Step.1.Part.1.Accessibility.us" = "Julienne the carrot and daikon into one eigth inch thick strips.";
+"Pickles.Instructions.Step.1.Part.1.Accessibility.us" = "Julienne the carrot and daikon into one eighth inch thick strips.";
 "Pickles.Instructions.Step.1.Part.1.Accessibility.metric" = "Julienne the carrot and daikon into 3 millimeter thick strips.";
 
 /* Pickles Instructions Step 1 Note 1 */
@@ -2668,13 +2668,13 @@
 "PorkBellyWithOysterSauce.Ingredients.Sugar.Amount" = "⅔ tsp";
 
 /* Pork Belly with Oyster Sauce Ingredients Sugar Amount (VoiceOver) */
-"PorkBellyWithOysterSauce.Ingredients.Sugar.AccessibilityAmount" = "two third teaspoons";
+"PorkBellyWithOysterSauce.Ingredients.Sugar.AccessibilityAmount" = "two thirds of a cup";
 
 /* Pork Belly with Oyster Sauce Ingredients Pepper Amount */
 "PorkBellyWithOysterSauce.Ingredients.Pepper.Amount" = "⅛ tsp";
 
 /* Pork Belly with Oyster Sauce Ingredients Pepper Amount (VoiceOver) */
-"PorkBellyWithOysterSauce.Ingredients.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+"PorkBellyWithOysterSauce.Ingredients.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Pork Belly with Oyster Sauce Instructions Header */
 "PorkBellyWithOysterSauce.Instructions.Header" = "Instructions";
@@ -2830,7 +2830,7 @@
 "ShakenBeefEntree.Pepper.Amount" = "⅛ tsp";
 
 /* Shaken Beef Entree Ingredients Pepper Amount (VoiceOver) */
-"ShakenBeefEntree.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+"ShakenBeefEntree.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Shaken Beef Entree Instructions Step 1 Part 1 */
 "ShakenBeefEntree.Instructions.Step.1.Part.1" = "Cut the ##Thịt Bò## (beef) and ##Ớt Chuông## (bell pepper) into bite sized pieces.";
@@ -2981,7 +2981,7 @@
 "EggFriedRice.WhiteRice.Amount.metric" = "120 g, cooked";
 
 /* Egg Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
-"EggFriedRice.WhiteRice.AccessibilityAmount.us" = "two third cups, cooked";
+"EggFriedRice.WhiteRice.AccessibilityAmount.us" = "two thirds of a cup, cooked";
 "EggFriedRice.WhiteRice.AccessibilityAmount.metric" = "120 grams, cooked";
 
 /* Egg Fried Rice Ingredients Egg Amount */
@@ -2991,13 +2991,13 @@
 "EggFriedRice.ChickenBouillon.Amount" = "⅛ tsp";
 
 /* Egg Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
-"EggFriedRice.ChickenBouillon.AccessibilityAmount" = "one eighth teaspoon";
+"EggFriedRice.ChickenBouillon.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Egg Fried Rice Ingredients Pepper Amount */
 "EggFriedRice.Pepper.Amount" = "⅛ tsp";
 
 /* Egg Fried Rice Ingredients Pepper Amount (VoiceOver) */
-"EggFriedRice.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+"EggFriedRice.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Egg Fried Rice Ingredients Oil Amount */
 "EggFriedRice.Oil.Amount" = "1 tsp";
@@ -3085,7 +3085,7 @@
 "TomatoRice.WhiteRice.Amount.metric" = "120 g, cooked";
 
 /* Tomato Rice Ingredients Whtie Rice Amount (VoiceOver) */
-"TomatoRice.WhiteRice.AccessibilityAmount.us" = "two third cups, cooked";
+"TomatoRice.WhiteRice.AccessibilityAmount.us" = "two thirds of a cup, cooked";
 "TomatoRice.WhiteRice.AccessibilityAmount.metric" = "120 grams, cooked";
 
 /* Tomato Rice Ingredients Tomato Paste Amount */
@@ -3107,13 +3107,13 @@
 "TomatoRice.ChickenBouillon.Amount" = "⅛ tsp";
 
 /* Tomato Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
-"TomatoRice.ChickenBouillon.AccessibilityAmount" = "one eighth teaspoon";
+"TomatoRice.ChickenBouillon.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Tomato Rice Ingredients Pepper Amount */
 "TomatoRice.Pepper.Amount" = "⅛ tsp";
 
 /* Tomato Rice Ingredients Pepper Amount (VoiceOver) */
-"TomatoRice.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+"TomatoRice.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Tomato Rice Ingredients Oil Amount */
 "TomatoRice.Oil.Amount" = "1 tsp";
@@ -3218,7 +3218,7 @@
 "CurryPowder.Introduction.2.Accessibility" = "If you can’t get pre-mixed curry powder, you can buy individual ingredients and mix them together. After trials and errors, I came up with a recipe that is very closed to the pre-mixed curry powder.";
 
 /* Curry Powder Introduction 3 */
-"CurryPowder.Introduction.3" = "This recipe yields about 1 ½ tablespoons, enough to use for the ##Cà Ri Gà## (chicken curry) recipe.";
+"CurryPowder.Introduction.3" = "This recipe yields about 1½ tablespoons, enough to use for the ##Cà Ri Gà## (chicken curry) recipe.";
 
 /* Curry Powder Introduction 3 (VoiceOver) */
 "CurryPowder.Introduction.3.Accessibility" = "This recipe yields about 1 and one half tablespoons, enough to use for the chicken curry recipe.";
@@ -3239,7 +3239,7 @@
 "CurryPowder.GarlicPowder.Amount" = "½ tsp";
 
 /* Curry Powder Ingredients Garlic Powder Amount (VoiceOver) */
-"CurryPowder.GarlicPowder.AccessibilityAmount" = "one half teaspoon";
+"CurryPowder.GarlicPowder.AccessibilityAmount" = "half a teaspoon";
 
 /* Curry Powder Ingredients Onion Powder Amount */
 "CurryPowder.OnionPowder.Amount" = "1 tsp";
@@ -3257,7 +3257,7 @@
 "CurryPowder.Pepper.Amount" = "⅛ tsp";
 
 /* Curry Powder Ingredients Pepper Amount (VoiceOver) */
-"CurryPowder.Pepper.AccessibilityAmount" = "one eighth teaspoon";
+"CurryPowder.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Curry Powder Ingredients Chili Powder Amount */
 "CurryPowder.ChiliPowder.Amount" = "optional";
