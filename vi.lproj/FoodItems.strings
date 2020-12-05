@@ -156,6 +156,16 @@
 "tomatoRice.AccessibilitySubtitle" = "Cơm Đỏ";
 "tomatoRice.AccessibilityPageTitle" = "Cơm Đỏ";
 
+/* Curry Powder */
+"curryPowder.Subtitle" = "Curry Powder";
+"curryPowder.AccessibilitySubtitle" = "Bột Cà Ri";
+"curryPowder.AccessibilityPageTitle" = "Bột Cà Ri";
+
+/* Chicken Curry Entree */
+"chickenCurryEntree.Subtitle" = "Chicken Curry";
+"chickenCurryEntree.AccessibilitySubtitle" = "Cà Ri Gà";
+"chickenCurryEntree.AccessibilityPageTitle" = "Cà Ri Gà";
+
 
 // MARK: Ingredients Tab
 
@@ -209,11 +219,6 @@
 "soySauce.AccessibilitySubtitle" = "Nước Tương";
 "soySauce.AccessibilityPageTitle" = "Nước Tương";
 
-/* Curry Powder */
-"curryPowder.Subtitle" = "Curry Powder";
-"curryPowder.AccessibilitySubtitle" = "Bột Cà Ri";
-"curryPowder.AccessibilityPageTitle" = "Bột Cà Ri";
-
 
 // MARK: Entries with no dedicated page
 
@@ -231,6 +236,9 @@
 
 /* Chicken Bouillon */
 "chickenBouillon.Subtitle" = "Chicken Bouillon";
+
+/* Chicken Drumette */
+"chickenDrumette.Subtitle" = "Chicken Drumette";
 
 /* Chili */
 "chili.Subtitle" = "Chili";
@@ -333,6 +341,9 @@
 
 /* Sugar */
 "sugar.Subtitle" = "Sugar";
+
+/* Sweet Potato */
+"sweetPotato.Subtitle" = "Sweet Potato";
 
 /* Thai Basil */
 "thaiBasil.Subtitle" = "Thai Basil";

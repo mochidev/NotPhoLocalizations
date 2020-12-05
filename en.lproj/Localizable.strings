@@ -3284,6 +3284,279 @@
 "CurryPowder.HowTo.1.Accessibility" = "Use this curry powder with the chicken curry recipe.";
 
 
+// MARK: Ca Ri Ga (Chicken Curry) Entree Page
+
+/* Chicken Curry Introduction 1 */
+"ChickenCurryEntree.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+
+/* Chicken Curry Introduction 1 (VoiceOver) */
+"ChickenCurryEntree.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+
+/* Chicken Curry Introduction 2 */
+"ChickenCurryEntree.Introduction.2" = "This recipe serves two.";
+
+/* Chicken Curry Ingredients Chicken Drumette Amount */
+"ChickenCurryEntree.ChickenDrumette.Amount.us" = "½ - ⅔ lb";
+"ChickenCurryEntree.ChickenDrumette.Amount.metric" = "220-300 g";
+
+/* Chicken Curry Ingredients Chicken Drumette Amount (VoiceOver) */
+"ChickenCurryEntree.ChickenDrumette.AccessibilityAmount.us" = "one half to two thirds of a pound";
+"ChickenCurryEntree.ChickenDrumette.AccessibilityAmount.metric" = "220 to 300 grams";
+
+/* Chicken Curry Ingredients Sweet Potato Amount */
+"ChickenCurryEntree.SweetPotato.Amount.us" = "½ cup";
+"ChickenCurryEntree.SweetPotato.Amount.metric" = "100 g";
+
+/* Chicken Curry Ingredients Sweet Potato Amount (VoiceOver) */
+"ChickenCurryEntree.SweetPotato.AccessibilityAmount.us" = "half a cup";
+"ChickenCurryEntree.SweetPotato.AccessibilityAmount.metric" = "100 grams";
+
+/* Chicken Curry Ingredients Carrot Amount */
+"ChickenCurryEntree.Carrot.Amount.us" = "¼ cup";
+"ChickenCurryEntree.Carrot.Amount.metric" = "60 g";
+
+/* Chicken Curry Ingredients Carrot Amount (VoiceOver) */
+"ChickenCurryEntree.Carrot.AccessibilityAmount.us" = "one quarter cup";
+"ChickenCurryEntree.Carrot.AccessibilityAmount.metric" = "60 grams";
+
+/* Chicken Curry Ingredients Onion Amount */
+"ChickenCurryEntree.Onion.Amount.us" = "½ cup";
+"ChickenCurryEntree.Onion.Amount.metric" = "65 g";
+
+/* Chicken Curry Ingredients Onion Amount (VoiceOver) */
+"ChickenCurryEntree.Onion.AccessibilityAmount.us" = "half a cup";
+"ChickenCurryEntree.Onion.AccessibilityAmount.metric" = "65 grams";
+
+/* Chicken Curry Ingredients Lemongrass Amount */
+"ChickenCurryEntree.Lemongrass.Amount" = "2 tbsp";
+
+/* Chicken Curry Ingredients Lemongrass Amount (VoiceOver) */
+"ChickenCurryEntree.Lemongrass.AccessibilityAmount" = "2 tablespoons";
+
+/* Chicken Curry Ingredients Garlic Amount */
+"ChickenCurryEntree.Garlic.Amount" = "4 cloves";
+
+/* Chicken Curry Ingredients Garlic Amount (VoiceOver) */
+"ChickenCurryEntree.Garlic.AccessibilityAmount" = "4 cloves";
+
+/* Chicken Curry Ingredients Curry Powder Amount */
+"ChickenCurryEntree.CurryPowder.Amount" = "1½ tbsp";
+
+/* Chicken Curry Ingredients Curry Powder Amount (VoiceOver) */
+"ChickenCurryEntree.CurryPowder.AccessibilityAmount" = "one and a half tablespoons";
+
+/* Chicken Curry Ingredients Fish Sauce Amount */
+"ChickenCurryEntree.FishSauce.Amount" = "3 tbsp";
+
+/* Chicken Curry Ingredients Fish Sauce Amount (VoiceOver) */
+"ChickenCurryEntree.FishSauce.AccessibilityAmount" = "3 tablespoons";
+
+/* Chicken Curry Ingredients Sugar Amount */
+"ChickenCurryEntree.Sugar.Amount" = "1½ tbsp";
+
+/* Chicken Curry Ingredients Sugar Amount (VoiceOver) */
+"ChickenCurryEntree.Sugar.AccessibilityAmount" = "one and a half tablespoons";
+
+/* Chicken Curry Ingredients Coconut Milk Amount */
+"ChickenCurryEntree.CoconutMilk.Amount.us" = "⅔ cup";
+"ChickenCurryEntree.CoconutMilk.Amount.metric" = "100 mL";
+
+/* Chicken Curry Ingredients Coconut Milk Amount (VoiceOver) */
+"ChickenCurryEntree.CoconutMilk.AccessibilityAmount.us" = "two thirds of a cup";
+"ChickenCurryEntree.CoconutMilk.AccessibilityAmount.metric" = "100 milliliters";
+
+/* Chicken Curry Ingredients Water Amount */
+"ChickenCurryEntree.Water.Amount.us" = "2 cups";
+"ChickenCurryEntree.Water.Amount.metric" = "300 mL";
+
+/* Chicken Curry Ingredients Water Amount (VoiceOver) */
+"ChickenCurryEntree.Water.AccessibilityAmount.us" = "two cups";
+"ChickenCurryEntree.Water.AccessibilityAmount.metric" = "300 milliliters";
+
+/* Chicken Curry Ingredients Oil Amount */
+"ChickenCurryEntree.Oil.Amount" = "1 tbsp";
+
+/* Chicken Curry Ingredients Oil Amount (VoiceOver) */
+"ChickenCurryEntree.Oil.AccessibilityAmount" = "1 tablespoon";
+
+/* Chicken Curry Instructions Step 1 Part 1 */
+"ChickenCurryEntree.Instructions.Step.1.Part.1" = "Mince the ##Tỏi## (garlic).";
+
+/* Chicken Curry Instructions Step 1 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.1.Accessibility" = "Mince the garlic.";
+
+/* Chicken Curry Instructions Step 1 Part 2 */
+"ChickenCurryEntree.Instructions.Step.1.Part.2" = "Mince the ##Sả## (lemongrass).";
+
+/* Chicken Curry Instructions Step 1 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.2.Accessibility" = "Mince the lemon-grass.";
+
+/* Chicken Curry Instructions Step 1 Part 3 */
+"ChickenCurryEntree.Instructions.Step.1.Part.3" = "Cut the ##Củ Hành## (onion) into large wedges.";
+
+/* Chicken Curry Instructions Step 1 Part 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.3.Accessibility" = "Cut the onion into large wedges.";
+
+/* Chicken Curry Instructions Step 1 Part 4 */
+"ChickenCurryEntree.Instructions.Step.1.Part.4" = "Cut the ##Cà Rốt## (carrot) into slices.";
+
+/* Chicken Curry Instructions Step 1 Part 4 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.4.Accessibility" = "Cut the carrot into slices.";
+
+/* Chicken Curry Instructions Step 1 Part 5 */
+"ChickenCurryEntree.Instructions.Step.1.Part.5" = "Cut the ##Khoai Lang## (sweet potato) into bite sized pieces.";
+
+/* Chicken Curry Instructions Step 1 Part 5 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.5.Accessibility" = "Cut the sweet potato into bite sized pieces.";
+
+/* Chicken Curry Instructions Step 2 Part 1 */
+"ChickenCurryEntree.Instructions.Step.2.Part.1" = "Place the ##Đùi Gà Nhỏ## (chicken drumettes) in a bowl.";
+
+/* Chicken Curry Instructions Step 2 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Part.1.Accessibility" = "Place the chicken drumettes in a bowl.";
+
+/* Chicken Curry Instructions Step 2 Part 2 */
+"ChickenCurryEntree.Instructions.Step.2.Part.2" = "Add the minced ##Tỏi## (garlic) and ##Sả## (lemongrass).";
+
+/* Chicken Curry Instructions Step 2 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Part.2.Accessibility" = "Add the minced garlic and lemon-grass.";
+
+/* Chicken Curry Instructions Step 2 Part 3 */
+"ChickenCurryEntree.Instructions.Step.2.Part.3" = "Add ##Bột Cà Ri## (curry powder), ##Đường## (sugar), and ##Nước Mắm## (fish sauce).";
+
+/* Chicken Curry Instructions Step 2 Part 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Part.3.Accessibility" = "Add curry powder, sugar, and fish sauce.";
+
+/* Chicken Curry Instructions Step 2 Part 4 */
+"ChickenCurryEntree.Instructions.Step.2.Part.4" = "Mix everything together and let marinate overnight.";
+
+/* Chicken Curry Instructions Step 2 Part 4 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Part.4.Accessibility" = "Mix everything together and let marinate overnight.";
+
+/* Chicken Curry Instructions Step 2 Note 1 */
+"ChickenCurryEntree.Instructions.Step.2.Note.1" = "Marinating the chicken overnight will improve the flavor of the meat.";
+
+/* Chicken Curry Instructions Step 2 Note 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Note.1.Accessibility" = "Marinating the chicken overnight will improve the flavor of the meat.";
+
+/* Chicken Curry Instructions Step 2 Note 2 */
+"ChickenCurryEntree.Instructions.Step.2.Note.2" = "If you don’t have time, you can skip the marinating step and go straight to cooking.";
+
+/* Chicken Curry Instructions Step 2 Note 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Note.2.Accessibility" = "If you don’t have time, you can skip the marinating step and go straight to cooking.";
+
+/* Chicken Curry Instructions Step 3 Part 1 */
+"ChickenCurryEntree.Instructions.Step.3.Part.1" = "In a medium-high heat pot, add the ##Dầu## (oil).";
+
+/* Chicken Curry Instructions Step 3 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.3.Part.1.Accessibility" = "In a medium to high heat pot, add the oil.";
+
+/* Chicken Curry Instructions Step 3 Part 2 */
+"ChickenCurryEntree.Instructions.Step.3.Part.2" = "Add the marinated chicken, including all the curry mixture.";
+
+/* Chicken Curry Instructions Step 3 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.3.Part.2.Accessibility" = "Add the marinated chicken, including all the curry mixture.";
+
+/* Chicken Curry Instructions Step 3 Part 3 */
+"ChickenCurryEntree.Instructions.Step.3.Part.3" = "Sautée for 2-3 minutes or until the chicken is lightly browned.";
+
+/* Chicken Curry Instructions Step 3 Part 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.3.Part.3.Accessibility" = "Sautée for 2 to 3 minutes or until the chicken is lightly browned.";
+
+/* Chicken Curry Instructions Step 4 Part 1 */
+"ChickenCurryEntree.Instructions.Step.4.Part.1" = "Add the ##Củ Hành## (onion), ##Cà Rốt## (carrot), and ##Khoai Lang## (sweet potato).";
+
+/* Chicken Curry Instructions Step 4 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Part.1.Accessibility" = "Add the onion, carrot, and sweet potato.";
+
+/* Chicken Curry Instructions Step 4 Part 2 */
+"ChickenCurryEntree.Instructions.Step.4.Part.2" = "Sautée everything together for another 2 minutes.";
+
+/* Chicken Curry Instructions Step 4 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Part.2.Accessibility" = "Sautee everything together for another 2 minutes.";
+
+/* Chicken Curry Instructions Step 4 Part 3 */
+"ChickenCurryEntree.Instructions.Step.4.Part.3" = "Move the ingredients around so they don’t burn.";
+
+/* Chicken Curry Instructions Step 4 Part 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Part.3.Accessibility" = "Move the ingredients around so they don’t burn.";
+
+/* Chicken Curry Instructions Step 4 Note 1 */
+"ChickenCurryEntree.Instructions.Step.4.Note.1" = "Potato is often used in Vietnamese curry, but I prefer the flavor of ##Khoai Lang## (sweet potato) more.";
+
+/* Chicken Curry Instructions Step 4 Note 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Note.1.Accessibility" = "Potato is often used in Vietnamese curry, but I prefer the flavor of sweet potato more.";
+
+/* Chicken Curry Instructions Step 4 Note 2 */
+"ChickenCurryEntree.Instructions.Step.4.Note.2" = "You can use either one, or both.";
+
+/* Chicken Curry Instructions Step 4 Note 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Note.2.Accessibility" = "You can use either one, or both.";
+
+/* Chicken Curry Instructions Step 5 Part 1 */
+"ChickenCurryEntree.Instructions.Step.5.Part.1" = "Add the ##Nước## (water).";
+
+/* Chicken Curry Instructions Step 5 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.5.Part.1.Accessibility" = "Add the water.";
+
+/* Chicken Curry Instructions Step 5 Part 2 */
+"ChickenCurryEntree.Instructions.Step.5.Part.2" = "Stew for 8-10 minutes or until the chicken is cooked.";
+
+/* Chicken Curry Instructions Step 5 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.5.Part.2.Accessibility" = "Stew for 8 to 10 minutes or until the chicken is cooked.";
+
+/* Chicken Curry Instructions Step 6 Part 1 */
+"ChickenCurryEntree.Instructions.Step.6.Part.1" = "Add the ##Nước Cốt Dừa## (coconut milk).";
+
+/* Chicken Curry Instructions Step 6 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.6.Part.1.Accessibility" = "Add the coconut milk.";
+
+/* Chicken Curry Instructions Step 6 Note 1 */
+"ChickenCurryEntree.Instructions.Step.6.Note.1" = "The spiciness of this ##Cà Ri Gà## (chicken curry) is mild.";
+
+/* Chicken Curry Instructions Step 6 Note 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.6.Note.1.Accessibility" = "The spiciness of this chicken curry is mild.";
+
+/* Chicken Curry Instructions Step 6 Note 2 */
+"ChickenCurryEntree.Instructions.Step.6.Note.2" = "If it is still too spicy for you, then add a little more ##Nước Cốt Dừa## (coconut milk).";
+
+/* Chicken Curry Instructions Step 6 Note 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.6.Note.2.Accessibility" = "If it is still too spicy for you, then add a little more coconut milk.";
+
+/* Chicken Curry Instructions Step 6 Note 3 */
+"ChickenCurryEntree.Instructions.Step.6.Note.3" = "If it is not spicy enough for you, then add some chili flakes or ##Bột Ớt## (chili powder) in when cooking.";
+
+/* Chicken Curry Instructions Step 6 Note 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.6.Note.3.Accessibility" = "If it is not spicy enough for you, then add some chili flakes or chili powder in when cooking.";
+
+/* Chicken Curry Tips 1 */
+"ChickenCurryEntree.Tips.1" = "You can use any types of chicken, such as thighs, drumsticks, or drumettes.";
+
+/* Chicken Curry Tips 2 */
+"ChickenCurryEntree.Tips.2" = "Drumette is the upper joint of the wing that is attached to the chicken; it is like a smaller drumstick.";
+
+/* Chicken Curry Tips 3 */
+"ChickenCurryEntree.Tips.3" = "Using chicken thigh will make for a less messy eating experience as long as you cut the chicken thigh into bite sized pieces.";
+
+/* Chicken Curry Tips 4 */
+"ChickenCurryEntree.Tips.4" = "Using drumettes or drumsticks will add more flavor to the curry because of the bones, but it can get messy when eating.";
+
+/* Chicken Curry How To 1 */
+"ChickenCurryEntree.HowTo.1" = "There are 3 ways to enjoy this ##Cà Ri Gà## (chicken curry).";
+
+/* Chicken Curry How To 1 (VoiceOver) */
+"ChickenCurryEntree.HowTo.1.Accessibility" = "There are 3 ways to enjoy this chicken curry.";
+
+/* Chicken Curry How To 2 */
+"ChickenCurryEntree.HowTo.2" = "You can eat it with steamed white rice.";
+
+/* Chicken Curry How To 3 */
+"ChickenCurryEntree.HowTo.3" = "You can eat it with vermicelli noodles like a noodle soup.";
+
+/* Chicken Curry How To 4 */
+"ChickenCurryEntree.HowTo.4" = "You can eat it with baguette and dip the baguette into the curry broth.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

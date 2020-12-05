@@ -3347,6 +3347,276 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "CurryPowder.HowTo.1.Accessibility" = "Dụng bột cà ri này với món cà ri gà.";
 
 
+// MARK: Ca Ri Ga (Chicken Curry) Entree Page
+
+/* Chicken Curry Introduction 1 */
+"ChickenCurryEntree.Introduction.1" = "##Cà Ri Gà## (chicken curry) là một món ăn hương vị phong phú làm từ thịt gà hầm với gia vị cà ri, rau và nước cốt dừa. Món này có thể kết hợp với cơm, bún hoặc bánh mì.";
+
+/* Chicken Curry Introduction 1 (VoiceOver) */
+"ChickenCurryEntree.Introduction.1.Accessibility" = "Cà ri gà là một món ăn hương vị phong phú làm từ thịt gà hầm với gia vị cà ri, rau và nước cốt dừa. Món này có thể kết hợp với cơm, bún hoặc bánh mì.";
+
+/* Chicken Curry Introduction 2 */
+"ChickenCurryEntree.Introduction.2" = "Công thức này làm cho hai người ăn.";
+
+/* Chicken Curry Ingredients Chicken Drumette Amount */
+"ChickenCurryEntree.ChickenDrumette.Amount.us" = "½ - ⅔ lb";
+"ChickenCurryEntree.ChickenDrumette.Amount.metric" = "220-300 g";
+
+/* Chicken Curry Ingredients Chicken Drumette Amount (VoiceOver) */
+"ChickenCurryEntree.ChickenDrumette.AccessibilityAmount.us" = "một nửa đến hai phần ba pound";
+"ChickenCurryEntree.ChickenDrumette.AccessibilityAmount.metric" = "220 đến 300 gờ ram";
+
+/* Chicken Curry Ingredients Sweet Potato Amount */
+"ChickenCurryEntree.SweetPotato.Amount.us" = "½ cup";
+"ChickenCurryEntree.SweetPotato.Amount.metric" = "100 g";
+
+/* Chicken Curry Ingredients Sweet Potato Amount (VoiceOver) */
+"ChickenCurryEntree.SweetPotato.AccessibilityAmount.us" = "một nửa cốc";
+"ChickenCurryEntree.SweetPotato.AccessibilityAmount.metric" = "100 gờ ram";
+
+/* Chicken Curry Ingredients Carrot Amount */
+"ChickenCurryEntree.Carrot.Amount.us" = "¼ cup";
+"ChickenCurryEntree.Carrot.Amount.metric" = "60 g";
+
+/* Chicken Curry Ingredients Carrot Amount (VoiceOver) */
+"ChickenCurryEntree.Carrot.AccessibilityAmount.us" = "một phần tư cốc";
+"ChickenCurryEntree.Carrot.AccessibilityAmount.metric" = "60 gờ ram";
+
+/* Chicken Curry Ingredients Onion Amount */
+"ChickenCurryEntree.Onion.Amount.us" = "½ cup";
+"ChickenCurryEntree.Onion.Amount.metric" = "65 g";
+
+/* Chicken Curry Ingredients Onion Amount (VoiceOver) */
+"ChickenCurryEntree.Onion.AccessibilityAmount.us" = "một nửa cốc";
+"ChickenCurryEntree.Onion.AccessibilityAmount.metric" = "65 gờ ram";
+
+/* Chicken Curry Ingredients Lemongrass Amount */
+"ChickenCurryEntree.Lemongrass.Amount" = "2 tbsp";
+
+/* Chicken Curry Ingredients Lemongrass Amount (VoiceOver) */
+"ChickenCurryEntree.Lemongrass.AccessibilityAmount" = "2 muỗng canh";
+
+/* Chicken Curry Ingredients Garlic Amount */
+"ChickenCurryEntree.Garlic.Amount" = "4 tép";
+
+/* Chicken Curry Ingredients Garlic Amount (VoiceOver) */
+"ChickenCurryEntree.Garlic.AccessibilityAmount" = "4 tép";
+
+/* Chicken Curry Ingredients Curry Powder Amount */
+"ChickenCurryEntree.CurryPowder.Amount" = "1½ tbsp";
+
+/* Chicken Curry Ingredients Curry Powder Amount (VoiceOver) */
+"ChickenCurryEntree.CurryPowder.AccessibilityAmount" = "một muỗng canh rưỡi";
+
+/* Chicken Curry Ingredients Fish Sauce Amount */
+"ChickenCurryEntree.FishSauce.Amount" = "3 tbsp";
+
+/* Chicken Curry Ingredients Fish Sauce Amount (VoiceOver) */
+"ChickenCurryEntree.FishSauce.AccessibilityAmount" = "3 muỗng canh";
+
+/* Chicken Curry Ingredients Sugar Amount */
+"ChickenCurryEntree.Sugar.Amount" = "1½ tbsp";
+
+/* Chicken Curry Ingredients Sugar Amount (VoiceOver) */
+"ChickenCurryEntree.Sugar.AccessibilityAmount" = "một muỗng canh rưỡi";
+
+/* Chicken Curry Ingredients Coconut Milk Amount */
+"ChickenCurryEntree.CoconutMilk.Amount.us" = "⅔ cup";
+"ChickenCurryEntree.CoconutMilk.Amount.metric" = "100 mL";
+
+/* Chicken Curry Ingredients Coconut Milk Amount (VoiceOver) */
+"ChickenCurryEntree.CoconutMilk.AccessibilityAmount.us" = "hai phần ba cốc";
+"ChickenCurryEntree.CoconutMilk.AccessibilityAmount.metric" = "100 mililít";
+
+/* Chicken Curry Ingredients Water Amount */
+"ChickenCurryEntree.Water.Amount.us" = "2 cups";
+"ChickenCurryEntree.Water.Amount.metric" = "300 mL";
+
+/* Chicken Curry Ingredients Water Amount (VoiceOver) */
+"ChickenCurryEntree.Water.AccessibilityAmount.us" = "hai cốc";
+"ChickenCurryEntree.Water.AccessibilityAmount.metric" = "300 mililít";
+
+/* Chicken Curry Ingredients Oil Amount */
+"ChickenCurryEntree.Oil.Amount" = "1 tbsp";
+
+/* Chicken Curry Ingredients Oil Amount (VoiceOver) */
+"ChickenCurryEntree.Oil.AccessibilityAmount" = "1 muỗng canh";
+
+/* Chicken Curry Instructions Step 1 Part 1 */
+"ChickenCurryEntree.Instructions.Step.1.Part.1" = "Băm nhỏ ##Tỏi## (garlic).";
+
+/* Chicken Curry Instructions Step 1 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.1.Accessibility" = "Băm nhỏ tỏi.";
+
+/* Chicken Curry Instructions Step 1 Part 2 */
+"ChickenCurryEntree.Instructions.Step.1.Part.2" = "Băm nhỏ ##Sả## (lemongrass).";
+
+/* Chicken Curry Instructions Step 1 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.2.Accessibility" = "Băm nhỏ Sả.";
+
+/* Chicken Curry Instructions Step 1 Part 3 */
+"ChickenCurryEntree.Instructions.Step.1.Part.3" = "Cắt ##Củ Hành## (onion) thành miếng vừa ăn.";
+
+/* Chicken Curry Instructions Step 1 Part 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.3.Accessibility" = "Cắt Củ Hành thành miếng vừa ăn.";
+
+/* Chicken Curry Instructions Step 1 Part 4 */
+"ChickenCurryEntree.Instructions.Step.1.Part.4" = "Cắt ##Cà Rốt## (carrot) thành khoanh tròn.";
+
+/* Chicken Curry Instructions Step 1 Part 4 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.4.Accessibility" = "Cắt cà rốt thành khoanh tròn.";
+
+/* Chicken Curry Instructions Step 1 Part 5 */
+"ChickenCurryEntree.Instructions.Step.1.Part.5" = "Cắt ##Khoai Lang## (sweet potato) thành miếng vừa ăn.";
+
+/* Chicken Curry Instructions Step 1 Part 5 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.1.Part.5.Accessibility" = "Cắt Khoai Lang thành miếng vừa ăn.";
+
+/* Chicken Curry Instructions Step 2 Part 1 */
+"ChickenCurryEntree.Instructions.Step.2.Part.1" = "Cho ##Đùi Gà Nhỏ## (chicken drumettes) vào một cái tô.";
+
+/* Chicken Curry Instructions Step 2 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Part.1.Accessibility" = "Cho Đùi Gà Nhỏ vào một cái tô.";
+
+/* Chicken Curry Instructions Step 2 Part 2 */
+"ChickenCurryEntree.Instructions.Step.2.Part.2" = "Thêm ##Tỏi## (garlic) và ##Sả## (lemongrass) băm vào tô.";
+
+/* Chicken Curry Instructions Step 2 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Part.2.Accessibility" = "Thêm Tỏi và Sả băm vào tô.";
+
+/* Chicken Curry Instructions Step 2 Part 3 */
+"ChickenCurryEntree.Instructions.Step.2.Part.3" = "Thêm ##Bột Cà Ri## (curry powder), ##Đường## (sugar), và ##Nước Mắm## (fish sauce).";
+
+/* Chicken Curry Instructions Step 2 Part 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Part.3.Accessibility" = "Thêm Bột Cà Ri, Đường và Nước Mắm.";
+
+/* Chicken Curry Instructions Step 2 Part 4 */
+"ChickenCurryEntree.Instructions.Step.2.Part.4" = "Trộn tất cả mọi thứ với nhau và ướp qua đêm.";
+
+/* Chicken Curry Instructions Step 2 Part 4 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Part.4.Accessibility" = "Trộn tất cả mọi thứ với nhau và ướp qua đêm.";
+
+/* Chicken Curry Instructions Step 2 Note 1 */
+"ChickenCurryEntree.Instructions.Step.2.Note.1" = "Ướp gà qua đêm sẽ giúp thịt ngon hơn.";
+
+/* Chicken Curry Instructions Step 2 Note 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Note.1.Accessibility" = "Ướp gà qua đêm sẽ giúp thịt ngon hơn.";
+
+/* Chicken Curry Instructions Step 2 Note 2 */
+"ChickenCurryEntree.Instructions.Step.2.Note.2" = "Nếu không có thời gian, bạn có thể bỏ qua bước ướp gà và nấu liền.";
+
+/* Chicken Curry Instructions Step 2 Note 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.2.Note.2.Accessibility" = "Nếu không có thời gian, bạn có thể bỏ qua bước ướp gà và nấu liền.";
+
+/* Chicken Curry Instructions Step 3 Part 1 */
+"ChickenCurryEntree.Instructions.Step.3.Part.1" = "Cho ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Chicken Curry Instructions Step 3 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.3.Part.1.Accessibility" = "Cho Dầu vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Chicken Curry Instructions Step 3 Part 2 */
+"ChickenCurryEntree.Instructions.Step.3.Part.2" = "Cho thịt gà đã ướp bao gồm tất cả gia vị cà ri.";
+
+/* Chicken Curry Instructions Step 3 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.3.Part.2.Accessibility" = "Cho thịt gà đã ướp bao gồm tất cả gia vị cà ri.";
+
+/* Chicken Curry Instructions Step 3 Part 3 */
+"ChickenCurryEntree.Instructions.Step.3.Part.3" = "Xào khoảng 2-3 phút hoặc đến khi gà bắt đầu vàng.";
+
+/* Chicken Curry Instructions Step 3 Part 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.3.Part.3.Accessibility" = "Xào khoảng 2 đến 3 phút hoặc đến khi gà bắt đầu vàng.";
+
+/* Chicken Curry Instructions Step 4 Part 1 */
+"ChickenCurryEntree.Instructions.Step.4.Part.1" = "Thêm ##Củ Hành## (onion), ##Cà Rốt## (carrot), và ##Khoai Lang## (sweet potato).";
+
+/* Chicken Curry Instructions Step 4 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Part.1.Accessibility" = "Thêm Củ Hành, Cà Rốt và Khoai Lang.";
+
+/* Chicken Curry Instructions Step 4 Part 2 */
+"ChickenCurryEntree.Instructions.Step.4.Part.2" = "Xào mọi thứ thêm khoảng 2 phút nữa.";
+
+/* Chicken Curry Instructions Step 4 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Part.2.Accessibility" = "Xào mọi thứ thêm khoảng 2 phút nữa.";
+
+/* Chicken Curry Instructions Step 4 Part 3 */
+"ChickenCurryEntree.Instructions.Step.4.Part.3" = "Hãy cẩn thận đừng để nguyên liệu bị cháy.";
+
+/* Chicken Curry Instructions Step 4 Part 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Part.3.Accessibility" = "Hãy cẩn thận đừng để nguyên liệu bị cháy.";
+
+/* Chicken Curry Instructions Step 4 Note 1 */
+"ChickenCurryEntree.Instructions.Step.4.Note.1" = "Khoai tây thường được dùng trong món cà ri của Việt Nam, nhưng tôi thích hương vị của ##Khoai Lang## (sweet potato) hơn.";
+
+/* Chicken Curry Instructions Step 4 Note 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Note.1.Accessibility" = "Khoai tây thường được dùng trong món cà ri của Việt Nam, nhưng tôi thích hương vị của khoai lang hơn.";
+
+/* Chicken Curry Instructions Step 4 Note 2 */
+"ChickenCurryEntree.Instructions.Step.4.Note.2" = "Bạn có thể sử dụng một hoặc cả hai loại khoai.";
+
+/* Chicken Curry Instructions Step 4 Note 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.4.Note.2.Accessibility" = "Bạn có thể sử dụng một hoặc cả hai loại khoai.";
+
+/* Chicken Curry Instructions Step 5 Part 1 */
+"ChickenCurryEntree.Instructions.Step.5.Part.1" = "Thêm ##Nước## (water).";
+
+/* Chicken Curry Instructions Step 5 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.5.Part.1.Accessibility" = "Thêm nước.";
+
+/* Chicken Curry Instructions Step 5 Part 2 */
+"ChickenCurryEntree.Instructions.Step.5.Part.2" = "Hầm từ 8-10 phút hoặc cho đến khi gà chín.";
+
+/* Chicken Curry Instructions Step 5 Part 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.5.Part.2.Accessibility" = "Hầm từ 8 đến 10 phút hoặc cho đến khi gà chín.";
+
+/* Chicken Curry Instructions Step 6 Part 1 */
+"ChickenCurryEntree.Instructions.Step.6.Part.1" = "Thêm ##Nước Cốt Dừa## (coconut milk).";
+
+/* Chicken Curry Instructions Step 6 Part 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.6.Part.1.Accessibility" = "Thêm Nước Cốt Dừa.";
+
+/* Chicken Curry Instructions Step 6 Note 1 */
+"ChickenCurryEntree.Instructions.Step.6.Note.1" = "Vị cay của món ##Cà Ri Gà## (chicken curry) này rất ít.";
+
+/* Chicken Curry Instructions Step 6 Note 1 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.6.Note.1.Accessibility" = "Vị cay của món cà ri gà này rất ít.";
+
+/* Chicken Curry Instructions Step 6 Note 2 */
+"ChickenCurryEntree.Instructions.Step.6.Note.2" = "Nếu vẫn còn cay, bạn có thể cho thêm một chút ##Nước Cốt Dừa## (coconut milk).";
+
+/* Chicken Curry Instructions Step 6 Note 2 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.6.Note.2.Accessibility" = "Nếu vẫn còn cay, bạn có thể cho thêm một chút nước cốt dừa.";
+
+/* Chicken Curry Instructions Step 6 Note 3 */
+"ChickenCurryEntree.Instructions.Step.6.Note.3" = "If it is not spicy enough for you, then add some chili flakes or ##Bột Ớt## (chili powder) in when cooking.";
+
+/* Chicken Curry Instructions Step 6 Note 3 (VoiceOver) */
+"ChickenCurryEntree.Instructions.Step.6.Note.3.Accessibility" = "Nếu chưa đủ cay, bạn có thể thêm một ít bột ớt vào khi nấu.";
+
+/* Chicken Curry Tips 1 */
+"ChickenCurryEntree.Tips.1" = "Bạn có thể sử dụng bất kỳ loại gà nào, chẳng hạn như đùi gà hoặc thịt đùi gà không xương.";
+
+/* Chicken Curry Tips 2 */
+"ChickenCurryEntree.Tips.2" = "Drumette là khớp trên của cánh gà, nó giống như đùi gà nhưng nhỏ hơn.";
+
+/* Chicken Curry Tips 3 */
+"ChickenCurryEntree.Tips.3" = "Nếu bạn cắt thịt đùi gà không xương thành miếng nhỏ thì sẽ dễ ăn hơn.";
+
+/* Chicken Curry Tips 4 */
+"ChickenCurryEntree.Tips.4" = "Nếu bạn dùng đùi gà, bạn có thể phải dùng tay để ăn và có thể bị dơ tay.";
+
+/* Chicken Curry How To 1 */
+"ChickenCurryEntree.HowTo.1" = "Có 3 cách để ăn món cà ri gà này.";
+
+/* Chicken Curry How To 2 */
+"ChickenCurryEntree.HowTo.2" = "Bạn có thể ăn với cơm trắng.";
+
+/* Chicken Curry How To 3 */
+"ChickenCurryEntree.HowTo.3" = "Bạn có thể ăn với bún.";
+
+/* Chicken Curry How To 4 */
+"ChickenCurryEntree.HowTo.4" = "Bạn có thể ăn kèm với bánh mì và nhúng bánh mì vào cà ri.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */
