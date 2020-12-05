@@ -1313,6 +1313,18 @@
 "ShrimpFriedRice.HowTo.2.Accessibility" = "If you are adventurous, you can try it with some mixed fish sauce like my husband does.";
 
 
+// MARK: Ca Ri Ga (Chicken Curry) Main Page
+
+/* Chicken Curry Introduction 1 */
+"ChickenCurryMain.Introduction.1" = "##Cà Ri## (curry) is originated from Indian subcontinent, and has made its way to Southeast Asia. A typical Indian curry is made from stewing chicken with a tomato-based sauce and curry spices. In Southwast Asia, coconut milk is preferred for a creamier and richer flavor. There are three ways to enjoy ##Cà Ri Gà## (chicken curry): over rice, with vermicelli noodles, or on the side with baguette.";
+
+/* Chicken Curry Introduction 1 (VoiceOver) */
+"ChickenCurryMain.Introduction.1.Accessibility" = "Curry is originated from Indian subcontinent, and has made its way to Southeast Asia. A typical Indian curry is made from stewing chicken with a tomato-based sauce and curry spices. In Southwast Asia, coconut milk is preferred for a creamier and richer flavor. There are three ways to enjoy chicken curry: over rice, with vermicelli noodles, or on the side with baguette.";
+
+/* Chicken Curry Introduction 2 */
+"ChickenCurryMain.Introduction.2" = "If you’re feeling adventurous, give all the variations a try!";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

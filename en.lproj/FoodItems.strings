@@ -65,6 +65,10 @@
 "shrimpFriedRice.Subtitle" = "Shrimp Fried Rice";
 "shrimpFriedRice.AccessibilitySubtitle" = "Shrimp Fried Rice";
 
+/* Chicken Curry Main */
+"chickenCurryMain.Subtitle" = "Chicken Curry";
+"chickenCurryMain.AccessibilitySubtitle" = "Chicken Curry";
+
 
 // MARK: Recipes Tab
 

@@ -1330,6 +1330,18 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpFriedRice.HowTo.2.Accessibility" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn cơm chiên với Nước Mắm Chấm như chồng tôi thường ăn!";
 
 
+// MARK: Ca Ri Ga (Chicken Curry) Main Page
+
+/* Chicken Curry Introduction 1 */
+"ChickenCurryMain.Introduction.1" = "##Cà Ri## (curry) có nguồn gốc từ tiểu lục địa Ấn Độ, và được truyền đến Đông Nam Á. Món cà ri đặc trưng của Ấn Độ được làm từ thịt gà hầm với nước sốt cà chua và gia vị cà ri. Ở Đông Nam Á, nước cốt dừa được dùng để làm món ##Cà Ri## (curry) béo hơn. Có ba cách để thưởng thức cà ri gà: trên cơm, với bún hoặc ăn kèm với bánh mì.";
+
+/* Chicken Curry Introduction 1 (VoiceOver) */
+"ChickenCurryMain.Introduction.1.Accessibility" = "Cà ri có nguồn gốc từ tiểu lục địa Ấn Độ, và được truyền đến Đông Nam Á. Món cà ri đặc trưng của Ấn Độ được làm từ thịt gà hầm với nước sốt cà chua và gia vị cà ri. Ở Đông Nam Á, nước cốt dừa được dùng để làm món cà ri béo hơn. Có ba cách để thưởng thức cà ri gà: trên cơm, với bún hoặc ăn kèm với bánh mì.";
+
+/* Chicken Curry Introduction 2 */
+"ChickenCurryMain.Introduction.2" = "Nếu bạn cảm thấy hiếu kỳ thì nên thử tất cả các biến thể!";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

@@ -78,6 +78,11 @@
 "shrimpFriedRice.AccessibilitySubtitle" = "Cơm Chiên Tôm";
 "shrimpFriedRice.AccessibilityPageTitle" = "Cơm Chiên Tôm";
 
+/* Chicken Curry Main */
+"chickenCurryMain.Subtitle" = "Chicken Curry";
+"chickenCurryMain.AccessibilitySubtitle" = "Cà Ri Gà";
+"chickenCurryMain.AccessibilityPageTitle" = "Cà Ri Gà";
+
 
 // MARK: Recipes Tab
 
