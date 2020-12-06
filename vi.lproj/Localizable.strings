@@ -588,12 +588,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 // MARK: Cha Gio (Egg Roll Appetizer) Page
 
-/* Egg Rolls Main Image (VoiceOver) */
-"EggRolls.Main.Image" = "Thông tin.";
-
-/* Egg Rolls Main Image Action Hint (VoiceOver) */
-"EggRolls.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
-
 /* Egg Rolls Introduction 1 */
 "EggRolls.Introduction.1" = "##Chả Giò## là một món khai vị thơm ngon của Việt Nam. Hương vị thơm ngon của ##Chả Giò## khi phối hợp với các loại rau thơm tươi, đặc biệt là khi chấm với ##Nước Mắm Chấm## rất là tuyệt vời.";
 
@@ -602,9 +596,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Egg Rolls Introduction 2 */
 "EggRolls.Introduction.2" = "Công thức này làm cho một người ăn.";
-
-/* Egg Rolls Ingredients Header */
-"EggRolls.Ingredients.Header" = "Nguyên Liệu";
 
 /* Egg Rolls Ingredients Egg Rolls Amount */
 "EggRolls.Ingredients.EggRolls.Amount" = "3 cuốn";
@@ -627,9 +618,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "một nửa cốc";
 "EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 mililít";
-
-/* Egg Rolls How To Header */
-"EggRolls.HowTo.Header" = "Cách Thưởng Thức";
 
 /* Egg Rolls How To 1 */
 "EggRolls.HowTo.1" = "Đặt một cuốn ##Chả Giò## ở giữa một lá ##Rau Xà Lách##.";

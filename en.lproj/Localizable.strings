@@ -583,12 +583,6 @@
 
 // MARK: Cha Gio (Egg Roll Appetizer) Page
 
-/* Egg Rolls Main Image (VoiceOver) */
-"EggRolls.Main.Image" = "Info";
-
-/* Egg Rolls Main Image Action Hint (VoiceOver) */
-"EggRolls.Main.Image.Hint" = "Scroll down to learn more.";
-
 /* Egg Rolls Introduction 1 */
 "EggRolls.Introduction.1" = "##Chả Giò## (egg rolls) are a popular crispy and savory appetizer that goes well with most other Vietnamese dishes. Their savory flavor goes excellently with fresh herbs and lettuce leaves, especially when dipped in ##Nước Mắm Chấm## (mixed fish sauce).";
 
@@ -597,9 +591,6 @@
 
 /* Egg Rolls Introduction 2 */
 "EggRolls.Introduction.2" = "This recipe yields 1 serving.";
-
-/* Egg Rolls Ingredients Header */
-"EggRolls.Ingredients.Header" = "Ingredients";
 
 /* Egg Rolls Ingredients Egg Rolls Amount */
 "EggRolls.Ingredients.EggRolls.Amount" = "3 rolls";
@@ -622,9 +613,6 @@
 /* Egg Rolls Ingredients Mixed Fish Sauce Amount (VoiceOver) */
 "EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.us" = "half a cup";
 "EggRolls.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 milliliters";
-
-/* Egg Rolls How To Header */
-"EggRolls.HowTo.Header" = "How To";
 
 /* Egg Rolls How To 1 */
 "EggRolls.HowTo.1" = "Place a ##Chả Giò## (egg roll) in the middle of a piece of ##Rau Xà Lách## (lettuce).";
