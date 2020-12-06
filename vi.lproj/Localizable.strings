@@ -1342,6 +1342,68 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenCurryMain.Introduction.2" = "Nếu bạn cảm thấy hiếu kỳ thì nên thử tất cả các biến thể!";
 
 
+// MARK: Banh Mi Ca Ri Ga (Chicken Curry with Baguette) Page
+
+/* Chicken Curry with Baguette Introduction 1 */
+"ChickenCurryWithBaguette.Introduction.1" = "##Cà Ri Gà## (chicken curry) là một món ăn hương vị phong phú làm từ thịt gà hầm với gia vị cà ri, rau và nước cốt dừa. Món này có thể kết hợp với cơm, bún hoặc bánh mì.";
+
+/* Chicken Curry with Baguette Introduction 1 (VoiceOver) */
+"ChickenCurryWithBaguette.Introduction.1.Accessibility" = "Cà ri gà là một món ăn hương vị phong phú làm từ thịt gà hầm với gia vị cà ri, rau và nước cốt dừa. Món này có thể kết hợp với cơm, bún hoặc bánh mì.";
+
+/* Chicken Curry with Baguette Introduction 2 */
+"ChickenCurryWithBaguette.Introduction.2" = "Công thức này làm cho hai người ăn.";
+
+/* Chicken Curry with Baguette Ingredients Baguette Amount */
+"ChickenCurryWithBaguette.Ingredients.Baguette.Amount.us" = "một khúc khoảng 10 in";
+"ChickenCurryWithBaguette.Ingredients.Baguette.Amount.metric" = "một khúc khoảng 25 cm";
+
+/* Chicken Curry with Baguette Ingredients Baguette Amount (VoiceOver) */
+"ChickenCurryWithBaguette.Ingredients.Baguette.AccessibilityAmount.us" = "Một khúc khoảng 10 in.";
+"ChickenCurryWithBaguette.Ingredients.Baguette.AccessibilityAmount.metric" = "một khúc khoảng 25 xăng ti mét.";
+
+/* Chicken Curry with Baguette Ingredients Chicken Curry Entree Amount */
+"ChickenCurryWithBaguette.Ingredients.ChickenCurryEntree.Amount" = "làm theo công thức";
+
+/* Chicken Curry with Baguette Ingredients Chicken Curry Entree Amount (VoiceOver) */
+"ChickenCurryWithBaguette.Ingredients.ChickenCurryEntree.AccessibilityAmount" = "làm theo công thức";
+
+/* Chicken Curry with Baguette Ingredients Thai Basil Amount */
+"ChickenCurryWithBaguette.Ingredients.ThaiBasil.Amount" = "5-6 lá";
+
+/* Chicken Curry with Baguette Ingredients Thai Basil Amount (VoiceOver) */
+"ChickenCurryWithBaguette.Ingredients.ThaiBasil.AccessibilityAmount" = "5 đến 6 lá";
+
+/* Chicken Curry with Baguette Ingredients Cilantro Amount */
+"ChickenCurryWithBaguette.Ingredients.Cilantro.Amount" = "2-3 cuống";
+
+/* Chicken Curry with Baguette Ingredients Cilantro Amount (VoiceOver) */
+"ChickenCurryWithBaguette.Ingredients.Cilantro.AccessibilityAmount" = "2 đến 3 cuống";
+
+/* Chicken Curry with Baguette How To 1 */
+"ChickenCurryWithBaguette.HowTo.1" = "Ăn ##Cà Ri Gà## (chicken curry) cùng với ##Bánh Mì## (baguette).";
+
+/* Chicken Curry with Baguette How To 1 (VoiceOver) */
+"ChickenCurryWithBaguette.HowTo.1.Accessibility" = "Ăn cà ri gà cùng với bánh mì.";
+
+/* Chicken Curry with Baguette How To 2 */
+"ChickenCurryWithBaguette.HowTo.2" = "Cắt nhỏ ##Húng Quế## (Thai basil) và ##Ngò## (cilantro), và giải lên ##Cà Ri Gà## (chicken curry).";
+
+/* Chicken Curry with Baguette How To 2 (VoiceOver) */
+"ChickenCurryWithBaguette.HowTo.2.Accessibility" = "Cắt nhỏ húng quế và ngò và giải lên Cà Ri Gà.";
+
+/* Chicken Curry with Baguette How To 3 */
+"ChickenCurryWithBaguette.HowTo.3" = "Bẻ một miếng ##Bánh Mì## (baguette) và nhúng vào ##Cà Ri Gà## (chicken curry) để ăn.";
+
+/* Chicken Curry with Baguette How To 3 (VoiceOver) */
+"ChickenCurryWithBaguette.HowTo.3.Accessibility" = "Bẻ một miếng bánh mì và nhúng vào cà ri gà để ăn.";
+
+/* Chicken Curry with Baguette How To 4 */
+"ChickenCurryWithBaguette.HowTo.4" = "Hãy nhớ mua nhiều ##Bánh Mì## (baguette) vì bạn không muốn hết khi ăn.";
+
+/* Chicken Curry with Baguette How To 4 (VoiceOver) */
+"ChickenCurryWithBaguette.HowTo.4.Accessibility" = "Hãy nhớ mua nhiều bánh mì vì bạn không muốn hết khi ăn.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

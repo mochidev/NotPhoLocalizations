@@ -83,6 +83,11 @@
 "chickenCurryMain.AccessibilitySubtitle" = "Cà Ri Gà";
 "chickenCurryMain.AccessibilityPageTitle" = "Cà Ri Gà";
 
+/* Chicken Curry with Baguette */
+"chickenCurryWithBaguette.Subtitle" = "Chicken Curry with Baguette";
+"chickenCurryWithBaguette.AccessibilitySubtitle" = "Bánh Mì Cà Ri Gà";
+"chickenCurryWithBaguette.AccessibilityPageTitle" = "Bánh Mì Cà Ri Gà";
+
 
 // MARK: Recipes Tab
 

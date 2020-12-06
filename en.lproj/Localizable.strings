@@ -1325,6 +1325,68 @@
 "ChickenCurryMain.Introduction.2" = "If you’re feeling adventurous, give all the variations a try!";
 
 
+// MARK: Banh Mi Ca Ri Ga (Chicken Curry with Baguette) Page
+
+/* Chicken Curry with Baguette Introduction 1 */
+"ChickenCurryWithBaguette.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+
+/* Chicken Curry with Baguette Introduction 1 (VoiceOver) */
+"ChickenCurryWithBaguette.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+
+/* Chicken Curry with Baguette Introduction 2 */
+"ChickenCurryWithBaguette.Introduction.2" = "This recipe serves two.";
+
+/* Chicken Curry with Baguette Ingredients Baguette Amount */
+"ChickenCurryWithBaguette.Ingredients.Baguette.Amount.us" = "two 10-in long loaves";
+"ChickenCurryWithBaguette.Ingredients.Baguette.Amount.metric" = "two 25-cm long loaves";
+
+/* Chicken Curry with Baguette Ingredients Baguette Amount (VoiceOver) */
+"ChickenCurryWithBaguette.Ingredients.Baguette.AccessibilityAmount.us" = "2 10 inch long loaves";
+"ChickenCurryWithBaguette.Ingredients.Baguette.AccessibilityAmount.metric" = "2 25 centimeter long loaves";
+
+/* Chicken Curry with Baguette Ingredients Chicken Curry Entree Amount */
+"ChickenCurryWithBaguette.Ingredients.ChickenCurryEntree.Amount" = "as instructed";
+
+/* Chicken Curry with Baguette Ingredients Chicken Curry Entree Amount (VoiceOver) */
+"ChickenCurryWithBaguette.Ingredients.ChickenCurryEntree.AccessibilityAmount" = "as instructed";
+
+/* Chicken Curry with Baguette Ingredients Thai Basil Amount */
+"ChickenCurryWithBaguette.Ingredients.ThaiBasil.Amount" = "5-6 leaves";
+
+/* Chicken Curry with Baguette Ingredients Thai Basil Amount (VoiceOver) */
+"ChickenCurryWithBaguette.Ingredients.ThaiBasil.AccessibilityAmount" = "5 to 6 leaves";
+
+/* Chicken Curry with Baguette Ingredients Cilantro Amount */
+"ChickenCurryWithBaguette.Ingredients.Cilantro.Amount" = "2-3 stalks";
+
+/* Chicken Curry with Baguette Ingredients Cilantro Amount (VoiceOver) */
+"ChickenCurryWithBaguette.Ingredients.Cilantro.AccessibilityAmount" = "2 to 3 stalks";
+
+/* Chicken Curry with Baguette How To 1 */
+"ChickenCurryWithBaguette.HowTo.1" = "Serve the ##Cà Ri Gà## (chicken curry) along side the ##Bánh Mì## (baguette).";
+
+/* Chicken Curry with Baguette How To 1 (VoiceOver) */
+"ChickenCurryWithBaguette.HowTo.1.Accessibility" = "Serve the chicken curry along side the baguette.";
+
+/* Chicken Curry with Baguette How To 2 */
+"ChickenCurryWithBaguette.HowTo.2" = "Chop up the ##Húng Quế## (Thai basil) and ##Ngò## (cilantro), and garnish the ##Cà Ri Gà## (chicken curry).";
+
+/* Chicken Curry with Baguette How To 2 (VoiceOver) */
+"ChickenCurryWithBaguette.HowTo.2.Accessibility" = "Chop up the Thai basil and cilantro, and garnish the chicken curry.";
+
+/* Chicken Curry with Baguette How To 3 */
+"ChickenCurryWithBaguette.HowTo.3" = "Break off pieces of the ##Bánh Mì## (baguette) and dip them into the ##Cà Ri Gà## (chicken curry) to enjoy.";
+
+/* Chicken Curry with Baguette How To 3 (VoiceOver) */
+"ChickenCurryWithBaguette.HowTo.3.Accessibility" = "Break off pieces of the baguette and dip them into the chicken curry to enjoy.";
+
+/* Chicken Curry with Baguette How To 4 */
+"ChickenCurryWithBaguette.HowTo.4" = "Be sure to buy more bread than you think you’ll need because the bread will go quickly.";
+
+/* Chicken Curry with Baguette How To 4 (VoiceOver) */
+"ChickenCurryWithBaguette.HowTo.4.Accessibility" = "Be sure to buy more bread than you think you’ll need because the bread will go quickly.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */
