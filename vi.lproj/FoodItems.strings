@@ -88,6 +88,11 @@
 "chickenCurryWithBaguette.AccessibilitySubtitle" = "Bánh Mì Cà Ri Gà";
 "chickenCurryWithBaguette.AccessibilityPageTitle" = "Bánh Mì Cà Ri Gà";
 
+/* Chicken Curry Noodle Soup */
+"chickenCurryNoodleSoup.Subtitle" = "Chicken Curry Noodle Soup";
+"chickenCurryNoodleSoup.AccessibilitySubtitle" = "Bún Cà Ri Gà";
+"chickenCurryNoodleSoup.AccessibilityPageTitle" = "Bún Cà Ri Gà";
+
 
 // MARK: Recipes Tab
 

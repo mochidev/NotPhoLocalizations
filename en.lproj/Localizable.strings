@@ -1387,6 +1387,80 @@
 "ChickenCurryWithBaguette.HowTo.4.Accessibility" = "Be sure to buy more bread than you think you’ll need because the bread will go quickly.";
 
 
+// MARK: Bun Ca Ri Ga (Chicken Curry Noodle Soup) Page
+
+/* Chicken Curry Noodle Soup Introduction 1 */
+"ChickenCurryNoodleSoup.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+
+/* Chicken Curry Noodle Soup Introduction 1 (VoiceOver) */
+"ChickenCurryNoodleSoup.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+
+/* Chicken Curry Noodle Soup Introduction 2 */
+"ChickenCurryNoodleSoup.Introduction.2" = "This recipe serves two.";
+
+/* Chicken Curry Noodle Soup Ingredients Vermicelli Noodles Amount */
+"ChickenCurryNoodleSoup.Ingredients.VermicelliNoodles.Amount.us" = "1¼ cups";
+"ChickenCurryNoodleSoup.Ingredients.VermicelliNoodles.Amount.metric" = "200 g";
+
+/* Chicken Curry Noodle Soup Ingredients Vermicelli Noodles Amount (VoiceOver) */
+"ChickenCurryNoodleSoup.Ingredients.VermicelliNoodles.AccessibilityAmount.us" = "one and one quarter cups";
+"ChickenCurryNoodleSoup.Ingredients.VermicelliNoodles.AccessibilityAmount.metric" = "200 grams";
+
+/* Chicken Curry Noodle Soup Ingredients Chicken Curry Entree Amount */
+"ChickenCurryNoodleSoup.Ingredients.ChickenCurryEntree.Amount" = "as instructed";
+
+/* Chicken Curry Noodle Soup Ingredients Chicken Curry Entree Amount (VoiceOver) */
+"ChickenCurryNoodleSoup.Ingredients.ChickenCurryEntree.AccessibilityAmount" = "as instructed";
+
+/* Chicken Curry Noodle Soup Ingredients Thai Basil Amount */
+"ChickenCurryNoodleSoup.Ingredients.ThaiBasil.Amount" = "5-6 leaves";
+
+/* Chicken Curry Noodle Soup Ingredients Thai Basil Amount (VoiceOver) */
+"ChickenCurryNoodleSoup.Ingredients.ThaiBasil.AccessibilityAmount" = "5 to 6 leaves";
+
+/* Chicken Curry Noodle Soup Ingredients Cilantro Amount */
+"ChickenCurryNoodleSoup.Ingredients.Cilantro.Amount" = "2-3 stalks";
+
+/* Chicken Curry Noodle Soup Ingredients Cilantro Amount (VoiceOver) */
+"ChickenCurryNoodleSoup.Ingredients.Cilantro.AccessibilityAmount" = "2 to 3 stalks";
+
+/* Chicken Curry Noodle Soup Ingredients Bean Sprouts Amount */
+"ChickenCurryNoodleSoup.Ingredients.BeanSprouts.Amount" = "optional";
+
+/* Chicken Curry Noodle Soup Ingredients Bean Sprouts Amount (VoiceOver) */
+"ChickenCurryNoodleSoup.Ingredients.BeanSprouts.AccessibilityAmount" = "optional";
+
+/* Chicken Curry Noodle Soup How To 1 */
+"ChickenCurryNoodleSoup.HowTo.1" = "Cook the ##Bún## (vermicelli rice noodles) according to the instructions of the package.";
+
+/* Chicken Curry Noodle Soup How To 1 (VoiceOver) */
+"ChickenCurryNoodleSoup.HowTo.1.Accessibility" = "Cook the vermicelli rice noodles according to the instructions of the package.";
+
+/* Chicken Curry Noodle Soup How To 2 */
+"ChickenCurryNoodleSoup.HowTo.2" = "Serve the ##Cà Ri Gà## (chicken curry) and ##Bún## (vermicelli rice noodles) in the same bowl.";
+
+/* Chicken Curry Noodle Soup How To 2 (VoiceOver) */
+"ChickenCurryNoodleSoup.HowTo.2.Accessibility" = "Serve the chicken curry and vermicelli rice noodles in the same bowl.";
+
+/* Chicken Curry Noodle Soup How To 3 */
+"ChickenCurryNoodleSoup.HowTo.3" = "Chop up the ##Húng Quế## (Thai basil) and ##Ngò## (cilantro), and garnish the noodle soup.";
+
+/* Chicken Curry Noodle Soup How To 3 (VoiceOver) */
+"ChickenCurryNoodleSoup.HowTo.3.Accessibility" = "Chop up the Thai basil and cilantro, and garnish the noodle soup.";
+
+/* Chicken Curry Noodle Soup How To 4 */
+"ChickenCurryNoodleSoup.HowTo.4" = "Add some fresh ##Giá Đậu## (bean sprouts) to the noodle soup for a refreshing taste.";
+
+/* Chicken Curry Noodle Soup How To 4 (VoiceOver) */
+"ChickenCurryNoodleSoup.HowTo.4.Accessibility" = "Add some fresh bean sprouts to the noodle soup for a refreshing taste.";
+
+/* Chicken Curry Noodle Soup How To 5 */
+"ChickenCurryNoodleSoup.HowTo.5" = "Enjoy it like a noodle soup.";
+
+/* Chicken Curry Noodle Soup How To 5 (VoiceOver) */
+"ChickenCurryNoodleSoup.HowTo.5.Accessibility" = "Enjoy it like a noodle soup.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

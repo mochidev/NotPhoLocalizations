@@ -73,6 +73,10 @@
 "chickenCurryWithBaguette.Subtitle" = "Chicken Curry with Baguette";
 "chickenCurryWithBaguette.AccessibilitySubtitle" = "Chicken Curry with Baguette";
 
+/* Chicken Curry Noodle Soup */
+"chickenCurryNoodleSoup.Subtitle" = "Chicken Curry Noodle Soup";
+"chickenCurryNoodleSoup.AccessibilitySubtitle" = "Chicken Curry Noodle Soup";
+
 
 // MARK: Recipes Tab
 
