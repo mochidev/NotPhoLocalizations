@@ -112,12 +112,6 @@
  Notes: Banh mi as a sandwhich has entered the english vocabulary, so we use it as is in the VoiceOver trnascriptions, but if your language does not have a word for this specific type of sandwhich, you should use the word for "sandwhich" in the VoiceOver trnascription instead.
  */
 
-/* Banh Mi Main Image (VoiceOver) */
-"BanhMi.Main.Image" = "Thông tin.";
-
-/* Banh Mi Main Image Action Hint (VoiceOver) */
-"BanhMi.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
-
 /* Banh Mi Introduction 1 */
 "BanhMi.Introduction.1" = "##Bánh Mì## là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. ##Bánh Mì## có rất nhiều loại - thông thường là làm với thịt nguội và ##Sốt Mayo## hoặc pâté, nhưng ##Thịt Nướng## cũng rất là quan nghiên. Điều độc đáo của ##Bánh Mì## là sự ghép hợp của ##Đồ Chua## làm từ ##Cà Rốt## và ##Củ Cải Trắng##. ##Đồ Chua## tạo cho ##Bánh Mì## một hương vị ngọt ngào và thơm, cùng với ##Dưa Leo##, ##Ngò##, và ##Ớt##, ##Bánh Mì## là món ăn tuyệt vời có thể thưởng thức bất cứ lúc nào.";
 
@@ -126,9 +120,6 @@
 
 /* Banh Mi Introduction 2 */
 "BanhMi.Introduction.2" = "Công thức này làm một phần bánh mì.";
-
-/* Banh Mi Ingredients Header */
-"BanhMi.Ingredients.Header" = "Nguyên Liệu";
 
 /* Banh Mi Ingredients Baguette Amount */
 "BanhMi.Ingredients.Baguette.Amount.us" = "một khúc khoảng 10 in";
@@ -174,10 +165,7 @@
 "BanhMi.Ingredients.Cilantro.AccessibilityAmount" = "2 đến 3 cọng";
 
 /* Banh Mi Ingredients Jalapeno Amount */
-"BanhMi.Ingredients.Jalapeno.Amount" = "(tùy ý)";
-
-/* Banh Mi Instructions Header */
-"BanhMi.Instructions.Header" = "Cách Làm";
+"BanhMi.Ingredients.Jalapeno.Amount" = "tùy ý";
 
 /* Banh Mi Instructions 1 */
 "BanhMi.Instructions.1" = "Cắt ##Bánh Mì## làm đôi.";
@@ -214,9 +202,6 @@
 
 /* Banh Mi Instructions 6 Accessibility (VoiceOver) */
 "BanhMi.Instructions.6.Accessibility" = "Kẹp Bánh Mì với nhau và thưởng thức.";
-
-/* Banh Mi HowTo Header */
-"BanhMi.HowTo.Header" = "Cách Thưởng Thức";
 
 /* Banh Mi HowTo 1 */
 "BanhMi.HowTo.1" = "Thông thường ##Bánh Mì## là món ăn khi đi trên đường cho nên có thể dùng tay để ăn.";

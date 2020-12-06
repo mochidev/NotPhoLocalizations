@@ -111,12 +111,6 @@
  Notes: Banh mi as a sandwhich has entered the english vocabulary, so we use it as is in the VoiceOver trnascriptions, but if your language does not have a word for this specific type of sandwhich, you should use the word for "sandwhich" in the VoiceOver trnascription instead.
  */
 
-/* Banh Mi Main Image (VoiceOver) */
-"BanhMi.Main.Image" = "Info";
-
-/* Banh Mi Main Image Action Hint (VoiceOver) */
-"BanhMi.Main.Image.Hint" = "Scroll down to learn more.";
-
 /* Banh Mi Introduction 1 */
 "BanhMi.Introduction.1" = "##Bánh Mì## (sandwiches) are a very popular dish among the street vendors in Vietnam. There are many versions of ##Bánh Mì## (sandwich); the traditional ##Bánh Mì## (sandwich) is typically made with cold cuts along with mayo or liver pâté, but ##Thịt Nướng## (grilled pork) is also very popular. What makes ##Bánh Mì## (sandwich) unique though is not just the meat and spread, but the iconic ##Đồ Chua## (pickled carrot and daikon). It gives ##Bánh Mì## (sandwich) a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make ##Bánh Mì## (sandwich) a great food item to be enjoyed any time of the day.";
 
@@ -125,9 +119,6 @@
 
 /* Banh Mi Introduction 2 */
 "BanhMi.Introduction.2" = "This recipe yields 1 sandwich.";
-
-/* Banh Mi Ingredients Header */
-"BanhMi.Ingredients.Header" = "Ingredients";
 
 /* Banh Mi Ingredients Baguette Amount */
 "BanhMi.Ingredients.Baguette.Amount.us" = "One 10-in long loaf";
@@ -174,9 +165,6 @@
 /* Banh Mi Ingredients Jalapeno Amount */
 "BanhMi.Ingredients.Jalapeno.Amount" = "(optional)";
 
-/* Banh Mi Instructions Header */
-"BanhMi.Instructions.Header" = "Instructions";
-
 /* Banh Mi Instructions 1 */
 "BanhMi.Instructions.1" = "Cut the ##Bánh Mì## (baguette) in half lengthwise.";
 
@@ -212,9 +200,6 @@
 
 /* Banh Mi Instructions 6 Accessibility (VoiceOver) */
 "BanhMi.Instructions.6.Accessibility" = "Place the other half of the baguette on top to complete the sandwich.";
-
-/* Banh Mi HowTo Header */
-"BanhMi.HowTo.Header" = "How To";
 
 /* Banh Mi HowTo 1 */
 "BanhMi.HowTo.1" = "##Bánh Mì## is eaten like any sandwich, and typically wrapped in paper to enable easy eating on the go.";
