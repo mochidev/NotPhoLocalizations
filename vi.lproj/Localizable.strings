@@ -1478,6 +1478,68 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenCurryNoodleSoup.HowTo.5.Accessibility" = "Thêm chút tương ớt nếu bạn ăn cay.";
 
 
+// MARK: Banh Mi Ca Ri Ga (Chicken Curry with Rice) Page
+
+/* Chicken Curry with Rice Introduction 1 */
+"ChickenCurryWithRice.Introduction.1" = "##Cà Ri Gà## (chicken curry) là một món ăn hương vị phong phú làm từ thịt gà hầm với gia vị cà ri, rau và nước cốt dừa. Món này có thể kết hợp với cơm, bún hoặc bánh mì.";
+
+/* Chicken Curry with Rice Introduction 1 (VoiceOver) */
+"ChickenCurryWithRice.Introduction.1.Accessibility" = "Cà ri gà là một món ăn hương vị phong phú làm từ thịt gà hầm với gia vị cà ri, rau và nước cốt dừa. Món này có thể kết hợp với cơm, bún hoặc bánh mì.";
+
+/* Chicken Curry with Rice Introduction 2 */
+"ChickenCurryWithRice.Introduction.2" = "Công thức này làm cho hai người ăn.";
+
+/* Chicken Curry with Rice Ingredients White Rice Amount */
+"ChickenCurryWithRice.Ingredients.WhiteRice.Amount.us" = "1¼ cups";
+"ChickenCurryWithRice.Ingredients.WhiteRice.Amount.metric" = "200 g";
+
+/* Chicken Curry with Rice Ingredients White Rice Amount (VoiceOver) */
+"ChickenCurryWithRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "một và một phần tư cốc";
+"ChickenCurryWithRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "200 gờ ram";
+
+/* Chicken Curry with Rice Ingredients Chicken Curry Entree Amount */
+"ChickenCurryWithRice.Ingredients.ChickenCurryEntree.Amount" = "làm theo công thức";
+
+/* Chicken Curry with Rice Ingredients Chicken Curry Entree Amount (VoiceOver) */
+"ChickenCurryWithRice.Ingredients.ChickenCurryEntree.AccessibilityAmount" = "làm theo công thức";
+
+/* Chicken Curry with Rice Ingredients Thai Basil Amount */
+"ChickenCurryWithRice.Ingredients.ThaiBasil.Amount" = "5-6 lá";
+
+/* Chicken Curry with Rice Ingredients Thai Basil Amount (VoiceOver) */
+"ChickenCurryWithRice.Ingredients.ThaiBasil.AccessibilityAmount" = "5 đến 6 lá";
+
+/* Chicken Curry with Rice Ingredients Cilantro Amount */
+"ChickenCurryWithRice.Ingredients.Cilantro.Amount" = "2-3 cuống";
+
+/* Chicken Curry with Rice Ingredients Cilantro Amount (VoiceOver) */
+"ChickenCurryWithRice.Ingredients.Cilantro.AccessibilityAmount" = "2 đến 3 cuống";
+
+/* Chicken Curry with Rice How To 1 */
+"ChickenCurryWithRice.HowTo.1" = "Cho ##Cà Ri Gà## (chicken curry) và ##Cơm Trắng## (white rice) vào hai tô riêng.";
+
+/* Chicken Curry with Rice How To 1 (VoiceOver) */
+"ChickenCurryWithRice.HowTo.1.Accessibility" = "Cho cà ri gà và cơm trắng vào hai tô riêng.";
+
+/* Chicken Curry with Rice How To 2 */
+"ChickenCurryWithRice.HowTo.2" = "Cắt nhỏ ##Húng Quế## (Thai basil) và ##Ngò## (cilantro), và giải lên ##Cà Ri Gà## (chicken curry).";
+
+/* Chicken Curry with Rice How To 2 (VoiceOver) */
+"ChickenCurryWithRice.HowTo.2.Accessibility" = "Cắt nhỏ Húng Quế và Ngò, và giải lên Cà Ri Gà.";
+
+/* Chicken Curry with Rice How To 3 */
+"ChickenCurryWithRice.HowTo.3" = "Múc một ít ##Cà Ri Gà## (chicken curry) và cho lên ##Cơm Trắng## (white rice) để ăn.";
+
+/* Chicken Curry with Rice How To 3 (VoiceOver) */
+"ChickenCurryWithRice.HowTo.3.Accessibility" = "Múc một ít cà ri gà và cho lên cơm trắng để ăn.";
+
+/* Chicken Curry with Rice How To 4 */
+"ChickenCurryWithRice.HowTo.4" = "Thêm chút tương ớt nếu bạn ăn cay.";
+
+/* Chicken Curry with Rice How To 4 (VoiceOver) */
+"ChickenCurryWithRice.HowTo.4.Accessibility" = "Thêm chút tương ớt nếu bạn ăn cay.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

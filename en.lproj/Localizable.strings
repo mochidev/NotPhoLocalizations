@@ -1461,6 +1461,68 @@
 "ChickenCurryNoodleSoup.HowTo.5.Accessibility" = "Enjoy it like a noodle soup.";
 
 
+// MARK: Banh Mi Ca Ri Ga (Chicken Curry with Rice) Page
+
+/* Chicken Curry with Rice Introduction 1 */
+"ChickenCurryWithRice.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+
+/* Chicken Curry with Rice Introduction 1 (VoiceOver) */
+"ChickenCurryWithRice.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+
+/* Chicken Curry with Rice Introduction 2 */
+"ChickenCurryWithRice.Introduction.2" = "This recipe serves two.";
+
+/* Chicken Curry with Rice Ingredients White Rice Amount */
+"ChickenCurryWithRice.Ingredients.WhiteRice.Amount.us" = "1¼ cups";
+"ChickenCurryWithRice.Ingredients.WhiteRice.Amount.metric" = "200 g";
+
+/* Chicken Curry with Rice Ingredients White Rice Amount (VoiceOver) */
+"ChickenCurryWithRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "one and one quarter cups";
+"ChickenCurryWithRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "200 grams";
+
+/* Chicken Curry with Rice Ingredients Chicken Curry Entree Amount */
+"ChickenCurryWithRice.Ingredients.ChickenCurryEntree.Amount" = "as instructed";
+
+/* Chicken Curry with Rice Ingredients Chicken Curry Entree Amount (VoiceOver) */
+"ChickenCurryWithRice.Ingredients.ChickenCurryEntree.AccessibilityAmount" = "as instructed";
+
+/* Chicken Curry with Rice Ingredients Thai Basil Amount */
+"ChickenCurryWithRice.Ingredients.ThaiBasil.Amount" = "5-6 leaves";
+
+/* Chicken Curry with Rice Ingredients Thai Basil Amount (VoiceOver) */
+"ChickenCurryWithRice.Ingredients.ThaiBasil.AccessibilityAmount" = "5 to 6 leaves";
+
+/* Chicken Curry with Rice Ingredients Cilantro Amount */
+"ChickenCurryWithRice.Ingredients.Cilantro.Amount" = "2-3 stalks";
+
+/* Chicken Curry with Rice Ingredients Cilantro Amount (VoiceOver) */
+"ChickenCurryWithRice.Ingredients.Cilantro.AccessibilityAmount" = "2 to 3 stalks";
+
+/* Chicken Curry with Rice How To 1 */
+"ChickenCurryWithRice.HowTo.1" = "Serve the ##Cà Ri Gà## (chicken curry) and the ##Cơm Trắng## (white rice) in two separate bowls.";
+
+/* Chicken Curry with Rice How To 1 (VoiceOver) */
+"ChickenCurryWithRice.HowTo.1.Accessibility" = "Serve the chicken curry and the white rice in two separate bowls.";
+
+/* Chicken Curry with Rice How To 2 */
+"ChickenCurryWithRice.HowTo.2" = "Chop up the ##Húng Quế## (Thai basil) and ##Ngò## (cilantro), and garnish the ##Cà Ri Gà## (chicken curry).";
+
+/* Chicken Curry with Rice How To 2 (VoiceOver) */
+"ChickenCurryWithRice.HowTo.2.Accessibility" = "Chop up the Thai basil and cilantro, and garnish the chicken curry.";
+
+/* Chicken Curry with Rice How To 3 */
+"ChickenCurryWithRice.HowTo.3" = "Scoop some ##Cà Ri Gà## (chicken curry) and put over the ##Cơm Trắng## (white rice) to enjoy.";
+
+/* Chicken Curry with Rice How To 3 (VoiceOver) */
+"ChickenCurryWithRice.HowTo.3.Accessibility" = "Scoop some chicken curry and put over the white rice to enjoy.";
+
+/* Chicken Curry with Rice How To 4 */
+"ChickenCurryWithRice.HowTo.4" = "Add the ##Cà Ri Gà## (chicken curry) to the rice as you eat so the ##Cơm Trắng## (white rice) doesn’t get mushy.";
+
+/* Chicken Curry with Rice How To 4 (VoiceOver) */
+"ChickenCurryWithRice.HowTo.4.Accessibility" = "Add the chicken curry to the rice as you eat so the white rice doesn’t get mushy.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */
