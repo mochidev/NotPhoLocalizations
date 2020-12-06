@@ -444,12 +444,6 @@
 
 // MARK: Bun Thit Nuong Cha Gio (Grilled Pork & Egg Roll Vermicelli Noodles) Page
 
-/* Vermicelli Main Image (VoiceOver) */
-"Vermicelli.Main.Image" = "Info";
-
-/* Vermicelli Main Image Action Hint (VoiceOver) */
-"Vermicelli.Main.Image.Hint" = "Scroll down to learn more.";
-
 /* Vermicelli Introduction 1 */
 "Vermicelli.Introduction.1" = "##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles) is a popular cold noodle dish packed with flavors that come from sweet and savory ##Thịt Nướng## (grilled pork), crispy ##Chả Giò## (egg rolls), ##Rau## (fresh greens), ##Đồ Chua## (pickled carrot and daikon), and ##Nước Mắm Chấm## (mixed fish sauce), full of umami flavor that brings it all together. This dish is great to be enjoyed any time, especially during a hot summer.";
 
@@ -458,9 +452,6 @@
 
 /* Vermicelli Introduction 2 */
 "Vermicelli.Introduction.2" = "This recipe yields 1 bowl.";
-
-/* Vermicelli Ingredients Header */
-"Vermicelli.Ingredients.Header" = "Ingredients";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount */
 "Vermicelli.Ingredients.VermicelliNoodles.Amount.us" = "3-4 oz, cooked";
@@ -523,9 +514,6 @@
 /* Vermicelli Ingredients Peanut Amount (VoiceOver) */
 "Vermicelli.Ingredients.Peanut.AccessibilityAmount" = "2 teaspoons, crushed (optional)";
 
-/* Vermicelli Instructions Header */
-"Vermicelli.Instructions.Header" = "Instructions";
-
 /* Vermicelli Instructions 1 */
 "Vermicelli.Instructions.1" = "Chop up some ##Rau Xà Lách## (lettuce) and arrange it in a bowl.";
 
@@ -573,9 +561,6 @@
 
 /* Vermicelli Note (VoiceOver) */
 "Vermicelli.Note.Accessibility" = "Remember, like many Asian dishes, vermicelli noodle dishes are typically eaten with chopsticks, so make sure each component is bite size and ready to eat!";
-
-/* Vermicelli How To Header */
-"Vermicelli.HowTo.Header" = "How To";
 
 /* Vermicelli How To 1 */
 "Vermicelli.HowTo.1" = "Pour all the ##Nước Mắm Chấm## (mixed fish sauce) into the bowl and toss everything together, and enjoy like a salad.";

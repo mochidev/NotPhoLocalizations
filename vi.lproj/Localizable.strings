@@ -447,12 +447,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 // MARK: Bun Thit Nuong Cha Gio (Grilled Pork & Egg Roll Vermicelli Noodles) Page
 
-/* Vermicelli Main Image (VoiceOver) */
-"Vermicelli.Main.Image" = "Thông tin.";
-
-/* Vermicelli Main Image Action Hint (VoiceOver) */
-"Vermicelli.Main.Image.Hint" = "Cuộn xuống để tìm hiểu thêm.";
-
 /* Vermicelli Introduction 1 */
 "Vermicelli.Introduction.1" = "##Bún Thịt Nướng Chả Giò## là một món bún lạnh phổ biến nhưng rất đậm đà. Món ăn này có thể được thưởng thức bức cứ lúc nào đặc biệt là trong mùa hè nóng bức.";
 
@@ -461,9 +455,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Vermicelli Introduction 2 */
 "Vermicelli.Introduction.2" = "Công thức này làm thành một tô bún.";
-
-/* Vermicelli Ingredients Header */
-"Vermicelli.Ingredients.Header" = "Nguyên Liệu";
 
 /* Vermicelli Ingredients Vermicelli Noodles Amount */
 "Vermicelli.Ingredients.VermicelliNoodles.Amount.us" = "3-4 oz";
@@ -528,9 +519,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Vermicelli Ingredients Peanut Amount (VoiceOver) */
 "Vermicelli.Ingredients.Peanut.AccessibilityAmount" = "2 muỗng cà phê";
 
-/* Vermicelli Instructions Header */
-"Vermicelli.Instructions.Header" = "Cách Làm";
-
 /* Vermicelli Instructions 1 */
 "Vermicelli.Instructions.1" = "Cắt nhỏ ##Rau Xà Lách## và bỏ vào tô.";
 
@@ -578,9 +566,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Vermicelli Note (VoiceOver) */
 "Vermicelli.Note.Accessibility" = "Nên cắt mọi thứ thành miếng nhỏ để dễ ăn.";
-
-/* Vermicelli How To Header */
-"Vermicelli.HowTo.Header" = "Cách Thưởng Thức";
 
 /* Vermicelli How To 1 */
 "Vermicelli.HowTo.1" = "Đổ ##Nước Mắm Chấm## vào tô và trộn tất cả chung lại để ăn.";
