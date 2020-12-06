@@ -1354,12 +1354,12 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenCurryWithBaguette.Introduction.2" = "Công thức này làm cho hai người ăn.";
 
 /* Chicken Curry with Baguette Ingredients Baguette Amount */
-"ChickenCurryWithBaguette.Ingredients.Baguette.Amount.us" = "một khúc khoảng 10 in";
-"ChickenCurryWithBaguette.Ingredients.Baguette.Amount.metric" = "một khúc khoảng 25 cm";
+"ChickenCurryWithBaguette.Ingredients.Baguette.Amount.us" = "hai khúc khoảng 10 in";
+"ChickenCurryWithBaguette.Ingredients.Baguette.Amount.metric" = "hai khúc khoảng 25 cm";
 
 /* Chicken Curry with Baguette Ingredients Baguette Amount (VoiceOver) */
-"ChickenCurryWithBaguette.Ingredients.Baguette.AccessibilityAmount.us" = "Một khúc khoảng 10 in.";
-"ChickenCurryWithBaguette.Ingredients.Baguette.AccessibilityAmount.metric" = "một khúc khoảng 25 xăng ti mét.";
+"ChickenCurryWithBaguette.Ingredients.Baguette.AccessibilityAmount.us" = "hai khúc khoảng 10 in.";
+"ChickenCurryWithBaguette.Ingredients.Baguette.AccessibilityAmount.metric" = "hai khúc khoảng 25 xăng ti mét.";
 
 /* Chicken Curry with Baguette Ingredients Chicken Curry Entree Amount */
 "ChickenCurryWithBaguette.Ingredients.ChickenCurryEntree.Amount" = "làm theo công thức";
