@@ -27,6 +27,12 @@
 /* The Heading for Tips sections */
 "Heading.Tips" = "Tips";
 
+/* The Heading for Types sections */
+"Heading.Types" = "Types";
+
+/* The Heading for Brands sections */
+"Heading.Brands" = "Brands";
+
 /* The Heading for How To sections */
 "Heading.HowTo" = "How To";
 
@@ -1092,7 +1098,7 @@
 
 /* Shrimp Fried Rice Ingredients White Rice Amount */
 "ShrimpFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup, cooked";
-"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 g, cooked";
+"ShrimpFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g, cooked";
 
 /* Shrimp Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
 "ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "three quarter cups, cooked";
@@ -1109,7 +1115,7 @@
 
 /* Shrimp Fried Rice Ingredients Peas And Carrots Amount */
 "ShrimpFriedRice.Ingredients.PeasAndCarrots.Amount.us" = "¼ cup";
-"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 g";
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.Amount.metric" = "35 g";
 
 /* Shrimp Fried Rice Ingredients Peas And Carrots Amount (VoiceOver) */
 "ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.us" = "one quarter cup";
@@ -1117,7 +1123,7 @@
 
 /* Shrimp Fried Rice Ingredients Onion Amount */
 "ShrimpFriedRice.Ingredients.Onion.Amount.us" = "¼ cup";
-"ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 g";
+"ShrimpFriedRice.Ingredients.Onion.Amount.metric" = "25 g";
 
 /* Shrimp Fried Rice Ingredients Onion Amount (VoiceOver) */
 "ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "one quarter cup";
@@ -3745,17 +3751,11 @@
 
 // MARK: Banh Mi - Ingredient (Baguette) Page
 
-/* Baguette Main Image (VoiceOver) */
-"Baguette.Main.Image" = "Info";
-
 /* Baguette Introduction */
 "Baguette.Introduction" = "##Bánh Mì## (baguette) means bread made from wheat; but we all know it as a French baguette. It was introduced to Vietnam when Vietnam was part of French Indochina. ##Bánh Mì## (baguette) is a staple food and is used in several other dishes, like ##Bánh Mì Thịt Nướng## (grilled pork sandwich), ##Cà Ri Gà## (chicken curry), and ##Bo Kho## (beef stew). Of all these delicious dishes, my favorite and go to snack is soy sauce on a piece of toasted ##Bánh Mì## (baguette) — though one time, I mistook fish sauce (that happened to be in a soy sauce-labeled bottle) for soy sauce and the outcome was not very pleasant.";
 
 /* Baguette Introduction (VoiceOver) */
 "Baguette.Introduction.Accessibility" = "A baguette is a type of French bread made from wheat that was introduced to Vietnam when Vietnam was part of French Indochina. Baguette is a staple food and is used in several other dishes, like grilled pork sandwich, chicken curry, and beef stew. Of all these delicious dishes, my favorite and go to snack is soy sauce on a piece of toasted baguette — though one time, I mistook fish sauce (that happened to be in a soy sauce-labeled bottle) for soy sauce and the outcome was not very pleasant.";
-
-/* Baguette Tips Header */
-"Baguette.Tips.Header" = "Tips";
 
 /* Baguette Tips 1 */
 "Baguette.Tips.1" = "Is your ##Bánh Mì## (baguette) a day past its prime? Before warming it back up in the oven, run your hand under water enough to make it wet, then dab the shell of your ##Bánh Mì## (baguette) with your wet hand so its shell becomes slightly damp. This will help your ##Bánh Mì## (baguette) regain a crispy shell when you toast it.";
@@ -3775,23 +3775,14 @@
 /* Baguette Tips 3 (VoiceOver) */
 "Baguette.Tips.3.Accessibility" = "If your baguette has gotten too hard, past the point of saving but free of mold, you can make French toast out of it! Originally called Pain Perdu, or “lost bread” in French, French toast was essentially invented as a way of saving bread that has past the point of no return, and turning it into a delicious dish in its own right.";
 
-/* Baguette Used In Header */
-"Baguette.UsedIn.Header" = "Used In";
-
 
 // MARK: Ca Rot (Carrot) Page
-
-/* Carrot Main Image (VoiceOver) */
-"Carrot.Main.Image" = "Info";
 
 /* Carrot Introduction */
 "Carrot.Introduction" = "##Cà Rốt## (carrot) is a root vegetable, and it is widely used in Vietnamese dishes. It is also often pickled with ##Củ Cải Trắng## (daikon) and used as a garnish.";
 
 /* Carrot Introduction (VoiceOver) */
 "Carrot.Introduction.Accessibility" = "Carrot is a root vegetable, and it is widely used in Vietnamese dishes. It is also often pickled with daikon and used as a garnish.";
-
-/* Carrot Used In Header */
-"Carrot.UsedIn.Header" = "Used In";
 
 
 // MARK: Com Tam (Cooked Broken Rice) Page
@@ -3805,23 +3796,14 @@
 
 // MARK: Cu Cai Trang (Daikon) Page
 
-/* Daikon Main Image (VoiceOver) */
-"Daikon.Main.Image" = "Info";
-
 /* Daikon Introduction */
 "Daikon.Introduction" = "##Củ Cải Trắng## (daikon) is a winter radish. Although it is widely used in many Asian cuisines, ##Củ Cải Trắng## (daikon) isn’t heavily used in Vietnamese recipes outside of the iconic ##Đồ Chua## (pickled carrot and daikon), which is used as a garnish.";
 
 /* Daikon Introduction (VoiceOver) */
 "Daikon.Introduction.Accessibility" = "Daikon is a winter radish. Although it is widely used in many Asian cuisines, daikon isn’t heavily used in Vietnamese recipes outside of the iconic pickled carrot and daikon, which is used as a garnish.";
 
-/* Daikon Used In Header */
-"Daikon.UsedIn.Header" = "Used In";
-
 
 // MARK: Dua Leo (Cucumber) Page
-
-/* Cucumber Main Image (VoiceOver) */
-"Cucumber.Main.Image" = "Info";
 
 /* Cucumber Introduction 1 */
 "Cucumber.Introduction.1" = "##Dưa Leo## (cucumber) can add a crisp and refreshing texture to many cold Vietnamese dishes. Although ##Dưa Leo## (cucumber) works especially well sliced thin in dishes like ##Bánh Mì## (sandwhich) and ##Bún## (vermicelli noodles), it can also be cut thicker and enjoyed with ##Nước Mắm Chấm## (mixed fish sauce), letting it soak up the rich flavors of the sauce, to make Vietnamese Cucumber Salad.";
@@ -3834,9 +3816,6 @@
 
 /* Cucumber Introduction 2 (VoiceOver) */
 "Cucumber.Introduction.2.Accessibility" = "In Vietnamese cuisine, cucumber can even be enjoyed hot in a dish not too different from ratatouille, combining thick-sliced cucumbers along with tomatoes, lightly stewed in broth seasoned with fish sauce, to make a simple but delicious saucy topping enjoyed over rice.";
-
-/* Cucumber Tips Header */
-"Cucumber.Tips.Header" = "Tips";
 
 /* Cucumber Tips */
 "Cucumber.Tips" = "If they are available in your area, Persian cucumbers (also known as “Persian Pickles”) are delightfully crispy and sweet, typically around 4-5 inches in length.";
@@ -3853,14 +3832,8 @@
 /* Cucumber Tips Note 2 */
 "Cucumber.Tips.Note.2" = "The two ends should be firm when lightly squeezed between your fingers.";
 
-/* Cucumber Used In Header */
-"Cucumber.UsedIn.Header" = "Used In";
-
 
 // MARK: Nuoc Mam (Fish Sauce) Page
-
-/* Fish Sauce Main Image (VoiceOver) */
-"FishSauce.Main.Image" = "Info";
 
 /* Fish Sauce Introduction 1 */
 "FishSauce.Introduction.1" = "##Nước Mắm## (fish sauce) is a liquid made from fish, like anchovies, that are coated in salt and left to ferment for up to several years. This process creates a salty, but tremendously concentrated and savory sauce that can be used to add flavor to many dishes, though it is hardly ever enjoyed on its own.";
@@ -3874,14 +3847,8 @@
 /* Fish Sauce Introduction 2 (VoiceOver) */
 "FishSauce.Introduction.2.Accessibility" = "Because of this, it is used very often in Vietnamese cuisine, from marinating meat, to creating a dipping sauces. Fish sauce is used all through out Asia and there are so many brands that it’s hard to say which brand is the best. That said, here are a few brands that I often use mainly because I grew up with them or I like the way they taste: Flying Lion Fish Sauce, Three Crabs Fish Sauce, and Squid Fish Sauce.";
 
-/* Fish Sauce Used In Header */
-"FishSauce.UsedIn.Header" = "Used In";
-
 
 // MARK: Xa (Lemongrass) Page
-
-/* Lemongrass Main Image (VoiceOver) */
-"Lemongrass.Main.Image" = "Info";
 
 /* Lemongrass Introduction */
 "Lemongrass.Introduction" = "##Sả## (lemongrass) is a type of grass that has a lemon-ginger-mint flavor and it is a very common ingredient in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even as a component to the broth in noodle soup.";
@@ -3889,14 +3856,8 @@
 /* Lemongrass Introduction (VoiceOver) */
 "Lemongrass.Introduction.Accessibility" = "Lemon-grass is a type of grass that has a lemon-ginger-mint flavor and it is a very common ingredient in Vietnamese cuisine. It can be used in marinating meat, stir fry dishes, and even as a component to the broth in noodle soup.";
 
-/* Lemongrass Used In Header */
-"Lemongrass.UsedIn.Header" = "Used In";
-
 
 // MARK: Tia To (Perilla) Page
-
-/* Perilla Main Image (VoiceOver) */
-"Perilla.Main.Image" = "Info";
 
 /* Perilla Introduction */
 "Perilla.Introduction" = "##Tía Tô## (Vietnamese perilla) is a type of herb belonging in the mint family. There are many varieties of this herb differing in color, size, and shape. This herb is used all throughout Asia, but what makes ##Tía Tô## (Vietnamese perilla) different from all other varieties is that it is bicolored, red-purple on one side and green on the other. Its size is also smaller but it is stronger in flavor.";
@@ -3904,23 +3865,14 @@
 /* Perilla Introduction (VoiceOver) */
 "Perilla.Introduction.Accessibility" = "Vietnamese perilla is a type of herb belonging in the mint family. There are many varieties of this herb differing in color, size, and shape. This herb is used all throughout Asia, but what make Vietnamese perilla different from all other varieties is that it is by-colored, red-purple on one side and green on the other. Its size is also smaller but it is stronger in flavor.";
 
-/* Perilla How To Header */
-"Perilla.HowTo.Header" = "How To";
-
 /* Perilla How To 1 */
 "Perilla.HowTo.1" = "##Tía Tô## (Vietnamese perilla) is used as a garnish and eaten raw.";
 
 /* Perilla How To 1 (VoiceOver) */
 "Perilla.HowTo.1.Accessibility" = "Vietnamese perilla is used as a garnish and eaten raw.";
 
-/* Perilla Used In Header */
-"Perilla.UsedIn.Header" = "Used In";
-
 
 // MARK: Dau Hao (Oyster Sauce) Page
-
-/* Oyster Sauce Main Image (VoiceOver) */
-"OysterSauce.Main.Image" = "Info";
 
 /* Oyster Sauce Introduction 1 */
 "OysterSauce.Introduction.1" = "##Dầu Hào## (oyster sauce) is made from cooking oysters with sugar, salt, and water until the oysters are dissolved and combined with corn starch to thicken it. It is great as a seasoning sauce or a condiment to enhance the flavor of a dish.";
@@ -3933,9 +3885,6 @@
 
 /* Oyster Sauce Introduction 2 (VoiceOver) */
 "OysterSauce.Introduction.2.Accessibility" = "There are many brands of oyster sauce, but the most well known brand is Lee Kum Kee, which is founded by Lee Kum Sheng who invented the sauce in 1888. Even though oyster sauce is a Cantonese invention, it has become a popular seasoning sauce in many southeast Asian cuisine. Lee Kum Kee oyster sauce is available in almost all Asian supermarkets, but I usually use the Kikkoman brand because it can be found outside of Asian stores. However, depending on the brand, the sodium content may vary so you may have to adjust any recipes that require oyster sauce to better fit your taste.";
-
-/* Oyster Sauce Used In Header */
-"OysterSauce.UsedIn.Header" = "Used In";
 
 
 // MARK: Thit Ba Roi (Pork Belly) Page
@@ -3985,8 +3934,6 @@
 /* Soy Sauce Introduction (VoiceOVer) */
 "SoySauce.Introduction.Accessibility" = "Soy sauce is traditionally made from fermenting soy bean, salt, wheat, and water over a period of months. However, some brands of soy sauce are made from acid hydrolyzed protein that could take just a few days. Whether one is better for your health or not is up to you to decide, but for me it is all about the taste.";
 
-"SoySauce.Types.Header" = "Types";
-
 "SoySauce.Types.1" = "There are two types of ##Nước Tương## (soy sauce); one focuses on color and the other on flavor. The term ##light## or ##dark## often refers to the color of the sauce, not the saltiness. Some ##light## soy sauces can be saltier than ##dark## ones.";
 
 "SoySauce.Types.1.Accessibility" = "There are two types of soy sauce; one focuses on color and the other on flavor. The term light or dark often refers to the color of the sauce, not the saltiness. Some light soy sauces can be saltier than dark ones.";
@@ -3994,8 +3941,6 @@
 "SoySauce.Types.2" = "You would need to experiment to see which type of ##Nước Tương## (soy sauce) is better for your taste.";
 
 "SoySauce.Types.2.Accessibility" = "You would need to experiment to see which type of soy sauce is better for your taste.";
-
-"SoySauce.Brands.Header" = "Brands";
 
 "SoySauce.Brands.1.AccessibilityLabel" = "Golden Mountain Soy Sauce";
 

@@ -27,6 +27,12 @@
 /* The Heading for Tips sections */
 "Heading.Tips" = "Gợi Ý";
 
+/* The Heading for Types sections */
+"Heading.Types" = "Các Loại";
+
+/* The Heading for Brands sections */
+"Heading.Brands" = "Nhãn Hiệu";
+
 /* The Heading for How To sections */
 "Heading.HowTo" = "Cách Thưởng Thức";
 
@@ -1105,7 +1111,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Shrimp Fried Rice Ingredients White Rice Amount */
 "ShrimpFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup";
-"ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 g";
+"ShrimpFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g";
 
 /* Shrimp Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
 "ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "ba phần tư cốc";
@@ -1122,7 +1128,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Shrimp Fried Rice Ingredients Peas And Carrots Amount */
 "ShrimpFriedRice.Ingredients.PeasAndCarrots.Amount.us" = "¼ cup";
-"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 g";
+"ShrimpFriedRice.Ingredients.PeasAndCarrots.Amount.metric" = "35 g";
 
 /* Shrimp Fried Rice Ingredients Peas And Carrots Amount (VoiceOver) */
 "ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.us" = "một phần tư cốc";
@@ -1130,7 +1136,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Shrimp Fried Rice Ingredients Onion Amount */
 "ShrimpFriedRice.Ingredients.Onion.Amount.us" = "¼ cup";
-"ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 g";
+"ShrimpFriedRice.Ingredients.Onion.Amount.metric" = "25 g";
 
 /* Shrimp Fried Rice Ingredients Onion Amount (VoiceOver) */
 "ShrimpFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "một phần tư cốc";
@@ -4045,8 +4051,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Soy Sauce Introduction (VoiceOVer) */
 "SoySauce.Introduction.Accessibility" = "Theo truyền thống Nước tương hoặc Xì Dầu được làm từ đậu tương lên men, muối, lúa mì và nước trong thời gian nhiều tháng. Tuy nhiên, có một số nhãn hiệu nước tương được làm từ chất đạm thủy phân bằng axit có thể chỉ mất vài ngày.";
 
-"SoySauce.Types.Header" = "Các Loại";
-
 "SoySauce.Types.1" = "Có hai loại ##Nước Tương## (soy sauce); một tập trung vào màu sắc và một tập trung vào hương vị. Thuật ngữ ##light## (lợt) hoặc ##dark## (đậm) thường đề cập đến màu sắc của nước tương, không phải là độ mặn. Một số loại nước tương ##light## (lợt) có thể mặn hơn loại ##dark## (đậm).";
 
 "SoySauce.Types.1.Accessibility" = "Có hai loại nước tương; một tập trung vào màu sắc và một tập trung vào hương vị. Thuật ngữ lợt hoặc đậm thường đề cập đến màu sắc của nước tương, không phải là độ mặn. Một số loại nước tương lợt có thể mặn hơn loại đậm.";
@@ -4054,8 +4058,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "SoySauce.Types.2" = "Bạn nên thử nghiệm xem loại ##Nước Tương## (soy sauce) nào hợp khẩu vị của mình hơn.";
 
 "SoySauce.Types.2.Accessibility" = "Bạn nên thử nghiệm xem loại nước tương nào hợp khẩu vị của mình hơn.";
-
-"SoySauce.Brands.Header" = "Nhãn Hiệu";
 
 "SoySauce.Brands.1.AccessibilityLabel" = "Nước Tương Golden Mountain";
 
