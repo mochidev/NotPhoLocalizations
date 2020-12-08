@@ -780,13 +780,13 @@
 /* Pork Belly with Onion Introduction 2 */
 "PorkBellyWithOnion.Introduction.2" = "This recipe serves one.";
 
-/* Pork Belly with Onion Ingredients Rice Amount */
-"PorkBellyWithOnion.Ingredients.Rice.Amount.us" = "½ cup, cooked";
-"PorkBellyWithOnion.Ingredients.Rice.Amount.metric" = "90 g, cooked";
+/* Pork Belly with Onion Ingredients White Rice Amount */
+"PorkBellyWithOnion.Ingredients.WhiteRice.Amount.us" = "⅔ cup, cooked";
+"PorkBellyWithOnion.Ingredients.WhiteRice.Amount.metric" = "120 g, cooked";
 
-/* Pork Belly with Onion Ingredients Rice Amount (VoiceOver) */
-"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.us" = "half a cup, cooked";
-"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.metric" = "90 grams, cooked";
+/* Pork Belly with Onion Ingredients White Rice Amount (VoiceOver) */
+"PorkBellyWithOnion.Ingredients.WhiteRice.AccessibilityAmount.us" = "two thirds of a cup, cooked";
+"PorkBellyWithOnion.Ingredients.WhiteRice.AccessibilityAmount.metric" = "120 grams, cooked";
 
 /* Pork Belly with Onion Ingredients Pork Belly With Oyster Sauce Amount */
 "PorkBellyWithOnion.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 serving";

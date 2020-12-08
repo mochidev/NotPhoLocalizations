@@ -790,13 +790,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pork Belly with Onion Introduction 2 */
 "PorkBellyWithOnion.Introduction.2" = "Công thức này làm cho 1 người ăn.";
 
-/* Pork Belly with Onion Ingredients Rice Amount */
-"PorkBellyWithOnion.Ingredients.Rice.Amount.us" = "½ cup, cơm chín";
-"PorkBellyWithOnion.Ingredients.Rice.Amount.metric" = "90 g, cơm chín";
+/* Pork Belly with Onion Ingredients White Rice Amount */
+"PorkBellyWithOnion.Ingredients.WhiteRice.Amount.us" = "⅔ cup, cơm chín";
+"PorkBellyWithOnion.Ingredients.WhiteRice.Amount.metric" = "120 g, cơm chín";
 
-/* Pork Belly with Onion Ingredients Rice Amount (VoiceOver) */
-"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.us" = "một nửa cốc cơm chín";
-"PorkBellyWithOnion.Ingredients.Rice.AccessibilityAmount.metric" = "90 gờ ram cơm chín";
+/* Pork Belly with Onion Ingredients White Rice Amount (VoiceOver) */
+"PorkBellyWithOnion.Ingredients.WhiteRice.AccessibilityAmount.us" = "hai phần ba cốc cơm chín";
+"PorkBellyWithOnion.Ingredients.WhiteRice.AccessibilityAmount.metric" = "120 gờ ram cơm chín";
 
 /* Pork Belly with Onion Ingredients Pork Belly With Oyster Sauce Amount */
 "PorkBellyWithOnion.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 phần";
