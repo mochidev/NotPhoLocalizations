@@ -1507,9 +1507,6 @@
 
 // MARK: Bot Banh Xeo (Vietnamese Crepe Batter) Page
 
-/* Crepe Batter Main Image (VoiceOver) */
-"CrepeBatter.Main.Image" = "Info";
-
 /* Crepe Batter Introduction 1 */
 "CrepeBatter.Introduction.1" = "##Bột Bánh Xèo## (Vietnamese crêpe batter) is very simple, but it’s an important ingredient in giving ##Bánh Xèo## (Vietnamese crêpes) their iconic look and crispy texture.";
 
@@ -1523,9 +1520,6 @@
 /* Crepe Batter Introduction 2 (VoiceOver) */
 "CrepeBatter.Introduction.2.Accessibility.us" = "This recipe yields one cup of batter, which makes about four eight inch crepes.";
 "CrepeBatter.Introduction.2.Accessibility.metric" = "This recipe yields 240 milliliters of batter, which makes about four 20 centimeter crepes.";
-
-/* Crepe Batter Ingredients Header */
-"CrepeBatter.Ingredients.Header" = "Ingredients";
 
 /* Crepe Batter Ingredients Rice Flour Amount */
 "CrepeBatter.Ingredients.RiceFlour.Amount.us" = "⅓ cup";
@@ -1565,9 +1559,6 @@
 "CrepeBatter.Ingredients.GreenOnion.Amount.us" = "1 stalk";
 "CrepeBatter.Ingredients.GreenOnion.Amount.metric" = "15 g";
 
-/* Crepe Batter Instructions Header */
-"CrepeBatter.Instructions.Header" = "Instructions";
-
 /* Crepe Batter Instructions 1 */
 "CrepeBatter.Instructions.1" = "Add ##Bột Gạo## (rice flour), ##Bột Ngô## (cornstarch), and ##Bột Củ Nghệ## (turmeric) into a bowl.";
 
@@ -1601,14 +1592,8 @@
 /* Crepe Batter Instructions Note 1 (VoiceOver) */
 "CrepeBatter.Instructions.Note.1.Accessibility" = "If you don't have coconut milk then substitute it with water or even beer to make it extra crispy.";
 
-/* Crepe Batter Used In Header */
-"CrepeBatter.UsedIn.Header" = "Used In";
-
 
 // MARK: Cha Gio - Recipe (Egg Rolls) Page
-
-/* Egg Rolls Component Main Image (VoiceOver) */
-"EggRollsComponent.Main.Image" = "Info";
 
 /* Egg Rolls Component Introduction 1 */
 "EggRollsComponent.Introduction.1" = "##Chả Giò## (egg rolls) are a popular crispy and savory component in several Vietnamese dishes. They can be enjoyed as an appetizer or used as a component in ##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles). ##Chả Giò## (egg rolls) are distinct from other Asian egg rolls in that they typically have a light and thin wrapping, and rather than cabbage as a filling, often contain meat.";
@@ -1621,9 +1606,6 @@
 
 /* Egg Rolls Component Introduction 2 (VoiceOver) */
 "EggRollsComponent.Introduction.2.Accessibility" = "This recipe yields about 15 to 20 rolls.";
-
-/* Egg Rolls Component Ingredients Header */
-"EggRollsComponent.Ingredients.Header" = "Ingredients";
 
 /* Egg Rolls Component Ground Pork Amount */
 "EggRollsComponent.GroundPork.Amount.us" = "½ lb";
@@ -1683,12 +1665,6 @@
 /* Egg Rolls Component Egg Roll Wrappers Amount */
 "EggRollsComponent.EggRollWrappers.Amount" = "1 pack";
 
-/* Egg Rolls Component Instructions Header */
-"EggRollsComponent.Instructions.Header" = "Instructions";
-
-/* Egg Rolls Component Instructions Step 1 */
-"EggRollsComponent.Instructions.Step.1" = "Step 1";
-
 /* Egg Rolls Component Instructions Step 1 Part 1 */
 "EggRollsComponent.Instructions.Step.1.Part.1" = "Place the ##Thịt Băm## (ground pork) into a large bowl.";
 
@@ -1700,9 +1676,6 @@
 
 /* Egg Rolls Component Instructions Step 1 Part 2 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.1.Part.2.Accessibility" = "Mince the shrimp and add it to the bowl.";
-
-/* Egg Rolls Component Instructions Step 2 */
-"EggRollsComponent.Instructions.Step.2" = "Step 2";
 
 /* Egg Rolls Component Instructions Step 2 Part 1 */
 "EggRollsComponent.Instructions.Step.2.Part.1" = "Dice the ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushrooms), and ##Bún Miến## (bean thread noodles).";
@@ -1719,9 +1692,6 @@
 /* Egg Rolls Component Instructions Step 2 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and bean threads in warm water for about 5 to 10 minutes or until they are soft enough to cut.";
 
-/* Egg Rolls Component Instructions Step 3 */
-"EggRollsComponent.Instructions.Step.3" = "Step 3";
-
 /* Egg Rolls Component Instructions Step 3 Part 1 */
 "EggRollsComponent.Instructions.Step.3.Part.1" = "Add the ##Nước Mắm## (fish sauce), ##Bột Nêm Gà## (chicken bouillon), and ##Tiêu Đen## (black pepper) to the bowl.";
 
@@ -1736,9 +1706,6 @@
 
 /* Egg Rolls Component Instructions Step 3 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.3.Note.1.Accessibility" = "If you don't have chicken bouillon, then substitute with salt.";
-
-/* Egg Rolls Component Instructions Step 4 */
-"EggRollsComponent.Instructions.Step.4" = "Step 4";
 
 /* Egg Rolls Component Instructions Step 4 Part 1 */
 "EggRollsComponent.Instructions.Step.4.Part.1" = "Place a sheet of ##Da Cuốn Chả Giò## (egg roll wrapper) on a clean cutting board or counter surface with one of the corners pointing at you.";
@@ -1769,9 +1736,6 @@
 
 /* Egg Rolls Component Instructions Step 4 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Egg Roll wrappers can be found refrigerated at most grocery stores; they are made of wheat and are paper thin.";
-
-/* Egg Rolls Component Instructions Step 5 */
-"EggRollsComponent.Instructions.Step.5" = "Step 5";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 */
 "EggRollsComponent.Instructions.Step.5.Part.1.us" = "Fry the ##Chả Giò## (egg rolls) in small batches in 325ºF oil.";
@@ -1810,23 +1774,14 @@
 /* Egg Rolls Component Instructions Step 5 Note 4 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Normally, a tightly rolled egg roll will start to float to the top of the oil when it is cooked, but always check the internal temperature to be sure.";
 
-/* Egg Rolls Component How To Header */
-"EggRollsComponent.HowTo.Header" = "How To";
-
 /* Egg Rolls Component How To 1 */
 "EggRollsComponent.HowTo.1" = "##Chả Giò## (egg rolls) can be eaten by themselves or used as a component in other dishes.";
 
 /* Egg Rolls Component How To 1 (VoiceOver) */
 "EggRollsComponent.HowTo.1.Accessibility" = "Egg rolls can be eaten by themselves or used as a component in other dishes.";
 
-/* Egg Rolls Component Used In Header */
-"EggRollsComponent.UsedIn.Header" = "Used In";
-
 
 // MARK: Cha Trung (Egg Meatloaf) Page
-
-/* Egg Meatloaf Main Image (VoiceOver) */
-"EggMeatloaf.Main.Image" = "Info";
 
 /* Egg Meatloaf Introduction 1 */
 "EggMeatloaf.Introduction.1" = "##Chả Trứng## (egg meatloaf) is a steamed egg and pork dish incorporating ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles), and is an indispensable part of ##Cơm Tấm## (broken rice) dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with ##Nước Mắm Chấm## (mixed fish sauce).";
@@ -1841,9 +1796,6 @@
 /* Egg Meatloaf Introduction 2 (VoiceOver) */
 "EggMeatloaf.Introduction.2.Accessibility.us" = "This recipe yields one 3 by 4 by 7 and a half inch loaf.";
 "EggMeatloaf.Introduction.2.Accessibility.metric" = "This recipe yields one 7 and a half by 10 by 18 and three quarter centimeter loaf.";
-
-/* Egg Meatloaf Ingredients Header */
-"EggMeatloaf.Ingredients.Header" = "Ingredients";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount */
 "EggMeatloaf.Ingredients.GroundPork.Amount.us" = "½ lb";
@@ -1901,12 +1853,6 @@
 /* Egg Meatloaf Ingredients Annatto Oil Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "2 to 3 teaspoons (optional)";
 
-/* Egg Meatloaf Instructions Header */
-"EggMeatloaf.Instructions.Header" = "Instructions";
-
-/* Egg Meatloaf Instructions Step 1 */
-"EggMeatloaf.Instructions.Step.1" = "Step 1";
-
 /* Egg Meatloaf Instructions Step 1 Part 1 */
 "EggMeatloaf.Instructions.Step.1.Part.1" = "Place the ##Thịt Băm## (ground pork) into a bowl.";
 
@@ -1928,17 +1874,11 @@
 /* Egg Meatloaf Instructions Step 1 Note 1 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and bean thread noodles in warm water for about 5 to 10 minutes or until they are soft enough to cut.";
 
-/* Egg Meatloaf Instructions Step 2 */
-"EggMeatloaf.Instructions.Step.2" = "Step 2";
-
 /* Egg Meatloaf Instructions Step 2 Part 1 */
 "EggMeatloaf.Instructions.Step.2.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Muối## (salt), and ##Tiêu Đen## (black pepper) to the bowl.";
 
 /* Egg Meatloaf Instructions Step 2 Part 1 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.2.Part.1.Accessibility" = "Add fish sauce, salt, and black pepper to the bowl.";
-
-/* Egg Meatloaf Instructions Step 3 */
-"EggMeatloaf.Instructions.Step.3" = "Step 3";
 
 /* Egg Meatloaf Instructions Step 3 Part 1 */
 "EggMeatloaf.Instructions.Step.3.Part.1" = "Set aside 3 ##Lòng Đỏ Trứng## (egg yolks) from the 4 ##Trứng## (eggs) to use later.";
@@ -1946,17 +1886,11 @@
 /* Egg Meatloaf Instructions Step 3 Part 1 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.3.Part.1.Accessibility" = "Set aside 3 egg yolks from the 4 eggs to use later.";
 
-/* Egg Meatloaf Instructions Step 4 */
-"EggMeatloaf.Instructions.Step.4" = "Step 4";
-
 /* Egg Meatloaf Instructions Step 4 Part 1 */
 "EggMeatloaf.Instructions.Step.4.Part.1" = "Mix the final ##Trứng## (egg) and the remaining egg whites in with the filling.";
 
 /* Egg Meatloaf Instructions Step 4 Part 1 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.4.Part.1.Accessibility" = "Mix the final egg and the remaining egg whites in with the filling.";
-
-/* Egg Meatloaf Instructions Step 5 */
-"EggMeatloaf.Instructions.Step.5" = "Step 5";
 
 /* Egg Meatloaf Instructions Step 5 Part 1 */
 "EggMeatloaf.Instructions.Step.5.Part.1" = "Transfer the filling to a prepared steamer.";
@@ -1984,9 +1918,6 @@
 /* Egg Meatloaf Instructions Step 5 Note 3 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.5.Note.3.Accessibility" = "Keep an eye on the water to make sure it doesn't run out while the egg meatloaf is still steaming.";
 
-/* Egg Meatloaf Instructions Step 6 */
-"EggMeatloaf.Instructions.Step.6" = "Step 6";
-
 /* Egg Meatloaf Instructions Step 6 Part 1 */
 "EggMeatloaf.Instructions.Step.6.Part.1" = "After 40-45 minutes, beat up the 3 ##Lòng Đỏ Trứng## (egg yolks) that were set aside earlier.";
 
@@ -2011,9 +1942,6 @@
 /* Egg Meatloaf Instructions Step 6 Note 2 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.6.Note.2.Accessibility" = "Annatto oil is optional — it doesn’t really change the flavor.";
 
-/* Egg Meatloaf Instructions Step 7 */
-"EggMeatloaf.Instructions.Step.7" = "Step 7";
-
 /* Egg Meatloaf Instructions Step 7 Part 1 */
 "EggMeatloaf.Instructions.Step.7.Part.1" = "Pour the ##Lòng Đỏ Trứng## (egg yolk) and ##Dầu Hạt Điều## (annatto oil) mixture on top of the cooked meatloaf.";
 
@@ -2022,9 +1950,6 @@
 
 /* Egg Meatloaf Instructions Step 7 Part 2 */
 "EggMeatloaf.Instructions.Step.7.Part.2" = "Steam for another 5 minutes, leaving the lid slightly cracked.";
-
-/* Egg Meatloaf How To Header */
-"EggMeatloaf.HowTo.Header" = "How To";
 
 /* Egg Meatloaf How To 1 */
 "EggMeatloaf.HowTo.1" = "##Chả Trứng## (egg meatloaf) is delicious enough to be enjoy by itself or over white rice.";
@@ -2038,14 +1963,8 @@
 /* Egg Meatloaf How To 2 (VoiceOver) */
 "EggMeatloaf.HowTo.2.Accessibility" = "Mixed fish sauce can be used as a dipping sauce, or poured over the egg meatloaf to give it even more flavor.";
 
-/* Egg Meatloaf Used In Header */
-"EggMeatloaf.UsedIn.Header" = "Used In";
-
 
 // MARK: Dau Annatto (Annatto Oil) Page
-
-/* Annatto Oil Main Image (VoiceOver) */
-"AnnattoOil.Main.Image" = "Info";
 
 /* Annatto Oil Introduction 1 */
 "AnnattoOil.Introduction.1" = "##Dầu Hạt Điều## (annatto oil) is made by extracting oils and pigments from ##Hạt Điều## (annatto seeds) by using heated oil. The ##Hạt Điều## (annatto seeds) are very mild in flavor so adding the ##Dầu Hạt Điều## (annatto oil) to food will not change the flavor at all. Its sole purpose is to provide a deep red color to a dish when synthetic food coloring is not readily available.";
@@ -2060,9 +1979,6 @@
 /* Annatto Oil Introduction 2 (VoiceOver) */
 "AnnattoOil.Introduction.2.Accessibility.us" = "This recipe yields one quarter cup.";
 "AnnattoOil.Introduction.2.Accessibility.metric" = "This recipe yields 60 milliliters.";
-
-/* Annatto Oil Ingredients Header */
-"AnnattoOil.Ingredients.Header" = "Ingredients";
 
 /* Annatto Oil Ingredients 1 */
 "AnnattoOil.Ingredients.1.us" = "1½ tbsp";
@@ -2079,12 +1995,6 @@
 /* Annatto Oil Ingredients 2 (VoiceOver) */
 "AnnattoOil.Ingredients.2.Accessibility.us" = "one quarter cup";
 "AnnattoOil.Ingredients.2.Accessibility.metric" = "60 milliliters";
-
-/* Annatto Oil Instructions Header */
-"AnnattoOil.Instructions.Header" = "Instructions";
-
-/* Annatto Oil Instructions Step 1 */
-"AnnattoOil.Instructions.Step.1" = "Step 1";
 
 /* Annatto Oil Ingredients Step 1 Part 1 */
 "AnnattoOil.Instructions.Step.1.Part.1" = "Add the ##Hạt Điều## (annatto seeds) and ##Dầu## (oil) into a sauce pan.";
@@ -2116,9 +2026,6 @@
 /* Annatto Oil Ingredients Step 1 Note 1 (VoiceOver) */
 "AnnattoOil.Instructions.Step.1.Note.1.Accessibility" = "Annatto seeds can be found in most Asian markets.";
 
-/* Annatto Oil Instructions Step 2 */
-"AnnattoOil.Instructions.Step.2" = "Step 2";
-
 /* Annatto Oil Ingredients Step 2 Part 1 */
 "AnnattoOil.Instructions.Step.2.Part.1" = "Once cooled, strain the ##Dầu Hạt Điều## (annatto oil) to remove the seeds and transfer the oil to a glass container.";
 
@@ -2137,23 +2044,14 @@
 /* Annatto Oil Ingredients Step 2 Note 2 (VoiceOver) */
 "AnnattoOil.Instructions.Step.2.Note.2.Accessibility" = "Label and date your annatto oil so it doesn't overstay its welcome.";
 
-/* Annatto Oil How To Header */
-"AnnattoOil.HowTo.Header" = "How To";
-
 /* Annatto Oil How To 1 */
 "AnnattoOil.HowTo.1" = "A few drops of ##Dầu Hạt Điều## (annatto oil) can bring a dull dish to life with an orange-red hue.";
 
 /* Annatto Oil How To 1 (VoiceOver) */
 "AnnattoOil.HowTo.1.Accessibility" = "A few drops of annatto oil can bring a dull dish to life with an orange-red hue.";
 
-/* Annatto Oil Used In Header */
-"AnnattoOil.UsedIn.Header" = "Used In";
-
 
 // MARK: Do Chua (Pickled Carrot and Daikon) Page
-
-/* Pickles Main Image (VoiceOver) */
-"Pickles.Main.Image" = "Info";
 
 /* Pickles Introduction 1 */
 "Pickles.Introduction.1" = "##Đồ Chua##, literrally translated as “sour things”, is a sweet and tangy garnish.";
@@ -2164,9 +2062,6 @@
 /* Pickles Introduction 2 */
 "Pickles.Introduction.2.us" = "This recipe yields about 1 pound.";
 "Pickles.Introduction.2.metric" = "This recipe yields about 450 g.";
-
-/* Pickles Ingredients Header */
-"Pickles.Ingredients.Header" = "Ingredients";
 
 /* Pickles Ingredients Carrot Amount */
 "Pickles.Ingredients.Carrot.Amount.us" = "½ lb";
@@ -2214,12 +2109,6 @@
 "Pickles.Ingredients.Water.AccessibilityAmount.us" = "half a cup, warm";
 "Pickles.Ingredients.Water.AccessibilityAmount.metric" = "120 milliliters";
 
-/* Pickles Instructions Header */
-"Pickles.Instructions.Header" = "Instructions";
-
-/* Pickles Instructions Step 1 */
-"Pickles.Instructions.Step.1" = "Step 1";
-
 /* Pickles Instructions Step 1 Part 1 */
 "Pickles.Instructions.Step.1.Part.1.us" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into ⅛″-thick strips.";
 "Pickles.Instructions.Step.1.Part.1.metric" = "Julienne the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into 3 mm-thick strips.";
@@ -2242,9 +2131,6 @@
 
 /* Pickles Instructions Step 1 Note 3 (VoiceOver) */
 "Pickles.Instructions.Step.1.Note.3.Accessibility" = "The thickness of the carrot and daikon can be modified to your preference; thicker strips should be pickled longer for the flavors to fully permeate.";
-
-/* Pickles Instructions Step 2 */
-"Pickles.Instructions.Step.2" = "Step 2";
 
 /* Pickles Instructions Step 2 Part 1 */
 "Pickles.Instructions.Step.2.Part.1" = "Place the julienned ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) into a large bowl.";
@@ -2270,17 +2156,11 @@
 /* Pickles Instructions Step 2 Note (VoiceOver) */
 "Pickles.Instructions.Step.2.Note.1.Accessibility" = "The salt will draw out water from the carrot and daikon, so don’t be alarmed when liquid accumulates in the bowl.";
 
-/* Pickles Instructions Step 3 */
-"Pickles.Instructions.Step.3" = "Step 3";
-
 /* Pickles Instructions Step 3 Part 1 */
 "Pickles.Instructions.Step.3.Part.1" = "Rinse the ##Cà Rốt## (carrot) and ##Củ Cải Trắng## (daikon) with fresh water and drain well.";
 
 /* Pickles Instructions Step 3 Part 1 (VoiceOver) */
 "Pickles.Instructions.Step.3.Part.1.Accessibility" = "Rinse the carrot and daikon with fresh water and drain well.";
-
-/* Pickles Instructions Step 4 */
-"Pickles.Instructions.Step.4" = "Step 4";
 
 /* Pickles Instructions Step 4 Part 1 */
 "Pickles.Instructions.Step.4.Part.1" = "Mix together the ##Đường## (sugar), ##Giấm Trắng## (white vinegar), and warm ##Nước## (water) in a jar until the sugar is dissolved.";
@@ -2306,9 +2186,6 @@
 /* Pickles Instructions Step 4 Note 2 */
 "Pickles.Instructions.Step.4.Note.2" = "Label and date your pickles so they don’t overstay their welcome in your refrigerator.";
 
-/* Pickles How To Header */
-"Pickles.HowTo.Header" = "How To";
-
 /* Pickles How To 1 */
 "Pickles.HowTo.1" = "##Đồ Chua## (pickled carrot and daikon) is used as a garnish in most Vietnamese dishes.";
 
@@ -2327,23 +2204,14 @@
 /* Pickles How To 3 (VoiceOver) */
 "Pickles.HowTo.3.Accessibility" = "Drain the pickled carrot and daikon before serving.";
 
-/* Pickles Used In Header */
-"Pickles.UsedIn.Header" = "Used In";
-
 
 // MARK: Mo Hanh (Scallion and Oil Garnish) Page
-
-/* Scallion and Oil Garnish Main Image (VoiceOver) */
-"ScallionOil.Main.Image" = "Info";
 
 /* Scallion and Oil Garnish Introduction */
 "ScallionOil.Introduction" = "##Mỡ Hành##, meaning scallion oil, is a simple and delicious garnish that is very common in many Vietnamese dishes, such as ##Cơm Tấm Thịt Nướng Chả## (broken rice with grilled pork and egg meatloaf) and ##Bún Thịt Nướng Chả Giò## (grilled pork and egg roll vermicelli noodles). ##Mỡ Hành## (scallion and oil garnish) is often added to grilled meats to add color and aroma to the dish.";
 
 /* Scallion and Oil Garnish Introduction (VoiceOver) */
 "ScallionOil.Introduction.Accessibility" = "Scallion and oil is a simple and delicious garnish that is very common in many Vietnamese dishes, such as broken rice and vermicelli noodles. Scallion and oil garnish is often added to grilled meats to add color and aroma to the dish.";
-
-/* Scallion and Oil Garnish Ingredients Header */
-"ScallionOil.Ingredients.Header" = "Ingredients";
 
 /* Scallion and Oil Garnish Ingredients Green Onion Amount */
 "ScallionOil.Ingredients.GreenOnion.Amount.us" = "1 stalk";
@@ -2354,9 +2222,6 @@
 
 /* Scallion and Oil Garnish Ingredients Oil Amount (VoiceOver) */
 "ScallionOil.Ingredients.Oil.AccessibilityAmount" = "1 to 2 tablespoons";
-
-/* Scallion and Oil Garnish Instructions Header */
-"ScallionOil.Instructions.Header" = "Instructions";
 
 /* Scallion and Oil Garnish Instructions 1 */
 "ScallionOil.Instructions.1" = "Slice the ##Hành Lá## (spring onion) and add it to a small microwave-safe bowl.";
@@ -2376,23 +2241,14 @@
 /* Scallion and Oil Garnish Instructions 3 (VoiceOver) */
 "ScallionOil.Instructions.3.Accessibility" = "Microwave the bowl on high for 20 to 30 seconds.";
 
-/* Scallion and Oil Garnish How To Header */
-"ScallionOil.HowTo.Header" = "How To";
-
 /* Scallion and Oil Garnish How To 1 */
 "ScallionOil.HowTo.1" = "Add some ##Mỡ Hành## (scallion and oil garnish) to any grilled meat to add additional flavor and character to your dish.";
 
 /* Scallion and Oil Garnish How To 1 (VoiceOver) */
 "ScallionOil.HowTo.1.Accessibility" = "Add some scallion and oil garnish to any grilled meat to add additional flavor and character to your dish.";
 
-/* Scallion and Oil Garnish Used In Header */
-"ScallionOil.UsedIn.Header" = "Used In";
-
 
 // MARK: Nuoc Mam Cham (Mixed Fish Sauce) Page
-
-/* Mixed Fish Sauce Main Image (VoiceOver) */
-"MixedFishSauce.Main.Image" = "Info";
 
 /* Mixed Fish Sauce Introduction 1 */
 "MixedFishSauce.Introduction.1" = "##Nước Mắm Chấm## (fish sauce dip), or more simply ##Nước Chấm## (dipping sauce), but also know as ##Nước Mắm Pha## (mixed fish sauce), all refer to the same sweet, tangy, and savory dipping sauce that is paired with many Vietnamese dishes. ##Nước Mắm Chấm## can add plenty of flavor to even a “boring” dish. As my husband always says, most Vietnamese dishes are simply a ##Nước Mắm Chấm## delivery mechanism — suffice to say, he has become a huge fan of ##Nước Mắm Chấm## since I introduced it to him.";
@@ -2407,9 +2263,6 @@
 /* Mixed Fish Sauce Introduction 2 (VoiceOver) */
 "MixedFishSauce.Introduction.2.Accessibility.us" = "This recipe yields one and a half cups.";
 "MixedFishSauce.Introduction.2.Accessibility.metric" = "This recipe yields 360 milliliters.";
-
-/* Mixed Fish Sauce Ingredients Header */
-"MixedFishSauce.Ingredients.Header" = "Ingredients";
 
 /* Mixed Fish Sauce Ingredients Fish Sauce Amount */
 "MixedFishSauce.FishSauce.Amount.us" = "5 tbsp";
@@ -2453,12 +2306,6 @@
 /* Mixed Fish Sauce Ingredients Chili Amount (VoiceOver) */
 "MixedFishSauce.Chili.AccessibilityAmount" = "half a teaspoon, chopped or minced";
 
-/* Mixed Fish Sauce Instructions Header */
-"MixedFishSauce.Instructions.Header" = "Instructions";
-
-/* Mixed Fish Sauce Instructions Step 1 */
-"MixedFishSauce.Instructions.Step.1" = "Step 1";
-
 /* Mixed Fish Sauce Instructions Step 1 Part 1 */
 "MixedFishSauce.Instructions.Step.1.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Nước Chanh## (lime juice), and ##Nước## (water) into a bowl.";
 
@@ -2477,17 +2324,11 @@
 /* Mixed Fish Sauce Instructions Step 1 Note 2 (VoiceOver) */
 "MixedFishSauce.Instructions.Step.1.Note.2.Accessibility" = "Substitute lime juice with white vinegar will allow it to last much longer (about 1 month).";
 
-/* Mixed Fish Sauce Instructions Step 2 */
-"MixedFishSauce.Instructions.Step.2" = "Step 2";
-
 /* Mixed Fish Sauce Instructions Step 2 Part 1 */
 "MixedFishSauce.Instructions.Step.2.Part.1" = "Mince the ##Tỏi## (garlic) and add it into the bowl.";
 
 /* Mixed Fish Sauce Instructions Step 2 Part 1 (VoiceOver) */
 "MixedFishSauce.Instructions.Step.2.Part.1.Accessibility" = "Mince the garlic and add it into the bowl.";
-
-/* Mixed Fish Sauce Instructions Step 3 */
-"MixedFishSauce.Instructions.Step.3" = "Step 3";
 
 /* Mixed Fish Sauce Instructions Step 3 Part 1 */
 "MixedFishSauce.Instructions.Step.3.Part.1" = "Add ##Đường## (sugar), ##Muối## (salt), and ##Ớt Đỏ## (chili) into the bowl.";
@@ -2513,44 +2354,23 @@
 /* Mixed Fish Sauce Instructions Step 3 Note 4 (VoiceOver) */
 "MixedFishSauce.Instructions.Step.3.Note.4.Accessibility" = "Label and date your mixed fish sauce so it doesn’t over stay its welcome in your refrigerator.";
 
-/* Mixed Fish Sauce How To Header */
-"MixedFishSauce.HowTo.Header" = "How To";
-
 /* Mixed Fish Sauce How To 1 */
 "MixedFishSauce.HowTo.1" = "##Nước Mắm Chấm## (mixed fish sauce) is used as a dipping sauce to add extra flavor to your dish.";
 
 /* Mixed Fish Sauce How To 1 (VoiceOver) */
 "MixedFishSauce.HowTo.1.Accessibility" = "Mixed fish sauce is used as a dipping sauce to add extra flavor to your dish.";
 
-/* Mixed Fish Sauce Used In Header */
-"MixedFishSauce.UsedIn.Header" = "Used In";
-
 
 // MARK: Rau (Leafy Greens) Page
-
-/* Leafy Greens Main Image (VoiceOver) */
-"LeafyGreens.Main.Image" = "Info";
 
 /* Leafy Greens Introduction */
 "LeafyGreens.Introduction" = "Herbs and leafy greens add such a wonderful aroma and flavor to dishes that they have become an essential ingredient in Vietnamese food. Some dishes will have the herbs and leafy greens incorporated, but most will be accompanied by a side plate of them. These are just a few of the common ones that are typically found in an arranged platter.";
 
-/* Leafy Greens Ingredients Header */
-"LeafyGreens.Ingredients.Header" = "Ingredients";
-
-/* Leafy Greens How To Header */
-"LeafyGreens.HowTo.Header" = "How To";
-
 /* Leafy Greens How To 1 */
 "LeafyGreens.HowTo.1" = "These leafy greens are to be enjoyed raw and are often used as garnishes.";
 
-/* Leafy Greens Used In Header */
-"LeafyGreens.UsedIn.Header" = "Used In";
-
 
 // MARK: Sot Mayonnaise (Mayonnaise) Page
-
-/* Mayo Main Image (VoiceOver) */
-"Mayo.Main.Image" = "Info";
 
 /* Mayo Introduction 1 */
 "Mayo.Introduction.1" = "##Sốt Mayonnaise## (mayonnaise sauce) was brought to Vietnam through its French influence and it is mainly used in ##Bánh Mì## (sandwich).";
@@ -2561,9 +2381,6 @@
 /* Mayo Introduction 2 */
 "Mayo.Introduction.2.us" = "This recipe yields 1 cup.";
 "Mayo.Introduction.2.metric" = "This recipe yields 240 mL.";
-
-/* Mayo Ingredients Header */
-"Mayo.Ingredients.Header" = "Ingredients";
 
 /* Mayo Ingredients EggYolk Amount */
 "Mayo.Ingredients.EggYolk.Amount" = "2 egg yolks";
@@ -2578,12 +2395,6 @@
 /* Mayo Ingredients Salt Amount (VoiceOver) */
 "Mayo.Ingredients.Salt.AccessibilityAmount" = "half a teaspoon";
 
-/* Mayo Instructions Header */
-"Mayo.Instructions.Header" = "Instructions";
-
-/* Mayo Instructions Step 1 */
-"Mayo.Instructions.Step.1" = "Step 1";
-
 /* Mayo Instructions Step 1 Part 1 */
 "Mayo.Instructions.Step.1.Part.1" = "Place the ##Lòng Đỏ Trứng## (egg yolks) into a bowl.";
 
@@ -2595,9 +2406,6 @@
 
 /* Mayo Instructions Step 1 Part 2 (VoiceOver) */
 "Mayo.Instructions.Step.1.Part.2.Accessibility" = "Whisk the egg yolks together on low to medium power with a hand mixer.";
-
-/* Mayo Instructions Step 2 */
-"Mayo.Instructions.Step.2" = "Step 2";
 
 /* Mayo Instructions Step 2 Part 1 */
 "Mayo.Instructions.Step.2.Part.1" = "While the ##Lòng Đỏ Trứng## (egg yolks) are being whisked, slowly incorporate the ##Dầu## (oil).";
@@ -2620,9 +2428,6 @@
 /* Mayo Instructions Step 2 Note 3 */
 "Mayo.Instructions.Step.2.Note.3" = "Olive oil also works well, but may have too strong of a flavor depending on the variety.";
 
-/* Mayo Instructions Step 3 */
-"Mayo.Instructions.Step.3" = "Step 3";
-
 /* Mayo Instructions Step 3 Part 1 */
 "Mayo.Instructions.Step.3.Part.1" = "Add the ##Muối## (salt) to the mixture.";
 
@@ -2638,23 +2443,14 @@
 /* Mayo Instructions Step 3 Note 2 */
 "Mayo.Instructions.Step.3.Note.2" = "Label and date your mayonnaise so it doesn't over stay its welcome in your refrigerator.";
 
-/* Mayo How To Header */
-"Mayo.HowTo.Header" = "How To";
-
 /* Mayo How To 1 */
 "Mayo.HowTo.1" = "Spread some ##Sốt Mayonnaise## (mayonnaise) on a piece of toasted ##Bánh Mì## (baguette) and enjoy.";
 
 /* Mayo How To 1 (VoiceOver) */
 "Mayo.HowTo.1.Accessibility" = "Spread some mayonnaise on a piece of toasted baguette and enjoy.";
 
-/* Mayo Used In Header */
-"Mayo.UsedIn.Header" = "Used In";
-
 
 // MARK: Thit Nuong (Grilled Pork) Page
-
-/* Grilled Pork Main Image (VoiceOver) */
-"GrilledPork.Main.Image" = "Info";
 
 /* Grilled Pork Introduction 1 */
 "GrilledPork.Introduction.1" = "##Thịt Nướng## (grilled meat) is short for ##Thịt Heo Nướng##, meaning “grilled pork meat”, but often the word ##Heo## (pork) is omitted. This grilled meat is sweet, salty, and savory, and can be paired with lots of dishes. It is so tasty that it can even be eaten on its own with plain white rice.";
@@ -2664,9 +2460,6 @@
 
 /* Grilled Pork Introduction 2 */
 "GrilledPork.Introduction.2" = "This recipe serves two.";
-
-/* Grilled Pork Ingredients Header */
-"GrilledPork.Ingredients.Header" = "Ingredients";
 
 /* Grilled Pork Ingredients Raw Pork Amount */
 "GrilledPork.Ingredients.RawPork.Amount.us" = "½ lb";
@@ -2711,12 +2504,6 @@
 /* Grilled Pork Ingredients Oil (VoiceOver) */
 "GrilledPork.Ingredients.Oil.AccessibilityAmount" = "1 to 2 tablespoons";
 
-/* Grilled Pork Instructions Header */
-"GrilledPork.Instructions.Header" = "Instructions";
-
-/* Grilled Pork Instructions Step 1 */
-"GrilledPork.Instructions.Step.1" = "Step 1";
-
 /* Grilled Pork Instructions Step 1 Part 1 */
 "GrilledPork.Instructions.Step.1.Part.1" = "Place the ##Thịt Heo## (pork) in the bowl.";
 
@@ -2741,9 +2528,6 @@
 /* Grilled Pork Instructions Step 1 Note 4 */
 "GrilledPork.Instructions.Step.1.Note.4" = "This recipe also works well with beef or chicken.";
 
-/* Grilled Pork Instructions Step 2 */
-"GrilledPork.Instructions.Step.2" = "Step 2";
-
 /* Grilled Pork Instructions Step 2 Part 1 */
 "GrilledPork.Instructions.Step.2.Part.1" = "Mince the ##Tỏi## (garlic), ##Sả## (lemongrass), and ##Hẹ Tây## (shallot).";
 
@@ -2756,9 +2540,6 @@
 /* Grilled Pork Instructions Step 2 Note */
 "GrilledPork.Instructions.Step.2.Note.1" = "If you are making a large amount, consider using a food processor to make mincing easier.";
 
-/* Grilled Pork Instructions Step 3 */
-"GrilledPork.Instructions.Step.3" = "Step 3";
-
 /* Grilled Pork Instructions Step 3 Part 1 */
 "GrilledPork.Instructions.Step.3.Part.1" = "Mix the contents in the bowl thoroughly.";
 
@@ -2767,9 +2548,6 @@
 
 /* Grilled Pork Instructions Step 3 Part 1 (VoiceOver) */
 "GrilledPork.Instructions.Step.3.Part.2.Accessibility" = "Let the pork marinate for at least 30 minutes.";
-
-/* Grilled Pork Instructions Step 4 */
-"GrilledPork.Instructions.Step.4" = "Step 4";
 
 /* Grilled Pork Instructions Step 4 Part 1 */
 "GrilledPork.Instructions.Step.4.Part.1" = "In a medium-high heat skillet, add the ##Dầu## (oil).";
@@ -2794,23 +2572,14 @@
 /* Grilled Pork Instructions Step 4 Note (VoiceOver) */
 "GrilledPork.Instructions.Step.4.Note.1.Accessibility" = "For best results, cook the pork on a grill.";
 
-/* Grilled Pork How To Header */
-"GrilledPork.HowTo.Header" = "How To";
-
 /* Grilled Pork How To 1 */
 "GrilledPork.HowTo.1" = "##Thịt Nướng## (grilled pork) is a great source of protein in many dishes, and can even be enjoyed as a meal by itself.";
 
 /* Grilled Pork How To 1 (VoiceOver) */
 "GrilledPork.HowTo.1.Accessibility" = "Grilled pork is a great source of protein in many dishes, and can even be enjoyed as a meal by itself.";
 
-/* Grilled Pork UsedIn Header */
-"GrilledPork.UsedIn.Header" = "Used In";
-
 
 // MARK: Thit Ba Roi Xao Voi Dau Hao (Pork Belly with Oyster Sauce) Page
-
-/* Pork Belly with Oyster Sauce Main Image (VoiceOver) */
-"PorkBellyWithOysterSauce.Main.Image" = "Info";
 
 /* Pork Belly with Oyster Sauce Introduction 1 */
 "PorkBellyWithOysterSauce.Introduction.1" = "##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) is a very simple but delicious dish. It came about when I was making ##Bánh Xèo## (Vietnamese crêpe) with a friend many years back, and ##Thịt Ba Rọi## (pork belly) was one of the meat options and she suggested that I add some ##Dầu Hào## (oyster sauce) to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I made ##Bánh Xèo## (Vietnamese crêpe). Since ##Thịt Ba Rọi## (pork belly) with ##Dầu Hào## (oyster sauce) is so savory and delicious, it also goes great with hot white rice.";
@@ -2820,9 +2589,6 @@
 
 /* Pork Belly with Oyster Sauce Introduction 2 */
 "PorkBellyWithOysterSauce.Introduction.2" = "This recipe serves one.";
-
-/* Pork Belly with Oyster Sauce Ingredients Header */
-"PorkBellyWithOysterSauce.Ingredients.Header" = "Ingredients";
 
 /* Pork Belly with Oyster Sauce Ingredients Pork Belly Amount */
 "PorkBellyWithOysterSauce.Ingredients.PorkBelly.Amount.us" = "3-4 oz";
@@ -2850,12 +2616,6 @@
 /* Pork Belly with Oyster Sauce Ingredients Pepper Amount (VoiceOver) */
 "PorkBellyWithOysterSauce.Ingredients.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
 
-/* Pork Belly with Oyster Sauce Instructions Header */
-"PorkBellyWithOysterSauce.Instructions.Header" = "Instructions";
-
-/* Pork Belly with Oyster Sauce Instructions Step 1 */
-"PorkBellyWithOysterSauce.Instructions.Step.1" = "Step 1";
-
 /* Pork Belly with Oyster Sauce Instructions Step 1 Part 1 */
 "PorkBellyWithOysterSauce.Instructions.Step.1.Part.1" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite-sized pieces.";
 
@@ -2873,9 +2633,6 @@
 
 /* Pork Belly with Oyster Sauce Instructions Step 1 Note 2 (VoiceOver) */
 "PorkBellyWithOysterSauce.Instructions.Step.1.Note.2.Accessibility" = "Or you can buy a slab of pork belly and cut it yourself.";
-
-/* Pork Belly with Oyster Sauce Instructions Step 2 */
-"PorkBellyWithOysterSauce.Instructions.Step.2" = "Step 2";
 
 /* Pork Belly with Oyster Sauce Instructions Step 2 Part 1 */
 "PorkBellyWithOysterSauce.Instructions.Step.2.Part.1" = "In a medium-high heat wok/pan, add the ##Thịt Ba Rọi## (pork belly).";
@@ -2895,9 +2652,6 @@
 /* Pork Belly with Oyster Sauce Instructions Step 2 Note 1 (VoiceOver) */
 "PorkBellyWithOysterSauce.Instructions.Step.2.Note.1.Accessibility" = "No cooking oil is needed because the pork belly fat will melt during cooking and there will be plenty to keep the ingredients from sticking to the wok or pan.";
 
-/* Pork Belly with Oyster Sauce Instructions Step 3 */
-"PorkBellyWithOysterSauce.Instructions.Step.3" = "Step 3";
-
 /* Pork Belly with Oyster Sauce Instructions Step 3 Part 1 */
 "PorkBellyWithOysterSauce.Instructions.Step.3.Part.1" = "Add ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (pepper).";
 
@@ -2910,9 +2664,6 @@
 /* Pork Belly with Oyster Sauce Instructions Step 3 Part 2 (VoiceOver) */
 "PorkBellyWithOysterSauce.Instructions.Step.3.Part.2.Accessibility" = "Stir fry everything together until the pork belly is well coated in sauce.";
 
-/* Pork Belly with Oyster Sauce How To Header */
-"PorkBellyWithOysterSauce.HowTo.Header" = "How To";
-
 /* Pork Belly with Oyster Sauce How To 1 */
 "PorkBellyWithOysterSauce.HowTo.1" = "This dish is best enjoyed with rice.";
 
@@ -2924,9 +2675,6 @@
 
 /* Pork Belly with Oyster Sauce How To 2 (VoiceOver) */
 "PorkBellyWithOysterSauce.HowTo.2.Accessibility" = "It is also great as a component to substitute the plain pork belly in Vietnamese crepes.";
-
-/* Pork Belly with Oyster Sauce Used In Header */
-"PorkBellyWithOysterSauce.UsedIn.Header" = "Used In";
 
 
 // MARK: Bo Luc Lac (Shaken Beef) Entree Page

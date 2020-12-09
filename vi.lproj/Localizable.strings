@@ -1524,9 +1524,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 // MARK: Bot Banh Xeo (Vietnamese Crepe Batter) Page
 
-/* Crepe Batter Main Image (VoiceOver) */
-"CrepeBatter.Main.Image" = "Thông tin.";
-
 /* Crepe Batter Introduction 1 */
 "CrepeBatter.Introduction.1" = "##Bột Bánh Xèo## rất dễ làm nhưng là một nguyên liệu quan trọng khi làm ##Bánh Xèo##.";
 
@@ -1540,9 +1537,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Crepe Batter Introduction 2 (VoiceOver) */
 "CrepeBatter.Introduction.2.Accessibility.us" = "Công thức này làm khoảng một cup bột hoặc là khoảng 4 cái Bánh Xèo.";
 "CrepeBatter.Introduction.2.Accessibility.metric" = "Công thức này làm khoảng 240 mililít bột hoặc là khoảng 4 cái Bánh Xèo.";
-
-/* Crepe Batter Ingredients Header */
-"CrepeBatter.Ingredients.Header" = "Nguyên Liệu";
 
 /* Crepe Batter Ingredients Rice Flour Amount */
 "CrepeBatter.Ingredients.RiceFlour.Amount.us" = "⅓ cup";
@@ -1583,9 +1577,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "CrepeBatter.Ingredients.GreenOnion.Amount.us" = "1 cộng";
 "CrepeBatter.Ingredients.GreenOnion.Amount.metric" = "15 g";
 
-/* Crepe Batter Instructions Header */
-"CrepeBatter.Instructions.Header" = "Cách Làm";
-
 /* Crepe Batter Instructions 1 */
 "CrepeBatter.Instructions.1" = "Cho ##Bột Gạo##, ##Bột Ngô##, và ##Bột Củ Nghệ## vào tô.";
 
@@ -1619,14 +1610,8 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Crepe Batter Instructions Note 1 (VoiceOver) */
 "CrepeBatter.Instructions.Note.1.Accessibility" = "Nếu không có Nước Cốt Dừa thì dùng Nước thay thế hoặc cũng có thể dùng bia để bánh xèo thêm giòn.";
 
-/* Crepe Batter Used In Header */
-"CrepeBatter.UsedIn.Header" = "Dùng Trong";
-
 
 // MARK: Cha Gio - Recipe (Egg Rolls) Page
-
-/* Egg Rolls Component Main Image (VoiceOver) */
-"EggRollsComponent.Main.Image" = "Thông tin.";
 
 /* Egg Rolls Component Introduction 1 */
 "EggRollsComponent.Introduction.1" = "##Chả Giò## là một món khai vị thơm ngon của Việt Nam. ##Chả Giò## có thể kèm với bún để ăn.";
@@ -1639,9 +1624,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Egg Rolls Component Introduction 2 (VoiceOver) */
 "EggRollsComponent.Introduction.2.Accessibility" = "Công thức này làm từ 15 đến 20 cuốn.";
-
-/* Egg Rolls Component Ingredients Header */
-"EggRollsComponent.Ingredients.Header" = "Nguyên Liệu";
 
 /* Egg Rolls Component Ground Pork Amount */
 "EggRollsComponent.GroundPork.Amount.us" = "½ lb";
@@ -1704,12 +1686,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Rolls Component Egg Roll Wrappers Amount */
 "EggRollsComponent.EggRollWrappers.Amount" = "1 gói";
 
-/* Egg Rolls Component Instructions Header */
-"EggRollsComponent.Instructions.Header" = "Cách Làm";
-
-/* Egg Rolls Component Instructions Step 1 */
-"EggRollsComponent.Instructions.Step.1" = "Bước 1";
-
 /* Egg Rolls Component Instructions Step 1 Part 1 */
 "EggRollsComponent.Instructions.Step.1.Part.1" = "Cho ##Thịt Bầm## vào tô.";
 
@@ -1721,9 +1697,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Egg Rolls Component Instructions Step 1 Part 2 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.1.Part.2.Accessibility" = "Bầm nhiễn ##Tôm## và cho vào tô.";
-
-/* Egg Rolls Component Instructions Step 2 */
-"EggRollsComponent.Instructions.Step.2" = "Bước 2";
 
 /* Egg Rolls Component Instructions Step 2 Part 1 */
 "EggRollsComponent.Instructions.Step.2.Part.1" = "Cắt nhỏ ##Củ Hành##, ##Nấm Mèo## và ##Bún Miến##.";
@@ -1740,9 +1713,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Rolls Component Instructions Step 2 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Nhớ ngâm ##Nấm Mèo## và ##Bún Miến## vào nước ấm để mềm lại trước khi cắt.";
 
-/* Egg Rolls Component Instructions Step 3 */
-"EggRollsComponent.Instructions.Step.3" = "Bước 3";
-
 /* Egg Rolls Component Instructions Step 3 Part 1 */
 "EggRollsComponent.Instructions.Step.3.Part.1" = "Thêm ##Nước Mắm##, ##Bột Nêm Gà## và ##Tiêu Đen## vào tô.";
 
@@ -1757,9 +1727,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Egg Rolls Component Instructions Step 3 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.3.Note.1.Accessibility" = "Nếu không có Bột Nêm Gà thì thay thế bằng muối.";
-
-/* Egg Rolls Component Instructions Step 4 */
-"EggRollsComponent.Instructions.Step.4" = "Bước 4";
 
 /* Egg Rolls Component Instructions Step 4 Part 1 */
 "EggRollsComponent.Instructions.Step.4.Part.1" = "Trên một cái thớt sạch, để một miếng ##Da Cuốn Chả Giò## trên thớt và chỉ một đầu nhọn về mình.";
@@ -1790,9 +1757,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Egg Rolls Component Instructions Step 4 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Da Cuốn Chả Giò rất tầm thường có thể kiếm được ở rất nhiều chợ. Loại Da Cuốn Chả Giò này là làm từ lúa mì và rất là mỏng.";
-
-/* Egg Rolls Component Instructions Step 5 */
-"EggRollsComponent.Instructions.Step.5" = "Bước 5";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 */
 "EggRollsComponent.Instructions.Step.5.Part.1.us" = "Chiên ##Chả Giò## từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF.";
@@ -1832,23 +1796,14 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Rolls Component Instructions Step 5 Note 4 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Thông thường Chả Giò sẽ nổi lên trên mặt dầu nếu mà chính nhưng đừng chỉ có nhờ vào cách này. Nếu thiệt sự muốn biết Chả Giò chín chưa thì phải nên so nhiệt độ giữa của Chả Giò.";
 
-/* Egg Rolls Component How To Header */
-"EggRollsComponent.HowTo.Header" = "Cách Thưởng Thức";
-
 /* Egg Rolls Component How To 1 */
 "EggRollsComponent.HowTo.1" = "##Chả Giò## có thể ăn như vậy hoặc kèm với món ăn khác.";
 
 /* Egg Rolls Component How To 1 (VoiceOver) */
 "EggRollsComponent.HowTo.1.Accessibility" = "Chả Giò có thể ăn như vậy hoặc kèm với món ăn khác.";
 
-/* Egg Rolls Component Used In Header */
-"EggRollsComponent.UsedIn.Header" = "Dùng Trong";
-
 
 // MARK: Cha Trung (Egg Meatloaf) Page
-
-/* Egg Meatloaf Main Image (VoiceOver) */
-"EggMeatloaf.Main.Image" = "Thông tin.";
 
 /* Egg Meatloaf Introduction 1 */
 "EggMeatloaf.Introduction.1" = "##Chả Trứng## là trứng và thịt heo hấp với ##Nấm Mèo## và ##Bún Miến## và là một món không thể thiếu trong ##Cơm Tấm##. Mùi vị của ##Chả Trứng## rất là thơm ngon và mềm mại và khi phối hợp với ##Nước Mắm Chấm## rất là tuyệt vời.";
@@ -1861,9 +1816,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Egg Meatloaf Introduction 2 (VoiceOver) */
 "EggMeatloaf.Introduction.2.Accessibility" = "Công thức này làm khoảng 4 phần.";
-
-/* Egg Meatloaf Ingredients Header */
-"EggMeatloaf.Ingredients.Header" = "Nguyên Liệu";
 
 /* Egg Meatloaf Ingredients Ground Pork Amount */
 "EggMeatloaf.Ingredients.GroundPork.Amount.us" = "½ lb";
@@ -1925,12 +1877,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Meatloaf Ingredients Annatto Oil Amount (VoiceOver) */
 "EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "2 đến 3 muỗng cà phê (tùy ý)";
 
-/* Egg Meatloaf Instructions Header */
-"EggMeatloaf.Instructions.Header" = "Cách Làm";
-
-/* Egg Meatloaf Instructions Step 1 */
-"EggMeatloaf.Instructions.Step.1" = "Bước 1";
-
 /* Egg Meatloaf Instructions Step 1 Part 1 */
 "EggMeatloaf.Instructions.Step.1.Part.1" = "Cho ##Thịt Băm## vào tô.";
 
@@ -1952,17 +1898,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Meatloaf Instructions Step 1 Note 1 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Nhớ ngâm Nấm Mèo và Bún Miến vào nước ấm để mềm lại trước khi cắt.";
 
-/* Egg Meatloaf Instructions Step 2 */
-"EggMeatloaf.Instructions.Step.2" = "Bước 2";
-
 /* Egg Meatloaf Instructions Step 2 Part 1 */
 "EggMeatloaf.Instructions.Step.2.Part.1" = "Thêm ##Nước Mắm##, ##Muối##, và ##Tiêu Đen## vào tô.";
 
 /* Egg Meatloaf Instructions Step 2 Part 1 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.2.Part.1.Accessibility" = "Thêm Nước Mắm, Muối, và Tiêu Đen vào tô.";
-
-/* Egg Meatloaf Instructions Step 3 */
-"EggMeatloaf.Instructions.Step.3" = "Bước 3";
 
 /* Egg Meatloaf Instructions Step 3 Part 1 */
 "EggMeatloaf.Instructions.Step.3.Part.1" = "Để riêng 3 ##Lòng Đỏ Trứng## từ 4 ##Trứng## để dùng sau đây.";
@@ -1970,17 +1910,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Meatloaf Instructions Step 3 Part 1 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.3.Part.1.Accessibility" = "Để riêng 3 Lòng Đỏ Trứng từ 4 Trứng để dùng sau đây.";
 
-/* Egg Meatloaf Instructions Step 4 */
-"EggMeatloaf.Instructions.Step.4" = "Bước 4";
-
 /* Egg Meatloaf Instructions Step 4 Part 1 */
 "EggMeatloaf.Instructions.Step.4.Part.1" = "Đánh ##Trứng## cuối cùng chung với 3 lòng trắng trứng từ bước ở trên vào nhân thịt trong tô. Trộn đều.";
 
 /* Egg Meatloaf Instructions Step 4 Part 1 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.4.Part.1.Accessibility" = "Đánh Trứng cuối cùng chung với 3 lòng trắng trứng từ bước ở trên vào nhân thịt trong tô. Trộn đều.";
-
-/* Egg Meatloaf Instructions Step 5 */
-"EggMeatloaf.Instructions.Step.5" = "Bước 5";
 
 /* Egg Meatloaf Instructions Step 5 Part 1 */
 "EggMeatloaf.Instructions.Step.5.Part.1" = "Chuyển nhân thịt vào khuôn để hấp.";
@@ -2006,9 +1940,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Meatloaf Instructions Step 5 Note 3 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.5.Note.3.Accessibility" = "Chú ý điều lượng nước khi hấp Chả Trứng. Nếu nước cạn thì thêm nước và tiếp tục hấp";
 
-/* Egg Meatloaf Instructions Step 6 */
-"EggMeatloaf.Instructions.Step.6" = "Bước 6";
-
 /* Egg Meatloaf Instructions Step 6 Part 1 */
 "EggMeatloaf.Instructions.Step.6.Part.1" = "Sau khi 40 đến 45 phút, đánh chung 3 ##Lòng Đỏ Trứng## từ vài bước trước.";
 
@@ -2033,9 +1964,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Meatloaf Instructions Step 6 Note 2 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.6.Note.2.Accessibility" = "Có thêm Dầu Annatto hay không thì tùy ý tại vì Dầu Annatto không ảnh hưởng mùi vị của Chả Trứng.";
 
-/* Egg Meatloaf Instructions Step 7 */
-"EggMeatloaf.Instructions.Step.7" = "Bước 7";
-
 /* Egg Meatloaf Instructions Step 7 Part 1 */
 "EggMeatloaf.Instructions.Step.7.Part.1" = "Đổ ##Lòng Đỏ Trứng## mới pha xong lên trên mặt của ##Chả Trứng## mới hấp xong.";
 
@@ -2044,9 +1972,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Egg Meatloaf Instructions Step 7 Part 2 */
 "EggMeatloaf.Instructions.Step.7.Part.2" = "Tiếp tục hấp thêm 5 phút nhưng lần này có thể để nắp hở.";
-
-/* Egg Meatloaf How To Header */
-"EggMeatloaf.HowTo.Header" = "Cách Thưởng Thức";
 
 /* Egg Meatloaf How To 1 */
 "EggMeatloaf.HowTo.1" = "##Chả Trứng## rất là ngon cho nên có thể thưởng thức như vậy hoặc có thể ăn với cơm.";
@@ -2060,14 +1985,8 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Meatloaf How To 2 (VoiceOver) */
 "EggMeatloaf.HowTo.2.Accessibility" = "Có thể dùng Nước Mắm Chấm với Chả Trứng để cho thêm mùi vị.";
 
-/* Egg Meatloaf Used In Header */
-"EggMeatloaf.UsedIn.Header" = "Dùng Trong";
-
 
 // MARK: Dau Annatto (Annatto Oil) Page
-
-/* Annatto Oil Main Image (VoiceOver) */
-"AnnattoOil.Main.Image" = "Thông tin.";
 
 /* Annatto Oil Introduction 1 */
 "AnnattoOil.Introduction.1" = "##Dầu Hạt Điều## la làm từ dầu và ##Hạt Điều##. ##Hạt Điều## không có mùi vị gì nhưng khi dùng có thể cho màu sắc cho món ăn.";
@@ -2082,9 +2001,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Annatto Oil Introduction 2 (VoiceOver) */
 "AnnattoOil.Introduction.2.Accessibility.us" = "Công thức này làm khoảng một phần tư cốc.";
 "AnnattoOil.Introduction.2.Accessibility.metric" = "Công thức này làm khoảng 60 mililít.";
-
-/* Annatto Oil Ingredients Header */
-"AnnattoOil.Ingredients.Header" = "Nguyên Liệu";
 
 /* Annatto Oil Ingredients 1 */
 "AnnattoOil.Ingredients.1.us" = "1½ tbsp";
@@ -2101,12 +2017,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Annatto Oil Ingredients 2 (VoiceOver) */
 "AnnattoOil.Ingredients.2.Accessibility.us" = "một phần tư cốc";
 "AnnattoOil.Ingredients.2.Accessibility.metric" = "60 mililít";
-
-/* Annatto Oil Instructions Header */
-"AnnattoOil.Instructions.Header" = "Cách Làm";
-
-/* Annatto Oil Instructions Step 1 */
-"AnnattoOil.Instructions.Step.1" = "Bước 1";
 
 /* Annatto Oil Ingredients Step 1 Part 1 */
 "AnnattoOil.Instructions.Step.1.Part.1" = "Cho ##Hạt Điều## và ##Dầu## vào trong một cái nồi nhỏ.";
@@ -2138,9 +2048,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Annatto Oil Ingredients Step 1 Note 1 (VoiceOver) */
 "AnnattoOil.Instructions.Step.1.Note.1.Accessibility" = "Hạt Điều có thể tìm ở những chợ Châu Á.";
 
-/* Annatto Oil Instructions Step 2 */
-"AnnattoOil.Instructions.Step.2" = "Bước 2";
-
 /* Annatto Oil Ingredients Step 2 Part 1 */
 "AnnattoOil.Instructions.Step.2.Part.1" = "Lược ##Hạt Điều## ra và giữ lại ##Dầu Hạt Điều##.";
 
@@ -2159,23 +2066,14 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Annatto Oil Ingredients Step 2 Note 2 (VoiceOver) */
 "AnnattoOil.Instructions.Step.2.Note.2.Accessibility" = "Đừng quên viết ngày lên trên ngoài của cái hủ để nhớ khi Dầu Hạt Điều hết hạn.";
 
-/* Annatto Oil How To Header */
-"AnnattoOil.HowTo.Header" = "Cách Thưởng Thức";
-
 /* Annatto Oil How To 1 */
 "AnnattoOil.HowTo.1" = "Một vài giọt ##Dầu Hạt Điều## là đủ cho màu cho một món ăn.";
 
 /* Annatto Oil How To 1 (VoiceOver) */
 "AnnattoOil.HowTo.1.Accessibility" = "Một vài giọt Dầu Hạt Điều là đủ cho màu cho một món ăn.";
 
-/* Annatto Oil Used In Header */
-"AnnattoOil.UsedIn.Header" = "Dùng Trong";
-
 
 // MARK: Do Chua (Pickled Carrot and Daikon) Page
-
-/* Pickles Main Image (VoiceOver) */
-"Pickles.Main.Image" = "Thông tin.";
 
 /* Pickles Introduction 1 */
 "Pickles.Introduction.1" = "##Đồ Chua## là một món trang trí ngọt ngào và thơm.";
@@ -2186,9 +2084,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pickles Introduction 2 */
 "Pickles.Introduction.2.us" = "Công thức này làm khoảng 1 lb.";
 "Pickles.Introduction.2.metric" = "This recipe yields about 450 g.";
-
-/* Pickles Ingredients Header */
-"Pickles.Ingredients.Header" = "Nguyên Liệu";
 
 /* Pickles Ingredients Carrot Amount */
 "Pickles.Ingredients.Carrot.Amount.us" = "½ lb";
@@ -2238,12 +2133,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Pickles.Ingredients.Water.AccessibilityAmount.us" = "một nửa cốc nước ấm";
 "Pickles.Ingredients.Water.AccessibilityAmount.metric" = "120 mililít nước ấm";
 
-/* Pickles Instructions Header */
-"Pickles.Instructions.Header" = "Cách Làm";
-
-/* Pickles Instructions Step 1 */
-"Pickles.Instructions.Step.1" = "Bước 1";
-
 /* Pickles Instructions Step 1 Part 1 */
 "Pickles.Instructions.Step.1.Part.1.us" = "Cắt ##Cà Rốt## và ##Củ Cải Trắng## thành sợ nhỏ giày khoảng ⅛ in.";
 "Pickles.Instructions.Step.1.Part.1.metric" = "Cắt ##Cà Rốt## và ##Củ Cải Trắng## thành sợ nhỏ giày khoảng 3 mm.";
@@ -2251,7 +2140,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pickles Instructions Step 1 Part 1 (VoiceOver) */
 "Pickles.Instructions.Step.1.Part.1.Accessibility.us" = "Cắt Cà Rốt và Củ Cải Trắng thành sợ nhỏ giày khoảng một phần tám in.";
 "Pickles.Instructions.Step.1.Part.1.Accessibility.metric" = "Cắt Cà Rốt và Củ Cải Trắng thành sợ nhỏ giày khoảng 3 milimét.";
-
 
 /* Pickles Instructions Step 1 Note 1 */
 "Pickles.Instructions.Step.1.Note.1" = "Nên nhớ lột vỏ ##Cà Rốt## và ##Củ Cải Trắng## và rửa sạch trước khi cắt nhỏ.";
@@ -2267,9 +2155,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Pickles Instructions Step 1 Note 3 (VoiceOver) */
 "Pickles.Instructions.Step.1.Note.3.Accessibility" = "Độ dày của Cà Rốt và Củ Cải Trắng thì tùy ý nhưng nếu dày quá thì thời gian ướp sẽ lâu hơn.";
-
-/* Pickles Instructions Step 2 */
-"Pickles.Instructions.Step.2" = "Bước 2";
 
 /* Pickles Instructions Step 2 Part 1 */
 "Pickles.Instructions.Step.2.Part.1" = "Sau khi cắt ##Cà Rốt## và ##Củ Cải Trắng## xong thì bỏ vào tô.";
@@ -2295,17 +2180,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pickles Instructions Step 2 Note (VoiceOver) */
 "Pickles.Instructions.Step.2.Note.1.Accessibility" = "Muối sẽ kéo nước ra từ trong Cà Rốt và Củ Cải Trắng.";
 
-/* Pickles Instructions Step 3 */
-"Pickles.Instructions.Step.3" = "Bước 3";
-
 /* Pickles Instructions Step 3 Part 1 */
 "Pickles.Instructions.Step.3.Part.1" = "Rửa ##Cà Rốt## và ##Củ Cải Trắng## để bỏ chức muối.";
 
 /* Pickles Instructions Step 3 Part 1 (VoiceOver) */
 "Pickles.Instructions.Step.3.Part.1.Accessibility" = "Rửa Cà Rốt và Củ Cải Trắng để bỏ chức muối.";
-
-/* Pickles Instructions Step 4 */
-"Pickles.Instructions.Step.4" = "Bước 4";
 
 /* Pickles Instructions Step 4 Part 1 */
 "Pickles.Instructions.Step.4.Part.1" = "Quậy chung ##Đường##, ##Giấm Trắng##, và ##Nước## ấm sau đó chuyển vào một cái hũ.";
@@ -2331,9 +2210,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pickles Instructions Step 4 Note 2 */
 "Pickles.Instructions.Step.4.Note.2" = "Đừng quên viết ngày lên trên bìa của cái hủ để nhớ khi ##Đồ Chua## hết hạn.";
 
-/* Pickles How To Header */
-"Pickles.HowTo.Header" = "Cách Thưởng Thức";
-
 /* Pickles How To 1 */
 "Pickles.HowTo.1" = "##Đồ Chua## là một món thường dùng trong đồ ăn Việt Nam.";
 
@@ -2352,23 +2228,14 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pickles How To 3 (VoiceOver) */
 "Pickles.HowTo.3.Accessibility" = "Đổ bỏ nước trong Đồ Chua trước khi ăn.";
 
-/* Pickles Used In Header */
-"Pickles.UsedIn.Header" = "Dùng Trong";
-
 
 // MARK: Mo Hanh (Scallion and Oil Garnish) Page
-
-/* Scallion and Oil Garnish Main Image (VoiceOver) */
-"ScallionOil.Main.Image" = "Thông tin.";
 
 /* Scallion and Oil Garnish Introduction */
 "ScallionOil.Introduction" = "##Mỡ Hành## là làm từ dầu ăn và ##Hành Lá## để cho muốn ăn như ##Cơm Tấm Thịt Nướng Chả## và ##Bún Thịt Nướng Chả Giò## được mùi vị càng thơm ngon.";
 
 /* Scallion and Oil Garnish Introduction (VoiceOver) */
 "ScallionOil.Introduction.Accessibility" = "Mỡ Hành là làm từ dầu ăn và Hành Lá để cho muốn ăn như Cơm Tấm Thịt Nướng Chả và Bún Thịt Nướng Chả Giò được mùi vị càng thơm ngon.";
-
-/* Scallion and Oil Garnish Ingredients Header */
-"ScallionOil.Ingredients.Header" = "Nguyên Liệu";
 
 /* Scallion and Oil Garnish Ingredients Green Onion Amount */
 "ScallionOil.Ingredients.GreenOnion.Amount.us" = "1 cọng";
@@ -2380,9 +2247,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Scallion and Oil Garnish Ingredients Oil Amount (VoiceOver) */
 "ScallionOil.Ingredients.Oil.AccessibilityAmount" = "1 đến 2 muỗng canh";
-
-/* Scallion and Oil Garnish Instructions Header */
-"ScallionOil.Instructions.Header" = "Cách Làm";
 
 /* Scallion and Oil Garnish Instructions 1 */
 "ScallionOil.Instructions.1" = "Cắt nhỏ ##Hành Lá## và cho vào tô.";
@@ -2402,23 +2266,14 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Scallion and Oil Garnish Instructions 3 (VoiceOver) */
 "ScallionOil.Instructions.3.Accessibility" = "Để tô vô máy hâm nóng để hấp nóng khoảng 20 đến 30 giây.";
 
-/* Scallion and Oil Garnish How To Header */
-"ScallionOil.HowTo.Header" = "Cách Thưởng Thức";
-
 /* Scallion and Oil Garnish How To 1 */
 "ScallionOil.HowTo.1" = "Thêm ##Mỡ Hành## lên những loại thịt nướng để càng thơm ngon.";
 
 /* Scallion and Oil Garnish How To 1 (VoiceOver) */
 "ScallionOil.HowTo.1.Accessibility" = "Thêm Mỡ Hành lên những loại thịt nướng để càng thơm ngon.";
 
-/* Scallion and Oil Garnish Used In Header */
-"ScallionOil.UsedIn.Header" = "Dùng Trong";
-
 
 // MARK: Nuoc Mam Cham (Mixed Fish Sauce) Page
-
-/* Mixed Fish Sauce Main Image (VoiceOver) */
-"MixedFishSauce.Main.Image" = "Thông tin.";
 
 /* Mixed Fish Sauce Introduction 1 */
 "MixedFishSauce.Introduction.1" = "##Nước Mắm Chấm## là dùng để thêm mùi vị cho những món ăn tầm thường.";
@@ -2434,9 +2289,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Mixed Fish Sauce Introduction 2 (VoiceOver) */
 "MixedFishSauce.Introduction.2.Accessibility.us" = "Công thức này làm thành một và một nửa cốc.";
 "MixedFishSauce.Introduction.2.Accessibility.metric" = "Công thức này làm thành 360 mililít.";
-
-/* Mixed Fish Sauce Ingredients Header */
-"MixedFishSauce.Ingredients.Header" = "Nguyên Liệu";
 
 /* Mixed Fish Sauce Ingredients Fish Sauce Amount */
 "MixedFishSauce.FishSauce.Amount.us" = "5 tbsp";
@@ -2482,12 +2334,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Mixed Fish Sauce Ingredients Chili Amount (VoiceOver) */
 "MixedFishSauce.Chili.AccessibilityAmount" = "một nửa muỗng cà phê";
 
-/* Mixed Fish Sauce Instructions Header */
-"MixedFishSauce.Instructions.Header" = "Cách Làm";
-
-/* Mixed Fish Sauce Instructions Step 1 */
-"MixedFishSauce.Instructions.Step.1" = "Bước 1";
-
 /* Mixed Fish Sauce Instructions Step 1 Part 1 */
 "MixedFishSauce.Instructions.Step.1.Part.1" = "Thêm ##Nước Mắm##, ##Nước Chanh## và ##Nước## vào tô.";
 
@@ -2506,17 +2352,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Mixed Fish Sauce Instructions Step 1 Note 2 (VoiceOver) */
 "MixedFishSauce.Instructions.Step.1.Note.2.Accessibility" = "Nếu dùng Giấm Trắng thay thế cho Nước Chanh thì Nước Mắm Chấm sẽ có thể để lâu hơn, khoảng một tháng.";
 
-/* Mixed Fish Sauce Instructions Step 2 */
-"MixedFishSauce.Instructions.Step.2" = "Bước 2";
-
 /* Mixed Fish Sauce Instructions Step 2 Part 1 */
 "MixedFishSauce.Instructions.Step.2.Part.1" = "Bầm ##Tỏi## và cho vào tô.";
 
 /* Mixed Fish Sauce Instructions Step 2 Part 1 (VoiceOver) */
 "MixedFishSauce.Instructions.Step.2.Part.1.Accessibility" = "Bầm Tỏi và cho vào tô.";
-
-/* Mixed Fish Sauce Instructions Step 3 */
-"MixedFishSauce.Instructions.Step.3" = "Bước 3";
 
 /* Mixed Fish Sauce Instructions Step 3 Part 1 */
 "MixedFishSauce.Instructions.Step.3.Part.1" = "Thêm ##Đường##, ##Muối## và ##Ớt Đỏ## vào tô.";
@@ -2542,45 +2382,23 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Mixed Fish Sauce Instructions Step 3 Note 4 (VoiceOver) */
 "MixedFishSauce.Instructions.Step.3.Note.4.Accessibility" = "Đừng quên viết ngày lên bên ngoài của đồ đựng để nhớ khi Nước Mắm Chấm hết hạn.";
 
-/* Mixed Fish Sauce How To Header */
-"MixedFishSauce.HowTo.Header" = "Cách Thưởng Thức";
-
 /* Mixed Fish Sauce How To 1 */
 "MixedFishSauce.HowTo.1" = "##Nước Mắm Chấm## lai dùng để chấm và thêm mùi vị cho món ăn.";
 
 /* Mixed Fish Sauce How To 1 (VoiceOver) */
 "MixedFishSauce.HowTo.1.Accessibility" = "Nước Mắm Chấm lai dùng để chấm và thêm mùi vị cho món ăn.";
 
-/* Mixed Fish Sauce Used In Header */
-"MixedFishSauce.UsedIn.Header" = "Dùng Trong";
-
 
 // MARK: Rau (Leafy Greens) Page
-
-/* Leafy Greens Main Image (VoiceOver) */
-"LeafyGreens.Main.Image" = "Thông tin.";
 
 /* Leafy Greens Introduction */
 "LeafyGreens.Introduction" = "##Rau## rất là quan trọng trong món ăn Việt Nam. Hoàn toàn tức cả món ăn Việt Nam sẽ trình bày với một dĩa ##Rau## bên cạnh. Dùng loại ##Rau## nào thì sẽ tùy món ăn đó.";
 
-/* Leafy Greens Ingredients Header */
-"LeafyGreens.Ingredients.Header" = "Nguyên Liệu";
-
-/* Leafy Greens How To Header */
-"LeafyGreens.HowTo.Header" = "Cách Thưởng Thức";
-
 /* Leafy Greens How To 1 */
 "LeafyGreens.HowTo.1" = "##Rau## là dùng để ăn sống.";
 
-/* Leafy Greens Used In Header */
-"LeafyGreens.UsedIn.Header" = "Dùng Trong";
-
-
 
 // MARK: Sot Mayonnaise (Mayonnaise) Page
-
-/* Mayo Main Image (VoiceOver) */
-"Mayo.Main.Image" = "Thông tin.";
 
 /* Mayo Introduction 1 */
 "Mayo.Introduction.1" = "##Sốt Mayonnaise## đến tới Việt Nam qua sự ảnh hưởng của Phá và thông thường dùng trong món ##Bánh Mì##.";
@@ -2592,9 +2410,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Mayo.Introduction.2" = "Công thức này làm 1 cup.";
 "Mayo.Introduction.2.us" = "Công thức này làm 1 cup.";
 "Mayo.Introduction.2.metric" = "Công thức này làm 240 mL.";
-
-/* Mayo Ingredients Header */
-"Mayo.Ingredients.Header" = "Nguyên Liệu";
 
 /* Mayo Ingredients EggYolk Amount */
 "Mayo.Ingredients.EggYolk.Amount" = "2 chồng";
@@ -2610,12 +2425,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Mayo Ingredients Salt Amount (VoiceOver) */
 "Mayo.Ingredients.Salt.AccessibilityAmount" = "một nửa muỗng cà phê";
 
-/* Mayo Instructions Header */
-"Mayo.Instructions.Header" = "Cách Làm";
-
-/* Mayo Instructions Step 1 */
-"Mayo.Instructions.Step.1" = "Bước 1";
-
 /* Mayo Instructions Step 1 Part 1 */
 "Mayo.Instructions.Step.1.Part.1" = "Chuyện ##Lòng Đỏ Trứng## vào tô.";
 
@@ -2627,9 +2436,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Mayo Instructions Step 1 Part 2 (VoiceOver) */
 "Mayo.Instructions.Step.1.Part.2.Accessibility" = "Đánh Lòng Đỏ Trứng với nhau ở số nhỏ của máy trộn cầm tay.";
-
-/* Mayo Instructions Step 2 */
-"Mayo.Instructions.Step.2" = "Bước 2";
 
 /* Mayo Instructions Step 2 Part 1 */
 "Mayo.Instructions.Step.2.Part.1" = "Trong khi đánh ##Lòng Đỏ Trứng## từ từ thêm ##Dầu## vào với trứng.";
@@ -2652,9 +2458,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Mayo Instructions Step 2 Note 3 */
 "Mayo.Instructions.Step.2.Note.3" = "Loại dầu ăn nào cũng dùng được, thí dụ như là ##Dầu Ô Liu## hoặc ##Dầu Bắp##.";
 
-/* Mayo Instructions Step 3 */
-"Mayo.Instructions.Step.3" = "Bước 3";
-
 /* Mayo Instructions Step 3 Part 1 */
 "Mayo.Instructions.Step.3.Part.1" = "Tiếp tục đánh ##Lòng Đỏ Trứng## và thêm ##Muối## vào.";
 
@@ -2670,23 +2473,14 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Mayo Instructions Step 3 Note 2 */
 "Mayo.Instructions.Step.3.Note.2" = "Đừng quên viết ngày lên bên ngoài của đồ đựng để nhớ khi sốt hết hạn.";
 
-/* Mayo How To Header */
-"Mayo.HowTo.Header" = "Cách Thưởng Thức";
-
 /* Mayo How To 1 */
 "Mayo.HowTo.1" = "##Sốt Mayonnaise## là dùng để chiếc ##Bánh Mì##.";
 
 /* Mayo How To 1 (VoiceOver) */
 "Mayo.HowTo.1.Accessibility" = "Sốt Mayonnaise là dùng để chiếc Bánh Mì.";
 
-/* Mayo Used In Header */
-"Mayo.UsedIn.Header" = "Dùng Trong";
-
 
 // MARK: Thit Nuong (Grilled Pork) Page
-
-/* Grilled Pork Main Image (VoiceOver) */
-"GrilledPork.Main.Image" = "Thông tin.";
 
 /* Grilled Pork Introduction 1 */
 "GrilledPork.Introduction.1" = "##Thịt Nướng## là dùng nhắn tắc cho ##Thịt Heo Nướng##. ##Thịt Nướng## có mùi vị thơm ngon rất phù hợp ăn với bún hoặc cơm.";
@@ -2696,9 +2490,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Grilled Pork Introduction 2 */
 "GrilledPork.Introduction.2" = "Công thức này làm cho khoảng 2 người ăn.";
-
-/* Grilled Pork Ingredients Header */
-"GrilledPork.Ingredients.Header" = "Nguyên Liệu";
 
 /* Grilled Pork Ingredients Raw Pork Amount */
 "GrilledPork.Ingredients.RawPork.Amount.us" = "½ lb";
@@ -2748,12 +2539,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Grilled Pork Ingredients Oil (VoiceOver) */
 "GrilledPork.Ingredients.Oil.AccessibilityAmount" = "1 đến 2 muỗng canh";
 
-/* Grilled Pork Instructions Header */
-"GrilledPork.Instructions.Header" = "Cách Làm";
-
-/* Grilled Pork Instructions Step 1 */
-"GrilledPork.Instructions.Step.1" = "Bước 1";
-
 /* Grilled Pork Instructions Step 1 Part 1 */
 "GrilledPork.Instructions.Step.1.Part.1" = "Chuyển ##Thịt Heo## vào tô.";
 
@@ -2778,9 +2563,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Grilled Pork Instructions Step 1 Note 4 */
 "GrilledPork.Instructions.Step.1.Note.4" = "Công thức này cũng có thể dùng với thịt bò hoặc thịt gà.";
 
-/* Grilled Pork Instructions Step 2 */
-"GrilledPork.Instructions.Step.2" = "Bước 2";
-
 /* Grilled Pork Instructions Step 2 Part 1 */
 "GrilledPork.Instructions.Step.2.Part.1" = "Bầm nhỏ ##Tỏi##, ##Sả##, và ##Hẹ Tây##.";
 
@@ -2793,9 +2575,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Grilled Pork Instructions Step 2 Note */
 "GrilledPork.Instructions.Step.2.Note.1" = "Nếu cần bầm nhiêu nguyên liệu thì có thể dùng máy xay thì sẽ dễ hơn.";
 
-/* Grilled Pork Instructions Step 3 */
-"GrilledPork.Instructions.Step.3" = "Bước 3";
-
 /* Grilled Pork Instructions Step 3 Part 1 */
 "GrilledPork.Instructions.Step.3.Part.1" = "Trộn đều tất cả nguyên liệu trong tô.";
 
@@ -2804,9 +2583,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Grilled Pork Instructions Step 3 Part 1 (VoiceOver) */
 "GrilledPork.Instructions.Step.3.Part.2.Accessibility" = "Sau khi trộn đều nguyên liệu để Thịt Heo ướp ít nhất khoảng 30 phút.";
-
-/* Grilled Pork Instructions Step 4 */
-"GrilledPork.Instructions.Step.4" = "Bước 4";
 
 /* Grilled Pork Instructions Step 4 Part 1 */
 "GrilledPork.Instructions.Step.4.Part.1" = "Dùng một cái chảo không dính và mở lửa lên từ trung bình tới cao sau đó thêm một đến hai muỗng canh ##Dầu## ăn.";
@@ -2831,23 +2607,14 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Grilled Pork Instructions Step 4 Note (VoiceOver) */
 "GrilledPork.Instructions.Step.4.Note.1.Accessibility" = "Nếu mà muốn mùi vị càng thơm ngon thì có thể dùng than để nướng.";
 
-/* Grilled Pork How To Header */
-"GrilledPork.HowTo.Header" = "Cách Thưởng Thức";
-
 /* Grilled Pork How To 1 */
 "GrilledPork.HowTo.1" = "##Thịt Nướng## có thể ăn với bún hoặc cơm.";
 
 /* Grilled Pork How To 1 (VoiceOver) */
 "GrilledPork.HowTo.1.Accessibility" = "Thịt Nướng có thể ăn với bún hoặc cơm.";
 
-/* Grilled Pork UsedIn Header */
-"GrilledPork.UsedIn.Header" = "Dùng Trong";
-
 
 // MARK: Thit Ba Roi Xao Voi Dau Hao (Pork Belly with Oyster Sauce) Page
-
-/* Pork Belly with Oyster Sauce Main Image (VoiceOver) */
-"PorkBellyWithOysterSauce.Main.Image" = "Thông tin.";
 
 /* Pork Belly with Oyster Sauce Introduction 1 */
 "PorkBellyWithOysterSauce.Introduction.1" = "##Thịt Ba Rọi Xào Dầu Hào## là một món ăn rất đơn giản nhưng ngon.Vì ##Thịt Bà Rọi Xào Dầu Hào## rất mặn và ngon nên ăn với cơm trắng nóng hổi cũng rất tuyệt.";
@@ -2857,9 +2624,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Pork Belly with Oyster Sauce Introduction 2 */
 "PorkBellyWithOysterSauce.Introduction.2" = "Công thức này làm cho 1 người ăn.";
-
-/* Pork Belly with Oyster Sauce Ingredients Header */
-"PorkBellyWithOysterSauce.Ingredients.Header" = "Nguyên Liệu";
 
 /* Pork Belly with Oyster Sauce Ingredients Pork Belly Amount */
 "PorkBellyWithOysterSauce.Ingredients.PorkBelly.Amount.us" = "3-4 oz";
@@ -2890,12 +2654,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pork Belly with Oyster Sauce Ingredients Pepper Amount (VoiceOver) */
 "PorkBellyWithOysterSauce.Ingredients.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
 
-/* Pork Belly with Oyster Sauce Instructions Header */
-"PorkBellyWithOysterSauce.Instructions.Header" = "Cách Làm";
-
-/* Pork Belly with Oyster Sauce Instructions Step 1 */
-"PorkBellyWithOysterSauce.Instructions.Step.1" = "Bước 1";
-
 /* Pork Belly with Oyster Sauce Instructions Step 1 Part 1 */
 "PorkBellyWithOysterSauce.Instructions.Step.1.Part.1" = "Cắt ##Thịt Ba Rọi## thành miếng vừa ăn.";
 
@@ -2913,9 +2671,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Pork Belly with Oyster Sauce Instructions Step 1 Note 2 (VoiceOver) */
 "PorkBellyWithOysterSauce.Instructions.Step.1.Note.2.Accessibility" = "Hoặc bạn có thể mua một miếng Thịt Ba Rọi và tự cắt ra.";
-
-/* Pork Belly with Oyster Sauce Instructions Step 2 */
-"PorkBellyWithOysterSauce.Instructions.Step.2" = "Bước 2";
 
 /* Pork Belly with Oyster Sauce Instructions Step 2 Part 1 */
 "PorkBellyWithOysterSauce.Instructions.Step.2.Part.1" = "Cho ##Thịt Ba Rọi## vào chảo với lửa khoảng trung bình đến cao.";
@@ -2935,9 +2690,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pork Belly with Oyster Sauce Instructions Step 2 Note 1 (VoiceOver) */
 "PorkBellyWithOysterSauce.Instructions.Step.2.Note.1.Accessibility" = "Không cần thêm dầu vì Thịt Ba Rọi sẽ tiết dầu khi nấu.";
 
-/* Pork Belly with Oyster Sauce Instructions Step 3 */
-"PorkBellyWithOysterSauce.Instructions.Step.3" = "Bước 3";
-
 /* Pork Belly with Oyster Sauce Instructions Step 3 Part 1 */
 "PorkBellyWithOysterSauce.Instructions.Step.3.Part.1" = "Thêm ##Dầu Hào##, ##Đường##, và ##Tiêu Đen##.";
 
@@ -2950,9 +2702,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pork Belly with Oyster Sauce Instructions Step 3 Part 2 (VoiceOver) */
 "PorkBellyWithOysterSauce.Instructions.Step.3.Part.2.Accessibility" = "Xào mọi thứ đều.";
 
-/* Pork Belly with Oyster Sauce How To Header */
-"PorkBellyWithOysterSauce.HowTo.Header" = "Cách Thưởng Thức";
-
 /* Pork Belly with Oyster Sauce How To 1 */
 "PorkBellyWithOysterSauce.HowTo.1" = "Món ##Thịt Ba Rọi Xào Dầu Hào## này ăn với cơm rất ngon.";
 
@@ -2964,9 +2713,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Pork Belly with Oyster Sauce How To 2 (VoiceOver) */
 "PorkBellyWithOysterSauce.HowTo.2.Accessibility" = "Món này thay thế cho Thịt Ba Rọi thường trong Bánh Xèo cũng rất ngon.";
-
-/* Pork Belly with Oyster Sauce Used In Header */
-"PorkBellyWithOysterSauce.UsedIn.Header" = "Dùng Trong";
 
 
 // MARK: Bo Luc Lac (Shaken Beef) Entree Page
