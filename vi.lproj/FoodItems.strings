@@ -234,6 +234,11 @@
 "oysterSauce.AccessibilitySubtitle" = "Dầu Hào";
 "oysterSauce.AccessibilityPageTitle" = "Dầu Hào";
 
+/* Rice */
+"rice.Subtitle" = "Rice";
+"rice.AccessibilitySubtitle" = "Cơm";
+"rice.AccessibilityPageTitle" = "Cơm";
+
 /* Soy Sauce */
 "soySauce.Subtitle" = "Soy Sauce";
 "soySauce.AccessibilitySubtitle" = "Nước Tương";

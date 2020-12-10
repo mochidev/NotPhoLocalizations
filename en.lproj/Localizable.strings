@@ -3682,33 +3682,140 @@
 /* Soy Sauce Introduction (VoiceOVer) */
 "SoySauce.Introduction.Accessibility" = "Soy sauce is traditionally made from fermenting soy bean, salt, wheat, and water over a period of months. However, some brands of soy sauce are made from acid hydrolyzed protein that could take just a few days. Whether one is better for your health or not is up to you to decide, but for me it is all about the taste.";
 
+/* Soy Sauce Types 1 */
 "SoySauce.Types.1" = "There are two types of ##Nước Tương## (soy sauce); one focuses on color and the other on flavor. The term ##light## or ##dark## often refers to the color of the sauce, not the saltiness. Some ##light## soy sauces can be saltier than ##dark## ones.";
 
+/* Soy Sauce Types 1 (VoiceOVer) */
 "SoySauce.Types.1.Accessibility" = "There are two types of soy sauce; one focuses on color and the other on flavor. The term light or dark often refers to the color of the sauce, not the saltiness. Some light soy sauces can be saltier than dark ones.";
 
+/* Soy Sauce Types 2 */
 "SoySauce.Types.2" = "You would need to experiment to see which type of ##Nước Tương## (soy sauce) is better for your taste.";
 
+/* Soy Sauce Types 2 (VoiceOVer) */
 "SoySauce.Types.2.Accessibility" = "You would need to experiment to see which type of soy sauce is better for your taste.";
 
+/* Soy Sauce Brands Golden Mountain Soy Sauce (VoiceOVer) */
 "SoySauce.Brands.1.AccessibilityLabel" = "Golden Mountain Soy Sauce";
 
+/* Soy Sauce Brands 1 */
 "SoySauce.Brands.1" = "Brands like ##Golden Mountain## and ##Maggi## are very popular amongst Vietnamese households, but I favor ##Golden Mountain## more than ##Maggi## because it has a sweeter aroma.";
 
+/* Soy Sauce Brands 1 (VoiceOVer) */
 "SoySauce.Brands.1.Accessibility" = "Brands like Golden Mountain and Maggi are very popular amongst Vietnamese households, but I favor Golden Mountain soy sauce more than Maggi because it has a sweeter aroma.";
 
+/* Soy Sauce Brands Kikkoman Soy Sauce (VoiceOVer) */
 "SoySauce.Brands.2.AccessibilityLabel" = "Kikkoman Soy Sauce";
 
+/* Soy Sauce Brands 2 */
 "SoySauce.Brands.2" = "In recent years, I like to use a Japanese style soy sauce called ##Usukuchi## (pale mouth) soy sauce because it has a smoky taste, light in color, and less salty. ";
 
+/* Soy Sauce Brands 2 (VoiceOVer) */
 "SoySauce.Brands.2.Accessibility" = "In recent years, I like to use a Japanese style soy sauce called Usukuchi, meaning pale mouth, soy sauce because it has a smoky taste, light in color, and less salty. ";
 
+/* Soy Sauce How To 1 */
 "SoySauce.HowTo.1" = "I alternate between ##Golden Mountain## and ##Kikkoman Usukuchi## soy sauce based on the flavor profile I want.";
 
+/* Soy Sauce How To 1 (VoiceOVer) */
 "SoySauce.HowTo.1.Accessibility" = "I alternate between Golden Mountain and Kikkoman Usukuchi soy sauce based on the flavor profile I want.";
 
+/* Soy Sauce How To 2 */
 "SoySauce.HowTo.2" = "I use ##Golden Mountain## in ##Cơm Chiên Tôm## (shrimp fried rice) and ##Kikkoman Usukuchi## in ##Bò Lúc Lắc## (shaken beef).";
 
+/* Soy Sauce How To 2 (VoiceOVer) */
 "SoySauce.HowTo.2.Accessibility" = "I use Golden Mountain in shrimp fried rice and Kikkoman Usukuchi in shaken beef.";
+
+
+// MARK: Com (Rice) Page
+
+/* Rice Introduction */
+"Rice.Introduction" = "##Cơm## (rice) is a staple food of Asian cuisine, and it is often paired with many delicious dishes. A perfectly cooked rice is when each individual grain of rice still hold its shape, the ##Cơm## (rice) is soft but not mushy, and the rice definitely is not dry.";
+
+/* Rice Introduction (VoiceOVer) */
+"Rice.Introduction.Accessibility" = "Rice is a staple food of Asian cuisine, and it is often paired with many delicious dishes. A perfectly cooked rice is when each individual grain of rice still hold its shape, the rice is soft but not mushy, and the rice definitely is not dry.";
+
+/* Rice Types 1 */
+"Rice.Types.1" = "There are many types of rice grain, and they are categorized by their size and shape.";
+
+/* Rice Types 1 (VoiceOVer) */
+"Rice.Types.1.Accessibility" = "There are many types of rice grain, and they are categorized by their size and shape.";
+
+/* Rice Types 2 */
+"Rice.Types.2" = "There are two varieties that I use; one is ##Jasmine rice## and the other is ##Japanese Sekka rice##.";
+
+/* Rice Types 2 (VoiceOVer) */
+"Rice.Types.2.Accessibility" = "There are two varieties that I use; one is Jasmine rice and the other is Japanese Sekka rice.";
+
+/* Rice Types 3 */
+"Rice.Types.3" = "##Jasmine rice## is a long grain type that is long and slender, but not as long and slender as ##Basmati rice##.";
+
+/* Rice Types 3 (VoiceOVer) */
+"Rice.Types.3.Accessibility" = "Jasmine rice is a long grain type that is long and slender, but not as long and slender as Basmati rice.";
+
+/* Rice Types 4 */
+"Rice.Types.4" = "##Japanese Sekka rice## is a medium grain type that is more round and slightly shorter than ##Jasmine rice##.";
+
+/* Rice Types 4 (VoiceOVer) */
+"Rice.Types.4.Accessibility" = "Japanese Sekka rice is a medium grain type that is more round and slightly shorter than Jasmine rice.";
+
+/* Rice Brands Jasmine (VoiceOVer) */
+"Rice.Brands.Jasmine.AccessibilityLabel" = "Jasmine Rice";
+
+/* Rice Brands Jasmine 1 */
+"Rice.Brands.Jasmine.1" = "I grew up eating ##Jasmine rice## (long-grain) variety nearly every day, and my family usually go for the ##Three Ladies## brand or the ##Buddha## brand.";
+
+/* Rice Brands Jasmine 1 (VoiceOVer) */
+"Rice.Brands.Jasmine.1.Accessibility" = "I grew up eating Jasmine rice (long-grain) variety nearly every day, and my family usually go for the Three Ladies brand or the Buddha brand.";
+
+/* Rice Brands Jasmine 2 */
+"Rice.Brands.Jasmine.2" = "These two brands are pretty similar in aroma and taste so we usually get which ever is on sale.";
+
+/* Rice Brands Jasmine 2 (VoiceOVer) */
+"Rice.Brands.Jasmine.2.Accessibility" = "These two brands are pretty similar in aroma and taste so we usually get which ever is on sale.";
+
+/* Rice Brands Jasmine 3 */
+"Rice.Brands.Jasmine.3" = "When cooked right, the rice is soft and tasty.";
+
+/* Rice Brands Jasmine 3 (VoiceOVer) */
+"Rice.Brands.Jasmine.3.Accessibility" = "When cooked right, the rice is soft and tasty.";
+
+/* Rice Brands Sekka (VoiceOVer) */
+"Rice.Brands.Sekka.AccessibilityLabel" = "Japanese Sekka Rice";
+
+/* Rice Brands Sekka 1 */
+"Rice.Brands.Sekka.1" = "In recent years, I was introduced to a Japanese (medium-grain) variety of white rice called ##Sekka##, which is grown locally in California.";
+
+/* Rice Brands Sekka 1 (VoiceOVer) */
+"Rice.Brands.Sekka.1.Accessibility" = "In recent years, I was introduced to a Japanese (medium-grain) variety of white rice called Sekka, which is grown locally in California.";
+
+/* Rice Brands Sekka 2 */
+"Rice.Brands.Sekka.2" = "What I love about this rice is that it is very fluffy and has a nice sweet aroma.";
+
+/* Rice Brands Sekka 2 (VoiceOVer) */
+"Rice.Brands.Sekka.2.Accessibility" = "What I love about this rice is that it is very fluffy and has a nice sweet aroma.";
+
+/* Rice Brands Sekka 3 */
+"Rice.Brands.Sekka.3" = "This rice is great because you can enjoy it as plain white rice, make it into a fried rice, or use it to make sushi rice.";
+
+/* Rice Brands Sekka 3 (VoiceOVer) */
+"Rice.Brands.Sekka.3.Accessibility" = "This rice is great because you can enjoy it as plain white rice, make it into a fried rice, or use it to make sushi rice.";
+
+/* Rice Brands Sekka 4 */
+"Rice.Brands.Sekka.4" = "A bonus point on why I like this rice is because it comes in a really nice pink bag with sakura flowers on it, which are my favorite color and flower.";
+
+/* Rice Brands Sekka 4 (VoiceOVer) */
+"Rice.Brands.Sekka.4.Accessibility" = "A bonus point on why I like this rice is because it comes in a really nice pink bag with sakura flowers on it, which are my favorite color and flower.";
+
+/* Rice How To 1 */
+"Rice.HowTo.1" = "I alternate between ##Jasmine rice## and ##Japanese Sekka rice## based on what I have available at the time of cooking.";
+
+/* Rice How To 1 (VoiceOVer) */
+"Rice.HowTo.1.Accessibility" = "I alternate between Jasmine rice and Japanese rice based on what I have available at the time of cooking.";
+
+/* Rice How To 2 */
+"Rice.HowTo.2" = "However, my first choice would be ##Japanese Sekka rice## because I love the fluffiness of the rice.";
+
+/* Rice How To 2 (VoiceOVer) */
+"Rice.HowTo.2.Accessibility" = "However, my first choice would be Japanese Sekka rice because I love the fluffiness of the rice.";
 
 
 // MARK: - # About Tab:

@@ -3797,33 +3797,140 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Soy Sauce Introduction (VoiceOVer) */
 "SoySauce.Introduction.Accessibility" = "Theo truyền thống Nước tương hoặc Xì Dầu được làm từ đậu tương lên men, muối, lúa mì và nước trong thời gian nhiều tháng. Tuy nhiên, có một số nhãn hiệu nước tương được làm từ chất đạm thủy phân bằng axit có thể chỉ mất vài ngày.";
 
+/* Soy Sauce Types 1 */
 "SoySauce.Types.1" = "Có hai loại ##Nước Tương## (soy sauce); một tập trung vào màu sắc và một tập trung vào hương vị. Thuật ngữ ##light## (lợt) hoặc ##dark## (đậm) thường đề cập đến màu sắc của nước tương, không phải là độ mặn. Một số loại nước tương ##light## (lợt) có thể mặn hơn loại ##dark## (đậm).";
 
+/* Soy Sauce Types 1 (VoiceOVer) */
 "SoySauce.Types.1.Accessibility" = "Có hai loại nước tương; một tập trung vào màu sắc và một tập trung vào hương vị. Thuật ngữ lợt hoặc đậm thường đề cập đến màu sắc của nước tương, không phải là độ mặn. Một số loại nước tương lợt có thể mặn hơn loại đậm.";
 
+/* Soy Sauce Types 2 */
 "SoySauce.Types.2" = "Bạn nên thử nghiệm xem loại ##Nước Tương## (soy sauce) nào hợp khẩu vị của mình hơn.";
 
+/* Soy Sauce Types 2 (VoiceOVer) */
 "SoySauce.Types.2.Accessibility" = "Bạn nên thử nghiệm xem loại nước tương nào hợp khẩu vị của mình hơn.";
 
+/* Soy Sauce Brands Golden Mountain Soy Sauce (VoiceOVer) */
 "SoySauce.Brands.1.AccessibilityLabel" = "Nước Tương Golden Mountain";
 
+/* Soy Sauce Brands 1 */
 "SoySauce.Brands.1" = "Các nhãn hiệu như ##Golden Mountain## và ##Maggi## rất phổ biến trong các hộ gia đình Việt Nam, nhưng tôi thích nước tương ##Golden Mountain## hơn ##Maggi## vì nó có mùi thơm ngọt hơn.";
 
+/* Soy Sauce Brands 1 (VoiceOVer) */
 "SoySauce.Brands.1.Accessibility" = "Các nhãn hiệu như Golden Mountain và Maggi rất phổ biến trong các hộ gia đình Việt Nam, nhưng tôi thích nước tương Golden Mountain hơn Maggi vì nó có mùi thơm ngọt hơn.";
 
+/* Soy Sauce Brands Kikkoman Soy Sauce (VoiceOVer) */
 "SoySauce.Brands.2.AccessibilityLabel" = "Nước Tương Kikkoman";
 
+/* Soy Sauce Brands 2 */
 "SoySauce.Brands.2" = "Những năm gần đây, tôi thích dùng một loại nước tương kiểu Nhật tên là ##Usukuchi## nghĩa là nước tương nhạt miệng, vì nó có hương vị khói, màu lợt và ít mặn.";
 
+/* Soy Sauce Brands 2 (VoiceOVer) */
 "SoySauce.Brands.2.Accessibility" = "Những năm gần đây, tôi thích dùng một loại nước tương kiểu Nhật tên là Usukuchi, nghĩa là nước tương nhạt miệng, vì nó có hương vị khói, màu lợt và ít mặn.";
 
+/* Soy Sauce How To 1 */
 "SoySauce.HowTo.1" = "Tôi thay thế giữa nước tương ##Golden Mountain## và ##Kikkoman Usukuchi## tùy theo hương vị tôi muốn.";
 
+/* Soy Sauce How To 1 (VoiceOVer) */
 "SoySauce.HowTo.1.Accessibility" = "Tôi thay thế giữa nước tương Golden Mountain và Kikkoman Usukuchi tùy theo hương vị tôi muốn.";
 
+/* Soy Sauce How To 2 */
 "SoySauce.HowTo.2" = "Tôi dùng hiệu nước tương ##Golden Mountain## in ##Cơm Chiên Tôm## (shrimp fried rice) và hiệu ##Kikkoman Usukuchi## in ##Bò Lúc Lắc## (shaken beef).";
 
+/* Soy Sauce How To 2 (VoiceOVer) */
 "SoySauce.HowTo.2.Accessibility" = "Tôi dùng hiệu nước tương Golden Mountain trong cơm chiên tôm và hiệu Kikkoman Usukuchi trong Bò Lúc Lắc.";
+
+
+// MARK: Com (Rice) Page
+
+/* Rice Introduction */
+"Rice.Introduction" = "##Cơm## (rice) là một món quan trọng trong ẩm thực châu Á. Nếu muốn cơm ngon thì gạo cần thơm và mới.";
+
+/* Rice Introduction (VoiceOVer) */
+"Rice.Introduction.Accessibility" = "Cơm là một món quan trọng trong ẩm thực châu Á. Nếu muốn cơm ngon thì gạo cần thơm và mới.";
+
+/* Rice Types 1 */
+"Rice.Types.1" = "Có nhiều loại gạo và chúng được phân loại theo lớn hay nhỏ.";
+
+/* Rice Types 1 (VoiceOVer) */
+"Rice.Types.1.Accessibility" = "Có nhiều loại gạo và chúng được phân loại theo lớn hay nhỏ.";
+
+/* Rice Types 2 */
+"Rice.Types.2" = "Tôi sử dụng hai loại gạo, một là ##Gạo Thơm Hoa Nhài## (Jasmine rice) và một là ##Gạo Sekka Nhật Bản## (Japanese Sekka rice).";
+
+/* Rice Types 2 (VoiceOVer) */
+"Rice.Types.2.Accessibility" = "Tôi sử dụng hai loại gạo, một là Gạo Thơm Hoa Nhài và một là gạo Sekka Nhật Bản.";
+
+/* Rice Types 3 */
+"Rice.Types.3" = "Hạt ##Gạo Thơm Hoa Nhài## (Jasmine rice) dài, nhưng không dài như ##Gạo Basmati## (Basmati rice).";
+
+/* Rice Types 3 (VoiceOVer) */
+"Rice.Types.3.Accessibility" = "Hạt gạo Thơm Hoa Nhài dài, nhưng không dài như gạo basmati.";
+
+/* Rice Types 4 */
+"Rice.Types.4" = "##Gạo Sekka Nhật Bản## (Japanese Sekka rice) dài trung bình và tròn hơn ##Gạo Thơm Hoa Nhài## (Jasmine rice).";
+
+/* Rice Types 4 (VoiceOVer) */
+"Rice.Types.4.Accessibility" = "Gạo Sekka Nhật Bản dài trung bình và tròn hơn Gạo Thơm Hoa Nhài.";
+
+/* Rice Brands Jasmine (VoiceOVer) */
+"Rice.Brands.Jasmine.AccessibilityLabel" = "Gạo Thơm Hoa Nhài";
+
+/* Rice Brands Jasmine 1 */
+"Rice.Brands.Jasmine.1" = "Tôi lớn lên ăn ##Gạo Thơm Hoa Nhài## (Jasmine rice) gần như mỗi ngày và gia đình tôi thường mua nhãn hiệu ##Ba Cô Gái## hoặc nhãn hiệu ##Ông Địa##.";
+
+/* Rice Brands Jasmine 1 (VoiceOVer) */
+"Rice.Brands.Jasmine.1.Accessibility" = "Tôi lớn lên ăn Gạo Thơm Hoa Nhài (hạt dài) gần như mỗi ngày và gia đình tôi thường mua nhãn hiệu Ba Cô Gái hoặc nhãn hiệu Ông Địa.";
+
+/* Rice Brands Jasmine 2 */
+"Rice.Brands.Jasmine.2" = "Mùi thơm và vị của hai loại gạo này rất giống nhau.";
+
+/* Rice Brands Jasmine 2 (VoiceOVer) */
+"Rice.Brands.Jasmine.2.Accessibility" = "Mùi thơm và vị của hai loại gạo này rất giống nhau.";
+
+/* Rice Brands Jasmine 3 */
+"Rice.Brands.Jasmine.3" = "Khi nấu cơm đúng cách, cơm sẽ mềm và ngon.";
+
+/* Rice Brands Jasmine 3 (VoiceOVer) */
+"Rice.Brands.Jasmine.3.Accessibility" = "Khi nấu cơm đúng cách, cơm sẽ mềm và ngon.";
+
+/* Rice Brands Sekka (VoiceOVer) */
+"Rice.Brands.Sekka.AccessibilityLabel" = "Gạo Sekka Nhật Bản";
+
+/* Rice Brands Sekka 1 */
+"Rice.Brands.Sekka.1" = "Trong những năm gần đây, tôi đã thử một loại gạo trắng mới (hạt trung bình) của Nhật Bản có tên là ##Sekka##, được trồng tại địa phương ở California.";
+
+/* Rice Brands Sekka 1 (VoiceOVer) */
+"Rice.Brands.Sekka.1.Accessibility" = "Trong những năm gần đây, tôi đã thử một loại gạo trắng mới (hạt trung bình) của Nhật Bản có tên là Sekka, được trồng tại địa phương ở California.";
+
+/* Rice Brands Sekka 2 */
+"Rice.Brands.Sekka.2" = "Tôi thích gạo này vì nó rất mịn và có mùi thơm ngọt ngào.";
+
+/* Rice Brands Sekka 2 (VoiceOVer) */
+"Rice.Brands.Sekka.2.Accessibility" = "Tôi thích gạo này vì nó rất mịn và có mùi thơm ngọt ngào.";
+
+/* Rice Brands Sekka 3 */
+"Rice.Brands.Sekka.3" = "Gạo này rất tốt vì bạn có thể dùng làm cơm trắng, cơm chiên hoặc dùng để làm cơm sushi.";
+
+/* Rice Brands Sekka 3 (VoiceOVer) */
+"Rice.Brands.Sekka.3.Accessibility" = "Gạo này rất tốt vì bạn có thể dùng làm cơm trắng, cơm chiên hoặc dùng để làm cơm sushi.";
+
+/* Rice Brands Sekka 4 */
+"Rice.Brands.Sekka.4" = "Tôi thích loại gạo này vì nó được đựng trong một chiếc túi màu hồng rất đẹp với hoa anh đào trên đó, đó là màu sắc và loài hoa yêu thích của tôi.";
+
+/* Rice Brands Sekka 4 (VoiceOVer) */
+"Rice.Brands.Sekka.4.Accessibility" = "Tôi thích loại gạo này vì nó được đựng trong một chiếc túi màu hồng rất đẹp với hoa anh đào trên đó, đó là màu sắc và loài hoa yêu thích của tôi.";
+
+/* Rice How To 1 */
+"Rice.HowTo.1" = "Gia đình tôi dùng ##Gạo Sekka Nhật Bản## (Japanese Sekka rice) nhiều hơn ##Gạo Thơm Hoa Nhài## (Jasmine rice).";
+
+/* Rice How To 1 (VoiceOVer) */
+"Rice.HowTo.1.Accessibility" = "Gia đình tôi dùng Gạo Sekka Nhật Bản nhiều hơn Gạo Thơm Hoa Nhài.";
+
+/* Rice How To 2 */
+"Rice.HowTo.2" = "Nếu tôi không có ##Gạo Sekka Nhật Bản## (Japanese Sekka rice), tôi sẽ sử dụng ##Gạo Thơm Hoa Nhài## (Jasmine rice) để thay thế.";
+
+/* Rice How To 2 (VoiceOVer) */
+"Rice.HowTo.2.Accessibility" = "Nếu tôi không có Gạo Sekka Nhật Bản, tôi sẽ sử dụng Gạo Thơm Hoa Nhài để thay thế.";
 
 
 // MARK: - # About Tab:

@@ -191,6 +191,10 @@
 "oysterSauce.Subtitle" = "Oyster Sauce";
 "oysterSauce.AccessibilitySubtitle" = "Oyster Sauce";
 
+/* Rice */
+"rice.Subtitle" = "Rice";
+"rice.AccessibilitySubtitle" = "Rice";
+
 /* Soy Sauce */
 "soySauce.Subtitle" = "Soy Sauce";
 "soySauce.AccessibilitySubtitle" = "Soy Sauce";
