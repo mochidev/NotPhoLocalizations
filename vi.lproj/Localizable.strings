@@ -4154,7 +4154,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Subscription View Description Text 3 */
 /* Should be "" for English.
  Other languages should translate the following sentence and replace the "" with the translated version: "Not all Chef Club recipes will be localized at the moment, but will be available in English." */
-"SubscriptionView.DescriptionText.3" = "Hiện tại, không phải tất cả các món ăn và công thức của Câu Lạc Bộ Đầu Bếp đều được bản địa hóa nhưng sẽ có sẵn bằng tiếng Anh.";
+"SubscriptionView.DescriptionText.3" = "Hiện tại, không phải tất cả các món ăn và công thức của Câu Lạc Bộ Đầu Bếp đều được thông dịch nhưng sẽ có sẵn bằng tiếng Anh.";
 
 /* Subscription View Offer 1 Title */
 "SubscriptionView.Offer.1.Title" = "Đầu Bếp Tạm Thời";
