@@ -1758,6 +1758,14 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Egg Rolls Component Instructions Step 4 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Da Cuốn Chả Giò rất tầm thường có thể kiếm được ở rất nhiều chợ. Loại Da Cuốn Chả Giò này là làm từ lúa mì và rất là mỏng.";
 
+/* Egg Rolls Component Instructions Step 4 Note 2 */
+"EggRollsComponent.Instructions.Step.4.Note.2.us" = "##Da Cuốn Chả Giò## (egg Roll wrappers) có nhiều kích thước; kích thước tôi sử dụng là khoảng 7½ in.";
+"EggRollsComponent.Instructions.Step.4.Note.2.metric" = "##Da Cuốn Chả Giò## (egg Roll wrappers) có nhiều kích thước; kích thước tôi sử dụng là khoảng 19 cm.";
+
+/* Egg Rolls Component Instructions Step 4 Note 2 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility.us" = "Da Cuốn Chả Giò có nhiều kích thước; kích thước tôi sử dụng là khoảng 7½ in.";
+"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility.metric" = "Da Cuốn Chả Giò có nhiều kích thước; kích thước tôi sử dụng là khoảng 19 cm.";
+
 /* Egg Rolls Component Instructions Step 5 Part 1 */
 "EggRollsComponent.Instructions.Step.5.Part.1.us" = "Chiên ##Chả Giò## từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF.";
 "EggRollsComponent.Instructions.Step.5.Part.1.metric" = "Chiên ##Chả Giò## từ đợt trong dầu. Độ nóng của dầu khoảng 163ºC.";

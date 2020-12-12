@@ -1737,6 +1737,14 @@
 /* Egg Rolls Component Instructions Step 4 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Egg Roll wrappers can be found refrigerated at most grocery stores; they are made of wheat and are paper thin.";
 
+/* Egg Rolls Component Instructions Step 4 Note 2 */
+"EggRollsComponent.Instructions.Step.4.Note.2.us" = "##Da Cuốn Chả Giò## (egg Roll wrappers) come in many sizes; the size I use is approximately 7½ in.";
+"EggRollsComponent.Instructions.Step.4.Note.2.metric" = "##Da Cuốn Chả Giò## (egg Roll wrappers) come in many sizes; the size I use is approximately 19 cm.";
+
+/* Egg Rolls Component Instructions Step 4 Note 2 (VoiceOver) */
+"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility.us" = "Egg Roll wrappers come in many sizes; the size I use is approximately 7½ in.";
+"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility.metric" = "Egg Roll wrappers come in many sizes; the size I use is approximately 19 cm.";
+
 /* Egg Rolls Component Instructions Step 5 Part 1 */
 "EggRollsComponent.Instructions.Step.5.Part.1.us" = "Fry the ##Chả Giò## (egg rolls) in small batches in 325ºF oil.";
 "EggRollsComponent.Instructions.Step.5.Part.1.metric" = "Fry the ##Chả Giò## (egg rolls) in small batches in 163ºC oil.";
