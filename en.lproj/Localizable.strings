@@ -4153,3 +4153,69 @@
 
 /* Subscription Continuation Message - ties main content to subscription view */
 "SubscriptionView.ContinuationMessage" = "This recipe is continued and joined by many others in…";
+
+/* Subscription Status Unavailable */
+"SubscriptionStatus.Unavailable" = "App Store purchases are not available on this device. Please change your settings if you wish to join the Chef Club.";
+
+/* Subscription Status Subscribed */
+"SubscriptionStatus.Subscribed" = "Thank you for joining the Chef Club! You can manage your purchase below:";
+
+/* Subscription View Manage Text */
+"SubscriptionView.Manage" = "MANAGE";
+
+/* Subscription View Subscribed Text */
+"SubscriptionView.Subscribed" = "Subscribed";
+
+/* Subscription View Subscribed Text */
+"SubscriptionView.Purchased" = "PURCHASED";
+
+/* Subscription View Alert Purchases Restored Title */
+"SubscriptionView.Alert.PurchasesRestored.Title" = "Purchases Restored!";
+
+/* Subscription View Alert Ok */
+"SubscriptionView.Alert.Ok" = "OK";
+
+/* Subscription View Alert Error Restoring Purchases Title */
+"SubscriptionView.Alert.ErrorRestoringPurchases.Title" = "Error Restoring Purchases";
+
+/* Subscription View Alert Error Restoring Purchases Message */
+"SubscriptionView.Alert.ErrorRestoringPurchases.Message" = "There was an error restoring purchases. Please try again.";
+
+/* Subscription View Never Purchased Text */
+"SubscriptionView.NeverPurchased" = "Never purchased.";
+
+/* Subscription View Never Expired Text */
+"SubscriptionView.NeverExpired" = "Never expired!";
+
+/* Subscription View Expires Text */
+"SubscriptionView.Expires" = "Expires";
+
+/* Subscription View Alert Error Checking Memebership Title */
+"SubscriptionView.Alert.ErrorCheckingMemebership.Title" = "Error Checking Chef Club Memebership";
+
+/* Subscription View Alert Error Checking Memebership Message */
+"SubscriptionView.Alert.ErrorCheckingMemebership.Message" = "We were unable to verify your Chef Club Membership. Please try again or restore your purchases.";
+
+/* Subscription View Alert Welcome To The Club Title */
+"SubscriptionView.Alert.WelcomeToTheClub.Title" = "Welcome To The Club!";
+
+/* Subscription View Alert Welcome To The Club Message */
+"SubscriptionView.Alert.WelcomeToTheClub.Message" = "You now have access to all our recipes. Please share what you make with the ones you love 💕. — Linh";
+
+/* Subscription View Alert Thank You Title */
+"SubscriptionView.Alert.ThankYou.Title" = "Thank You!";
+
+/* Subscription View Alert Thank You Message */
+"SubscriptionView.Alert.ThankYou.Message" = "Your membership will be activated when the purchase is authorized. Please check back later.";
+
+/* Subscription View Alert Error Subscribing Title */
+"SubscriptionView.Alert.ErrorSubscribing.Title" = "Error Subscribing";
+
+/* Subscription View Alert Error Purchasing Title */
+"SubscriptionView.Alert.ErrorPurchasing.Title" = "Error Purchasing";
+
+/* Subscription View Alert Error Subscribing Message */
+"SubscriptionView.Alert.ErrorSubscribing.Message" = "There was an error subscribing to the Club. Please try again.";
+
+/* Subscription View Alert Error Purchasing Message */
+"SubscriptionView.Alert.ErrorPurchasing.Message" = "There was an error joining the Club. Please try again.";

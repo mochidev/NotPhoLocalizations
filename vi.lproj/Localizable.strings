@@ -4268,3 +4268,69 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Subscription Continuation Message - ties main content to subscription view */
 "SubscriptionView.ContinuationMessage" = "Công thức này được tiếp tục sau khi đăng ký…";
+
+/* Subscription Status Unavailable */
+"SubscriptionStatus.Unavailable" = "Bạn không thể mua hàng trên App Store. Vui lòng thay đổi cài đặt của bạn nếu bạn muốn tham gia Câu Lạc Bộ Đầu Bếp.";
+
+/* Subscription Status Subscribed */
+"SubscriptionStatus.Subscribed" = "Cảm ơn bạn đã tham gia Câu Lạc Bộ Đầu Bếp! Bạn có thể quản lý đăng ký của mình bên dưới:";
+
+/* Subscription View Manage Text */
+"SubscriptionView.Manage" = "QUẢN LÝ";
+
+/* Subscription View Subscribed Text */
+"SubscriptionView.Subscribed" = "Đã Đăng Ký";
+
+/* Subscription View Purchased Text */
+"SubscriptionView.Purchased" = "ĐÃ MUA";
+
+/* Subscription View Alert Purchases Restored Title */
+"SubscriptionView.Alert.PurchasesRestored.Title" = "Giao dịch mua đã được khôi phục!";
+
+/* Subscription View Alert Ok */
+"SubscriptionView.Alert.Ok" = "Chấp Nhận";
+
+/* Subscription View Alert Error Restoring Purchases Title */
+"SubscriptionView.Alert.ErrorRestoringPurchases.Title" = "Vấn Đề";
+
+/* Subscription View Alert Error Restoring Purchases Message */
+"SubscriptionView.Alert.ErrorRestoringPurchases.Message" = "Có vấn đề khi khôi phục giao dịch mua. Vui lòng thử lại.";
+
+/* Subscription View Never Purchased Text */
+"SubscriptionView.NeverPurchased" = "Không bao giờ mua.";
+
+/* Subscription View Never Expired Text */
+"SubscriptionView.NeverExpired" = "Không bao giờ hết hạn.";
+
+/* Subscription View Expires Text */
+"SubscriptionView.Expires" = "Hết hạn";
+
+/* Subscription View Alert Error Checking Memebership Title */
+"SubscriptionView.Alert.ErrorCheckingMemebership.Title" = "Vấn Đề";
+
+/* Subscription View Alert Error Checking Memebership Message */
+"SubscriptionView.Alert.ErrorCheckingMemebership.Message" = "Tạm thời không thể xác minh tư cách thành viên của bạn. Vui lòng thử lại hoặc khôi phục giao dịch mua của bạn.";
+
+/* Subscription View Alert Welcome To The Club Title */
+"SubscriptionView.Alert.WelcomeToTheClub.Title" = "Chào mừng đến với câu lạc bộ!";
+
+/* Subscription View Alert Welcome To The Club Message */
+"SubscriptionView.Alert.WelcomeToTheClub.Message" = "Tất cả món ăn đã được mở. Hãy chia sẻ những món ăn bạn nấu với những người bạn yêu thương 💕. — Linh";
+
+/* Subscription View Alert Thank You Title */
+"SubscriptionView.Alert.ThankYou.Title" = "Cảm ơn!";
+
+/* Subscription View Alert Thank You Message */
+"SubscriptionView.Alert.ThankYou.Message" = "Tư cách thành viên của bạn sẽ được kích hoạt khi quá trình mua kết thúc. Vui lòng kiểm tra lại sau.";
+
+/* Subscription View Alert Error Subscribing Title */
+"SubscriptionView.Alert.ErrorSubscribing.Title" = "Vấn đề khi đăng ký";
+
+/* Subscription View Alert Error Purchasing Title */
+"SubscriptionView.Alert.ErrorPurchasing.Title" = "Vấn đề khi mua";
+
+/* Subscription View Alert Error Subscribing Message */
+"SubscriptionView.Alert.ErrorSubscribing.Message" = "Vấn đề khi đăng ký. Vui lòng thử lại.";
+
+/* Subscription View Alert Error Purchasing Message */
+"SubscriptionView.Alert.ErrorPurchasing.Message" = "Vấn đề khi tham gia. Vui lòng thử lại.";
