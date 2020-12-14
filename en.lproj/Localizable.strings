@@ -778,10 +778,10 @@
 // MARK: Thit Ba Roi Xao Hanh (Pork Belly with Onion) Page
 
 /* Pork Belly with Onion Introduction 1 */
-"PorkBellyWithOnion.Introduction.1" = "##Thịt Ba Rọi Xào Hành## (pork belly with onion) may not be a true Vietnamese dish, but it is delicious. What I mean by ‘true’ is that you would not find this dish on a menu at a Vietnamese restaurant, but it is an authentic home cooked dish. It is very simple and quick to make it, and I usually cook this whenever I get lazy.";
+"PorkBellyWithOnion.Introduction.1" = "##Thịt Ba Rọi Xào Hành## (pork belly with onion) may not be a true Vietnamese dish, but it is delicious. What I mean by ‘true’ is that you would not find this dish on a menu at a Vietnamese restaurant, but it is an authentic home-cooked dish. It is very simple and quick to make, and I usually cook this whenever I get lazy.";
 
 /* Pork Belly with Onion Introduction 1 (VoiceOver) */
-"PorkBellyWithOnion.Introduction.1.Accessibility" = "Pork belly with onion may not be a true Vietnamese dish, but it is delicious. What I mean by ‘true’ is that you would not find this dish on a menu at a Vietnamese restaurant, but it is an authentic home cooked dish. It is very simple and quick to make it, and I usually cook this whenever I get lazy.";
+"PorkBellyWithOnion.Introduction.1.Accessibility" = "Pork belly with onion may not be a true Vietnamese dish, but it is delicious. What I mean by ‘true’ is that you would not find this dish on a menu at a Vietnamese restaurant, but it is an authentic home-cooked dish. It is very simple and quick to make, and I usually cook this whenever I get lazy.";
 
 /* Pork Belly with Onion Introduction 2 */
 "PorkBellyWithOnion.Introduction.2" = "This recipe serves one.";
@@ -822,10 +822,10 @@
 "PorkBellyWithOnion.Instructions.4" = "Toss all the ingredients together.";
 
 /* Pork Belly with Onion Instructions Note 1 */
-"PorkBellyWithOnion.Instructions.Note.1" = "##Hành Lá## (spring onion) is a garnish so you don't want to over cook it.";
+"PorkBellyWithOnion.Instructions.Note.1" = "##Hành Lá## (spring onion) is a garnish, so you don't want to over cook it.";
 
 /* Pork Belly with Onion Instructions Note 1 (VoiceOver) */
-"PorkBellyWithOnion.Instructions.Note.1.Accessibility" = "Spring onion is a garnish so you don't want to over cook it.";
+"PorkBellyWithOnion.Instructions.Note.1.Accessibility" = "Spring onion is a garnish, so you don't want to over cook it.";
 
 /* Pork Belly with Onion Instructions Note 2 */
 "PorkBellyWithOnion.Instructions.Note.2" = "Unless you don't like the flavor of raw ##Hành Lá## (spring onion), then cooking it a bit longer is perfectly fine.";
@@ -852,10 +852,10 @@
 // MARK: Bo Luc Lac Xa Lach (Shaken Beef Salad) Page
 
 /* Shaken Beef Salad Introduction 1 */
-"ShakenBeefSalad.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. Most restaurants serves this dish with either ##Cơm Trắng## (white rice) or ##Cơm Đỏ## (tomato rice). For a lighter meal, just replace the rice with some ##Xà Lách## (salad).";
+"ShakenBeefSalad.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. Most restaurants serve this dish with either ##Cơm Trắng## (white rice) or ##Cơm Đỏ## (tomato rice). For a lighter meal, just replace the rice with some ##Xà Lách## (salad).";
 
 /* Shaken Beef Salad Introduction 1 (VoiceOver) */
-"ShakenBeefSalad.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. Most restaurants serves this dish with either white rice or tomato rice. For a lighter meal, just replace the rice with some salad.";
+"ShakenBeefSalad.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. Most restaurants serve this dish with either white rice or tomato rice. For a lighter meal, just replace the rice with some salad.";
 
 /* Shaken Beef Salad Introduction 2 */
 "ShakenBeefSalad.Introduction.2" = "This recipe serves one.";
@@ -876,7 +876,7 @@
 "ShakenBeefSalad.Instructions.1.Accessibility" = "Start by preparing the salad.";
 
 /* Shaken Beef Salad Instructions 2 */
-"ShakenBeefSalad.Instructions.2" = "Cut some lettuce into bite sized pieces, and laid them on a plate.";
+"ShakenBeefSalad.Instructions.2" = "Cut some lettuce into bite sized pieces, and arrange them on a plate.";
 
 /* Shaken Beef Salad Instructions 3 */
 "ShakenBeefSalad.Instructions.3" = "Or, use any salad greens you prefer.";
@@ -909,10 +909,10 @@
 // MARK: Bo Luc Lac Voi Com Trang (Shaken Beef with White Rice) Page
 
 /* Shaken Beef with White Rice Introduction 1 */
-"ShakenBeefWhiteRice.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. Most restaurants serves this dish with either ##Cơm Trắng## (white rice) or ##Cơm Đỏ## (tomato rice).";
+"ShakenBeefWhiteRice.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. Most restaurants serve this dish with either ##Cơm Trắng## (white rice) or ##Cơm Đỏ## (tomato rice).";
 
 /* Shaken Beef with White Rice Introduction 1 (VoiceOver) */
-"ShakenBeefWhiteRice.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. Most restaurants serves this dish with either white rice or tomato rice.";
+"ShakenBeefWhiteRice.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. Most restaurants serve this dish with either white rice or tomato rice.";
 
 /* Shaken Beef with White Rice Introduction 2 */
 "ShakenBeefWhiteRice.Introduction.2" = "This recipe serves one.";
@@ -959,19 +959,19 @@
 "ShakenBeefWhiteRice.HowTo.1.Accessibility" = "Dip the morsels of Shaken Beef into the Lime Dipping Sauce for a tangy punch.";
 
 /* Shaken Beef with White Rice How To 2 */
-"ShakenBeefWhiteRice.HowTo.2" = "Enjoy any extra ##Bò Lúc Lắc## (shaken beef) sauce with the rice; they taste deliciuos together.";
+"ShakenBeefWhiteRice.HowTo.2" = "Enjoy any extra ##Bò Lúc Lắc## (shaken beef) sauce with the rice; they taste delicious together.";
 
 /* Shaken Beef with White Rice How To 2 (VoiceOver) */
-"ShakenBeefWhiteRice.HowTo.2.Accessibility" = "Enjoy any extra shaken beef sauce with the rice; they taste deliciuos together.";
+"ShakenBeefWhiteRice.HowTo.2.Accessibility" = "Enjoy any extra shaken beef sauce with the rice; they taste delicious together.";
 
 
 // MARK: Bo Luc Lac Voi Com Do (Shaken Beef with Tomato Rice) Page
 
 /* Shaken Beef with Tomato Rice Introduction 1 */
-"ShakenBeefWithTomatoRice.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. Most restaurants serves this dish with either ##Cơm Trắng## (white rice) or ##Cơm Đỏ## (tomato rice).";
+"ShakenBeefWithTomatoRice.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. Most restaurants serve this dish with either ##Cơm Trắng## (white rice) or ##Cơm Đỏ## (tomato rice).";
 
 /* Shaken Beef with Tomato Rice Introduction 1 (VoiceOver) */
-"ShakenBeefWithTomatoRice.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. Most restaurants serves this dish with either white rice or tomato rice.";
+"ShakenBeefWithTomatoRice.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. Most restaurants serve this dish with either white rice or tomato rice.";
 
 /* Shaken Beef with Tomato Rice Introduction 2 */
 "ShakenBeefWithTomatoRice.Introduction.2" = "This recipe serves one.";
@@ -1013,19 +1013,19 @@
 "ShakenBeefWithTomatoRice.HowTo.1.Accessibility" = "Dip the morsels of Shaken Beef into the Lime Dipping Sauce for a tangy punch.";
 
 /* Shaken Beef with Tomato Rice How To 2 */
-"ShakenBeefWithTomatoRice.HowTo.2" = "Enjoy any extra ##Bò Lúc Lắc## (shaken beef) sauce with the rice; they taste deliciuos together.";
+"ShakenBeefWithTomatoRice.HowTo.2" = "Enjoy any extra ##Bò Lúc Lắc## (shaken beef) sauce with the rice; they taste delicious together.";
 
 /* Shaken Beef with Tomato Rice How To 2 (VoiceOver) */
-"ShakenBeefWithTomatoRice.HowTo.2.Accessibility" = "Enjoy any extra shaken beef sauce with the rice; they taste deliciuos together.";
+"ShakenBeefWithTomatoRice.HowTo.2.Accessibility" = "Enjoy any extra shaken beef sauce with the rice; they taste delicious together.";
 
 
 // MARK: Bo Luc Lac Voi Com Chien (Shaken Beef with Fried Rice) Page
 
 /* Shaken Beef with Fried Rice Introduction 1 */
-"ShakenBeefWithFriedRice.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. Most restaurants serves this dish with either ##Cơm Trắng## (white rice) or ##Cơm Đỏ## (tomato rice). Try requesting ##Cơm Chiên Trứng## (egg fried rice) at a restaurant and see if you can get away with it.";
+"ShakenBeefWithFriedRice.Introduction.1" = "##Bò Lúc Lắc## is literally translated as “Shaken Beef” because you shake the wok when cooking it. Most restaurants serve this dish with either ##Cơm Trắng## (white rice) or ##Cơm Đỏ## (tomato rice). Try requesting ##Cơm Chiên Trứng## (egg fried rice) at a restaurant and see if you can get away with it.";
 
 /* Shaken Beef with Fried Rice Introduction 1 (VoiceOver) */
-"ShakenBeefWithFriedRice.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. Most restaurants serves this dish with either white rice or tomato rice. Try requesting egg fried rice at a restaurant and see if you can get away with it.";
+"ShakenBeefWithFriedRice.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. Most restaurants serve this dish with either white rice or tomato rice. Try requesting egg fried rice at a restaurant and see if you can get away with it.";
 
 /* Shaken Beef with Fried Rice Introduction 2 */
 "ShakenBeefWithFriedRice.Introduction.2" = "This recipe serves one.";
@@ -1067,19 +1067,19 @@
 "ShakenBeefWithFriedRice.HowTo.1.Accessibility" = "Dip the morsels of Shaken Beef into the Lime Dipping Sauce for a tangy punch.";
 
 /* Shaken Beef with Fried Rice How To 2 */
-"ShakenBeefWithFriedRice.HowTo.2" = "Enjoy any extra ##Bò Lúc Lắc## (shaken beef) sauce with the rice; they taste deliciuos together.";
+"ShakenBeefWithFriedRice.HowTo.2" = "Enjoy any extra ##Bò Lúc Lắc## (shaken beef) sauce with the rice; they taste delicious together.";
 
 /* Shaken Beef with Fried Rice How To 2 (VoiceOver) */
-"ShakenBeefWithFriedRice.HowTo.2.Accessibility" = "Enjoy any extra shaken beef sauce with the rice; they taste deliciuos together.";
+"ShakenBeefWithFriedRice.HowTo.2.Accessibility" = "Enjoy any extra shaken beef sauce with the rice; they taste delicious together.";
 
 
 // MARK: Com Chien (Fried Rice) Main Page
 
 /* Fried Rice Introduction 1 */
-"FriedRice.Introduction.1" = "##Cơm Chiên## (fried rice) is made from stir-frying rice with eggs, vegetables, and meat, and it can be eaten by itself or as a side to other main dishes. The first known record of ##Cơm Chiên## (fried rice) dated back to the Sui Dynasty, China in the year 581, and both Vietnamese and Chinese cultures share many similarities, particularly in food. As a homemade dish, ##Cơm Chiên## (fried rice) is often made from leftover ingredients so food aren’t wasted.";
+"FriedRice.Introduction.1" = "##Cơm Chiên## (fried rice) is made by stir-frying rice with eggs, vegetables, and meat, and it can be eaten by itself or as a side to other main dishes. The first known record of ##Cơm Chiên## (fried rice) dates back to the Sui Dynasty, China in the year 581, and both Vietnamese and Chinese cultures share many similarities, particularly in food. As a homemade dish, ##Cơm Chiên## (fried rice) is often made from leftover ingredients so food isn't wasted.";
 
 /* Fried Rice Introduction 1 (VoiceOver) */
-"FriedRice.Introduction.1.Accessibility" = "Fried rice is made from stir frying rice with eggs, vegetables, and meat, and it can be eaten by itself or as a side to other main dishes. The first known record of fried rice dated back to the Sui Dynasty, China in the year 581, and both Vietnamese and Chinese cultures share many similarities, particularly in food. As a homemade dish, fried rice is often made from leftover ingredients so food aren’t wasted.";
+"FriedRice.Introduction.1.Accessibility" = "Fried rice is made by stir frying rice with eggs, vegetables, and meat, and it can be eaten by itself or as a side to other main dishes. The first known record of fried rice dates back to the Sui Dynasty, China in the year 581, and both Vietnamese and Chinese cultures share many similarities, particularly in food. As a homemade dish, fried rice is often made from leftover ingredients so food isn't wasted.";
 
 /* Fried Rice Introduction 2 */
 "FriedRice.Introduction.2" = "If you’re feeling adventurous, give all the variations a try!";
@@ -1160,10 +1160,10 @@
 "ShrimpFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cut the onion into thin slices.";
 
 /* Shrimp Fried Rice Instructions Step 1 Part 2 */
-"ShrimpFriedRice.Instructions.Step.1.Part.2" = "Peel and devein the ##Tôm## (shrimps).";
+"ShrimpFriedRice.Instructions.Step.1.Part.2" = "Peel and devein the ##Tôm## (shrimp).";
 
 /* Shrimp Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Peel and devein the shrimps.";
+"ShrimpFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Peel and devein the shrimp.";
 
 /* Shrimp Fried Rice Instructions Step 1 Part 3 */
 "ShrimpFriedRice.Instructions.Step.1.Part.3" = "Thaw the frozen ##Đậu Và Cà Rốt## (peas and carrots).";
@@ -1178,10 +1178,10 @@
 "ShrimpFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Use your hands to separate the cold white rice into individual grains so they are not one giant clump.";
 
 /* Shrimp Fried Rice Instructions Step 1 Note 1 */
-"ShrimpFriedRice.Instructions.Step.1.Note.1" = "You can substitute the frozen ##Đậu Và Cà Rốt## (peas and carrots) with fresh carrots and spring beans.";
+"ShrimpFriedRice.Instructions.Step.1.Note.1" = "You can substitute the frozen ##Đậu Và Cà Rốt## (peas and carrots) with fresh carrots and spring beans when available.";
 
 /* Shrimp Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.1.Note.1.Accessibility" = "You can substitute the frozen peas and carrots with fresh carrots and spring beans.";
+"ShrimpFriedRice.Instructions.Step.1.Note.1.Accessibility" = "You can substitute the frozen peas and carrots with fresh carrots and spring beans when available.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 1 */
 "ShrimpFriedRice.Instructions.Step.2.Part.1" = "In a medium-high heat wok, add half of the ##Dầu## (oil).";
@@ -1190,25 +1190,25 @@
 "ShrimpFriedRice.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok, add the oil.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 2 */
-"ShrimpFriedRice.Instructions.Step.2.Part.2" = "Add the ##Tôm## (shrimps), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots).";
+"ShrimpFriedRice.Instructions.Step.2.Part.2" = "Add the ##Tôm## (shrimp), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots).";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Add the shrimps, onion, and peas and carrots.";
+"ShrimpFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Add the shrimp, onion, peas, and carrots.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 3 */
-"ShrimpFriedRice.Instructions.Step.2.Part.3" = "Stir fry until the ##Tôm## (shrimps) are cooked.";
+"ShrimpFriedRice.Instructions.Step.2.Part.3" = "Stir fry until the ##Tôm## (shrimp) are cooked.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 3 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Stir fry until the shrimps are cooked.";
+"ShrimpFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Stir fry until the shrimp are cooked.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 4 */
 "ShrimpFriedRice.Instructions.Step.2.Part.4" = "Transfer the ingredients to a bowl to use later.";
 
 /* Shrimp Fried Rice Instructions Step 2 Note 1 */
-"ShrimpFriedRice.Instructions.Step.2.Note.1" = "At this point, rinse the wok if it has to much burnt residue left from the ##Tôm## (shrimps).";
+"ShrimpFriedRice.Instructions.Step.2.Note.1" = "At this point, rinse the wok if it has too much burnt residue left from the ##Tôm## (shrimp).";
 
 /* Shrimp Fried Rice Instructions Step 2 Note 1 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.2.Note.1.Accessibility" = "At this point, rinse the wok if it has to much burnt residue left from the shrimps.";
+"ShrimpFriedRice.Instructions.Step.2.Note.1.Accessibility" = "At this point, rinse the wok if it has too much burnt residue left from the shrimp.";
 
 /* Shrimp Fried Rice Instructions Step 3 Part 1 */
 "ShrimpFriedRice.Instructions.Step.3.Part.1" = "Add the last half of the ##Dầu## (oil) to the wok.";
@@ -1235,10 +1235,10 @@
 "ShrimpFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Stir fry the white rice and egg together until the rice is soft again.";
 
 /* Shrimp Fried Rice Instructions Step 4 Part 1 */
-"ShrimpFriedRice.Instructions.Step.4.Part.1" = "Add the ##Tôm## (shrimps), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots) back in with the ##Cơm Trắng## (white rice) and ##Trứng## (egg).";
+"ShrimpFriedRice.Instructions.Step.4.Part.1" = "Add the ##Tôm## (shrimp), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots) back in with the ##Cơm Trắng## (white rice) and ##Trứng## (egg).";
 
 /* Shrimp Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Add the shrimps, onion, and peas and carrots back in with the white rice and egg.";
+"ShrimpFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Add the shrimp, onion, peas, and carrots back in with the white rice and egg.";
 
 /* Shrimp Fried Rice Instructions Step 4 Part 2 */
 "ShrimpFriedRice.Instructions.Step.4.Part.2" = "Add ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), and ##Tiêu Đen## (pepper).";
@@ -1256,10 +1256,10 @@
 "ShrimpFriedRice.Instructions.Step.4.Part.4.Accessibility" = "Garnish with chopped spring onions.";
 
 /* Shrimp Fried Rice Tips 1 */
-"ShrimpFriedRice.Tips.1" = "For a prefect fried rice, you want to use day old rice.";
+"ShrimpFriedRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
 
 /* Shrimp Fried Rice Tips 2 */
-"ShrimpFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold its shape when stir fried.";
+"ShrimpFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
 
 /* Shrimp Fried Rice Tips 3 */
 "ShrimpFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
@@ -1280,10 +1280,10 @@
 // MARK: Ca Ri Ga (Chicken Curry) Main Page
 
 /* Chicken Curry Introduction 1 */
-"ChickenCurryMain.Introduction.1" = "##Cà Ri## (curry) is originated from Indian subcontinent, and has made its way to Southeast Asia. A typical Indian curry is made from stewing chicken with a tomato-based sauce and curry spices. In Southwast Asia, coconut milk is preferred for a creamier and richer flavor. There are three ways to enjoy ##Cà Ri Gà## (chicken curry): over rice, with vermicelli noodles, or on the side with baguette.";
+"ChickenCurryMain.Introduction.1" = "##Cà Ri## (curry) is originated from Indian subcontinent, and has made its way to Southeast Asia. A typical Indian curry is made by stewing chicken with a tomato-based sauce and curry spices. In Southwest Asia, coconut milk is preferred for a creamier and richer flavor. There are three ways to enjoy ##Cà Ri Gà## (chicken curry): over rice, with vermicelli noodles, or on the side with baguette.";
 
 /* Chicken Curry Introduction 1 (VoiceOver) */
-"ChickenCurryMain.Introduction.1.Accessibility" = "Curry is originated from Indian subcontinent, and has made its way to Southeast Asia. A typical Indian curry is made from stewing chicken with a tomato-based sauce and curry spices. In Southwast Asia, coconut milk is preferred for a creamier and richer flavor. There are three ways to enjoy chicken curry: over rice, with vermicelli noodles, or on the side with baguette.";
+"ChickenCurryMain.Introduction.1.Accessibility" = "Curry is originated from Indian subcontinent, and has made its way to Southeast Asia. A typical Indian curry is made by stewing chicken with a tomato-based sauce and curry spices. In Southwest Asia, coconut milk is preferred for a creamier and richer flavor. There are three ways to enjoy chicken curry: over rice, with vermicelli noodles, or on the side with baguette.";
 
 /* Chicken Curry Introduction 2 */
 "ChickenCurryMain.Introduction.2" = "If you’re feeling adventurous, give all the variations a try!";
@@ -1292,10 +1292,10 @@
 // MARK: Banh Mi Ca Ri Ga (Chicken Curry with Baguette) Page
 
 /* Chicken Curry with Baguette Introduction 1 */
-"ChickenCurryWithBaguette.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+"ChickenCurryWithBaguette.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made by stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
 
 /* Chicken Curry with Baguette Introduction 1 (VoiceOver) */
-"ChickenCurryWithBaguette.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+"ChickenCurryWithBaguette.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made by stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
 
 /* Chicken Curry with Baguette Introduction 2 */
 "ChickenCurryWithBaguette.Introduction.2" = "This recipe serves two.";
@@ -1354,10 +1354,10 @@
 // MARK: Bun Ca Ri Ga (Chicken Curry Noodle Soup) Page
 
 /* Chicken Curry Noodle Soup Introduction 1 */
-"ChickenCurryNoodleSoup.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+"ChickenCurryNoodleSoup.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made by stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
 
 /* Chicken Curry Noodle Soup Introduction 1 (VoiceOver) */
-"ChickenCurryNoodleSoup.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+"ChickenCurryNoodleSoup.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made by stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
 
 /* Chicken Curry Noodle Soup Introduction 2 */
 "ChickenCurryNoodleSoup.Introduction.2" = "This recipe serves two.";
@@ -1395,10 +1395,10 @@
 "ChickenCurryNoodleSoup.Ingredients.BeanSprouts.AccessibilityAmount" = "optional";
 
 /* Chicken Curry Noodle Soup How To 1 */
-"ChickenCurryNoodleSoup.HowTo.1" = "Cook the ##Bún## (vermicelli rice noodles) according to the instructions of the package.";
+"ChickenCurryNoodleSoup.HowTo.1" = "Cook the ##Bún## (vermicelli rice noodles) according to the instructions on the package.";
 
 /* Chicken Curry Noodle Soup How To 1 (VoiceOver) */
-"ChickenCurryNoodleSoup.HowTo.1.Accessibility" = "Cook the vermicelli rice noodles according to the instructions of the package.";
+"ChickenCurryNoodleSoup.HowTo.1.Accessibility" = "Cook the vermicelli rice noodles according to the instructions on the package.";
 
 /* Chicken Curry Noodle Soup How To 2 */
 "ChickenCurryNoodleSoup.HowTo.2" = "Serve the ##Cà Ri Gà## (chicken curry) and ##Bún## (vermicelli rice noodles) in the same bowl.";
@@ -1413,10 +1413,10 @@
 "ChickenCurryNoodleSoup.HowTo.3.Accessibility" = "Chop up the Thai basil and cilantro, and garnish the noodle soup.";
 
 /* Chicken Curry Noodle Soup How To 4 */
-"ChickenCurryNoodleSoup.HowTo.4" = "Add some fresh ##Giá Đậu## (bean sprouts) to the noodle soup for a refreshing taste.";
+"ChickenCurryNoodleSoup.HowTo.4" = "Add some fresh ##Giá Đậu## (bean sprouts) to the noodle soup for a refreshing crunch.";
 
 /* Chicken Curry Noodle Soup How To 4 (VoiceOver) */
-"ChickenCurryNoodleSoup.HowTo.4.Accessibility" = "Add some fresh bean sprouts to the noodle soup for a refreshing taste.";
+"ChickenCurryNoodleSoup.HowTo.4.Accessibility" = "Add some fresh bean sprouts to the noodle soup for a refreshing crunch.";
 
 /* Chicken Curry Noodle Soup How To 5 */
 "ChickenCurryNoodleSoup.HowTo.5" = "Enjoy it like a noodle soup.";
@@ -1428,10 +1428,10 @@
 // MARK: Banh Mi Ca Ri Ga (Chicken Curry with Rice) Page
 
 /* Chicken Curry with Rice Introduction 1 */
-"ChickenCurryWithRice.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+"ChickenCurryWithRice.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made by stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
 
 /* Chicken Curry with Rice Introduction 1 (VoiceOver) */
-"ChickenCurryWithRice.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+"ChickenCurryWithRice.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made by stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
 
 /* Chicken Curry with Rice Introduction 2 */
 "ChickenCurryWithRice.Introduction.2" = "This recipe serves two.";
@@ -1475,10 +1475,10 @@
 "ChickenCurryWithRice.HowTo.2.Accessibility" = "Chop up the Thai basil and cilantro, and garnish the chicken curry.";
 
 /* Chicken Curry with Rice How To 3 */
-"ChickenCurryWithRice.HowTo.3" = "Scoop some ##Cà Ri Gà## (chicken curry) and put over the ##Cơm Trắng## (white rice) to enjoy.";
+"ChickenCurryWithRice.HowTo.3" = "Scoop some ##Cà Ri Gà## (chicken curry) and pour over the ##Cơm Trắng## (white rice) to enjoy.";
 
 /* Chicken Curry with Rice How To 3 (VoiceOver) */
-"ChickenCurryWithRice.HowTo.3.Accessibility" = "Scoop some chicken curry and put over the white rice to enjoy.";
+"ChickenCurryWithRice.HowTo.3.Accessibility" = "Scoop some chicken curry and pour over the white rice to enjoy.";
 
 /* Chicken Curry with Rice How To 4 */
 "ChickenCurryWithRice.HowTo.4" = "Add the ##Cà Ri Gà## (chicken curry) to the rice as you eat so the ##Cơm Trắng## (white rice) doesn’t get mushy.";
@@ -2590,10 +2590,10 @@
 // MARK: Thit Ba Roi Xao Voi Dau Hao (Pork Belly with Oyster Sauce) Page
 
 /* Pork Belly with Oyster Sauce Introduction 1 */
-"PorkBellyWithOysterSauce.Introduction.1" = "##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) is a very simple but delicious dish. It came about when I was making ##Bánh Xèo## (Vietnamese crêpe) with a friend many years back, and ##Thịt Ba Rọi## (pork belly) was one of the meat options and she suggested that I add some ##Dầu Hào## (oyster sauce) to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I made ##Bánh Xèo## (Vietnamese crêpe). Since ##Thịt Ba Rọi## (pork belly) with ##Dầu Hào## (oyster sauce) is so savory and delicious, it also goes great with hot white rice.";
+"PorkBellyWithOysterSauce.Introduction.1" = "##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) is a very simple but delicious dish. It came about when I was making ##Bánh Xèo## (Vietnamese crêpe) with a friend many years back: ##Thịt Ba Rọi## (pork belly) was one of the meat options, and she suggested that I add some ##Dầu Hào## (oyster sauce) to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I make ##Bánh Xèo## (Vietnamese crêpes). Since ##Thịt Ba Rọi## (pork belly) with ##Dầu Hào## (oyster sauce) is so savory and delicious, it also goes great with warm white rice.";
 
 /* Pork Belly with Oyster Sauce Introduction 1 (VoiceOver) */
-"PorkBellyWithOysterSauce.Introduction.1.Accessibility" = "Pork belly with oyster sauce is a very simple but delicious dish. It came about when I was making Vietnamese crêpe with a friend many years back, and pork belly was one of the meat options and she suggested that I add some oyster sauce to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I made Vietnamese crêpe. Since pork belly with oyster sauce is so savory and delicious, it also goes great with hot white rice.";
+"PorkBellyWithOysterSauce.Introduction.1.Accessibility" = "Pork belly with oyster sauce is a very simple but delicious dish. It came about when I was making Vietnamese crêpe with a friend many years back: pork belly was one of the meat options, and she suggested that I add some oyster sauce to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I make Vietnamese crêpes. Since pork belly with oyster sauce is so savory and delicious, it also goes great with warm white rice.";
 
 /* Pork Belly with Oyster Sauce Introduction 2 */
 "PorkBellyWithOysterSauce.Introduction.2" = "This recipe serves one.";
@@ -2688,16 +2688,16 @@
 // MARK: Bo Luc Lac (Shaken Beef) Entree Page
 
 /* Shaken Beef Entree Introduction 1 */
-"ShakenBeefEntree.Introduction.1" = "##Bò Lúc Lắc## is literally translated as (Shaken Beef) because you shake the wok when cooking it. It makes a great dish for when you’re craving the texture of steak but also want a Vietnamese flavor. ##Bò Lúc Lắc## (shaken beef) tastes best when the meat is cooked just right, which is from rare to medium-rare; any more than that the beef will become tough to eat.";
+"ShakenBeefEntree.Introduction.1" = "##Bò Lúc Lắc## is literally translated as (Shaken Beef) because you shake the wok when cooking it. It makes a great dish for when you’re craving the texture of steak but also want a Vietnamese flavor. ##Bò Lúc Lắc## (shaken beef) tastes best when the meat is cooked just right, which is from rare to medium-rare; any more than that, the beef will become tough to eat.";
 
 /* Shaken Beef Entree Introduction 1 (VoiceOver) */
-"ShakenBeefEntree.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. It makes a great dish for when you’re craving the texture of steak but also want a Vietnamese flavor. Shaken beef tastes best when the meat is cooked just right, which is from rare to medium-rare; any more than that the beef will become tough to eat.";
+"ShakenBeefEntree.Introduction.1.Accessibility" = "Shaken Beef, just like the name suggests, refers to the shaking of the wok when cooking the beef. It makes a great dish for when you’re craving the texture of steak but also want a Vietnamese flavor. Shaken beef tastes best when the meat is cooked just right, which is from rare to medium-rare; any more than that, the beef will become tough to eat.";
 
 /* Shaken Beef Entree Introduction 2 */
-"ShakenBeefEntree.Introduction.2" = "It is thanks to this dish that my husband now eats ##Ớt Chuông## (bell peppers)! However, he prefers orange ##Ớt Chuông## (bell peppers) because orange is his favorite color.";
+"ShakenBeefEntree.Introduction.2" = "It is thanks to this dish that my husband now eats ##Ớt Chuông## (bell peppers)! However, he still prefers orange ##Ớt Chuông## (bell peppers) because orange is his favorite color.";
 
 /* Shaken Beef Entree Introduction 2 (VoiceOver) */
-"ShakenBeefEntree.Introduction.2.Accessibility" = "It is thanks to this dish that my husband now eats bell peppers! However, he prefers orange bell peppers because orange is his favorite color.";
+"ShakenBeefEntree.Introduction.2.Accessibility" = "It is thanks to this dish that my husband now eats bell peppers! However, he still prefers orange bell peppers because orange is his favorite color.";
 
 /* Shaken Beef Entree Introduction 3 */
 "ShakenBeefEntree.Introduction.3" = "This recipe serves one.";
@@ -2763,7 +2763,7 @@
 "ShakenBeefEntree.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
 
 /* Shaken Beef Entree Instructions Step 1 Part 1 */
-"ShakenBeefEntree.Instructions.Step.1.Part.1" = "Cut the ##Thịt Bò## (beef) and ##Ớt Chuông## (bell pepper) into bite sized pieces.";
+"ShakenBeefEntree.Instructions.Step.1.Part.1" = "Cut the ##Thịt Bò## (beef) and ##Ớt Chuông## (bell pepper) into bite-sized pieces.";
 
 /* Shaken Beef Entree Instructions Step 1 Part 1 (VoiceOver) */
 "ShakenBeefEntree.Instructions.Step.1.Part.1.Accessibility" = "Cut the beef and bell pepper into bite sized pieces.";
@@ -2790,7 +2790,7 @@
 "ShakenBeefEntree.Instructions.Step.1.Note.2" = "I find that using ##Rượu Sake Nhật Bản## (Japanese sake) adds a nice depth to the flavor, but you can use water if you don't have ##Rượu Sake Nhật Bản## (Japanese sake).";
 
 /* Shaken Beef Entree Instructions Step 1 Note 2 (VoiceOver) */
-"ShakenBeefEntree.Instructions.Step.1.Note.2.Accessibility" = "I find that using Japanese sakay adds a nice depth to the flavor, but you can use water if you don't have Japanese sakay.";
+"ShakenBeefEntree.Instructions.Step.1.Note.2.Accessibility" = "I find that using Japanese Sa-kay adds a nice depth to the flavor, but you can use water if you don't have Japanese Sa-kay.";
 
 /* Shaken Beef Entree Instructions Step 2 Part 1 */
 "ShakenBeefEntree.Instructions.Step.2.Part.1" = "In a medium-high heat wok, add ##Dầu## (oil), ##Củ Hành## (onion), and ##Ớt Chuông## (bell pepper).";
@@ -2817,19 +2817,19 @@
 "ShakenBeefEntree.Instructions.Step.3.Part.2.Accessibility" = "Sautee for 1 to 2 minutes, or until the beef is cooked enough for you.";
 
 /* Shaken Beef Entree Instructions Step 3 Part 3 */
-"ShakenBeefEntree.Instructions.Step.3.Part.3" = "This part is where the name ##Lúc Lắc## (shaken) comes from - shake the wok often so the ##Thịt Bò## (beef) doesn’t over cooked.";
+"ShakenBeefEntree.Instructions.Step.3.Part.3" = "This part is where the name ##Lúc Lắc## (shaken) comes from - shake the wok often so the ##Thịt Bò## (beef) doesn’t over cook.";
 
 /* Shaken Beef Entree Instructions Step 3 Part 3 (VoiceOver) */
-"ShakenBeefEntree.Instructions.Step.3.Part.3.Accessibility" = "This part is where the name shaken comes from. Shake the wok often so the beef doesn’t over cooked.";
+"ShakenBeefEntree.Instructions.Step.3.Part.3.Accessibility" = "This part is where the name shaken comes from. Shake the wok often so the beef doesn’t over cook.";
 
 /* Shaken Beef Entree Instructions Step 3 Note 1 */
-"ShakenBeefEntree.Instructions.Step.3.Note.1" = "I prefer the ##Thịt Bò## (beef) rare, but if you like the ##Thịt Bò## (beef) more cooked then do increase the cook time.";
+"ShakenBeefEntree.Instructions.Step.3.Note.1" = "I prefer the ##Thịt Bò## (beef) rare, but if you like the ##Thịt Bò## (beef) more cooked then do increase the cooking time.";
 
 /* Shaken Beef Entree Instructions Step 3 Note 1 (VoiceOver) */
-"ShakenBeefEntree.Instructions.Step.3.Note.1.Accessibility" = "I prefer the beef rare, but if you like the beef more cooked then do increase the cook time.";
+"ShakenBeefEntree.Instructions.Step.3.Note.1.Accessibility" = "I prefer the beef rare, but if you like the beef more cooked then do increase the cooking time.";
 
 /* Shaken Beef Entree Instructions Step 4 Part 1 */
-"ShakenBeefEntree.Instructions.Step.4.Part.1" = "Add the oyster sauce mixture you mixed earlier and give it a few toss until everything is combined.";
+"ShakenBeefEntree.Instructions.Step.4.Part.1" = "Add the oyster sauce mixture you mixed earlier and give it a few tosses until everything is combined.";
 
 /* Shaken Beef Entree Instructions Step 4 Part 2 */
 "ShakenBeefEntree.Instructions.Step.4.Part.2" = "Serve on a plate.";
@@ -2856,10 +2856,10 @@
 "ShakenBeefEntree.HowTo.1.Accessibility" = "Shaken Beef is often served with rice.";
 
 /* Shaken Beef Entree How To 2 */
-"ShakenBeefEntree.HowTo.2" = "Most restaurant serves ##Bò Lúc Lắc## (shaken beef) with ##Cơm Đỏ## (tomato rice), though I still prefer white rice.";
+"ShakenBeefEntree.HowTo.2" = "Most restaurants serve ##Bò Lúc Lắc## (shaken beef) with ##Cơm Đỏ## (tomato rice), though I still prefer white rice.";
 
 /* Shaken Beef Entree How To 2 (VoiceOver) */
-"ShakenBeefEntree.HowTo.2.Accessibility" = "Most restaurant serves Shaken Beef with tomato rice, though I still prefer white rice.";
+"ShakenBeefEntree.HowTo.2.Accessibility" = "Most restaurants serve Shaken Beef with tomato rice, though I still prefer white rice.";
 
 
 // MARK: Muoi Tieu Chanh (Lime Dipping Sauce) Page
@@ -2898,10 +2898,10 @@
 // MARK: Com Chien Trung (Egg Fried Rice) Page
 
 /* Egg Fried Rice Introduction 1 */
-"EggFriedRice.Introduction.1" = "##Cơm Chiên Trứng## (egg fried rice) is a very quick recipe that can dress up plain white rice, and make it even more delicious. It goes well with any meat entrees.";
+"EggFriedRice.Introduction.1" = "##Cơm Chiên Trứng## (egg fried rice) is a very quick recipe that can dress up plain white rice, and make it even more delicious. It goes well with any meat entrée.";
 
 /* Egg Fried Rice Introduction 1 (VoiceOver) */
-"EggFriedRice.Introduction.1.Accessibility" = "Egg fried rice is a very quick recipe that can dress up plain white rice, and make it even more delicious. It goes well with any meat entrees.";
+"EggFriedRice.Introduction.1.Accessibility" = "Egg fried rice is a very quick recipe that can dress up plain white rice, and make it even more delicious. It goes well with any meat entree.";
 
 /* Egg Fried Rice Introduction 2 */
 "EggFriedRice.Introduction.2" = "This recipe serves one.";
@@ -2984,10 +2984,10 @@
 "EggFriedRice.Instructions.Step.3.Note.1.Accessibility" = "If you don’t have chicken bouillon, you can substitute it with salt.";
 
 /* Egg Fried Rice Tips 1 */
-"EggFriedRice.Tips.1" = "For a prefect fried rice, you want to use day old rice.";
+"EggFriedRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
 
 /* Egg Fried Rice Tips 2 */
-"EggFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold its shape when stir fried.";
+"EggFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
 
 /* Egg Fried Rice Tips 3 */
 "EggFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
@@ -3002,10 +3002,10 @@
 // MARK: Com Do (Tomato Rice) Page
 
 /* Tomato Rice Introduction 1 */
-"TomatoRice.Introduction.1" = "##Cơm Đỏ## means “red rice” is usually served with roasted meat. I am not sure where ##Cơm Đỏ## (tomato rice) originated from, but it is made from cooking ##Cơm Trắng## (white rice) with ##Tương Cà Chua## (tomato paste) to give it an orange-reddish hue.";
+"TomatoRice.Introduction.1" = "##Cơm Đỏ## means “red rice” is usually served with roasted meat. I am not sure where ##Cơm Đỏ## (tomato rice) originated from, but it is made by cooking ##Cơm Trắng## (white rice) with ##Tương Cà Chua## (tomato paste) to give it an orange-reddish hue.";
 
 /* Tomato Rice Introduction 1 (VoiceOver) */
-"TomatoRice.Introduction.1.Accessibility" = "Tomato rice or red rice is usually served with roasted meat. I am not sure where tomato rice originated from, but it is made from cooking white rice with tomato paste to give it an orange-reddish hue.";
+"TomatoRice.Introduction.1.Accessibility" = "Tomato rice or red rice is usually served with roasted meat. I am not sure where tomato rice originated from, but it is made by cooking white rice with tomato paste to give it an orange-reddish hue.";
 
 /* Tomato Rice Introduction 2 */
 "TomatoRice.Introduction.2" = "This recipe serves one.";
@@ -3106,10 +3106,10 @@
 "TomatoRice.Instructions.Step.3.Part.2.Accessibility" = "Add the chicken bouillon and pepper.";
 
 /* Tomato Rice Instructions Step 3 Part 3 */
-"TomatoRice.Instructions.Step.3.Part.3" = "Sauté until the ##Cơm Trắng## (white rice) is well mixed with the ##Tương Cà Chua## (tomato paste).";
+"TomatoRice.Instructions.Step.3.Part.3" = "Sautée until the ##Cơm Trắng## (white rice) is well mixed with the ##Tương Cà Chua## (tomato paste).";
 
 /* Tomato Rice Instructions Step 3 Part 3 (VoiceOver) */
-"TomatoRice.Instructions.Step.3.Part.3.Accessibility" = "Sauté until the rice is well mixed with the tomato paste.";
+"TomatoRice.Instructions.Step.3.Part.3.Accessibility" = "Sautee until the rice is well mixed with the tomato paste.";
 
 /* Tomato Rice Instructions Step 3 Note 1 */
 "TomatoRice.Instructions.Step.3.Note.1" = "If you don’t have ##Bột Nêm Gà## (chicken bouillon), you can substitute it with ##Muối## (salt).";
@@ -3118,10 +3118,10 @@
 "TomatoRice.Instructions.Step.3.Note.1.Accessibility" = "If you don’t have chicken bouillon, you can substitute it with salt.";
 
 /* Tomato Rice Tips 1 */
-"TomatoRice.Tips.1" = "For a prefect fried rice, you want to use day old rice.";
+"TomatoRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
 
 /* Tomato Rice Tips 2 */
-"TomatoRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold its shape when stir fried.";
+"TomatoRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
 
 /* Tomato Rice Tips 3 */
 "TomatoRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
@@ -3142,10 +3142,10 @@
 "CurryPowder.Introduction.1.Accessibility" = "Curry powder is one of the main ingredients in curry dishes, and it is available at most Asian markets. There are many brands, but the ones I often found at the markets I go to are in a yellow bag with either an image of four red elephants or a red pyramid at the top left corner. The bag is often labeled as curry powder hot, curry powder mild, or Madras curry powder.";
 
 /* Curry Powder Introduction 2 */
-"CurryPowder.Introduction.2" = "If you can’t get pre-mixed ##Bột Cà Ri## (curry powder), you can buy individual ingredients and mix them together. After trials and errors, I came up with a recipe that is very closed to the pre-mixed ##Bột Cà Ri## (curry powder).";
+"CurryPowder.Introduction.2" = "If you can’t get pre-mixed ##Bột Cà Ri## (curry powder), you can buy the individual ingredients and mix them together. After trial and error, I came up with a recipe that is very close to the pre-mixed ##Bột Cà Ri## (curry powder).";
 
 /* Curry Powder Introduction 2 (VoiceOver) */
-"CurryPowder.Introduction.2.Accessibility" = "If you can’t get pre-mixed curry powder, you can buy individual ingredients and mix them together. After trials and errors, I came up with a recipe that is very closed to the pre-mixed curry powder.";
+"CurryPowder.Introduction.2.Accessibility" = "If you can’t get pre-mixed curry powder, you can buy the individual ingredients and mix them together. After trial and error, I came up with a recipe that is very close to the pre-mixed curry powder.";
 
 /* Curry Powder Introduction 3 */
 "CurryPowder.Introduction.3" = "This recipe yields about 1½ tablespoons, enough to use for the ##Cà Ri Gà## (chicken curry) recipe.";
@@ -3202,7 +3202,7 @@
 "CurryPowder.Instructions.3" = "The McCormick curry powder used here as the base is sold at most chain grocery stores, at least in the US.";
 
 /* Curry Powder Instructions 4 */
-"CurryPowder.Instructions.4" = "Curry is consisted of turmeric, coriander, fenugreek, cumin, and chili powder.";
+"CurryPowder.Instructions.4" = "Curry consists of turmeric, coriander, fenugreek, cumin, and chili powder.";
 
 /* Curry Powder Instructions 5 */
 "CurryPowder.Instructions.5" = "If the brand you end up buying doesn’t have cumin, then do add it, otherwise, leave it out.";
@@ -3217,10 +3217,10 @@
 // MARK: Ca Ri Ga (Chicken Curry) Entree Page
 
 /* Chicken Curry Introduction 1 */
-"ChickenCurryEntree.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+"ChickenCurryEntree.Introduction.1" = "##Cà Ri Gà## (chicken curry) is a rich and savory dish that is made by stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
 
 /* Chicken Curry Introduction 1 (VoiceOver) */
-"ChickenCurryEntree.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made from stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
+"ChickenCurryEntree.Introduction.1.Accessibility" = "Chicken curry is a rich and savory dish that is made by stewing chicken with curry spices, vegetables, and coconut milk. This dish can be paired with rice, vermicelli noodles, or baguette.";
 
 /* Chicken Curry Introduction 2 */
 "ChickenCurryEntree.Introduction.2" = "This recipe serves two.";
@@ -3391,7 +3391,7 @@
 "ChickenCurryEntree.Instructions.Step.3.Part.3" = "Sautée for 2-3 minutes or until the chicken is lightly browned.";
 
 /* Chicken Curry Instructions Step 3 Part 3 (VoiceOver) */
-"ChickenCurryEntree.Instructions.Step.3.Part.3.Accessibility" = "Sautée for 2 to 3 minutes or until the chicken is lightly browned.";
+"ChickenCurryEntree.Instructions.Step.3.Part.3.Accessibility" = "Sautee for 2 to 3 minutes or until the chicken is lightly browned.";
 
 /* Chicken Curry Instructions Step 4 Part 1 */
 "ChickenCurryEntree.Instructions.Step.4.Part.1" = "Add the ##Củ Hành## (onion), ##Cà Rốt## (carrot), and ##Khoai Lang## (sweet potato).";
@@ -3448,19 +3448,19 @@
 "ChickenCurryEntree.Instructions.Step.6.Note.1.Accessibility" = "The spiciness of this chicken curry is mild.";
 
 /* Chicken Curry Instructions Step 6 Note 2 */
-"ChickenCurryEntree.Instructions.Step.6.Note.2" = "If it is still too spicy for you, then add a little more ##Nước Cốt Dừa## (coconut milk).";
+"ChickenCurryEntree.Instructions.Step.6.Note.2" = "If it is still too spicy for you, add a little more ##Nước Cốt Dừa## (coconut milk).";
 
 /* Chicken Curry Instructions Step 6 Note 2 (VoiceOver) */
-"ChickenCurryEntree.Instructions.Step.6.Note.2.Accessibility" = "If it is still too spicy for you, then add a little more coconut milk.";
+"ChickenCurryEntree.Instructions.Step.6.Note.2.Accessibility" = "If it is still too spicy for you, add a little more coconut milk.";
 
 /* Chicken Curry Instructions Step 6 Note 3 */
-"ChickenCurryEntree.Instructions.Step.6.Note.3" = "If it is not spicy enough for you, then add some chili flakes or ##Bột Ớt## (chili powder) in when cooking.";
+"ChickenCurryEntree.Instructions.Step.6.Note.3" = "If it is not spicy enough for you, add some chili flakes or ##Bột Ớt## (chili powder) in when cooking.";
 
 /* Chicken Curry Instructions Step 6 Note 3 (VoiceOver) */
-"ChickenCurryEntree.Instructions.Step.6.Note.3.Accessibility" = "If it is not spicy enough for you, then add some chili flakes or chili powder in when cooking.";
+"ChickenCurryEntree.Instructions.Step.6.Note.3.Accessibility" = "If it is not spicy enough for you, add some chili flakes or chili powder in when cooking.";
 
 /* Chicken Curry Tips 1 */
-"ChickenCurryEntree.Tips.1" = "You can use any types of chicken, such as thighs, drumsticks, or drumettes.";
+"ChickenCurryEntree.Tips.1" = "You can use any type of chicken, such as thighs, drumsticks, or drumettes.";
 
 /* Chicken Curry Tips 2 */
 "ChickenCurryEntree.Tips.2" = "Drumette is the upper joint of the wing that is attached to the chicken; it is like a smaller drumstick.";
@@ -3631,16 +3631,16 @@
 // MARK: Dau Hao (Oyster Sauce) Page
 
 /* Oyster Sauce Introduction 1 */
-"OysterSauce.Introduction.1" = "##Dầu Hào## (oyster sauce) is made from cooking oysters with sugar, salt, and water until the oysters are dissolved and combined with corn starch to thicken it. It is great as a seasoning sauce or a condiment to enhance the flavor of a dish.";
+"OysterSauce.Introduction.1" = "##Dầu Hào## (oyster sauce) is made by cooking oysters with sugar, salt, and water until the oysters have dissolved and combined with corn starch to thicken it. It is great as a seasoning sauce or a condiment to enhance the flavor of a dish.";
 
 /* Oyster Sauce Introduction 1 (VoiceOver) */
-"OysterSauce.Introduction.1.Accessibility" = "Oyster sauce is made from cooking oysters with sugar, salt, and water until the oysters are dissolved and combined with corn starch to thicken it. It is great as a seasoning sauce or a condiment to enhance the flavor of a dish.";
+"OysterSauce.Introduction.1.Accessibility" = "Oyster sauce is made by cooking oysters with sugar, salt, and water until the oysters have dissolved and combined with corn starch to thicken it. It is great as a seasoning sauce or a condiment to enhance the flavor of a dish.";
 
 /* Oyster Sauce Introduction 2 */
-"OysterSauce.Introduction.2" = "There are many brands of oyster sauce, but the most well known brand is Lee Kum Kee, which is founded by Lee Kum Sheng who invented the sauce in 1888. Even though oyster sauce is a Cantonese invention, it has become a popular seasoning sauce in many southeast Asian cuisine. Lee Kum Kee oyster sauce is available in almost all Asian supermarkets, but I usually use the Kikkoman brand because it can be found outside of Asian stores. However, depending on the brand, the sodium content may vary so you may have to adjust any recipes that require oyster sauce to better fit your taste.";
+"OysterSauce.Introduction.2" = "There are many brands of oyster sauce, but the most well known brand is Lee Kum Kee, which was founded by Lee Kum Sheng who invented the sauce in 1888. Even though oyster sauce is a Cantonese invention, it has become a popular seasoning sauce in many southeast Asian cuisines. Lee Kum Kee oyster sauce is available in almost all Asian supermarkets, but I usually use the Kikkoman brand because it can be found outside of Asian stores. However, depending on the brand, the sodium content may vary so you may have to adjust any recipes that require oyster sauce to better fit your taste.";
 
 /* Oyster Sauce Introduction 2 (VoiceOver) */
-"OysterSauce.Introduction.2.Accessibility" = "There are many brands of oyster sauce, but the most well known brand is Lee Kum Kee, which is founded by Lee Kum Sheng who invented the sauce in 1888. Even though oyster sauce is a Cantonese invention, it has become a popular seasoning sauce in many southeast Asian cuisine. Lee Kum Kee oyster sauce is available in almost all Asian supermarkets, but I usually use the Kikkoman brand because it can be found outside of Asian stores. However, depending on the brand, the sodium content may vary so you may have to adjust any recipes that require oyster sauce to better fit your taste.";
+"OysterSauce.Introduction.2.Accessibility" = "There are many brands of oyster sauce, but the most well known brand is Lee Kum Kee, which was founded by Lee Kum Sheng who invented the sauce in 1888. Even though oyster sauce is a Cantonese invention, it has become a popular seasoning sauce in many southeast Asian cuisines. Lee Kum Kee oyster sauce is available in almost all Asian supermarkets, but I usually use the Kikkoman brand because it can be found outside of Asian stores. However, depending on the brand, the sodium content may vary so you may have to adjust any recipes that require oyster sauce to better fit your taste.";
 
 
 // MARK: Thit Ba Roi (Pork Belly) Page
@@ -3652,7 +3652,7 @@
 "PorkBelly.Introduction.1.Accessibility" = "Pork Belly is the greatest meat, in my opinion, because it is half meat and half fat that goes well in stir fry and stew dishes.";
 
 /* Pork Belly Introduction 2 */
-"PorkBelly.Introduction.2" = "When it comes to grocery, most things are sold in large quantities, which could be quite wasteful if you can’t use them all before they go bad. I learn to freeze meat when I buy too much and thaw when I need, and it has worked very well so I hope this could help you as well.";
+"PorkBelly.Introduction.2" = "When it comes to groceries, most things are sold in large quantities, which could be quite wasteful if you can’t use them all before they go bad. I learned to freeze meat when I buy too much and thaw just what I need, which has worked very well, so I hope this could help you too.";
 
 /* Pork Belly Tips 1 */
 "PorkBelly.Tips.1" = "##Thịt Ba Rọi## (pork belly) is usually sold as a slab, about 2 pounds, which is a lot of meat.";
@@ -3661,19 +3661,19 @@
 "PorkBelly.Tips.1.Accessibility" = "Pork belly is usually sold as a slab, about 2 pounds, which is a lot of meat.";
 
 /* Pork Belly Tips 2 */
-"PorkBelly.Tips.2" = "I usually would cut the ##Thịt Ba Rọi## (pork belly) into bite sized pieces, unless they are already pre-cut, and portion the meat out into individual servings (3-4 oz) in ziplock bags and freeze them.";
+"PorkBelly.Tips.2" = "I usually would cut the ##Thịt Ba Rọi## (pork belly) into bite-sized pieces, unless they are already pre-cut, and portion the meat out into individual servings (3-4 oz) in ziplock bags and freeze them.";
 
 /* Pork Belly Tips 2 (VoiceOVer) */
 "PorkBelly.Tips.2.Accessibility" = "I usually would cut the pork belly into bite sized pieces, unless they are already pre cut, and portion the meat out into individual servings, 3 to 4 ounces, in ziplock bags and freeze them.";
 
 /* Pork Belly Tips 3 */
-"PorkBelly.Tips.3" = "Freezing the meat will keep them last longer, which is about a couple months, especially if you don’t need to cook for many people.";
+"PorkBelly.Tips.3" = "Freezing the meat will keep them lasting longer, which is about a couple months, especially if you don’t need to cook for many people.";
 
 /* Pork Belly Tips 4 */
-"PorkBelly.Tips.4" = "Do remember to label and the date the outside of the ziplock bag before freezing so the next time you know exactly what is in the bag and how long it has been in your freezer.";
+"PorkBelly.Tips.4" = "Do remember to label and the date the outside of the ziplock bag before freezing so the next time you go adventuring in your freezer, you know exactly what is in the bag and how long it has been there.";
 
 /* Pork Belly Tips 5 */
-"PorkBelly.Tips.5" = "When you need to use the meat, just thaw the entire ziplock bag under light running cold water in the sink.";
+"PorkBelly.Tips.5" = "When you need to use the meat, just thaw the sealed ziplock bag under light running cold water in the sink.";
 
 /* Pork Belly Tips 6 */
 "PorkBelly.Tips.6" = "I do this for other kinds of meat as well, like chicken, shrimp, and pork.";
@@ -3685,10 +3685,10 @@
 // MARK: Nuoc Tuong (Soy Sauce) Page
 
 /* Soy Sauce Introduction */
-"SoySauce.Introduction" = "##Nước Tương## or ##Xì Dầu## (soy sauce) is traditionally made from fermenting soy bean, salt, wheat, and water over a period of months. However, some brands of soy sauce are made from acid-hydrolyzed protein that could take just a few days. Whether one is better for your health or not is up to you to decide, but for me it is all about the taste.";
+"SoySauce.Introduction" = "##Nước Tương## or ##Xì Dầu## (soy sauce) is traditionally made by fermenting soy beans, salt, wheat, and water over a period of months. However, some brands of soy sauce are made from acid-hydrolyzed protein that could take just a few days. Whether one is better for your health or not is up to you to decide, but for me it is all about the taste.";
 
 /* Soy Sauce Introduction (VoiceOVer) */
-"SoySauce.Introduction.Accessibility" = "Soy sauce is traditionally made from fermenting soy bean, salt, wheat, and water over a period of months. However, some brands of soy sauce are made from acid hydrolyzed protein that could take just a few days. Whether one is better for your health or not is up to you to decide, but for me it is all about the taste.";
+"SoySauce.Introduction.Accessibility" = "Soy sauce is traditionally made by fermenting soy beans, salt, wheat, and water over a period of months. However, some brands of soy sauce are made from acid hydrolyzed protein that could take just a few days. Whether one is better for your health or not is up to you to decide, but for me it is all about the taste.";
 
 /* Soy Sauce Types 1 */
 "SoySauce.Types.1" = "There are two types of ##Nước Tương## (soy sauce); one focuses on color and the other on flavor. The term ##light## or ##dark## often refers to the color of the sauce, not the saltiness. Some ##light## soy sauces can be saltier than ##dark## ones.";
@@ -3697,10 +3697,10 @@
 "SoySauce.Types.1.Accessibility" = "There are two types of soy sauce; one focuses on color and the other on flavor. The term light or dark often refers to the color of the sauce, not the saltiness. Some light soy sauces can be saltier than dark ones.";
 
 /* Soy Sauce Types 2 */
-"SoySauce.Types.2" = "You would need to experiment to see which type of ##Nước Tương## (soy sauce) is better for your taste.";
+"SoySauce.Types.2" = "You would need to experiment to see which type of ##Nước Tương## (soy sauce) tastes better to you.";
 
 /* Soy Sauce Types 2 (VoiceOVer) */
-"SoySauce.Types.2.Accessibility" = "You would need to experiment to see which type of soy sauce is better for your taste.";
+"SoySauce.Types.2.Accessibility" = "You would need to experiment to see which type of soy sauce tastes better to you.";
 
 /* Soy Sauce Brands Golden Mountain Soy Sauce (VoiceOVer) */
 "SoySauce.Brands.1.AccessibilityLabel" = "Golden Mountain Soy Sauce";
@@ -3715,10 +3715,10 @@
 "SoySauce.Brands.2.AccessibilityLabel" = "Kikkoman Soy Sauce";
 
 /* Soy Sauce Brands 2 */
-"SoySauce.Brands.2" = "In recent years, I like to use a Japanese style soy sauce called ##Usukuchi## (pale mouth) soy sauce because it has a smoky taste, light in color, and less salty. ";
+"SoySauce.Brands.2" = "In recent years, I like to use a Japanese style soy sauce called ##Usukuchi## (pale mouth) soy sauce because it has a smoky taste, light in color, and is less salty.";
 
 /* Soy Sauce Brands 2 (VoiceOVer) */
-"SoySauce.Brands.2.Accessibility" = "In recent years, I like to use a Japanese style soy sauce called Usukuchi, meaning pale mouth, soy sauce because it has a smoky taste, light in color, and less salty. ";
+"SoySauce.Brands.2.Accessibility" = "In recent years, I like to use a Japanese style soy sauce called Usukuchi, meaning pale mouth, soy sauce because it has a smoky taste, light in color, and is less salty.";
 
 /* Soy Sauce How To 1 */
 "SoySauce.HowTo.1" = "I alternate between ##Golden Mountain## and ##Kikkoman Usukuchi## soy sauce based on the flavor profile I want.";
@@ -3736,16 +3736,16 @@
 // MARK: Com (Rice) Page
 
 /* Rice Introduction */
-"Rice.Introduction" = "##Cơm## (rice) is a staple food of Asian cuisine, and it is often paired with many delicious dishes. A perfectly cooked rice is when each individual grain of rice still hold its shape, the ##Cơm## (rice) is soft but not mushy, and the rice definitely is not dry.";
+"Rice.Introduction" = "##Cơm## (rice) is a staple food of Asian cuisine, and it is often paired with many delicious dishes. A perfectly cooked rice is when each individual grain of rice still holds its shape, the ##Cơm## (rice) is soft but not mushy, and the rice definitely is not dry.";
 
 /* Rice Introduction (VoiceOVer) */
-"Rice.Introduction.Accessibility" = "Rice is a staple food of Asian cuisine, and it is often paired with many delicious dishes. A perfectly cooked rice is when each individual grain of rice still hold its shape, the rice is soft but not mushy, and the rice definitely is not dry.";
+"Rice.Introduction.Accessibility" = "Rice is a staple food of Asian cuisine, and it is often paired with many delicious dishes. A perfectly cooked rice is when each individual grain of rice still holds its shape, the rice is soft but not mushy, and the rice definitely is not dry.";
 
 /* Rice Types 1 */
-"Rice.Types.1" = "There are many types of rice grain, and they are categorized by their size and shape.";
+"Rice.Types.1" = "There are many types of rice grains, and they are categorized by their size and shape.";
 
 /* Rice Types 1 (VoiceOVer) */
-"Rice.Types.1.Accessibility" = "There are many types of rice grain, and they are categorized by their size and shape.";
+"Rice.Types.1.Accessibility" = "There are many types of rice grains, and they are categorized by their size and shape.";
 
 /* Rice Types 2 */
 "Rice.Types.2" = "There are two varieties that I use; one is ##Jasmine rice## and the other is ##Japanese Sekka rice##.";
@@ -3754,13 +3754,13 @@
 "Rice.Types.2.Accessibility" = "There are two varieties that I use; one is Jasmine rice and the other is Japanese Sekka rice.";
 
 /* Rice Types 3 */
-"Rice.Types.3" = "##Jasmine rice## is a long grain type that is long and slender, but not as long and slender as ##Basmati rice##.";
+"Rice.Types.3" = "##Jasmine rice## is a long-grain type that is long and slender, but not as long and slender as something like ##Basmati rice##.";
 
 /* Rice Types 3 (VoiceOVer) */
-"Rice.Types.3.Accessibility" = "Jasmine rice is a long grain type that is long and slender, but not as long and slender as Basmati rice.";
+"Rice.Types.3.Accessibility" = "Jasmine rice is a long grain type that is long and slender, but not as long and slender as something like Basmati rice.";
 
 /* Rice Types 4 */
-"Rice.Types.4" = "##Japanese Sekka rice## is a medium grain type that is more round and slightly shorter than ##Jasmine rice##.";
+"Rice.Types.4" = "##Japanese Sekka rice## is a medium-grain type that is more round and slightly shorter than ##Jasmine rice##.";
 
 /* Rice Types 4 (VoiceOVer) */
 "Rice.Types.4.Accessibility" = "Japanese Sekka rice is a medium grain type that is more round and slightly shorter than Jasmine rice.";
@@ -3769,16 +3769,16 @@
 "Rice.Brands.Jasmine.AccessibilityLabel" = "Jasmine Rice";
 
 /* Rice Brands Jasmine 1 */
-"Rice.Brands.Jasmine.1" = "I grew up eating ##Jasmine rice## (long-grain) variety nearly every day, and my family usually go for the ##Three Ladies## brand or the ##Buddha## brand.";
+"Rice.Brands.Jasmine.1" = "I grew up eating ##Jasmine rice## (long-grain) variety nearly every day, and my family usually goes for the ##Three Ladies## brand or the ##Buddha## brand. This is usually what you will find at a Vietnamese, Chinese, or Thai restaurant.";
 
 /* Rice Brands Jasmine 1 (VoiceOVer) */
-"Rice.Brands.Jasmine.1.Accessibility" = "I grew up eating Jasmine rice (long-grain) variety nearly every day, and my family usually go for the Three Ladies brand or the Buddha brand.";
+"Rice.Brands.Jasmine.1.Accessibility" = "I grew up eating Jasmine rice (long-grain) variety nearly every day, and my family usually goes for the Three Ladies brand or the Buddha brand. This is usually what you will find at a Vietnamese, Chinese, or Thai restaurant.";
 
 /* Rice Brands Jasmine 2 */
-"Rice.Brands.Jasmine.2" = "These two brands are pretty similar in aroma and taste so we usually get which ever is on sale.";
+"Rice.Brands.Jasmine.2" = "These two brands are pretty similar in aroma and taste so we usually get whichever is on sale.";
 
 /* Rice Brands Jasmine 2 (VoiceOVer) */
-"Rice.Brands.Jasmine.2.Accessibility" = "These two brands are pretty similar in aroma and taste so we usually get which ever is on sale.";
+"Rice.Brands.Jasmine.2.Accessibility" = "These two brands are pretty similar in aroma and taste so we usually get whichever is on sale.";
 
 /* Rice Brands Jasmine 3 */
 "Rice.Brands.Jasmine.3" = "When cooked right, the rice is soft and tasty.";
