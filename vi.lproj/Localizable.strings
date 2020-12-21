@@ -4171,10 +4171,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "SubscriptionView.Offer.1.AccessibilityTitle" = "Chọn Lựa 1 Đầu Bếp Tạm Thời";
 
 /* Subscription View Offer 1 Price */
-"SubscriptionView.Offer.1.Price" = "$1,99 / Tháng";
+"SubscriptionView.Offer.1.Price" = "%@ / Tháng";
 
 /* Subscription View Offer 1 Price (VoiceOver) */
-"SubscriptionView.Offer.1.AccessibilityPrice" = "$1,99 mỗi tháng";
+"SubscriptionView.Offer.1.AccessibilityPrice" = "%@ mỗi tháng";
 
 /* Subscription View Offer 1 Purchase Button */
 "SubscriptionView.Offer.1.PurchaseButton" = "ĐĂNG KÝ";
@@ -4195,16 +4195,16 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "SubscriptionView.Offer.2.AccessibilityTitle" = "Chọn Lựa 2 Đầu Bếp Phó";
 
 /* Subscription View Offer 2 Price */
-"SubscriptionView.Offer.2.Price" = "$19,99 / Năm";
+"SubscriptionView.Offer.2.Price" = "%@ / Năm";
 
 /* Subscription View Offer 2 Price (VoiceOver) */
-"SubscriptionView.Offer.2.AccessibilityPrice" = "$19,99 mỗi năm";
+"SubscriptionView.Offer.2.AccessibilityPrice" = "%@ mỗi năm";
 
 /* Subscription View Offer 2 Savings */
-"SubscriptionView.Offer.2.Savings" = "(12 tháng với $1,66/tháng. Tiết kiệm 16%)";
+"SubscriptionView.Offer.2.Savings" = "(12 tháng với %1$@/tháng. Tiết kiệm %2$@%%)";
 
 /* Subscription View Offer 2 Savings (VoiceOver) */
-"SubscriptionView.Offer.2.AccessibilitySavings" = "12 tháng với $1,66 mỗi tháng. Tiết kiệm 16 phần trăm.";
+"SubscriptionView.Offer.2.AccessibilitySavings" = "12 tháng với %1$@ mỗi tháng. Tiết kiệm %2$@ phần trăm.";
 
 /* Subscription View Offer 2 Purchase Button */
 "SubscriptionView.Offer.2.PurchaseButton" = "ĐĂNG KÝ";
@@ -4228,16 +4228,16 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "SubscriptionView.Offer.3.AccessibilityTitle" = "Chọn Lựa 3 Đầu Bếp Trưởng";
 
 /* Subscription View Offer 3 Price */
-"SubscriptionView.Offer.3.Price" = "$49,99 Một Lần";
+"SubscriptionView.Offer.3.Price" = "%@ Một Lần";
 
 /* Subscription View Offer 3 Price (VoiceOver) */
-"SubscriptionView.Offer.3.AccessibilityPrice" = "$49,99 một lần.";
+"SubscriptionView.Offer.3.AccessibilityPrice" = "%@ một lần.";
 
 /* Subscription View Offer 3 Savings */
-"SubscriptionView.Offer.3.Savings" = "(3 năm với $16,66 mỗi năm. Tiết kiệm 16%)";
+"SubscriptionView.Offer.3.Savings" = "(3 năm với %1$@ mỗi năm. Tiết kiệm %2$@%%)";
 
 /* Subscription View Offer 3 Savings (VoiceOver) */
-"SubscriptionView.Offer.3.AccessibilitySavings" = "3 năm với $16,66 mỗi năm. Tiết kiệm 16 phần trăm.";
+"SubscriptionView.Offer.3.AccessibilitySavings" = "3 năm với %1$@ mỗi năm. Tiết kiệm %2$@ phần trăm.";
 
 /* Subscription View Offer 3 Purchase Button */
 "SubscriptionView.Offer.3.PurchaseButton" = "MUA";
