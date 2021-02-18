@@ -1504,6 +1504,18 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenCurryWithRice.HowTo.4.Accessibility" = "Thêm chút tương ớt nếu bạn ăn cay.";
 
 
+// MARK: Thit Ba Roi Xao (Pork Belly Stir-fry) Main Page
+
+/* Pork Belly Stir-fry Main Introduction 1 */
+"PorkBellyStirfryMain.Introduction.1" = "##Thịt Ba Rọi Xào## (pork belly stir-fry) không phải là một món ăn mà bạn sẽ tìm thấy ở nhà hàng Việt Nam nhưng nó rất ngon. Bạn có thể dùng bất cứ. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+
+/* Pork Belly Stir-fry Introduction 1 (VoiceOver) */
+"PorkBellyStirfryMain.Introduction.1.Accessibility" = "Thịt Ba Rọi Xào không phải là một món ăn mà bạn sẽ tìm thấy ở nhà hàng Việt Nam nhưng nó rất ngon. Bạn có thể dùng bất cứ. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+
+/* Pork Belly Stir-fry Main Introduction 2 */
+"PorkBellyStirfryMain.Introduction.2" = "Nếu bạn cảm thấy hiếu kỳ thì nên thử tất cả các biến thể!";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

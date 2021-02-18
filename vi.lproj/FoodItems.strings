@@ -98,6 +98,10 @@
 "chickenCurryWithRice.AccessibilitySubtitle" = "Cơm Cà Ri Gà";
 "chickenCurryWithRice.AccessibilitySubtitle" = "Cơm Cà Ri Gà";
 
+/* Pork Belly Stir-fry Main */
+"porkBellyStirfryMain.Subtitle" = "Thịt Ba Rọi Xào";
+"porkBellyStirfryMain.AccessibilitySubtitle" = "Thịt Ba Rọi Xào";
+
 
 // MARK: Recipes Tab
 

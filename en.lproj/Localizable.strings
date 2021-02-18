@@ -1487,6 +1487,17 @@
 "ChickenCurryWithRice.HowTo.4.Accessibility" = "Add the chicken curry to the rice as you eat so the white rice doesn’t get mushy.";
 
 
+// MARK: Thit Ba Roi Xao (Pork Belly Stir-fry) Main Page
+
+/* Pork Belly Stir-fry Main Introduction 1 */
+"PorkBellyStirfryMain.Introduction.1" = "##Thịt Ba Rọi Xào## (pork belly stir-fry) may not be a true Vietnamese dish, but it is delicious. What I mean by 'true' is that you won't find this dish on a menu at a Vietnamese restaurant, but it is an authentic home-cooked dish. It is very simple and quick to make, and you can mix and match any vegetables and it will still be great.";
+
+/* Pork Belly Stir-fry Introduction 1 (VoiceOver) */
+"PorkBellyStirfryMain.Introduction.1.Accessibility" = "Pork belly stir-fry may not be a true Vietnamese dish, but it is delicious. What I mean by true is that you won't find this dish on a menu at a Vietnamese restaurant, but it is an authentic home-cooked dish. It is very simple and quick to make, and you can mix and match any vegetables and it will still be great.";
+
+/* Pork Belly Stir-fry Main Introduction 2 */
+"PorkBellyStirfryMain.Introduction.2" = "If you’re feeling adventurous, give all the variations a try!";
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

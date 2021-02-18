@@ -81,6 +81,10 @@
 "chickenCurryWithRice.Subtitle" = "Chicken Curry with Rice";
 "chickenCurryWithRice.AccessibilitySubtitle" = "Chicken Curry with Rice";
 
+/* Pork Belly Stir-fry Main */
+"porkBellyStirfryMain.Subtitle" = "Pork Belly Stir-fry";
+"porkBellyStirfryMain.AccessibilitySubtitle" = "Pork Belly Stir-fry";
+
 
 // MARK: Recipes Tab
 
