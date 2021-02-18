@@ -85,6 +85,9 @@
 "porkBellyWithSpringOnion.Subtitle" = "Pork Belly with Spring Onion";
 "porkBellyWithSpringOnion.AccessibilitySubtitle" = "Pork Belly with Spring Onion";
 
+/* Pork Belly with Green Bean */
+"porkBellyWithGreenBean.Subtitle" = "Pork Belly with Green Bean";
+"porkBellyWithGreenBean.AccessibilitySubtitle" = "Pork Belly with Green Bean";
 
 
 // MARK: Recipes Tab

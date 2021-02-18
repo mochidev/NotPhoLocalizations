@@ -1504,10 +1504,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithSpringOnion.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
 
 /* Pork Belly with Spring Onion Instructions Step 2 Part 3 */
-"PorkBellyWithSpringOnion.Instructions.Step.2.Part.3" = "Xào ##Thịt Ba Rọi## cho đến khi chín.";
+"PorkBellyWithSpringOnion.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Thịt Ba Rọi## (pork belly) chín.";
 
 /* Pork Belly with Spring Onion Instructions Step 2 Part 3 (VoiceOver) */
-"PorkBellyWithSpringOnion.Instructions.Step.2.Part.3.Accessibility" = "Xào Thịt Ba Rọi cho đến khi chín.";
+"PorkBellyWithSpringOnion.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Thịt Ba Rọi chín.";
 
 /* Pork Belly with Spring Onion Instructions Step 3 Part 1 */
 "PorkBellyWithSpringOnion.Instructions.Step.3.Part.1" = "Thêm ##Hành Lá## (spring onion) và xào thêm vài lần nữa.";
@@ -1534,10 +1534,98 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithSpringOnion.Instructions.Step.4.Part.1.Accessibility" = "Thêm Dầu Hào, Đường, và Tiêu Đen.";
 
 /* Pork Belly with Spring Onion Instructions Step 4 Part 2 */
-"PorkBellyWithSpringOnion.Instructions.Step.4.Part.2" = "Xào mọi thứ cho khi.";
+"PorkBellyWithSpringOnion.Instructions.Step.4.Part.2" = "Xào mọi thứ cho đều.";
 
 /* Pork Belly with Spring Onion How To 1 */
 "PorkBellyWithSpringOnion.HowTo.1" = "Món này thưởng thức với cơm rất tuyệt.";
+
+
+// MARK: Thit Ba Roi Xao Dau Que (Pork Belly with Green Bean) Page
+
+/* Pork Belly with Green Bean Introduction 1 */
+"PorkBellyWithGreenBean.Introduction.1" = "##Thịt Ba Rọi Xào Đậu Que## (pork belly with green bean) là một món ăn đơn giản nhưng rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+
+/* Pork Belly with Green Bean Introduction 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Introduction.1.Accessibility" = "Thịt Ba Rọi Xào Đậu Que là một món ăn đơn giản nhưng rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+
+/* Pork Belly with Green Bean Introduction 2 */
+"PorkBellyWithGreenBean.Introduction.2" = "Công thức này làm cho 1 người ăn";
+
+/* Pork Belly with Green Bean Ingredients Pork Belly With Oyster Sauce Amount */
+"PorkBellyWithGreenBean.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 phần";
+
+/* Pork Belly with Green Bean Ingredients Green Bean Amount */
+"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.us" = "???";
+"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.metric" = "???";
+
+/* Pork Belly with Green Bean Ingredients Egg Fried Rice Amount */
+"PorkBellyWithGreenBean.Ingredients.EggFriedRice.Amount" = "1 phần";
+
+/* Pork Belly with Green Bean Instructions Step 1 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.1" = "Cắt ##Đậu Que## (green bean) thành khúc dài khoảng 3-5 xăng ti mét.";
+
+/* Pork Belly with Green Bean Instructions Step 1 Part 1 (Voiceover) */
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.1.Accessibility" = "Cắt Đậu Que thành khúc dài khoảng 3 đến 5 xăng ti mét.";
+
+/* Pork Belly with Green Bean Instructions Step 1 Part 2 */
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.2" = "Cắt ##Thịt Ba Rọi## (pork belly) thành miếng vừa ăn.";
+
+/* Pork Belly with Green Bean Instructions Step 1 Part 2 (Voiceover) */
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.2.Accessibility" = "Cắt Thịt Ba Rọi thành miếng vừa ăn.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.1" = "Cho ##Dầu## (oil) vào chảo với lửa khoảng trung bình đến cao.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.1.Accessibility" = "Cho Dầu vào chảo với lửa khoảng trung bình đến cao.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 2 */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2" = "Thêm ##Thịt Ba Rọi## (pork belly) vào chảo.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 2 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 3 */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Thịt Ba Rọi## (pork belly) gần chín.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 3 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Thịt Ba Rọi gần chín.";
+
+/* Pork Belly with Green Bean Instructions Step 3 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.1" = "Thêm ##Đậu Que## (green bean).";
+
+/* Pork Belly with Green Bean Instructions Step 3 Part 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.1.Accessibility" = "Thêm Đậu Que.";
+
+/* Pork Belly with Green Bean Instructions Step 3 Part 2 */
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.2" = "Tiếp tục xào cho đến khi ##Thịt Ba Rọi## (pork belly) chín hoàn toàn và ##Đậu Que## (green bean) vừa ăn.";
+
+/* Pork Belly with Green Bean Instructions Step 3 Part 2 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.2.Accessibility" = "Tiếp tục xào cho đến khi Thịt Ba Rọi chín hoàn toàn và Đậu Que vừa ăn.";
+
+/* Pork Belly with Green Bean Instructions Step 4 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.4.Part.1" = "Thêm ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
+
+/* Pork Belly with Green Bean Instructions Step 4 Part 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.4.Part.1.Accessibility" = "Thêm Dầu Hào, Đường, và Tiêu Đen.";
+
+/* Pork Belly with Green Bean Instructions Step 4 Part 2 */
+"PorkBellyWithGreenBean.Instructions.Step.4.Part.2" = "Xào mọi thứ cho đều.";
+
+/* Pork Belly with Green Bean Instructions Step 5 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.5.Part.1" = "Xào ##Cơm Chiên Trứng## (egg fried rice) theo hướng dẫn trong công thức.";
+
+/* Pork Belly with Green Bean Instructions Step 5 Part 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.5.Part.1.Accessibility" = "Xào ##Cơm Chiên Trứng## theo hướng dẫn trong công thức.";
+
+/* Pork Belly with Green Bean How To 1 */
+"PorkBellyWithGreenBean.HowTo.1" = "Món này có thể thưởng thức bất cứ lúc nào.";
+
+/* Pork Belly with Green Bean How To 2 */
+"PorkBellyWithGreenBean.HowTo.2" = "##Cơm Chiên Trứng## (egg fried rice) sẽ tăng thêm hương vị cho món ăn.";
+
+/* Pork Belly with Green Bean How To 2 (VoiceOver) */
+"PorkBellyWithGreenBean.HowTo.2.Accessibility" = "Cơm Chiên Trứng sẽ tăng thêm hương vị cho món ăn.";
 
 
 // MARK: - # Recipes Tab:
@@ -2736,10 +2824,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithOysterSauce.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
 
 /* Pork Belly with Oyster Sauce Instructions Step 2 Part 3 */
-"PorkBellyWithOysterSauce.Instructions.Step.2.Part.3" = "Xào ##Thịt Ba Rọi## (pork belly) cho đến khi chín.";
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Thịt Ba Rọi## (pork belly) chín.";
 
 /* Pork Belly with Oyster Sauce Instructions Step 2 Part 3 (VoiceOver) */
-"PorkBellyWithOysterSauce.Instructions.Step.2.Part.3.Accessibility" = "Xào Thịt Ba Rọi cho đến khi chín.";
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Thịt Ba Rọi chín.";
 
 /* Pork Belly with Oyster Sauce Instructions Step 3 Part 1 */
 "PorkBellyWithOysterSauce.Instructions.Step.3.Part.1" = "Thêm ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";

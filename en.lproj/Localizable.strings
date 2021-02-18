@@ -1523,6 +1523,94 @@
 "PorkBellyWithSpringOnion.HowTo.1" = "This dish is great with rice.";
 
 
+// MARK: Thit Ba Roi Xao Dau Que (Pork Belly with Green Bean) Page
+
+/* Pork Belly with Green Bean Introduction 1 */
+"PorkBellyWithGreenBean.Introduction.1" = "##Thịt Ba Rọi Xào Đậu Que## (pork belly with green bean) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+
+/* Pork Belly with Green Bean Introduction 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Introduction.1.Accessibility" = "Pork belly with green bean is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+
+/* Pork Belly with Green Bean Introduction 2 */
+"PorkBellyWithGreenBean.Introduction.2" = "This recipe serves one.";
+
+/* Pork Belly with Green Bean Ingredients Pork Belly With Oyster Sauce Amount */
+"PorkBellyWithGreenBean.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 portion";
+
+/* Pork Belly with Green Bean Ingredients Green Bean Amount */
+"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.us" = "???";
+"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.metric" = "???";
+
+/* Pork Belly with Green Bean Ingredients Egg Fried Rice Amount */
+"PorkBellyWithGreenBean.Ingredients.EggFriedRice.Amount" = "1 portion";
+
+/* Pork Belly with Green Bean Instructions Step 1 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.1" = "Cut the ##Đậu Que## (green bean) into 1-2 inch (3-5 cm) pieces.";
+
+/* Pork Belly with Green Bean Instructions Step 1 Part 1 (Voiceover) */
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.1.Accessibility" = "Cut the green bean into 1 to 2 inch (3 to 5 cm) pieces.";
+
+/* Pork Belly with Green Bean Instructions Step 1 Part 2 */
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.2" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite sized pieces.";
+
+/* Pork Belly with Green Bean Instructions Step 1 Part 2 (Voiceover) */
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.2.Accessibility" = "Cut the pork belly into bite sized pieces.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.1" = "In a medium-high heat wok/pan, add the ##Dầu## (oil).";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok or pan, add the oil.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 2 */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2" = "Add the ##Thịt Ba Rọi## (pork belly).";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 2 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2.Accessibility" = "Add the pork belly.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 3 */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.3" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is about half-way cooked (about 2 minutes).";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 3 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.3.Accessibility" = "Stir-fry until the pork belly is about half-way cooked (about 2 minutes).";
+
+/* Pork Belly with Green Bean Instructions Step 3 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.1" = "Add the ##Đậu Que## (green bean).";
+
+/* Pork Belly with Green Bean Instructions Step 3 Part 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.1.Accessibility" = "Add the green bean.";
+
+/* Pork Belly with Green Bean Instructions Step 3 Part 2 */
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.2" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is fully cooked and the ##Đậu Que## (green beans) become tendered.";
+
+/* Pork Belly with Green Bean Instructions Step 3 Part 2 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.2.Accessibility" = "Stir-fry until the pork belly is fully cooked and the green beans become tendered.";
+
+/* Pork Belly with Green Bean Instructions Step 4 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.4.Part.1" = "Add ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
+
+/* Pork Belly with Green Bean Instructions Step 4 Part 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.4.Part.1.Accessibility" = "Add oyster sauce, sugar, and black pepper.";
+
+/* Pork Belly with Green Bean Instructions Step 4 Part 2 */
+"PorkBellyWithGreenBean.Instructions.Step.4.Part.2" = "Stir-fry until everything is well coated with the sauce.";
+
+/* Pork Belly with Green Bean Instructions Step 5 Part 1 */
+"PorkBellyWithGreenBean.Instructions.Step.5.Part.1" = "Prepare the ##Cơm Chiên Trứng## (egg fried rice) as instructed in the recipe.";
+
+/* Pork Belly with Green Bean Instructions Step 5 Part 1 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.5.Part.1.Accessibility" = "Prepare the egg fried rice as instructed in the recipe.";
+
+/* Pork Belly with Green Bean How To 1 */
+"PorkBellyWithGreenBean.HowTo.1" = "This dish can be enjoyed any time.";
+
+/* Pork Belly with Green Bean How To 2 */
+"PorkBellyWithGreenBean.HowTo.2" = "The ##Cơm Chiên Trứng## (egg fried rice) adds even more flavor to the dish.";
+
+/* Pork Belly with Green Bean How To 2 (VoiceOver) */
+"PorkBellyWithGreenBean.HowTo.2.Accessibility" = "The egg fried rice adds even more flavor to the dish.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

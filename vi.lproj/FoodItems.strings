@@ -103,6 +103,11 @@
 "porkBellyWithSpringOnion.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Hành Lá";
 "porkBellyWithSpringOnion.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Hành Lá";
 
+/* Pork Belly with Green Bean */
+"porkBellyWithGreenBean.Subtitle" = "Pork Belly with Green Bean";
+"porkBellyWithGreenBean.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Đậu Que";
+"porkBellyWithGreenBean.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Đậu Que";
+
 
 // MARK: Recipes Tab
 
