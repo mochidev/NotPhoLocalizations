@@ -33,10 +33,6 @@
 "BrokenRiceGrilledPorkEggMeatloaf.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 "BrokenRiceGrilledPorkEggMeatloaf.AccessibilityPageTitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 
-/* Pork Belly with Onion */
-"porkBellyWithOnion.Subtitle" = "Pork Belly with Onion";
-"porkBellyWithOnion.AccessibilitySubtitle" = "Pork Belly with Onion";
-
 /* Shaken Beef Main */
 "shakenBeefMain.Subtitle" = "Shaken Beef";
 "shakenBeefMain.AccessibilitySubtitle" = "Shaken Beef";
@@ -84,6 +80,11 @@
 /* Pork Belly Stir-fry Main */
 "porkBellyStirfryMain.Subtitle" = "Pork Belly Stir-fry";
 "porkBellyStirfryMain.AccessibilitySubtitle" = "Pork Belly Stir-fry";
+
+/* Pork Belly with Spring Onion */
+"porkBellyWithSpringOnion.Subtitle" = "Pork Belly with Spring Onion";
+"porkBellyWithSpringOnion.AccessibilitySubtitle" = "Pork Belly with Spring Onion";
+
 
 
 // MARK: Recipes Tab

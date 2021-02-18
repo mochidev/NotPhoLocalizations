@@ -37,11 +37,6 @@
 "BrokenRiceGrilledPorkEggMeatloaf.Subtitle" = "Broken Rice with Grilled Pork and Egg Meatloaf";
 "BrokenRiceGrilledPorkEggMeatloaf.AccessibilitySubtitle" = "Cơm Tấm Thịt Nướng Chả";
 "BrokenRiceGrilledPorkEggMeatloaf.AccessibilityPageTitle" = "Cơm Tấm Thịt Nướng Chả";
- 
-/* Pork Belly with Onion */
-"porkBellyWithOnion.Subtitle" = "Pork Belly with Onion";
-"porkBellyWithOnion.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Hành";
-"porkBellyWithOnion.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Hành";
 
 /* Shaken Beef Main */
 "shakenBeefMain.Subtitle" = "Shaken Beef";
@@ -99,8 +94,14 @@
 "chickenCurryWithRice.AccessibilitySubtitle" = "Cơm Cà Ri Gà";
 
 /* Pork Belly Stir-fry Main */
-"porkBellyStirfryMain.Subtitle" = "Thịt Ba Rọi Xào";
+"porkBellyStirfryMain.Subtitle" = "Pork Belly Stir-fry";
 "porkBellyStirfryMain.AccessibilitySubtitle" = "Thịt Ba Rọi Xào";
+"porkBellyStirfryMain.AccessibilityPageTitle" = "Thịt Ba Rọi Xào";
+
+/* Pork Belly with Spring Onion */
+"porkBellyWithSpringOnion.Subtitle" = "Pork Belly with Spring Onion";
+"porkBellyWithSpringOnion.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Hành Lá";
+"porkBellyWithSpringOnion.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Hành Lá";
 
 
 // MARK: Recipes Tab

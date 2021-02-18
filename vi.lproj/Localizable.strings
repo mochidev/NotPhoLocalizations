@@ -785,68 +785,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BrokenRiceGrilledPorkEggMeatloaf.HowTo.3.Accessibility" = "Hoặc có thể đổ Nước Mắm Chấm lên trên tất cả để ăn.";
 
 
-// MARK: Thit Ba Roi Xao Hanh (Pork Belly with Onion) Page
-
-/* Pork Belly with Onion Introduction 1 */
-"PorkBellyWithOnion.Introduction.1" = "##Thịt Ba Rọi Xào Hành## (pork belly with onion) không phải là một món ăn mà bạn sẽ tìm thấy ở nhà hàng Việt Nam nhưng nó rất ngon. Món ăn này là một món ăn nhà nấu thực sự mà tôi làm khi tôi không có thời gian.";
-
-/* Pork Belly with Onion Introduction 1 (VoiceOver) */
-"PorkBellyWithOnion.Introduction.1.Accessibility" = "Thịt Ba Rọi Xào Hành không phải là một món ăn mà bạn sẽ tìm thấy ở nhà hàng Việt Nam nhưng nó rất ngon. Món ăn này là một món ăn nhà nấu thực sự mà tôi làm khi tôi không có thời gian.";
-
-/* Pork Belly with Onion Introduction 2 */
-"PorkBellyWithOnion.Introduction.2" = "Công thức này làm cho 1 người ăn.";
-
-/* Pork Belly with Onion Ingredients White Rice Amount */
-"PorkBellyWithOnion.Ingredients.WhiteRice.Amount.us" = "⅔ cup, cơm chín";
-"PorkBellyWithOnion.Ingredients.WhiteRice.Amount.metric" = "120 g, cơm chín";
-
-/* Pork Belly with Onion Ingredients White Rice Amount (VoiceOver) */
-"PorkBellyWithOnion.Ingredients.WhiteRice.AccessibilityAmount.us" = "hai phần ba cốc cơm chín";
-"PorkBellyWithOnion.Ingredients.WhiteRice.AccessibilityAmount.metric" = "120 gờ ram cơm chín";
-
-/* Pork Belly with Onion Ingredients Pork Belly With Oyster Sauce Amount */
-"PorkBellyWithOnion.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 phần";
-
-/* Pork Belly with Onion Ingredients Spring Onion Amount */
-"PorkBellyWithOnion.Ingredients.SpringOnion.Amount" = "1 cọng";
-
-/* Pork Belly with Onion Instructions 1 */
-"PorkBellyWithOnion.Instructions.1" = "Cắt ##Hành Lá## (spring onion) thành khúc dài 5 xăng ti mét.";
-
-/* Pork Belly with Onion Instructions 1 (VoiceOver) */
-"PorkBellyWithOnion.Instructions.1.Accessibility" = "Cắt hành lá thành khúc dài 5 xăng ti mét.";
-
-/* Pork Belly with Onion Instructions 2 */
-"PorkBellyWithOnion.Instructions.2" = "Thực hiện theo công thức làm món ##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce).";
-
-/* Pork Belly with Onion Instructions 2 (VoiceOver) */
-"PorkBellyWithOnion.Instructions.2.Accessibility" = "Thực hiện theo công thức làm món Thịt Ba Rọi Xào Dầu Hào.";
-
-/* Pork Belly with Onion Instructions 3 */
-"PorkBellyWithOnion.Instructions.3" = "Trước khi lấy ##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) ra khỏi chảo, thêm ##Hành Lá## (spring onion) vào xào.";
-
-/* Pork Belly with Onion Instructions 3 (VoiceOver) */
-"PorkBellyWithOnion.Instructions.3.Accessibility" = "Trước khi lấy Thịt Ba Rọi Xào Dầu Hào ra khỏi chảo, thêm hành lá vào xào.";
-
-/* Pork Belly with Onion Instructions 4 */
-"PorkBellyWithOnion.Instructions.4" = "Xào đều các nguyên liệu.";
-
-/* Pork Belly with Onion Instructions Note 1 */
-"PorkBellyWithOnion.Instructions.Note.1" = "##Hành Lá## (spring onion) là một loại hành hoa vị nên bạn không muốn nấu quá chín.";
-
-/* Pork Belly with Onion Instructions Note 1 (VoiceOver) */
-"PorkBellyWithOnion.Instructions.Note.1.Accessibility" = "Hành lá là một loại hành hoa vị nên bạn không muốn nấu quá chín.";
-
-/* Pork Belly with Onion Instructions Note 2 */
-"PorkBellyWithOnion.Instructions.Note.2" = "Trừ khi bạn không thích hương vị của ##Hành Lá## (spring onion), thì xào lâu hơn một chút là được.";
-
-/* Pork Belly with Onion Instructions Note 2 (VoiceOver) */
-"PorkBellyWithOnion.Instructions.Note.2.Accessibility" = "Trừ khi bạn không thích hương vị của hành lá, thì xào lâu hơn một chút là được.";
-
-/* Pork Belly with Onion How To 1 */
-"PorkBellyWithOnion.HowTo.1" = "Món này thưởng thức với cơm rất tuyệt.";
-
-
 // MARK: Bo Luc Lac (Shaken Beef) Main Page
 
 /* Shaken Beef Main Introduction 1 */
@@ -1507,13 +1445,99 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 // MARK: Thit Ba Roi Xao (Pork Belly Stir-fry) Main Page
 
 /* Pork Belly Stir-fry Main Introduction 1 */
-"PorkBellyStirfryMain.Introduction.1" = "##Thịt Ba Rọi Xào## (pork belly stir-fry) không phải là một món ăn mà bạn sẽ tìm thấy ở nhà hàng Việt Nam nhưng nó rất ngon. Bạn có thể dùng bất cứ. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+"PorkBellyStirfryMain.Introduction.1" = "##Thịt Ba Rọi Xào## (pork belly stir-fry) không phải là một món ăn mà bạn sẽ tìm thấy ở nhà hàng Việt Nam nhưng nó rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
 
 /* Pork Belly Stir-fry Introduction 1 (VoiceOver) */
-"PorkBellyStirfryMain.Introduction.1.Accessibility" = "Thịt Ba Rọi Xào không phải là một món ăn mà bạn sẽ tìm thấy ở nhà hàng Việt Nam nhưng nó rất ngon. Bạn có thể dùng bất cứ. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+"PorkBellyStirfryMain.Introduction.1.Accessibility" = "Thịt Ba Rọi Xào không phải là một món ăn mà bạn sẽ tìm thấy ở nhà hàng Việt Nam nhưng nó rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
 
 /* Pork Belly Stir-fry Main Introduction 2 */
 "PorkBellyStirfryMain.Introduction.2" = "Nếu bạn cảm thấy hiếu kỳ thì nên thử tất cả các biến thể!";
+
+
+// MARK: Thit Ba Roi Xao Hanh (Pork Belly with Spring Onion) Page
+
+/* Pork Belly with Spring Onion Introduction 1 */
+"PorkBellyWithSpringOnion.Introduction.1" = "##Thịt Ba Rọi Xào Hành Lá## (pork belly with spring onion) là một món ăn đơn giản nhưng rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+
+/* Pork Belly with Spring Onion Introduction 1 (VoiceOver) */
+"PorkBellyWithSpringOnion.Introduction.1.Accessibility" = "Thịt Ba Rọi Xào Hành Lá là một món ăn đơn giản nhưng rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+
+/* Pork Belly with Spring Onion Introduction 2 */
+"PorkBellyWithSpringOnion.Introduction.2" = "Công thức này làm cho 1 người ăn.";
+
+/* Pork Belly with Spring Onion Ingredients Pork Belly With Oyster Sauce Amount */
+"PorkBellyWithSpringOnion.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 phần";
+
+/* Pork Belly with Spring Onion Ingredients Spring Onion Amount */
+"PorkBellyWithSpringOnion.Ingredients.SpringOnion.Amount" = "2 cọng";
+
+/* Pork Belly with Spring Onion Ingredients White Rice Amount */
+"PorkBellyWithSpringOnion.Ingredients.WhiteRice.Amount.us" = "⅔ cup, cơm chín";
+"PorkBellyWithSpringOnion.Ingredients.WhiteRice.Amount.metric" = "120 g, cơm chín";
+
+/* Pork Belly with Spring Onion Ingredients White Rice Amount (VoiceOver) */
+"PorkBellyWithSpringOnion.Ingredients.WhiteRice.AccessibilityAmount.us" = "hai phần ba cốc cơm chín";
+"PorkBellyWithSpringOnion.Ingredients.WhiteRice.AccessibilityAmount.metric" = "120 gờ ram cơm chín";
+
+/* Pork Belly with Spring Onion Instructions Step 1 Part 1 */
+"PorkBellyWithSpringOnion.Instructions.Step.1.Part.1" = "Cắt ##Hành Lá## (spring onion) thành khúc dài khoảng 2-3 xăng ti mét.";
+
+/* Pork Belly with Spring Onion Instructions Step 1 Part 1 (Voiceover) */
+"PorkBellyWithSpringOnion.Instructions.Step.1.Part.1.Accessibility" = "Cắt Hành Lá thành khúc dài khoảng 2 đến 3 xăng ti mét.";
+
+/* Pork Belly with Spring Onion Instructions Step 1 Part 2 */
+"PorkBellyWithSpringOnion.Instructions.Step.1.Part.2" = "Cắt ##Thịt Ba Rọi## (pork belly) thành miếng vừa ăn.";
+
+/* Pork Belly with Spring Onion Instructions Step 1 Part 2 (Voiceover) */
+"PorkBellyWithSpringOnion.Instructions.Step.1.Part.2.Accessibility" = "Cắt Thịt Ba Rọi thành miếng vừa ăn.";
+
+/* Pork Belly with Spring Onion Instructions Step 2 Part 1 */
+"PorkBellyWithSpringOnion.Instructions.Step.2.Part.1" = "Cho ##Dầu## (oil) vào chảo với lửa khoảng trung bình đến cao.";
+
+/* Pork Belly with Spring Onion Instructions Step 2 Part 1 (VoiceOver) */
+"PorkBellyWithSpringOnion.Instructions.Step.2.Part.1.Accessibility" = "Cho Dầu vào chảo với lửa khoảng trung bình đến cao.";
+
+/* Pork Belly with Spring Onion Instructions Step 2 Part 2 */
+"PorkBellyWithSpringOnion.Instructions.Step.2.Part.2" = "Thêm ##Thịt Ba Rọi## (pork belly) vào chảo.";
+
+/* Pork Belly with Spring Onion Instructions Step 2 Part 2 (VoiceOver) */
+"PorkBellyWithSpringOnion.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
+
+/* Pork Belly with Spring Onion Instructions Step 2 Part 3 */
+"PorkBellyWithSpringOnion.Instructions.Step.2.Part.3" = "Xào ##Thịt Ba Rọi## cho đến khi chín.";
+
+/* Pork Belly with Spring Onion Instructions Step 2 Part 3 (VoiceOver) */
+"PorkBellyWithSpringOnion.Instructions.Step.2.Part.3.Accessibility" = "Xào Thịt Ba Rọi cho đến khi chín.";
+
+/* Pork Belly with Spring Onion Instructions Step 3 Part 1 */
+"PorkBellyWithSpringOnion.Instructions.Step.3.Part.1" = "Thêm ##Hành Lá## (spring onion) và xào thêm vài lần nữa.";
+
+/* Pork Belly with Spring Onion Instructions Step 3 Part 1 (VoiceOver) */
+"PorkBellyWithSpringOnion.Instructions.Step.3.Part.1.Accessibility" = "Thêm Hành Lá và xào thêm vài lần nữa.";
+
+/* Pork Belly with Spring Onion Instructions Step 3 Note 1 */
+"PorkBellyWithSpringOnion.Instructions.Step.3.Note.1" = "Không cần xào ##Hành Lá## (spring onion) quá chín.";
+
+/* Pork Belly with Spring Onion Instructions Step 3 Note 1 (VoiceOver) */
+"PorkBellyWithSpringOnion.Instructions.Step.3.Note.1.Accessibility" = "Không cần xào Hành Lá quá chín.";
+
+/* Pork Belly with Spring Onion Instructions Step 3 Note 2 */
+"PorkBellyWithSpringOnion.Instructions.Step.3.Note.2" = "Nhưng bạn cũng có thể xào lâu hơn nếu thích.";
+
+/* Pork Belly with Spring Onion Instructions Step 3 Note 2 (VoiceOver) */
+"PorkBellyWithSpringOnion.Instructions.Step.3.Note.2.Accessibility" = "Nhưng bạn cũng có thể xào lâu hơn nếu thích.";
+
+/* Pork Belly with Spring Onion Instructions Step 4 Part 1 */
+"PorkBellyWithSpringOnion.Instructions.Step.4.Part.1" = "Thêm ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
+
+/* Pork Belly with Spring Onion Instructions Step 4 Part 1 (VoiceOver) */
+"PorkBellyWithSpringOnion.Instructions.Step.4.Part.1.Accessibility" = "Thêm Dầu Hào, Đường, và Tiêu Đen.";
+
+/* Pork Belly with Spring Onion Instructions Step 4 Part 2 */
+"PorkBellyWithSpringOnion.Instructions.Step.4.Part.2" = "Xào mọi thứ cho khi.";
+
+/* Pork Belly with Spring Onion How To 1 */
+"PorkBellyWithSpringOnion.HowTo.1" = "Món này thưởng thức với cơm rất tuyệt.";
 
 
 // MARK: - # Recipes Tab:
@@ -2712,13 +2736,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithOysterSauce.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
 
 /* Pork Belly with Oyster Sauce Instructions Step 2 Part 3 */
-"PorkBellyWithOysterSauce.Instructions.Step.2.Part.3" = "Nấu ##Thịt Ba Rọi## cho đến khi chín.";
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.3" = "Xào ##Thịt Ba Rọi## (pork belly) cho đến khi chín.";
 
 /* Pork Belly with Oyster Sauce Instructions Step 2 Part 3 (VoiceOver) */
-"PorkBellyWithOysterSauce.Instructions.Step.2.Part.3.Accessibility" = "Nấu Thịt Ba Rọi cho đến khi chín.";
+"PorkBellyWithOysterSauce.Instructions.Step.2.Part.3.Accessibility" = "Xào Thịt Ba Rọi cho đến khi chín.";
 
 /* Pork Belly with Oyster Sauce Instructions Step 3 Part 1 */
-"PorkBellyWithOysterSauce.Instructions.Step.3.Part.1" = "Thêm ##Dầu Hào##, ##Đường##, và ##Tiêu Đen##.";
+"PorkBellyWithOysterSauce.Instructions.Step.3.Part.1" = "Thêm ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
 
 /* Pork Belly with Oyster Sauce Instructions Step 3 Part 1 (VoiceOver) */
 "PorkBellyWithOysterSauce.Instructions.Step.3.Part.1.Accessibility" = "Thêm Dầu Hào, Đường, và Tiêu Đen.";
@@ -2736,7 +2760,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithOysterSauce.HowTo.1.Accessibility" = "Món Thịt Ba Rọi Xào Dầu Hào này ăn với cơm rất ngon.";
 
 /* Pork Belly with Oyster Sauce How To 2 */
-"PorkBellyWithOysterSauce.HowTo.2" = "Món này thay thế cho ##Thịt Ba Rọi## thường trong ##Bánh Xèo## cũng rất ngon.";
+"PorkBellyWithOysterSauce.HowTo.2" = "Món này thay thế cho ##Thịt Ba Rọi## (pork belly) thường trong ##Bánh Xèo## (Vietnamese crêpes) cũng rất ngon.";
 
 /* Pork Belly with Oyster Sauce How To 2 (VoiceOver) */
 "PorkBellyWithOysterSauce.HowTo.2.Accessibility" = "Món này thay thế cho Thịt Ba Rọi thường trong Bánh Xèo cũng rất ngon.";
