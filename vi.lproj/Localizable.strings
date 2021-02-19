@@ -1562,6 +1562,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithGreenBean.Ingredients.GreenBean.AccessibilityAmount.us" = "hai phần ba cốc";
 "PorkBellyWithGreenBean.Ingredients.GreenBean.AccessibilityAmount.metric" = "130 đến 140 gờ ram";
 
+/* Pork Belly with Green Bean Ingredients Water Amount */
+"PorkBellyWithGreenBean.Ingredients.Water.Amount.us" = "2 tbsp";
+"PorkBellyWithGreenBean.Ingredients.Water.Amount.metric" = "2 muỗng canh";
+
+/* Pork Belly with Green Bean Ingredients Water Amount (VoiceOver) */
+"PorkBellyWithGreenBean.Ingredients.Water.AccessibilityAmount" = "2 muỗng canh";
+
 /* Pork Belly with Green Bean Ingredients Egg Fried Rice Amount */
 "PorkBellyWithGreenBean.Ingredients.EggFriedRice.Amount" = "1 phần";
 
@@ -1584,22 +1591,28 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithGreenBean.Instructions.Step.2.Part.1.Accessibility" = "Cho Dầu vào chảo với lửa khoảng trung bình đến cao.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 2 */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.2" = "Thêm ##Thịt Ba Rọi## (pork belly) vào chảo.";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2" = "Cho ##Đậu Que## (green bean) vào và xào vài lần.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 2 (VoiceOver) */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2.Accessibility" = "Cho Măng Tây vào và xào vài lần.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 3 */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Thịt Ba Rọi## (pork belly) gần chín.";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.3" = "Thêm ##Nước## (water) và đậy nắp chảo.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 3 (VoiceOver) */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Thịt Ba Rọi gần chín.";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.3.Accessibility" = "Thêm Nước và đậy nắp chảo.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 4 */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.4" = "Để hấp khoảng 2 phút.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 4 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.4.Accessibility" = "Để hấp khoảng 2 phút.";
 
 /* Pork Belly with Green Bean Instructions Step 3 Part 1 */
-"PorkBellyWithGreenBean.Instructions.Step.3.Part.1" = "Thêm ##Đậu Que## (green bean).";
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.1" = "Thêm ##Thịt Ba Rọi## (pork belly) vào chảo.";
 
 /* Pork Belly with Green Bean Instructions Step 3 Part 1 (VoiceOver) */
-"PorkBellyWithGreenBean.Instructions.Step.3.Part.1.Accessibility" = "Thêm Đậu Que.";
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.1.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
 
 /* Pork Belly with Green Bean Instructions Step 3 Part 2 */
 "PorkBellyWithGreenBean.Instructions.Step.3.Part.2" = "Tiếp tục xào cho đến khi ##Thịt Ba Rọi## (pork belly) chín hoàn toàn và ##Đậu Que## (green bean) vừa ăn.";

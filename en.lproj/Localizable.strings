@@ -1463,10 +1463,10 @@
 "PorkBellyWithSpringOnion.Ingredients.WhiteRice.AccessibilityAmount.metric" = "120 grams, cooked";
 
 /* Pork Belly with Spring Onion Instructions Step 1 Part 1 */
-"PorkBellyWithSpringOnion.Instructions.Step.1.Part.1" = "Cut the ##Hành Lá## (spring onion) into 1 inch (2.5 cm) pieces.";
+"PorkBellyWithSpringOnion.Instructions.Step.1.Part.1" = "Cut the ##Hành Lá## (spring onion) into 1 inch (2-3 cm) pieces.";
 
 /* Pork Belly with Spring Onion Instructions Step 1 Part 1 (Voiceover) */
-"PorkBellyWithSpringOnion.Instructions.Step.1.Part.1.Accessibility" = "Cut the spring onion into 1 inch (2.5 cm) pieces.";
+"PorkBellyWithSpringOnion.Instructions.Step.1.Part.1.Accessibility" = "Cut the spring onion into 1 inch (2 to 3 cm) pieces.";
 
 /* Pork Belly with Spring Onion Instructions Step 1 Part 2 */
 "PorkBellyWithSpringOnion.Instructions.Step.1.Part.2" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite sized pieces.";
@@ -1545,6 +1545,12 @@
 "PorkBellyWithGreenBean.Ingredients.GreenBean.AccessibilityAmount.us" = "two thirds of a cup";
 "PorkBellyWithGreenBean.Ingredients.GreenBean.AccessibilityAmount.metric" = "130 to 140 grams";
 
+/* Pork Belly with Green Bean Ingredients Water Amount */
+"PorkBellyWithGreenBean.Ingredients.Water.Amount" = "2 tbsp";
+
+/* Pork Belly with Green Bean Ingredients Water Amount (VoiceOver) */
+"PorkBellyWithGreenBean.Ingredients.Water.AccessibilityAmount" = "2 tablespoons";
+
 /* Pork Belly with Green Bean Ingredients Egg Fried Rice Amount */
 "PorkBellyWithGreenBean.Ingredients.EggFriedRice.Amount" = "1 portion";
 
@@ -1567,22 +1573,28 @@
 "PorkBellyWithGreenBean.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok or pan, add the oil.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 2 */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.2" = "Add the ##Thịt Ba Rọi## (pork belly).";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2" = "Add the ##Đậu Que## (green beans) and give them a few toss.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 2 (VoiceOver) */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.2.Accessibility" = "Add the pork belly.";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2.Accessibility" = "Add the green beans and give them a few toss.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 3 */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.3" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is about half-way cooked (about 2 minutes).";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.3" = "Add the ##Nước## (water) and cover the ##Đậu Que## (green beans).";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 3 (VoiceOver) */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.3.Accessibility" = "Stir-fry until the pork belly is about half-way cooked (about 2 minutes).";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.3.Accessibility" = "Add the water and cover the green beans.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 4 */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.4" = "Steam for about 2 minutes.";
+
+/* Pork Belly with Green Bean Instructions Step 2 Part 4 (VoiceOver) */
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.4.Accessibility" = "Steam for about 2 minutes.";
 
 /* Pork Belly with Green Bean Instructions Step 3 Part 1 */
-"PorkBellyWithGreenBean.Instructions.Step.3.Part.1" = "Add the ##Đậu Que## (green bean).";
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.1" = "Add the ##Thịt Ba Rọi## (pork belly).";
 
 /* Pork Belly with Green Bean Instructions Step 3 Part 1 (VoiceOver) */
-"PorkBellyWithGreenBean.Instructions.Step.3.Part.1.Accessibility" = "Add the green bean.";
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.1.Accessibility" = "Add the pork belly.";
 
 /* Pork Belly with Green Bean Instructions Step 3 Part 2 */
 "PorkBellyWithGreenBean.Instructions.Step.3.Part.2" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is fully cooked and the ##Đậu Que## (green beans) become tendered.";
@@ -2946,10 +2958,10 @@
 "PorkBellyWithOysterSauce.Ingredients.PorkBelly.AccessibilityAmount.metric" = "80 to 100 grams";
 
 /* Pork Belly with Oyster Sauce Ingredients Oyster Sauce Amount */
-"PorkBellyWithOysterSauce.Ingredients.OysterSauce.Amount" = "2 tsp";
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.Amount" = "1 tbsp";
 
 /* Pork Belly with Oyster Sauce Ingredients Oyster Sauce Amount (VoiceOver) */
-"PorkBellyWithOysterSauce.Ingredients.OysterSauce.AccessibilityAmount" = "2 teaspoons";
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.AccessibilityAmount" = "1 tablespoon";
 
 /* Pork Belly with Oyster Sauce Ingredients Sugar Amount */
 "PorkBellyWithOysterSauce.Ingredients.Sugar.Amount" = "1 tsp";
