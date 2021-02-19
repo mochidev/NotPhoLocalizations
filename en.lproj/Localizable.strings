@@ -1637,6 +1637,12 @@
 "PorkBellyWithAsparagus.Ingredients.Asparagus.AccessibilityAmount.us" = "two thirds of a cup";
 "PorkBellyWithAsparagus.Ingredients.Asparagus.AccessibilityAmount.metric" = "130 to 140 grams";
 
+/* Pork Belly with Asparagus Ingredients Water Amount */
+"PorkBellyWithAsparagus.Ingredients.Water.Amount" = "2 tbsp";
+
+/* Pork Belly with Asparagus Ingredients Water Amount (VoiceOver) */
+"PorkBellyWithAsparagus.Ingredients.Water.AccessibilityAmount" = "2 tablespoons";
+
 /* Pork Belly with Asparagus Ingredients Tomato Rice Amount */
 "PorkBellyWithAsparagus.Ingredients.TomatoRice.Amount" = "1 portion";
 
@@ -1659,37 +1665,43 @@
 "PorkBellyWithAsparagus.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok or pan, add the oil.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 2 */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.2" = "Add the ##Thịt Ba Rọi## (pork belly).";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.2" = "Add the ##Măng Tây## (asparagus) and give them a few toss.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 2 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.2.Accessibility" = "Add the pork belly.";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.2.Accessibility" = "Add the asparagus and give them a few toss.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 3 */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.3" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is about half-way cooked (about 2 minutes).";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.3" = "Add the ##Nước## (water) and cover the ##Măng Tây## (asparagus).";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 3 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.3.Accessibility" = "Stir-fry until the pork belly is about half-way cooked (about 2 minutes).";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.3.Accessibility" = "Add the water and cover the asparagus.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 4 */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.4" = "Steam for about 2 minutes.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 4 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.4.Accessibility" = "Steam for about 2 minutes.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Note 1 */
+"PorkBellyWithAsparagus.Instructions.Step.2.Note.1" = "##Măng Tây Con## (baby asparagus) is a much better option than regular ##Măng Tây## (asparagus) because the stalk is less tough.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Note 1 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.2.Note.1.Accessibility" = "Baby asparagus is a much better option than regular asparagus because the stalk is less tough.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Note 2 */
+"PorkBellyWithAsparagus.Instructions.Step.2.Note.2" = "If the stalk is too tough, you can use a peeler to shave a layer or two off the outside.";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 1 */
-"PorkBellyWithAsparagus.Instructions.Step.3.Part.1" = "Add the ##Măng Tây## (asparagus).";
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.1" = "Add the ##Thịt Ba Rọi## (pork belly).";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 1 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.3.Part.1.Accessibility" = "Add the asparagus.";
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.1.Accessibility" = "Add the pork belly.";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 2 */
 "PorkBellyWithAsparagus.Instructions.Step.3.Part.2" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is fully cooked and the ##Măng Tây## (asparagus) become tendered.";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 2 (VoiceOver) */
 "PorkBellyWithAsparagus.Instructions.Step.3.Part.2.Accessibility" = "Stir-fry until the pork belly is fully cooked and the asparagus become tendered.";
-
-/* Pork Belly with Asparagus Instructions Step 3 Note 1 */
-"PorkBellyWithAsparagus.Instructions.Step.3.Note.1" = "Baby asparagus is a much better option than regular asparagus because the stalk is less tough.";
-
-/* Pork Belly with Asparagus Instructions Step 3 Note 1 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.3.Note.1.Accessibility" = "Baby asparagus is a much better option than regular asparagus because the stalk is less tough.";
-
-/* Pork Belly with Asparagus Instructions Step 3 Note 2 */
-"PorkBellyWithAsparagus.Instructions.Step.3.Note.2" = "If the stalk is too tough, you can use a peeler to shave a layer or two off the outside.";
 
 /* Pork Belly with Asparagus Instructions Step 4 Part 1 */
 "PorkBellyWithAsparagus.Instructions.Step.4.Part.1" = "Add ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";

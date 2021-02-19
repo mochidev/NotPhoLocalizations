@@ -1654,6 +1654,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithAsparagus.Ingredients.Asparagus.AccessibilityAmount.us" = "hai phần ba cốc";
 "PorkBellyWithAsparagus.Ingredients.Asparagus.AccessibilityAmount.metric" = "130 đến 140 gờ ram";
 
+/* Pork Belly with Asparagus Ingredients Water Amount */
+"PorkBellyWithAsparagus.Ingredients.Water.Amount.us" = "2 tbsp";
+"PorkBellyWithAsparagus.Ingredients.Water.Amount.metric" = "2 muỗng canh";
+
+/* Pork Belly with Asparagus Ingredients Water Amount (VoiceOver) */
+"PorkBellyWithAsparagus.Ingredients.Water.AccessibilityAmount" = "2 muỗng canh";
+
 /* Pork Belly with Asparagus Ingredients Tomato Rice Amount */
 "PorkBellyWithAsparagus.Ingredients.TomatoRice.Amount" = "1 phần";
 
@@ -1676,37 +1683,43 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithAsparagus.Instructions.Step.2.Part.1.Accessibility" = "Cho Dầu vào chảo với lửa khoảng trung bình đến cao.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 2 */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.2" = "Thêm ##Thịt Ba Rọi## (pork belly) vào chảo.";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.2" = "Cho ##Măng Tây## (asparagus) vào và xào vài lần.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 2 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.2.Accessibility" = "Cho Măng Tây vào và xào vài lần.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 3 */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Thịt Ba Rọi## (pork belly) gần chín.";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.3" = "Thêm ##Nước## (water) và đậy nắp chảo.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 3 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Thịt Ba Rọi gần chín.";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.3.Accessibility" = "Thêm Nước và đậy nắp chảo.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 4 */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.4" = "Để hấp khoảng 2 phút.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 4 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.4.Accessibility" = "Để hấp khoảng 2 phút.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Note 1 */
+"PorkBellyWithAsparagus.Instructions.Step.2.Note.1" = "##Măng Tây## (asparagus) bình thường có thể dai nên bạn có thể dùng ##Măng Tây Con## (baby asparagus).";
+
+/* Pork Belly with Asparagus Instructions Step 2 Note 1 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.2.Note.1.Accessibility" = "Măng Tây bình thường có thể dai nên bạn có thể dùng Măng Tây Con.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Note 2 */
+"PorkBellyWithAsparagus.Instructions.Step.2.Note.2" = "Nếu phần thân của măng tây quá dai, bạn có thể dùng cây bào để gọt vỏ bên ngoài.";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 1 */
-"PorkBellyWithAsparagus.Instructions.Step.3.Part.1" = "Thêm ##Măng Tây## (asparagus).";
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.1" = "Thêm ##Thịt Ba Rọi## (pork belly) vào chảo.";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 1 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.3.Part.1.Accessibility" = "Thêm Măng Tây.";
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.1.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 2 */
 "PorkBellyWithAsparagus.Instructions.Step.3.Part.2" = "Tiếp tục xào cho đến khi ##Thịt Ba Rọi## (pork belly) chín hoàn toàn và ##Măng Tây## (asparagus) vừa ăn.";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 2 (VoiceOver) */
 "PorkBellyWithAsparagus.Instructions.Step.3.Part.2.Accessibility" = "Tiếp tục xào cho đến khi Thịt Ba Rọi chín hoàn toàn và Măng Tây vừa ăn.";
-
-/* Pork Belly with Asparagus Instructions Step 3 Note 1 */
-"PorkBellyWithAsparagus.Instructions.Step.3.Note.1" = "##Măng Tây## (asparagus) bình thường có thể dai nên bạn có thể dùng ##Măng Tây Con## (baby asparagus).";
-
-/* Pork Belly with Asparagus Instructions Step 3 Note 1 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.3.Note.1.Accessibility" = "Măng Tây bình thường có thể dai nên bạn có thể dùng Măng Tây Con.";
-
-/* Pork Belly with Asparagus Instructions Step 3 Note 2 */
-"PorkBellyWithAsparagus.Instructions.Step.3.Note.2" = "Nếu phần thân của măng tây quá dai, bạn có thể dùng cây bào để gọt vỏ bên ngoài.";
 
 /* Pork Belly with Asparagus Instructions Step 4 Part 1 */
 "PorkBellyWithAsparagus.Instructions.Step.4.Part.1" = "Thêm ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
