@@ -1725,6 +1725,104 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithAsparagus.HowTo.2.Accessibility" = "Cơm Đỏ sẽ tăng thêm hương vị cho món ăn.";
 
 
+// MARK: Thit Ba Roi Xao Ot Chuong Va Hanh (Pork Belly with Bell Pepper and Onion) Page
+
+/* Pork Belly with Bell Pepper and Onion Introduction 1 */
+"PorkBellyWithBellPepperAndOnion.Introduction.1" = "##Thịt Ba Rọi Xào Ớt Chuông Và Hành## (pork belly with bell pepper and onion) là một món ăn đơn giản nhưng rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+
+/* Pork Belly with Bell Pepper and Onion Introduction 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Introduction.1.Accessibility" = "Thịt Ba Rọi Xào Ớt Chuông Và Hành là một món ăn đơn giản nhưng rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+
+/* Pork Belly with Bell Pepper and Onion Introduction 2 */
+"PorkBellyWithBellPepperAndOnion.Introduction.2" = "Công thức này làm cho 1 người ăn.";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Pork Belly With Oyster Sauce Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 phần";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Bell Pepper Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.BellPepper.Amount.us" = "½ cup";
+"PorkBellyWithBellPepperAndOnion.Ingredients.BellPepper.Amount.metric" = "60-70 g";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Bell Pepper Amount (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Ingredients.BellPepper.AccessibilityAmount.us" = "một nửa cốc";
+"PorkBellyWithBellPepperAndOnion.Ingredients.BellPepper.AccessibilityAmount.metric" = "60 đến 70 gờ ram";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Onion Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.Onion.Amount.us" = "½ cup";
+"PorkBellyWithBellPepperAndOnion.Ingredients.Onion.Amount.metric" = "60-70 g";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Onion Amount (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Ingredients.Onion.AccessibilityAmount.us" = "một nửa cốc";
+"PorkBellyWithBellPepperAndOnion.Ingredients.Onion.AccessibilityAmount.metric" = "60 đến 70 gờ ram";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients White Rice Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.WhiteRice.Amount.us" = "⅔ cup, cơm chín";
+"PorkBellyWithBellPepperAndOnion.Ingredients.WhiteRice.Amount.metric" = "120 g, cơm chín";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 1 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.1" = "Cắt ##Ớt Chuông## (bell pepper) thành từng lát.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 1 (Voiceover) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.1.Accessibility" = "Cắt Ớt Chuông thành từng lát.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 2 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.2" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 2 (Voiceover) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.2.Accessibility" = "Cắt Củ Hành thành từng lát.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 3 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.3" = "Cắt ##Thịt Ba Rọi## (pork belly) thành miếng vừa ăn.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 3 (Voiceover) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.3.Accessibility" = "Cắt Thịt Ba Rọi thành miếng vừa ăn.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 1 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.1" = "Cho ##Dầu## (oil) vào chảo với lửa khoảng trung bình đến cao.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.1.Accessibility" = "Cho Dầu vào chảo với lửa khoảng trung bình đến cao.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 2 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.2" = "Thêm ##Thịt Ba Rọi## (pork belly) vào chảo.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 2 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Ba Rọi vào chảo.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 3 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Thịt Ba Rọi## (pork belly) gần chín.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 3 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Thịt Ba Rọi gần chín.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 1 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.1" = "Thêm ##Ớt Chuông## (bell pepper) và ##Củ Hành## (onion).";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.1.Accessibility" = "Thêm Ớt Chuông và Củ Hành.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 2 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.2" = "Tiếp tục xào cho đến khi ##Thịt Ba Rọi## (pork belly) chín hoàn toàn và ##Ớt Chuông## (bell pepper) và ##Củ Hành## (onion) vừa ăn.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 2 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.2.Accessibility" = "Tiếp tục xào cho đến khi Thịt Ba Rọi chín hoàn toàn và Ớt Chuông và Củ Hành vừa ăn.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 4 Part 1 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.4.Part.1" = "Thêm ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 4 Part 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.4.Part.1.Accessibility" = "Thêm Dầu Hào, Đường, và Tiêu Đen.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 4 Part 2 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.4.Part.2" = "Xào mọi thứ cho đều.";
+
+/* Pork Belly with Bell Pepper and Onion How To 1 */
+"PorkBellyWithBellPepperAndOnion.HowTo.1" = "Món này rất hợp với ##Cơm Trắng## (white rice), ##Cơm Chiên Trứng## (egg fried rice), hoặc ##Cơm Đỏ## (tomato rice).";
+
+/* Pork Belly with Bell Pepper and Onion How To 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.HowTo.1.Accessibility" = "Món này rất hợp với Cơm Trắng, Cơm Chiên Trứng, hoặc Cơm Đỏ.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */
@@ -2863,11 +2961,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithOysterSauce.Ingredients.PorkBelly.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
 
 /* Pork Belly with Oyster Sauce Ingredients Oyster Sauce Amount */
-"PorkBellyWithOysterSauce.Ingredients.OysterSauce.Amount.us" = "2 tsp";
-"PorkBellyWithOysterSauce.Ingredients.OysterSauce.Amount.metric" = "2 muỗng cà phê";
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.Amount.us" = "1 tbsp";
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.Amount.metric" = "1 muỗng canh";
 
 /* Pork Belly with Oyster Sauce Ingredients Oyster Sauce Amount (VoiceOver) */
-"PorkBellyWithOysterSauce.Ingredients.OysterSauce.AccessibilityAmount" = "2 muỗng cà phê";
+"PorkBellyWithOysterSauce.Ingredients.OysterSauce.AccessibilityAmount" = "1 muỗng canh";
 
 /* Pork Belly with Oyster Sauce Ingredients Sugar Amount */
 "PorkBellyWithOysterSauce.Ingredients.Sugar.Amount.us" = "1 tsp";

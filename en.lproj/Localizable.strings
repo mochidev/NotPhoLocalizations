@@ -1708,6 +1708,104 @@
 "PorkBellyWithAsparagus.HowTo.2.Accessibility" = "The tomato rice adds even more flavor to the dish.";
 
 
+// MARK: Thit Ba Roi Xao Ot Chuong Va Hanh (Pork Belly with Bell Pepper and Onion) Page
+
+/* Pork Belly with Bell Pepper and Onion Introduction 1 */
+"PorkBellyWithBellPepperAndOnion.Introduction.1" = "##Thịt Ba Rọi Xào Ớt Chuông Và Hành## (pork belly with bell pepper and onion) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+
+/* Pork Belly with Bell Pepper and Onion Introduction 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Introduction.1.Accessibility" = "Pork belly with bell pepper and onion is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+
+/* Pork Belly with Bell Pepper and Onion Introduction 2 */
+"PorkBellyWithBellPepperAndOnion.Introduction.2" = "This recipe serves one.";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Pork Belly With Oyster Sauce Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 portion";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Bell Pepper Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.BellPepper.Amount.us" = "½ cup";
+"PorkBellyWithBellPepperAndOnion.Ingredients.BellPepper.Amount.metric" = "60-70 g";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Bell Pepper Amount (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Ingredients.BellPepper.AccessibilityAmount.us" = "half a cup";
+"PorkBellyWithBellPepperAndOnion.Ingredients.BellPepper.AccessibilityAmount.metric" = "60 to 70 grams";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Onion Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.Onion.Amount.us" = "½ cup";
+"PorkBellyWithBellPepperAndOnion.Ingredients.Onion.Amount.metric" = "60-70 g";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Onion Amount (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Ingredients.Onion.AccessibilityAmount.us" = "half a cup";
+"PorkBellyWithBellPepperAndOnion.Ingredients.Onion.AccessibilityAmount.metric" = "60 to 70 grams";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients White Rice Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.WhiteRice.Amount.us" = "⅔ cup, cooked";
+"PorkBellyWithBellPepperAndOnion.Ingredients.WhiteRice.Amount.metric" = "120 g, cooked";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 1 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.1" = "Cut the ##Ớt Chuông## (bell pepper) into thin strips.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 1 (Voiceover) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.1.Accessibility" = "Cut the bell pepper into thin strips.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 2 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.2" = "Cut the ##Củ Hành## (onion) into thin slices.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 2 (Voiceover) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.2.Accessibility" = "Cut the onion into thin slices.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 3 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.3" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite sized pieces.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 3 (Voiceover) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.3.Accessibility" = "Cut the pork belly into bite sized pieces.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 1 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.1" = "In a medium-high heat wok/pan, add the ##Dầu## (oil).";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok or pan, add the oil.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 2 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.2" = "Add the ##Thịt Ba Rọi## (pork belly).";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 2 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.2.Accessibility" = "Add the pork belly.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 3 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.3" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is about half-way cooked (about 1-2 minutes).";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 2 Part 3 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.3.Accessibility" = "Stir-fry until the pork belly is about half-way cooked (about 2-3 minutes).";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 1 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.1" = "Add the ##Ớt Chuông## (bell pepper) and ##Củ Hành## (onion).";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.1.Accessibility" = "Add the bell pepper and onion.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 2 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.2" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is fully cooked.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 2 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.2.Accessibility" = "Stir-fry until the pork belly is fully cooked.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 4 Part 1 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.4.Part.1" = "Add ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 4 Part 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.4.Part.1.Accessibility" = "Add oyster sauce, sugar, and black pepper.";
+
+/* Pork Belly with Bell Pepper and Onion Instructions Step 4 Part 2 */
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.4.Part.2" = "Stir-fry until everything is well coated with the sauce.";
+
+/* Pork Belly with Bell Pepper and Onion How To 1 */
+"PorkBellyWithBellPepperAndOnion.HowTo.1" = "This dish goes well with ##Cơm Trắng## (white rice), ##Cơm Chiên Trứng## (egg fried rice), or ##Cơm Đỏ## (tomato rice).";
+
+/* Pork Belly with Bell Pepper and Onion How To 1 (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.HowTo.1.Accessibility" = "This dish goes well with white rice, egg fried rice, or tomato rice.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

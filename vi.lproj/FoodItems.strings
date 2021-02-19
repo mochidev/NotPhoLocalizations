@@ -113,6 +113,11 @@
 "porkBellyWithAsparagus.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Măng Tây";
 "porkBellyWithAsparagus.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Măng Tây";
 
+/* Pork Belly with Bell Pepper and Onion */
+"PorkBellyWithBellPepperAndOnion.Subtitle" = "Pork Belly with Bell Pepper and Onion";
+"PorkBellyWithBellPepperAndOnion.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Ớt Chuông Và Hành";
+"PorkBellyWithBellPepperAndOnion.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Ớt Chuông Và Hành";
+
 
 // MARK: Recipes Tab
 
