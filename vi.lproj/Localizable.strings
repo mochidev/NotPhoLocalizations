@@ -1555,8 +1555,12 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithGreenBean.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 phần";
 
 /* Pork Belly with Green Bean Ingredients Green Bean Amount */
-"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.us" = "???";
-"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.metric" = "???";
+"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.us" = "⅔ cup";
+"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.metric" = "130-140 g";
+
+/* Pork Belly with Green Bean Ingredients Green Bean Amount (VoiceOver) */
+"PorkBellyWithGreenBean.Ingredients.GreenBean.AccessibilityAmount.us" = "hai phần ba cốc";
+"PorkBellyWithGreenBean.Ingredients.GreenBean.AccessibilityAmount.metric" = "130 đến 140 gờ ram";
 
 /* Pork Belly with Green Bean Ingredients Egg Fried Rice Amount */
 "PorkBellyWithGreenBean.Ingredients.EggFriedRice.Amount" = "1 phần";
@@ -1643,8 +1647,12 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithAsparagus.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 phần";
 
 /* Pork Belly with Asparagus Ingredients Asparagus Amount */
-"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.us" = "???";
-"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.metric" = "???";
+"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.us" = "⅔ cup";
+"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.metric" = "130-140 g";
+
+/* Pork Belly with Asparagus Ingredients Asparagus Amount (VoiceOver) */
+"PorkBellyWithAsparagus.Ingredients.Asparagus.AccessibilityAmount.us" = "hai phần ba cốc";
+"PorkBellyWithAsparagus.Ingredients.Asparagus.AccessibilityAmount.metric" = "130 đến 140 gờ ram";
 
 /* Pork Belly with Asparagus Ingredients Tomato Rice Amount */
 "PorkBellyWithAsparagus.Ingredients.TomatoRice.Amount" = "1 phần";

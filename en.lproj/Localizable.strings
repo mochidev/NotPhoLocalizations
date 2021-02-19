@@ -1538,8 +1538,12 @@
 "PorkBellyWithGreenBean.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 portion";
 
 /* Pork Belly with Green Bean Ingredients Green Bean Amount */
-"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.us" = "???";
-"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.metric" = "???";
+"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.us" = "⅔ cup";
+"PorkBellyWithGreenBean.Ingredients.GreenBean.Amount.metric" = "130-140 g";
+
+/* Pork Belly with Green Bean Ingredients Green Bean Amount (VoiceOver) */
+"PorkBellyWithGreenBean.Ingredients.GreenBean.AccessibilityAmount.us" = "two thirds of a cup";
+"PorkBellyWithGreenBean.Ingredients.GreenBean.AccessibilityAmount.metric" = "130 to 140 grams";
 
 /* Pork Belly with Green Bean Ingredients Egg Fried Rice Amount */
 "PorkBellyWithGreenBean.Ingredients.EggFriedRice.Amount" = "1 portion";
@@ -1626,8 +1630,12 @@
 "PorkBellyWithAsparagus.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 portion";
 
 /* Pork Belly with Asparagus Ingredients Asparagus Amount */
-"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.us" = "???";
-"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.metric" = "???";
+"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.us" = "⅔ cup";
+"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.metric" = "130-140 g";
+
+/* Pork Belly with Asparagus Ingredients Asparagus Amount (VoiceOver) */
+"PorkBellyWithAsparagus.Ingredients.Asparagus.AccessibilityAmount.us" = "two thirds of a cup";
+"PorkBellyWithAsparagus.Ingredients.Asparagus.AccessibilityAmount.metric" = "130 to 140 grams";
 
 /* Pork Belly with Asparagus Ingredients Tomato Rice Amount */
 "PorkBellyWithAsparagus.Ingredients.TomatoRice.Amount" = "1 portion";
