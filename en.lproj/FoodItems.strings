@@ -89,6 +89,10 @@
 "porkBellyWithGreenBean.Subtitle" = "Pork Belly with Green Bean";
 "porkBellyWithGreenBean.AccessibilitySubtitle" = "Pork Belly with Green Bean";
 
+/* Pork Belly with Asparagus */
+"porkBellyWithAsparagus.Subtitle" = "Pork Belly with Asparagus";
+"porkBellyWithAsparagus.AccessibilitySubtitle" = "Pork Belly with Asparagus";
+
 
 // MARK: Recipes Tab
 

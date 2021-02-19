@@ -1611,6 +1611,103 @@
 "PorkBellyWithGreenBean.HowTo.2.Accessibility" = "The egg fried rice adds even more flavor to the dish.";
 
 
+// MARK: Thit Ba Roi Xao Mang Tay (Pork Belly with Asparagus) Page
+
+/* Pork Belly with Asparagus Introduction 1 */
+"PorkBellyWithAsparagus.Introduction.1" = "##Thịt Ba Rọi Xào Măng Tây## (pork belly with asparagus) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+
+/* Pork Belly with Asparagus Introduction 1 (VoiceOver) */
+"PorkBellyWithAsparagus.Introduction.1.Accessibility" = "Pork belly with asparagus is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+
+/* Pork Belly with Asparagus Introduction 2 */
+"PorkBellyWithAsparagus.Introduction.2" = "This recipe serves one.";
+
+/* Pork Belly with Asparagus Ingredients Pork Belly With Oyster Sauce Amount */
+"PorkBellyWithAsparagus.Ingredients.PorkBellyWithOysterSauce.Amount" = "1 portion";
+
+/* Pork Belly with Asparagus Ingredients Asparagus Amount */
+"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.us" = "???";
+"PorkBellyWithAsparagus.Ingredients.Asparagus.Amount.metric" = "???";
+
+/* Pork Belly with Asparagus Ingredients Tomato Rice Amount */
+"PorkBellyWithAsparagus.Ingredients.TomatoRice.Amount" = "1 portion";
+
+/* Pork Belly with Asparagus Instructions Step 1 Part 1 */
+"PorkBellyWithAsparagus.Instructions.Step.1.Part.1" = "Cut the ##Măng Tây## (asparagus) into 1-2 inch (3-5 cm) pieces.";
+
+/* Pork Belly with Asparagus Instructions Step 1 Part 1 (Voiceover) */
+"PorkBellyWithAsparagus.Instructions.Step.1.Part.1.Accessibility" = "Cut the asparagus into 1 to 2 inch (3 to 5 cm) pieces.";
+
+/* Pork Belly with Asparagus Instructions Step 1 Part 2 */
+"PorkBellyWithAsparagus.Instructions.Step.1.Part.2" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite sized pieces.";
+
+/* Pork Belly with Asparagus Instructions Step 1 Part 2 (Voiceover) */
+"PorkBellyWithAsparagus.Instructions.Step.1.Part.2.Accessibility" = "Cut the pork belly into bite sized pieces.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 1 */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.1" = "In a medium-high heat wok/pan, add the ##Dầu## (oil).";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 1 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok or pan, add the oil.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 2 */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.2" = "Add the ##Thịt Ba Rọi## (pork belly).";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 2 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.2.Accessibility" = "Add the pork belly.";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 3 */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.3" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is about half-way cooked (about 2 minutes).";
+
+/* Pork Belly with Asparagus Instructions Step 2 Part 3 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.3.Accessibility" = "Stir-fry until the pork belly is about half-way cooked (about 2 minutes).";
+
+/* Pork Belly with Asparagus Instructions Step 3 Part 1 */
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.1" = "Add the ##Măng Tây## (asparagus).";
+
+/* Pork Belly with Asparagus Instructions Step 3 Part 1 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.1.Accessibility" = "Add the asparagus.";
+
+/* Pork Belly with Asparagus Instructions Step 3 Part 2 */
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.2" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is fully cooked and the ##Măng Tây## (asparagus) become tendered.";
+
+/* Pork Belly with Asparagus Instructions Step 3 Part 2 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.2.Accessibility" = "Stir-fry until the pork belly is fully cooked and the asparagus become tendered.";
+
+/* Pork Belly with Asparagus Instructions Step 3 Note 1 */
+"PorkBellyWithAsparagus.Instructions.Step.3.Note.1" = "Baby asparagus is a much better option than regular asparagus because the stalk is less tough.";
+
+/* Pork Belly with Asparagus Instructions Step 3 Note 1 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.3.Note.1.Accessibility" = "Baby asparagus is a much better option than regular asparagus because the stalk is less tough.";
+
+/* Pork Belly with Asparagus Instructions Step 3 Note 2 */
+"PorkBellyWithAsparagus.Instructions.Step.3.Note.2" = "If the stalk is too tough, you can use a peeler to shave a layer or two off the outside.";
+
+/* Pork Belly with Asparagus Instructions Step 4 Part 1 */
+"PorkBellyWithAsparagus.Instructions.Step.4.Part.1" = "Add ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
+
+/* Pork Belly with Asparagus Instructions Step 4 Part 1 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.4.Part.1.Accessibility" = "Add oyster sauce, sugar, and black pepper.";
+
+/* Pork Belly with Asparagus Instructions Step 4 Part 2 */
+"PorkBellyWithAsparagus.Instructions.Step.4.Part.2" = "Stir-fry until everything is well coated with the sauce.";
+
+/* Pork Belly with Asparagus Instructions Step 5 Part 1 */
+"PorkBellyWithAsparagus.Instructions.Step.5.Part.1" = "Prepare the ##Cơm Đỏ## (tomato rice) as instructed in the recipe.";
+
+/* Pork Belly with Asparagus Instructions Step 5 Part 1 (VoiceOver) */
+"PorkBellyWithAsparagus.Instructions.Step.5.Part.1.Accessibility" = "Prepare the tomato rice as instructed in the recipe.";
+
+/* Pork Belly with Asparagus How To 1 */
+"PorkBellyWithAsparagus.HowTo.1" = "This dish can be enjoyed any time.";
+
+/* Pork Belly with Asparagus How To 2 */
+"PorkBellyWithAsparagus.HowTo.2" = "The ##Cơm Đỏ## (tomato rice) adds even more flavor to the dish.";
+
+/* Pork Belly with Asparagus How To 2 (VoiceOver) */
+"PorkBellyWithAsparagus.HowTo.2.Accessibility" = "The tomato rice adds even more flavor to the dish.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */
