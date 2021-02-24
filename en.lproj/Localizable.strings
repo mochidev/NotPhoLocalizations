@@ -1462,6 +1462,12 @@
 "PorkBellyWithSpringOnion.Ingredients.WhiteRice.AccessibilityAmount.us" = "two thirds of a cup, cooked";
 "PorkBellyWithSpringOnion.Ingredients.WhiteRice.AccessibilityAmount.metric" = "120 grams, cooked";
 
+/* Pork Belly with Spring Onion Ingredients Oil Amount */
+"PorkBellyWithSpringOnion.Ingredients.Oil.Amount" = "1 tsp";
+
+/* Pork Belly with Spring Onion Ingredients Oil Amount (VoiceOver) */
+"PorkBellyWithSpringOnion.Ingredients.Oil.AccessibilityAmount" = "1 teaspoon";
+
 /* Pork Belly with Spring Onion Instructions Step 1 Part 1 */
 "PorkBellyWithSpringOnion.Instructions.Step.1.Part.1" = "Cut the ##Hành Lá## (spring onion) into 1 inch (2-3 cm) pieces.";
 
@@ -1553,6 +1559,12 @@
 
 /* Pork Belly with Green Bean Ingredients Egg Fried Rice Amount */
 "PorkBellyWithGreenBean.Ingredients.EggFriedRice.Amount" = "1 portion";
+
+/* Pork Belly with Green Bean Ingredients Oil Amount */
+"PorkBellyWithGreenBean.Ingredients.Oil.Amount" = "1 tsp";
+
+/* Pork Belly with Green Bean Ingredients Oil Amount (VoiceOver) */
+"PorkBellyWithGreenBean.Ingredients.Oil.AccessibilityAmount" = "1 teaspoon";
 
 /* Pork Belly with Green Bean Instructions Step 1 Part 1 */
 "PorkBellyWithGreenBean.Instructions.Step.1.Part.1" = "Cut the ##Đậu Que## (green bean) into 1-2 inch (3-5 cm) pieces.";
@@ -1657,6 +1669,12 @@
 
 /* Pork Belly with Asparagus Ingredients Tomato Rice Amount */
 "PorkBellyWithAsparagus.Ingredients.TomatoRice.Amount" = "1 portion";
+
+/* Pork Belly with Asparagus Ingredients Oil Amount */
+"PorkBellyWithAsparagus.Ingredients.Oil.Amount" = "1 tsp";
+
+/* Pork Belly with Asparagus Ingredients Oil Amount (VoiceOver) */
+"PorkBellyWithAsparagus.Ingredients.Oil.AccessibilityAmount" = "1 teaspoon";
 
 /* Pork Belly with Asparagus Instructions Step 1 Part 1 */
 "PorkBellyWithAsparagus.Instructions.Step.1.Part.1" = "Cut the ##Măng Tây## (asparagus) into 1-2 inch (3-5 cm) pieces.";
@@ -1773,6 +1791,12 @@
 /* Pork Belly with Bell Pepper and Onion Ingredients White Rice Amount */
 "PorkBellyWithBellPepperAndOnion.Ingredients.WhiteRice.Amount.us" = "⅔ cup, cooked";
 "PorkBellyWithBellPepperAndOnion.Ingredients.WhiteRice.Amount.metric" = "120 g, cooked";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Oil Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.Oil.Amount" = "1 tsp";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Oil Amount (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Ingredients.Oil.AccessibilityAmount" = "1 teaspoon";
 
 /* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 1 */
 "PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.1" = "Cut the ##Ớt Chuông## (bell pepper) into thin strips.";

@@ -1479,6 +1479,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithSpringOnion.Ingredients.WhiteRice.AccessibilityAmount.us" = "hai phần ba cốc cơm chín";
 "PorkBellyWithSpringOnion.Ingredients.WhiteRice.AccessibilityAmount.metric" = "120 gờ ram cơm chín";
 
+/* Pork Belly with Spring Onion Ingredients Oil Amount */
+"PorkBellyWithSpringOnion.Ingredients.Oil.Amount.us" = "1 tsp";
+"PorkBellyWithSpringOnion.Ingredients.Oil.Amount.metric" = "1 muỗng cà phê";
+
+/* Pork Belly with Spring Onion Ingredients Oil Amount (VoiceOver) */
+"PorkBellyWithSpringOnion.Ingredients.Oil.AccessibilityAmount" = "1 muỗng cà phê";
+
 /* Pork Belly with Spring Onion Instructions Step 1 Part 1 */
 "PorkBellyWithSpringOnion.Instructions.Step.1.Part.1" = "Cắt ##Hành Lá## (spring onion) thành khúc dài khoảng 2-3 xăng ti mét.";
 
@@ -1571,6 +1578,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Pork Belly with Green Bean Ingredients Egg Fried Rice Amount */
 "PorkBellyWithGreenBean.Ingredients.EggFriedRice.Amount" = "1 phần";
+
+/* Pork Belly with Green Bean Ingredients Oil Amount */
+"PorkBellyWithGreenBean.Ingredients.Oil.Amount.us" = "1 tsp";
+"PorkBellyWithGreenBean.Ingredients.Oil.Amount.metric" = "1 muỗng cà phê";
+
+/* Pork Belly with Green Bean Ingredients Oil Amount (VoiceOver) */
+"PorkBellyWithGreenBean.Ingredients.Oil.AccessibilityAmount" = "1 muỗng cà phê";
 
 /* Pork Belly with Green Bean Instructions Step 1 Part 1 */
 "PorkBellyWithGreenBean.Instructions.Step.1.Part.1" = "Cắt ##Đậu Que## (green bean) thành khúc dài khoảng 3-5 xăng ti mét.";
@@ -1676,6 +1690,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Pork Belly with Asparagus Ingredients Tomato Rice Amount */
 "PorkBellyWithAsparagus.Ingredients.TomatoRice.Amount" = "1 phần";
+
+/* Pork Belly with Asparagus Ingredients Oil Amount */
+"PorkBellyWithAsparagus.Ingredients.Oil.Amount.us" = "1 tsp";
+"PorkBellyWithAsparagus.Ingredients.Oil.Amount.metric" = "1 muỗng cà phê";
+
+/* Pork Belly with Asparagus Ingredients Oil Amount (VoiceOver) */
+"PorkBellyWithAsparagus.Ingredients.Oil.AccessibilityAmount" = "1 muỗng cà phê";
 
 /* Pork Belly with Asparagus Instructions Step 1 Part 1 */
 "PorkBellyWithAsparagus.Instructions.Step.1.Part.1" = "Cắt ##Măng Tây## (asparagus) thành khúc dài khoảng 3-5 xăng ti mét.";
@@ -1792,6 +1813,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Pork Belly with Bell Pepper and Onion Ingredients White Rice Amount */
 "PorkBellyWithBellPepperAndOnion.Ingredients.WhiteRice.Amount.us" = "⅔ cup, cơm chín";
 "PorkBellyWithBellPepperAndOnion.Ingredients.WhiteRice.Amount.metric" = "120 g, cơm chín";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Oil Amount */
+"PorkBellyWithBellPepperAndOnion.Ingredients.Oil.Amount.us" = "1 tsp";
+"PorkBellyWithBellPepperAndOnion.Ingredients.Oil.Amount.metric" = "1 muỗng cà phê";
+
+/* Pork Belly with Bell Pepper and Onion Ingredients Oil Amount (VoiceOver) */
+"PorkBellyWithBellPepperAndOnion.Ingredients.Oil.AccessibilityAmount" = "1 muỗng cà phê";
 
 /* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 1 */
 "PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.1" = "Cắt ##Ớt Chuông## (bell pepper) thành từng lát.";
