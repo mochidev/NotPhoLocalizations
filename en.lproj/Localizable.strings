@@ -1428,10 +1428,10 @@
 // MARK: Thit Ba Roi Xao (Pork Belly Stir-fry) Main Page
 
 /* Pork Belly Stir-fry Main Introduction 1 */
-"PorkBellyStirfryMain.Introduction.1" = "##Thịt Ba Rọi Xào## (pork belly stir-fry) may not be a true Vietnamese dish, but it is delicious. What I mean by 'true' is that you won't find this dish on a menu at a Vietnamese restaurant, but it is an authentic home-cooked dish. It is very simple and quick to make, and you can mix and match any vegetables and it will still be great.";
+"PorkBellyStirfryMain.Introduction.1" = "##Thịt Ba Rọi Xào## (pork belly stir-fry) may not be a true Vietnamese dish, but it is delicious. What I mean by 'true' is that you won't find this dish on a menu at a Vietnamese restaurant, but it is an authentic home-cooked dish prepared in many households. It is very simple and quick to make, and you can mix and match many types of vegetables and it will still taste great.";
 
 /* Pork Belly Stir-fry Introduction 1 (VoiceOver) */
-"PorkBellyStirfryMain.Introduction.1.Accessibility" = "Pork belly stir-fry may not be a true Vietnamese dish, but it is delicious. What I mean by true is that you won't find this dish on a menu at a Vietnamese restaurant, but it is an authentic home-cooked dish. It is very simple and quick to make, and you can mix and match any vegetables and it will still be great.";
+"PorkBellyStirfryMain.Introduction.1.Accessibility" = "Pork belly stir-fry may not be a true Vietnamese dish, but it is delicious. What I mean by true is that you won't find this dish on a menu at a Vietnamese restaurant, but it is an authentic home-cooked dish prepared in many households. It is very simple and quick to make, and you can mix and match many types of vegetables and it will still taste great.";
 
 /* Pork Belly Stir-fry Main Introduction 2 */
 "PorkBellyStirfryMain.Introduction.2" = "If you’re feeling adventurous, give all the variations a try!";
@@ -1440,10 +1440,10 @@
 // MARK: Thit Ba Roi Xao Hanh (Pork Belly with Spring Onion) Page
 
 /* Pork Belly with Spring Onion Introduction 1 */
-"PorkBellyWithSpringOnion.Introduction.1" = "##Thịt Ba Rọi Xào Hành Lá## (pork belly with spring onion) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+"PorkBellyWithSpringOnion.Introduction.1" = "##Thịt Ba Rọi Xào Hành Lá## (pork belly with spring onion) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I'm short on time. You can mix and many types of vegetables and it will still taste great.";
 
 /* Pork Belly with Spring Onion Introduction 1 (VoiceOver) */
-"PorkBellyWithSpringOnion.Introduction.1.Accessibility" = "Pork belly with spring onion is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+"PorkBellyWithSpringOnion.Introduction.1.Accessibility" = "Pork belly with spring onion is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I'm short on time. You can mix and match many types of vegetables and it will still taste great.";
 
 /* Pork Belly with Spring Onion Introduction 2 */
 "PorkBellyWithSpringOnion.Introduction.2" = "This recipe serves one.";
@@ -1475,7 +1475,7 @@
 "PorkBellyWithSpringOnion.Instructions.Step.1.Part.1.Accessibility" = "Cut the spring onion into 1 inch (2 to 3 cm) pieces.";
 
 /* Pork Belly with Spring Onion Instructions Step 1 Part 2 */
-"PorkBellyWithSpringOnion.Instructions.Step.1.Part.2" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite sized pieces.";
+"PorkBellyWithSpringOnion.Instructions.Step.1.Part.2" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite-sized pieces.";
 
 /* Pork Belly with Spring Onion Instructions Step 1 Part 2 (Voiceover) */
 "PorkBellyWithSpringOnion.Instructions.Step.1.Part.2.Accessibility" = "Cut the pork belly into bite sized pieces.";
@@ -1499,10 +1499,10 @@
 "PorkBellyWithSpringOnion.Instructions.Step.2.Part.3.Accessibility" = "Stir-fry until the pork belly is cooked.";
 
 /* Pork Belly with Spring Onion Instructions Step 3 Part 1 */
-"PorkBellyWithSpringOnion.Instructions.Step.3.Part.1" = "Add the ##Hành Lá## (spring onion) and give everything a few toss.";
+"PorkBellyWithSpringOnion.Instructions.Step.3.Part.1" = "Add the ##Hành Lá## (spring onion) and toss the ingredients together.";
 
 /* Pork Belly with Spring Onion Instructions Step 3 Part 1 (VoiceOver) */
-"PorkBellyWithSpringOnion.Instructions.Step.3.Part.1.Accessibility" = "Add the spring onion and give everything a few toss.";
+"PorkBellyWithSpringOnion.Instructions.Step.3.Part.1.Accessibility" = "Add the spring onion and toss the ingredients together.";
 
 /* Pork Belly with Spring Onion Instructions Step 3 Note 1 */
 "PorkBellyWithSpringOnion.Instructions.Step.3.Note.1" = "##Hành Lá## (spring onion) is a garnish so you don’t want to over cook it.";
@@ -1511,7 +1511,7 @@
 "PorkBellyWithSpringOnion.Instructions.Step.3.Note.1.Accessibility" = "Spring onion is a garnish so you don’t want to over cook it.";
 
 /* Pork Belly with Spring Onion Instructions Step 3 Note 2 */
-"PorkBellyWithSpringOnion.Instructions.Step.3.Note.2" = "It is perfectly okay to cook the ##Hành Lá## (spring onion) much longer if you don’t like their raw flavor.";
+"PorkBellyWithSpringOnion.Instructions.Step.3.Note.2" = "It is perfectly okay to cook the ##Hành Lá## (spring onions) much longer if you don’t like their raw flavor.";
 
 /* Pork Belly with Spring Onion Instructions Step 3 Note 2 (VoiceOver) */
 "PorkBellyWithSpringOnion.Instructions.Step.3.Note.2.Accessibility" = "It is perfectly okay to cook the spring onions much longer if you don’t like their raw flavor.";
@@ -1526,16 +1526,16 @@
 "PorkBellyWithSpringOnion.Instructions.Step.4.Part.2" = "Stir-fry until everything is well coated with the sauce.";
 
 /* Pork Belly with Spring Onion How To 1 */
-"PorkBellyWithSpringOnion.HowTo.1" = "This dish is great with rice.";
+"PorkBellyWithSpringOnion.HowTo.1" = "This dish goes great with rice.";
 
 
 // MARK: Thit Ba Roi Xao Dau Que (Pork Belly with Green Bean) Page
 
 /* Pork Belly with Green Bean Introduction 1 */
-"PorkBellyWithGreenBean.Introduction.1" = "##Thịt Ba Rọi Xào Đậu Que## (pork belly with green bean) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+"PorkBellyWithGreenBean.Introduction.1" = "##Thịt Ba Rọi Xào Đậu Que## (pork belly with green beans) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I'm short on time. You can mix and match many types of vegetables and it will still taste great.";
 
 /* Pork Belly with Green Bean Introduction 1 (VoiceOver) */
-"PorkBellyWithGreenBean.Introduction.1.Accessibility" = "Pork belly with green bean is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+"PorkBellyWithGreenBean.Introduction.1.Accessibility" = "Pork belly with green beans is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I'm short on time. You can mix and match many types of vegetables and it will still taste great.";
 
 /* Pork Belly with Green Bean Introduction 2 */
 "PorkBellyWithGreenBean.Introduction.2" = "This recipe serves one.";
@@ -1567,16 +1567,16 @@
 "PorkBellyWithGreenBean.Ingredients.Oil.AccessibilityAmount" = "1 teaspoon";
 
 /* Pork Belly with Green Bean Instructions Step 1 Part 1 */
-"PorkBellyWithGreenBean.Instructions.Step.1.Part.1" = "Cut the ##Đậu Que## (green bean) into 1-2 inch (3-5 cm) pieces.";
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.1" = "Cut the ##Đậu Que## (green beans) into 1-2 inch (3-5 cm) pieces.";
 
 /* Pork Belly with Green Bean Instructions Step 1 Part 1 (Voiceover) */
-"PorkBellyWithGreenBean.Instructions.Step.1.Part.1.Accessibility" = "Cut the green bean into 1 to 2 inch (3 to 5 cm) pieces.";
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.1.Accessibility" = "Cut the green beans into 1 to 2 inch (3 to 5 cm) pieces.";
 
 /* Pork Belly with Green Bean Instructions Step 1 Part 2 */
 "PorkBellyWithGreenBean.Instructions.Step.1.Part.2" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite sized pieces.";
 
 /* Pork Belly with Green Bean Instructions Step 1 Part 2 (Voiceover) */
-"PorkBellyWithGreenBean.Instructions.Step.1.Part.2.Accessibility" = "Cut the pork belly into bite sized pieces.";
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.2.Accessibility" = "Cut the pork belly into bite-sized pieces.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 1 */
 "PorkBellyWithGreenBean.Instructions.Step.2.Part.1" = "In a medium-high heat wok/pan, add the ##Dầu## (oil).";
@@ -1585,10 +1585,10 @@
 "PorkBellyWithGreenBean.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok or pan, add the oil.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 2 */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.2" = "Add the ##Đậu Que## (green beans) and give them a few toss.";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2" = "Add the ##Đậu Que## (green beans) and toss them a few times.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 2 (VoiceOver) */
-"PorkBellyWithGreenBean.Instructions.Step.2.Part.2.Accessibility" = "Add the green beans and give them a few toss.";
+"PorkBellyWithGreenBean.Instructions.Step.2.Part.2.Accessibility" = "Add the green beans and toss them a few times.";
 
 /* Pork Belly with Green Bean Instructions Step 2 Part 3 */
 "PorkBellyWithGreenBean.Instructions.Step.2.Part.3" = "Add the ##Nước## (water) and cover the ##Đậu Que## (green beans).";
@@ -1609,10 +1609,10 @@
 "PorkBellyWithGreenBean.Instructions.Step.3.Part.1.Accessibility" = "Add the pork belly.";
 
 /* Pork Belly with Green Bean Instructions Step 3 Part 2 */
-"PorkBellyWithGreenBean.Instructions.Step.3.Part.2" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is fully cooked and the ##Đậu Que## (green beans) become tendered.";
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.2" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is fully cooked and the ##Đậu Que## (green beans) become tender.";
 
 /* Pork Belly with Green Bean Instructions Step 3 Part 2 (VoiceOver) */
-"PorkBellyWithGreenBean.Instructions.Step.3.Part.2.Accessibility" = "Stir-fry until the pork belly is fully cooked and the green beans become tendered.";
+"PorkBellyWithGreenBean.Instructions.Step.3.Part.2.Accessibility" = "Stir-fry until the pork belly is fully cooked and the green beans become tender.";
 
 /* Pork Belly with Green Bean Instructions Step 4 Part 1 */
 "PorkBellyWithGreenBean.Instructions.Step.4.Part.1" = "Add ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
@@ -1642,10 +1642,10 @@
 // MARK: Thit Ba Roi Xao Mang Tay (Pork Belly with Asparagus) Page
 
 /* Pork Belly with Asparagus Introduction 1 */
-"PorkBellyWithAsparagus.Introduction.1" = "##Thịt Ba Rọi Xào Măng Tây## (pork belly with asparagus) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+"PorkBellyWithAsparagus.Introduction.1" = "##Thịt Ba Rọi Xào Măng Tây## (pork belly with asparagus) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I'm short on time. You can mix and match many types of vegetables and it will still taste great.";
 
 /* Pork Belly with Asparagus Introduction 1 (VoiceOver) */
-"PorkBellyWithAsparagus.Introduction.1.Accessibility" = "Pork belly with asparagus is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+"PorkBellyWithAsparagus.Introduction.1.Accessibility" = "Pork belly with asparagus is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I'm short on time. You can mix and match many types of vegetables and it will still taste great.";
 
 /* Pork Belly with Asparagus Introduction 2 */
 "PorkBellyWithAsparagus.Introduction.2" = "This recipe serves one.";
@@ -1683,7 +1683,7 @@
 "PorkBellyWithAsparagus.Instructions.Step.1.Part.1.Accessibility" = "Cut the asparagus into 1 to 2 inch (3 to 5 cm) pieces.";
 
 /* Pork Belly with Asparagus Instructions Step 1 Part 2 */
-"PorkBellyWithAsparagus.Instructions.Step.1.Part.2" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite sized pieces.";
+"PorkBellyWithAsparagus.Instructions.Step.1.Part.2" = "Cut the ##Thịt Ba Rọi## (pork belly) into bite-sized pieces.";
 
 /* Pork Belly with Asparagus Instructions Step 1 Part 2 (Voiceover) */
 "PorkBellyWithAsparagus.Instructions.Step.1.Part.2.Accessibility" = "Cut the pork belly into bite sized pieces.";
@@ -1695,10 +1695,10 @@
 "PorkBellyWithAsparagus.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok or pan, add the oil.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 2 */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.2" = "Add the ##Măng Tây## (asparagus) and give them a few toss.";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.2" = "Add the ##Măng Tây## (asparagus) and toss them a few times.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 2 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.2.Part.2.Accessibility" = "Add the asparagus and give them a few toss.";
+"PorkBellyWithAsparagus.Instructions.Step.2.Part.2.Accessibility" = "Add the asparagus and toss them a few times.";
 
 /* Pork Belly with Asparagus Instructions Step 2 Part 3 */
 "PorkBellyWithAsparagus.Instructions.Step.2.Part.3" = "Add the ##Nước## (water) and cover the ##Măng Tây## (asparagus).";
@@ -1728,10 +1728,10 @@
 "PorkBellyWithAsparagus.Instructions.Step.3.Part.1.Accessibility" = "Add the pork belly.";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 2 */
-"PorkBellyWithAsparagus.Instructions.Step.3.Part.2" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is fully cooked and the ##Măng Tây## (asparagus) become tendered.";
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.2" = "Stir-fry until the ##Thịt Ba Rọi## (pork belly) is fully cooked and the ##Măng Tây## (asparagus) becomes tender.";
 
 /* Pork Belly with Asparagus Instructions Step 3 Part 2 (VoiceOver) */
-"PorkBellyWithAsparagus.Instructions.Step.3.Part.2.Accessibility" = "Stir-fry until the pork belly is fully cooked and the asparagus become tendered.";
+"PorkBellyWithAsparagus.Instructions.Step.3.Part.2.Accessibility" = "Stir-fry until the pork belly is fully cooked and the asparagus becomes tender.";
 
 /* Pork Belly with Asparagus Instructions Step 4 Part 1 */
 "PorkBellyWithAsparagus.Instructions.Step.4.Part.1" = "Add ##Dầu Hào## (oyster sauce), ##Đường## (sugar), and ##Tiêu Đen## (black pepper).";
@@ -1761,10 +1761,10 @@
 // MARK: Thit Ba Roi Xao Ot Chuong Va Hanh (Pork Belly with Bell Pepper and Onion) Page
 
 /* Pork Belly with Bell Pepper and Onion Introduction 1 */
-"PorkBellyWithBellPepperAndOnion.Introduction.1" = "##Thịt Ba Rọi Xào Ớt Chuông Và Hành## (pork belly with bell pepper and onion) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+"PorkBellyWithBellPepperAndOnion.Introduction.1" = "##Thịt Ba Rọi Xào Ớt Chuông Và Hành## (pork belly with bell pepper and onion) is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I'm short on time. You can mix and match many types of vegetables and it will still taste great.";
 
 /* Pork Belly with Bell Pepper and Onion Introduction 1 (VoiceOver) */
-"PorkBellyWithBellPepperAndOnion.Introduction.1.Accessibility" = "Pork belly with bell pepper and onion is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I don’t have too much time. You can mix and match any vegetables and it will still be great.";
+"PorkBellyWithBellPepperAndOnion.Introduction.1.Accessibility" = "Pork belly with bell pepper and onion is a delicious home cooked dish. It is very simple and quick to make, and I usually cook this whenever I'm short on time. You can mix and match many types of vegetables and it will still taste great.";
 
 /* Pork Belly with Bell Pepper and Onion Introduction 2 */
 "PorkBellyWithBellPepperAndOnion.Introduction.2" = "This recipe serves one.";
@@ -2965,10 +2965,10 @@
 // MARK: Thit Ba Roi Xao Dau Hao (Pork Belly with Oyster Sauce) Page
 
 /* Pork Belly with Oyster Sauce Introduction 1 */
-"PorkBellyWithOysterSauce.Introduction.1" = "##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) is a very simple but delicious dish. It came about when I was making ##Bánh Xèo## (Vietnamese crêpe) with a friend many years back: ##Thịt Ba Rọi## (pork belly) was one of the meat options, and she suggested that I add some ##Dầu Hào## (oyster sauce) to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I make ##Bánh Xèo## (Vietnamese crêpes). Since ##Thịt Ba Rọi## (pork belly) with ##Dầu Hào## (oyster sauce) is so savory and delicious, it also goes great with rice.";
+"PorkBellyWithOysterSauce.Introduction.1" = "##Thịt Ba Rọi Xào Dầu Hào## (pork belly with oyster sauce) is a very simple but delicious dish. I first learned about it when I was making ##Bánh Xèo## (Vietnamese crêpe) with a friend many years back: ##Thịt Ba Rọi## (pork belly) was one of the meat options, and she suggested that I add some ##Dầu Hào## (oyster sauce) to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I make ##Bánh Xèo## (Vietnamese crêpes). Since ##Thịt Ba Rọi## (pork belly) with ##Dầu Hào## (oyster sauce) is so savory and delicious, it also goes great with rice.";
 
 /* Pork Belly with Oyster Sauce Introduction 1 (VoiceOver) */
-"PorkBellyWithOysterSauce.Introduction.1.Accessibility" = "Pork belly with oyster sauce is a very simple but delicious dish. It came about when I was making Vietnamese crêpe with a friend many years back: pork belly was one of the meat options, and she suggested that I add some oyster sauce to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I make Vietnamese crêpes. Since pork belly with oyster sauce is so savory and delicious, it also goes great with rice.";
+"PorkBellyWithOysterSauce.Introduction.1.Accessibility" = "Pork belly with oyster sauce is a very simple but delicious dish. I first learned about it when I was making Vietnamese crêpe with a friend many years back: pork belly was one of the meat options, and she suggested that I add some oyster sauce to the pork belly to give it more flavor. I was very surprised at how good it was and ever since then I always use this technique when I make Vietnamese crêpes. Since pork belly with oyster sauce is so savory and delicious, it also goes great with rice.";
 
 /* Pork Belly with Oyster Sauce Introduction 2 */
 "PorkBellyWithOysterSauce.Introduction.2" = "This recipe serves one.";
