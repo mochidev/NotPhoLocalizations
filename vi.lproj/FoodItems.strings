@@ -249,6 +249,11 @@
 "perilla.AccessibilitySubtitle" = "Tía Tô";
 "perilla.AccessibilityPageTitle" = "Tía Tô";
 
+/* Pork Belly */
+"porkBelly.Subtitle" = "Pork Belly";
+"porkBelly.AccessibilitySubtitle" = "Thịt Ba Rọi";
+"porkBelly.AccessibilityPageTitle" = "Thịt Ba Rọi";
+
 /* Oyster Sauce */
 "oysterSauce.Subtitle" = "Oyster Sauce";
 "oysterSauce.AccessibilitySubtitle" = "Dầu Hào";
@@ -266,6 +271,10 @@
 
 
 // MARK: Entries with no dedicated page
+
+
+/* Asparagus */
+"asparagus.Subtitle" = "Asparagus";
 
 /* Bean Sprouts */
 "beanSprouts.Subtitle" = "Bean Sprouts";
@@ -317,6 +326,9 @@
 
 /* Garlic Powder */
 "garlicPowder.Subtitle" = "Garlic Powder";
+
+/* Green Beans */
+"greenBeans.Subtitle" = "Green Beans";
 
 /* Spring Onion */
 "greenOnion.Subtitle" = "Spring Onion";
