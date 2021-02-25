@@ -1550,7 +1550,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 // MARK: Thit Ba Roi Xao Dau Que (Pork Belly with Green Bean) Page
 
 /* Pork Belly with Green Bean Introduction 1 */
-"PorkBellyWithGreenBean.Introduction.1" = "##Thịt Ba Rọi Xào Đậu Que## (pork belly with green bean) là một món ăn đơn giản nhưng rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
+"PorkBellyWithGreenBean.Introduction.1" = "##Thịt Ba Rọi Xào Đậu Que## (pork belly with green beans) là một món ăn đơn giản nhưng rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
 
 /* Pork Belly with Green Bean Introduction 1 (VoiceOver) */
 "PorkBellyWithGreenBean.Introduction.1.Accessibility" = "Thịt Ba Rọi Xào Đậu Que là một món ăn đơn giản nhưng rất ngon. Bạn có thể dùng bất kỳ loại rau nào để xào cũng sẽ rất ngon.";
@@ -1587,7 +1587,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithGreenBean.Ingredients.Oil.AccessibilityAmount" = "1 muỗng cà phê";
 
 /* Pork Belly with Green Bean Instructions Step 1 Part 1 */
-"PorkBellyWithGreenBean.Instructions.Step.1.Part.1" = "Cắt ##Đậu Que## (green bean) thành khúc dài khoảng 3-5 xăng ti mét.";
+"PorkBellyWithGreenBean.Instructions.Step.1.Part.1" = "Cắt ##Đậu Que## (green beans) thành khúc dài khoảng 3-5 xăng ti mét.";
 
 /* Pork Belly with Green Bean Instructions Step 1 Part 1 (Voiceover) */
 "PorkBellyWithGreenBean.Instructions.Step.1.Part.1.Accessibility" = "Cắt Đậu Que thành khúc dài khoảng 3 đến 5 xăng ti mét.";
