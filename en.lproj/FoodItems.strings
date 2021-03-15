@@ -219,6 +219,10 @@
 "soySauce.Subtitle" = "Soy Sauce";
 "soySauce.AccessibilitySubtitle" = "Soy Sauce";
 
+/* Taro */
+"taro.Subtitle" = "Taro";
+"taro.AccessibilitySubtitle" = "Khoai Môn";
+
 
 // MARK: Entries with no dedicated page
 

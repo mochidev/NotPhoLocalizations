@@ -269,6 +269,11 @@
 "soySauce.AccessibilitySubtitle" = "Nước Tương";
 "soySauce.AccessibilityPageTitle" = "Nước Tương";
 
+/* Taro */
+"taro.Subtitle" = "Taro";
+"taro.AccessibilitySubtitle" = "Khoai Môn";
+"taro.AccessibilityPageTitle" = "Khoai Môn";
+
 
 // MARK: Entries with no dedicated page
 

@@ -4207,6 +4207,15 @@
 "Rice.HowTo.2.Accessibility" = "However, my first choice would be Japanese Sekka rice because I love the fluffiness of the rice.";
 
 
+// MARK: Khoai Mon (Taro) Page
+
+/* Taro Introduction */
+"Taro.Introduction" = "##Khoai Môn## (taro) is a starchy root vegetable that has a mildly sweet flavor. The texture is very similar to potato so you can use them interchangeably if you aren’t a fan of potato.";
+
+/* Taro Introduction (VoiceOVer) */
+"Taro.Introduction.Accessibility" = "Taro is a starchy root vegetable that has a mildly sweet flavor. The texture is very similar to potato so you can use them interchangeably if you aren’t a fan of potato.";
+
+
 // MARK: - # About Tab:
 
 /* About Tab Page Title */

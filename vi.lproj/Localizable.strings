@@ -4329,6 +4329,15 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Rice.HowTo.2.Accessibility" = "Nếu tôi không có Gạo Sekka Nhật Bản, tôi sẽ sử dụng Gạo Thơm Hoa Nhài để thay thế.";
 
 
+// MARK: Khoai Mon (Taro) Page
+
+/* Taro Introduction */
+"Taro.Introduction" = "##Khoai Môn## (taro) là một loại khoai có vị ngọt. ##Khoai Môn## (taro) có kết cấu tương tự như khoai tây nên bạn có thể sử dụng chúng thay thế cho nhau.";
+
+/* Taro Introduction (VoiceOVer) */
+"Taro.Introduction.Accessibility" = "Khoai môn là một loại khoai có vị ngọt. Khoai môn có kết cấu tương tự như khoai tây nên bạn có thể sử dụng chúng thay thế cho nhau.";
+
+
 // MARK: - # About Tab:
 
 /* About Tab Page Title */
