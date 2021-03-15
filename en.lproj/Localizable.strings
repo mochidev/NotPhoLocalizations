@@ -2053,19 +2053,19 @@
 "EggRollsComponent.Instructions.Step.1.Part.2.Accessibility" = "Mince the shrimp and add it to the bowl.";
 
 /* Egg Rolls Component Instructions Step 2 Part 1 */
-"EggRollsComponent.Instructions.Step.2.Part.1" = "Dice the ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushrooms), and ##Bún Miến## (bean thread noodles).";
+"EggRollsComponent.Instructions.Step.2.Part.1" = "Dice the ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushrooms), and ##Bún Miến## (glass noodles).";
 
 /* Egg Rolls Component Instructions Step 2 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.2.Part.1.Accessibility" = "Dice the onion, dried wood ear mushrooms, and bean thread noodles.";
+"EggRollsComponent.Instructions.Step.2.Part.1.Accessibility" = "Dice the onion, dried wood ear mushrooms, and glass noodles.";
 
 /* Egg Rolls Component Instructions Step 2 Part 2 */
 "EggRollsComponent.Instructions.Step.2.Part.2" = "Add the diced ingredients to the bowl.";
 
 /* Egg Rolls Component Instructions Step 2 Note 1 */
-"EggRollsComponent.Instructions.Step.2.Note.1" = "Soak the ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles) in warm water for about 5-10 minutes or until they are soft enough to cut.";
+"EggRollsComponent.Instructions.Step.2.Note.1" = "Soak the ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (glass noodles) in warm water for about 5-10 minutes or until they are soft enough to cut.";
 
 /* Egg Rolls Component Instructions Step 2 Note 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and bean threads in warm water for about 5 to 10 minutes or until they are soft enough to cut.";
+"EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and glass noodles in warm water for about 5 to 10 minutes or until they are soft enough to cut.";
 
 /* Egg Rolls Component Instructions Step 3 Part 1 */
 "EggRollsComponent.Instructions.Step.3.Part.1" = "Add the ##Nước Mắm## (fish sauce), ##Bột Nêm Gà## (chicken bouillon), and ##Tiêu Đen## (black pepper) to the bowl.";
@@ -2167,10 +2167,10 @@
 // MARK: Cha Trung (Egg Meatloaf) Page
 
 /* Egg Meatloaf Introduction 1 */
-"EggMeatloaf.Introduction.1" = "##Chả Trứng## (egg meatloaf) is a steamed egg and pork dish incorporating ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles), and is an indispensable part of ##Cơm Tấm## (broken rice) dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with ##Nước Mắm Chấm## (mixed fish sauce).";
+"EggMeatloaf.Introduction.1" = "##Chả Trứng## (egg meatloaf) is a steamed egg and pork dish incorporating ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (glass noodles), and is an indispensable part of ##Cơm Tấm## (broken rice) dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with ##Nước Mắm Chấm## (mixed fish sauce).";
 
 /* Egg Meatloaf Introduction 1 (VoiceOver) */
-"EggMeatloaf.Introduction.1.Accessibility" = "Egg meatloaf is a steamed egg and pork dish incorporating dried wood ear mushrooms and bean thread noodles, and is an indispensable part of broken rice dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with mixed fish sauce.";
+"EggMeatloaf.Introduction.1.Accessibility" = "Egg meatloaf is a steamed egg and pork dish incorporating dried wood ear mushrooms and glass noodles, and is an indispensable part of broken rice dishes. It has a savory but light composition thanks to the noodles and eggs, and goes very well with mixed fish sauce.";
 
 /* Egg Meatloaf Introduction 2 */
 "EggMeatloaf.Introduction.2.us" = "This recipe yields one 3″×4″×7½″ loaf.";
@@ -2243,19 +2243,19 @@
 "EggMeatloaf.Instructions.Step.1.Part.1.Accessibility" = "Place the ground pork into a bowl.";
 
 /* Egg Meatloaf Instructions Step 1 Part 2 */
-"EggMeatloaf.Instructions.Step.1.Part.2" = "Dice the ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushroom), and ##Bún Miến## (bean thread noodles).";
+"EggMeatloaf.Instructions.Step.1.Part.2" = "Dice the ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushroom), and ##Bún Miến## (glass noodles).";
 
 /* Egg Meatloaf Instructions Step 1 Part 2 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Part.2.Accessibility" = "Dice the onion, dried wood ear mushroom, and bean thread noodles.";
+"EggMeatloaf.Instructions.Step.1.Part.2.Accessibility" = "Dice the onion, dried wood ear mushroom, and glass noodles.";
 
 /* Egg Meatloaf Instructions Step 1 Part 3 */
 "EggMeatloaf.Instructions.Step.1.Part.3" = "Add the diced ingredients to the bowl.";
 
 /* Egg Meatloaf Instructions Step 1 Note 1 */
-"EggMeatloaf.Instructions.Step.1.Note.1" = "Soak the ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (bean thread noodles) in warm water for about 5-10 minutes or until they are soft enough to cut.";
+"EggMeatloaf.Instructions.Step.1.Note.1" = "Soak the ##Nấm Mèo## (dried wood ear mushrooms) and ##Bún Miến## (glass noodles) in warm water for about 5-10 minutes or until they are soft enough to cut.";
 
 /* Egg Meatloaf Instructions Step 1 Note 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and bean thread noodles in warm water for about 5 to 10 minutes or until they are soft enough to cut.";
+"EggMeatloaf.Instructions.Step.1.Note.1.Accessibility" = "Soak the dried wood ear mushrooms and glass noodles in warm water for about 5 to 10 minutes or until they are soft enough to cut.";
 
 /* Egg Meatloaf Instructions Step 2 Part 1 */
 "EggMeatloaf.Instructions.Step.2.Part.1" = "Add ##Nước Mắm## (fish sauce), ##Muối## (salt), and ##Tiêu Đen## (black pepper) to the bowl.";
