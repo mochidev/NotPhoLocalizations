@@ -2113,28 +2113,22 @@
 "EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Egg Roll wrappers can be found refrigerated at most grocery stores; they are made of wheat and are paper thin.";
 
 /* Egg Rolls Component Instructions Step 4 Note 2 */
-"EggRollsComponent.Instructions.Step.4.Note.2.us" = "##Da Cuốn Chả Giò## (egg Roll wrappers) come in many sizes; the size I use is approximately 7½ in.";
-"EggRollsComponent.Instructions.Step.4.Note.2.metric" = "##Da Cuốn Chả Giò## (egg Roll wrappers) come in many sizes; the size I use is approximately 19 cm.";
+"EggRollsComponent.Instructions.Step.4.Note.2" = "##Da Cuốn Chả Giò## (egg Roll wrappers) come in many sizes; the size I use is approximately 7½ in (19 cm).";
 
 /* Egg Rolls Component Instructions Step 4 Note 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility.us" = "Egg Roll wrappers come in many sizes; the size I use is approximately 7½ in.";
-"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility.metric" = "Egg Roll wrappers come in many sizes; the size I use is approximately 19 cm.";
+"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility" = "Egg Roll wrappers come in many sizes; the size I use is approximately 7½ in (19 cm).";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 */
-"EggRollsComponent.Instructions.Step.5.Part.1.us" = "Fry the ##Chả Giò## (egg rolls) in small batches in 325ºF oil.";
-"EggRollsComponent.Instructions.Step.5.Part.1.metric" = "Fry the ##Chả Giò## (egg rolls) in small batches in 163ºC oil.";
+"EggRollsComponent.Instructions.Step.5.Part.1" = "Fry the ##Chả Giò## (egg rolls) in small batches in 325ºF (163ºC) oil.";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.us" = "Fry the egg rolls in small batches in 325ºF oil.";
-"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.metric" = "Fry the egg rolls in small batches in 163ºC oil.";
+"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility" = "Fry the egg rolls in small batches in 325ºF (163ºC) oil.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 */
-"EggRollsComponent.Instructions.Step.5.Part.2.us" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 5-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
-"EggRollsComponent.Instructions.Step.5.Part.2.metric" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 63ºC (timing is anywhere between 5-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2" = "Fry until the ##Chả Giò## (egg rolls) are golden brown and the internal temperature is at least 145ºF (63ºC) - timing is anywhere between 5-15 minutes depending on the size and quantity of ##Chả Giò## (egg rolls) being cooked.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.us" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (timing is anywhere between 5 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.metric" = "Fry until the egg rolls are golden brown and the internal temperature is at least 63ºC (timing is anywhere between 5 to 15 minutes depending on the size and quantity of egg rolls being cooked).";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility" = "Fry until the egg rolls are golden brown and the internal temperature is at least 145ºF (63ºC) - timing is anywhere between 5 to 15 minutes depending on the size and quantity of egg rolls being cooked.";
 
 /* Egg Rolls Component Instructions Step 5 Note 1 */
 "EggRollsComponent.Instructions.Step.5.Note.1" = "You can fry them all at once, or fry what you need and freeze the rest raw.";
@@ -2156,6 +2150,18 @@
 
 /* Egg Rolls Component Instructions Step 5 Note 4 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Normally, a tightly rolled egg roll will start to float to the top of the oil when it is cooked, but always check the internal temperature to be sure.";
+
+/* Egg Rolls Component Variants 1 */
+"EggRollsComponent.Variants.1" = "If available, for an even better ##Chả Giò## (egg roll), add ½ cup (65 g) julienned ##Khoai Môn## (taro) to the filling.";
+
+/* Egg Rolls Component Variants 1 (VoiceOver) */
+"EggRollsComponent.Variants.1.Accessibility" = "If available, for an even better egg roll, add half a cup (or 65 grams) julienned taro to the filling.";
+
+/* Egg Rolls Component Variants 2 */
+"EggRollsComponent.Variants.2" = "Adding ##Khoai Môn## (taro) will lock in the moisture resulting in a more full ##Chả Giò## (egg roll).";
+
+/* Egg Rolls Component Variants 2 (VoiceOver) */
+"EggRollsComponent.Variants.2.Accessibility" = "Adding taro will lock in the moisture resulting in a more full egg roll.";
 
 /* Egg Rolls Component How To 1 */
 "EggRollsComponent.HowTo.1" = "##Chả Giò## (egg rolls) can be eaten by themselves or used as a component in other dishes.";
@@ -4210,10 +4216,10 @@
 // MARK: Khoai Mon (Taro) Page
 
 /* Taro Introduction */
-"Taro.Introduction" = "##Khoai Môn## (taro) is a starchy root vegetable that has a mildly sweet flavor. The texture is very similar to potato so you can use them interchangeably if you aren’t a fan of potato.";
+"Taro.Introduction" = "##Khoai Môn## (taro) is a starchy root vegetable that has a mildly sweet flavor. The texture is very similar to potato so you can use them interchangeably in recipes like ##Cà Ri Gà## (chicken curry) if you aren’t a fan of potatos.";
 
 /* Taro Introduction (VoiceOVer) */
-"Taro.Introduction.Accessibility" = "Taro is a starchy root vegetable that has a mildly sweet flavor. The texture is very similar to potato so you can use them interchangeably if you aren’t a fan of potato.";
+"Taro.Introduction.Accessibility" = "Taro is a starchy root vegetable that has a mildly sweet flavor. The texture is very similar to potato so you can use them interchangeably in recipes like chicken curry if you aren’t a fan of potatos.";
 
 
 // MARK: - # About Tab:

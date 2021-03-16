@@ -1995,7 +1995,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 // MARK: Cha Gio - Recipe (Egg Rolls) Page
 
 /* Egg Rolls Component Introduction 1 */
-"EggRollsComponent.Introduction.1" = "##Chả Giò## là một món khai vị thơm ngon của Việt Nam. ##Chả Giò## có thể kèm với bún để ăn.";
+"EggRollsComponent.Introduction.1" = "##Chả Giò## (egg rolls) là một món khai vị thơm ngon của Việt Nam. ##Chả Giò## (egg rolls) có thể kèm với bún để ăn.";
 
 /* Egg Rolls Component Introduction 1 (VoiceOver) */
 "EggRollsComponent.Introduction.1.Accessibility" = "Chả Giò là một món khai vị thơm ngon của Việt Nam. Chả Giò có thể kèm với bún để ăn.";
@@ -2068,34 +2068,34 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "EggRollsComponent.EggRollWrappers.Amount" = "1 gói";
 
 /* Egg Rolls Component Instructions Step 1 Part 1 */
-"EggRollsComponent.Instructions.Step.1.Part.1" = "Cho ##Thịt Bầm## vào tô.";
+"EggRollsComponent.Instructions.Step.1.Part.1" = "Cho ##Thịt Bầm## (ground pork) vào tô.";
 
 /* Egg Rolls Component Instructions Step 1 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.1.Part.1.Accessibility" = "Cho ##Thịt Bầm## vào tô.";
+"EggRollsComponent.Instructions.Step.1.Part.1.Accessibility" = "Cho Thịt Bầm vào tô.";
 
 /* Egg Rolls Component Instructions Step 1 Part 2 */
-"EggRollsComponent.Instructions.Step.1.Part.2" = "Bầm nhiễn ##Tôm## và cho vào tô.";
+"EggRollsComponent.Instructions.Step.1.Part.2" = "Bầm nhiễn ##Tôm## (shrimp) và cho vào tô.";
 
 /* Egg Rolls Component Instructions Step 1 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.1.Part.2.Accessibility" = "Bầm nhiễn ##Tôm## và cho vào tô.";
+"EggRollsComponent.Instructions.Step.1.Part.2.Accessibility" = "Bầm nhiễn Tôm và cho vào tô.";
 
 /* Egg Rolls Component Instructions Step 2 Part 1 */
-"EggRollsComponent.Instructions.Step.2.Part.1" = "Cắt nhỏ ##Củ Hành##, ##Nấm Mèo## và ##Bún Miến##.";
+"EggRollsComponent.Instructions.Step.2.Part.1" = "Cắt nhỏ ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushrooms) và ##Bún Miến## (glass noodles).";
 
 /* Egg Rolls Component Instructions Step 2 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.2.Part.1.Accessibility" = "Cắt nhỏ ##Củ Hành##, ##Nấm Mèo## và ##Bún Miến##.";
+"EggRollsComponent.Instructions.Step.2.Part.1.Accessibility" = "Cắt nhỏ Củ Hành, Nấm Mèo và Bún Miến.";
 
 /* Egg Rolls Component Instructions Step 2 Part 2 */
 "EggRollsComponent.Instructions.Step.2.Part.2" = "Thêm nguyên liệu mới cắt xong vào tô.";
 
 /* Egg Rolls Component Instructions Step 2 Note 1 */
-"EggRollsComponent.Instructions.Step.2.Note.1" = "Nhớ ngâm ##Nấm Mèo## và ##Bún Miến## vào nước ấm để mềm lại trước khi cắt.";
+"EggRollsComponent.Instructions.Step.2.Note.1" = "Nhớ ngâm ##Nấm Mèo## (dried wood ear mushrooms) và ##Bún Miến## (glass noodles) vào nước ấm để mềm lại trước khi cắt.";
 
 /* Egg Rolls Component Instructions Step 2 Note 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Nhớ ngâm ##Nấm Mèo## và ##Bún Miến## vào nước ấm để mềm lại trước khi cắt.";
+"EggRollsComponent.Instructions.Step.2.Note.1.Accessibility" = "Nhớ ngâm Nấm Mèo và Bún Miến vào nước ấm để mềm lại trước khi cắt.";
 
 /* Egg Rolls Component Instructions Step 3 Part 1 */
-"EggRollsComponent.Instructions.Step.3.Part.1" = "Thêm ##Nước Mắm##, ##Bột Nêm Gà## và ##Tiêu Đen## vào tô.";
+"EggRollsComponent.Instructions.Step.3.Part.1" = "Thêm ##Nước Mắm## (fish sauce), ##Bột Nêm Gà## (chicken bouillon) và ##Tiêu Đen## (black pepper) vào tô.";
 
 /* Egg Rolls Component Instructions Step 3 Part 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.3.Part.1.Accessibility" = "Thêm Nước Mắm, Bột Nêm Gà và Tiêu Đen vào tô.";
@@ -2104,89 +2104,95 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "EggRollsComponent.Instructions.Step.3.Part.2" = "Trộn đều nguyên liệu trong tô.";
 
 /* Egg Rolls Component Instructions Step 3 Note 1 */
-"EggRollsComponent.Instructions.Step.3.Note.1" = "Nếu không có ##Bột Nêm Gà## thì thay thế bằng muối.";
+"EggRollsComponent.Instructions.Step.3.Note.1" = "Nếu không có ##Bột Nêm Gà## (chicken bouillon) thì thay thế bằng muối.";
 
 /* Egg Rolls Component Instructions Step 3 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.3.Note.1.Accessibility" = "Nếu không có Bột Nêm Gà thì thay thế bằng muối.";
 
 /* Egg Rolls Component Instructions Step 4 Part 1 */
-"EggRollsComponent.Instructions.Step.4.Part.1" = "Trên một cái thớt sạch, để một miếng ##Da Cuốn Chả Giò## trên thớt và chỉ một đầu nhọn về mình.";
+"EggRollsComponent.Instructions.Step.4.Part.1" = "Trên một cái thớt sạch, để một miếng ##Da Cuốn Chả Giò## (egg roll wrapper) trên thớt và chỉ một đầu nhọn về mình.";
 
 /* Egg Rolls Component Instructions Step 4 Part 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.4.Part.1.Accessibility" = "Trên một cái thớt sạch, để một miếng Da Cuốn Chả Giò trên thớt và chỉ một đầu nhọn về mình.";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 */
-"EggRollsComponent.Instructions.Step.4.Part.2" = "Mút 1 đến 2 muỗng canh thịt trộn sẵn và để giữa ##Da Cuốn Chả Giò##.";
+"EggRollsComponent.Instructions.Step.4.Part.2" = "Mút 1 đến 2 muỗng canh thịt trộn sẵn và để giữa ##Da Cuốn Chả Giò## (egg roll wrapper).";
 
 /* Egg Rolls Component Instructions Step 4 Part 2 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.4.Part.2.Accessibility" = "Mút 1 đến 2 muỗng canh thịt trộn sẵn và để giữa Da Cuốn Chả Giò.";
 
 /* Egg Rolls Component Instructions Step 4 Part 3 */
-"EggRollsComponent.Instructions.Step.4.Part.3" = "Bắt đầu gói ##Chả Giò##. Sếp ##Da Cuốn Chả Giò## ở dưới lên.";
+"EggRollsComponent.Instructions.Step.4.Part.3" = "Bắt đầu gói ##Chả Giò## (egg rolls). Sếp ##Da Cuốn Chả Giò## (egg roll wrapper) ở dưới lên.";
 
 /* Egg Rolls Component Instructions Step 4 Part 4 */
-"EggRollsComponent.Instructions.Step.4.Part.4" = "Tiếp theo sếp ##Da Cuốn Chả Giò## bên trái vô giữa và sếp bên phải vô giữa.";
+"EggRollsComponent.Instructions.Step.4.Part.4" = "Tiếp theo sếp ##Da Cuốn Chả Giò## (egg roll wrapper) bên trái vô giữa và sếp bên phải vô giữa.";
 
 /* Egg Rolls Component Instructions Step 4 Part 5 */
 "EggRollsComponent.Instructions.Step.4.Part.5" = "Tiếp theo cuốn lên.";
 
 /* Egg Rolls Component Instructions Step 4 Part 6 */
-"EggRollsComponent.Instructions.Step.4.Part.6" = "Dùng trứng hoặc nước bột để dán ##Chả Giò## lại.";
+"EggRollsComponent.Instructions.Step.4.Part.6" = "Dùng trứng hoặc nước bột để dán ##Chả Giò## (egg rolls) lại.";
 
 /* Egg Rolls Component Instructions Step 4 Note 1 */
-"EggRollsComponent.Instructions.Step.4.Note.1" = "##Da Cuốn Chả Giò## rất tầm thường có thể kiếm được ở rất nhiều chợ. Loại ##Da Cuốn Chả Giò## này là làm từ lúa mì và rất là mỏng.";
+"EggRollsComponent.Instructions.Step.4.Note.1" = "##Da Cuốn Chả Giò## (egg roll wrappers) rất tầm thường có thể kiếm được ở rất nhiều chợ. Loại ##Da Cuốn Chả Giò## này là làm từ lúa mì và rất là mỏng.";
 
 /* Egg Rolls Component Instructions Step 4 Note 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.4.Note.1.Accessibility" = "Da Cuốn Chả Giò rất tầm thường có thể kiếm được ở rất nhiều chợ. Loại Da Cuốn Chả Giò này là làm từ lúa mì và rất là mỏng.";
 
 /* Egg Rolls Component Instructions Step 4 Note 2 */
-"EggRollsComponent.Instructions.Step.4.Note.2.us" = "##Da Cuốn Chả Giò## (egg Roll wrappers) có nhiều kích thước; kích thước tôi sử dụng là khoảng 7½ in.";
-"EggRollsComponent.Instructions.Step.4.Note.2.metric" = "##Da Cuốn Chả Giò## (egg Roll wrappers) có nhiều kích thước; kích thước tôi sử dụng là khoảng 19 cm.";
+"EggRollsComponent.Instructions.Step.4.Note.2" = "##Da Cuốn Chả Giò## (egg roll wrappers) có nhiều kích thước; kích thước tôi sử dụng là khoảng 7½ in (19 cm).";
 
 /* Egg Rolls Component Instructions Step 4 Note 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility.us" = "Da Cuốn Chả Giò có nhiều kích thước; kích thước tôi sử dụng là khoảng 7½ in.";
-"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility.metric" = "Da Cuốn Chả Giò có nhiều kích thước; kích thước tôi sử dụng là khoảng 19 cm.";
+"EggRollsComponent.Instructions.Step.4.Note.2.Accessibility" = "Da Cuốn Chả Giò có nhiều kích thước; kích thước tôi sử dụng là khoảng 7½ in (19 cm).";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 */
-"EggRollsComponent.Instructions.Step.5.Part.1.us" = "Chiên ##Chả Giò## từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF.";
-"EggRollsComponent.Instructions.Step.5.Part.1.metric" = "Chiên ##Chả Giò## từ đợt trong dầu. Độ nóng của dầu khoảng 163ºC.";
+"EggRollsComponent.Instructions.Step.5.Part.1" = "Chiên ##Chả Giò## (egg rolls) từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF (163ºC).";
 
 /* Egg Rolls Component Instructions Step 5 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.us" = "Chiên Chả Giò từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF.";
-"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility.metric" = "Chiên Chả Giò từ đợt trong dầu. Độ nóng của dầu khoảng 163ºC.";
+"EggRollsComponent.Instructions.Step.5.Part.1.Accessibility" = "Chiên Chả Giò từ đợt trong dầu. Độ nóng của dầu khoảng 325ºF (163ºC).";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 */
-"EggRollsComponent.Instructions.Step.5.Part.2.us" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
-"EggRollsComponent.Instructions.Step.5.Part.2.metric" = "Chiên đến khi ##Chả Giò## vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 63ºC. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2" = "Chiên đến khi ##Chả Giò## (egg rolls) vàng nâu và độ nóng giữa của ##Chả Giò## là ít nhất 145ºF (63ºC). Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
 
 /* Egg Rolls Component Instructions Step 5 Part 2 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.us" = "Chiên đến khi Chả Giò vàng nâu và độ nóng giữa của Chả Giò là ít nhất 145ºF. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
-"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility.metric" = "Chiên đến khi Chả Giò vàng nâu và độ nóng giữa của Chả Giò là ít nhất 63ºC. Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
+"EggRollsComponent.Instructions.Step.5.Part.2.Accessibility" = "Chiên đến khi Chả Giò vàng nâu và độ nóng giữa của Chả Giò là ít nhất 145ºF (63ºC). Thời gian chiên là tùy theo số lượng đang chiên, khoảng 5 tới 15 phút.";
 
 /* Egg Rolls Component Instructions Step 5 Note 1 */
 "EggRollsComponent.Instructions.Step.5.Note.1" = "Có thể chiên hết một lược hoặc là chiên một ít và số còn lại thì để đồng đá.";
 
 
 /* Egg Rolls Component Instructions Step 5 Note 2 */
-"EggRollsComponent.Instructions.Step.5.Note.2" = "##Chả Giò## có thể giữ được vài tháng khi đông đá. Khi muốn ăn thì có thể lấy từ đông đá ra và xả đá sau đó chiên theo cách thức viết ở trên.";
+"EggRollsComponent.Instructions.Step.5.Note.2" = "##Chả Giò## (egg rolls) có thể giữ được vài tháng khi đông đá. Khi muốn ăn thì có thể lấy từ đông đá ra và xả đá sau đó chiên theo cách thức viết ở trên.";
 
 /* Egg Rolls Component Instructions Step 5 Note 2 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.5.Note.2.Accessibility" = "Chả Giò có thể giữ được vài tháng khi đông đá. Khi muốn ăn thì có thể lấy từ đông đá ra và xả đá sau đó chiên theo cách thức viết ở trên.";
 
 /* Egg Rolls Component Instructions Step 5 Note 3 */
-"EggRollsComponent.Instructions.Step.5.Note.3" = "Khi chiên nhớ xoay ##Chả Giò## để có thể chiên điều.";
+"EggRollsComponent.Instructions.Step.5.Note.3" = "Khi chiên nhớ xoay ##Chả Giò## (egg rolls) để có thể chiên điều.";
 
 /* Egg Rolls Component Instructions Step 5 Note 3 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.5.Note.3.Accessibility" = "Khi chiên nhớ xoay Chả Giò để có thể chiên điều.";
 
 /* Egg Rolls Component Instructions Step 5 Note 4 */
-"EggRollsComponent.Instructions.Step.5.Note.4" = "Thông thường ##Chả Giò## sẽ nổi lên trên mặt dầu nếu mà chính nhưng đừng chỉ có nhờ vào cách này. Nếu thiệt sự muốn biết ##Chả Giò## chín chưa thì phải nên so nhiệt độ giữa của ##Chả Giò##.";
+"EggRollsComponent.Instructions.Step.5.Note.4" = "Thông thường ##Chả Giò## (egg rolls) sẽ nổi lên trên mặt dầu nếu mà chính nhưng đừng chỉ có nhờ vào cách này. Nếu thiệt sự muốn biết ##Chả Giò## (egg rolls) chín chưa thì phải nên so nhiệt độ giữa của ##Chả Giò## (egg rolls).";
 
 /* Egg Rolls Component Instructions Step 5 Note 4 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.5.Note.4.Accessibility" = "Thông thường Chả Giò sẽ nổi lên trên mặt dầu nếu mà chính nhưng đừng chỉ có nhờ vào cách này. Nếu thiệt sự muốn biết Chả Giò chín chưa thì phải nên so nhiệt độ giữa của Chả Giò.";
 
+/* Egg Rolls Component Variants 1 */
+"EggRollsComponent.Variants.1" = "Để ##Chả Giò## (egg roll) ngon hơn nữa, hãy thêm ½ cốc (65 g) ##Khoai Môn## (taro) vào nhân thịt.";
+
+/* Egg Rolls Component Variants 1 (VoiceOver) */
+"EggRollsComponent.Variants.1.Accessibility" = "Để Chả Giò ngon hơn nữa, hãy thêm ½ cốc (65 g) Khoai Môn vào nhân thịt.";
+
+/* Egg Rolls Component Variants 2 */
+"EggRollsComponent.Variants.2" = "##Khoai Môn## (taro) sẽ làm nhân thịt ngon hơn.";
+
+/* Egg Rolls Component Variants 2 (VoiceOver) */
+"EggRollsComponent.Variants.2.Accessibility" = "Khoai Môn sẽ làm nhân thịt ngon hơn.";
+
 /* Egg Rolls Component How To 1 */
-"EggRollsComponent.HowTo.1" = "##Chả Giò## có thể ăn như vậy hoặc kèm với món ăn khác.";
+"EggRollsComponent.HowTo.1" = "##Chả Giò## (egg rolls) có thể ăn như vậy hoặc kèm với món ăn khác.";
 
 /* Egg Rolls Component How To 1 (VoiceOver) */
 "EggRollsComponent.HowTo.1.Accessibility" = "Chả Giò có thể ăn như vậy hoặc kèm với món ăn khác.";
