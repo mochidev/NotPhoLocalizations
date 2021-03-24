@@ -9,7 +9,12 @@
 /* These represent the individual item button on each page that often lead to other pages.
  `.Subtitle` should be the translated text for item row, however, this should be in English for Vietnamese localization.
  `.AccessibilitySubtitle` will be the VoiceOver equivalent for main page title.
+ 
+ By default, this will look for a `.Title` and `.Subtitle` in the strings file. If it is missing, it will fall back to the `Food.json` values.
+ For the `.accessibilitySubtitle`, used by `ItemRow`, this will check the strings file for `.AccessibilitySubtitle`, and if it is missing, it will fall back to the `foodItem.subtitle` that was set above.
+ For the `.accessibilityPageTitle`, used by the `Page` header, this will check the strings file for `.AccessibilityPageTitle`, and if it is missing, it will fall back to the `foodItem.subtitle` that was set above. However, this string should always be localized, and a warning will be printed if it isn't.
  */
+
 
 // MARK: Vietnamese Food Tab
 
@@ -35,67 +40,67 @@
 
 /* Shaken Beef Main */
 "shakenBeefMain.Subtitle" = "Shaken Beef Dishes";
-"shakenBeefMain.AccessibilitySubtitle" = "Shaken Beef Dishes";
+"shakenBeefMain.AccessibilityPageTitle" = "Shaken Beef Dishes";
 
 /* Shaken Beef Salad */
 "shakenBeefSalad.Subtitle" = "Shaken Beef Salad";
-"shakenBeefSalad.AccessibilitySubtitle" = "Shaken Beef Salad";
+"shakenBeefSalad.AccessibilityPageTitle" = "Shaken Beef Salad";
 
 /* Shaken Beef with White Rice */
 "shakenBeefWhiteRice.Subtitle" = "Shaken Beef with White Rice";
-"shakenBeefWhiteRice.AccessibilitySubtitle" = "Shaken Beef with White Rice";
+"shakenBeefWhiteRice.AccessibilityPageTitle" = "Shaken Beef with White Rice";
 
 /* Shaken Beef with Tomato Rice */
 "shakenBeefWithTomatoRice.Subtitle" = "Shaken Beef with Tomato Rice";
-"shakenBeefWithTomatoRice.AccessibilitySubtitle" = "Shaken Beef with Tomato Rice";
+"shakenBeefWithTomatoRice.AccessibilityPageTitle" = "Shaken Beef with Tomato Rice";
 
 /* Shaken Beef with Fried Rice */
 "ShakenBeefWithFriedRice.Subtitle" = "Shaken Beef with Fried Rice";
-"ShakenBeefWithFriedRice.AccessibilitySubtitle" = "Shaken Beef with Fried Rice";
+"ShakenBeefWithFriedRice.AccessibilityPageTitle" = "Shaken Beef with Fried Rice";
 
 /* Fried Rice Main */
 "friedRice.Subtitle" = "Fried Rice";
-"friedRice.AccessibilitySubtitle" = "Fried Rice";
+"friedRice.AccessibilityPageTitle" = "Fried Rice";
 
 /* Shrimp Fried Rice */
 "shrimpFriedRice.Subtitle" = "Shrimp Fried Rice";
-"shrimpFriedRice.AccessibilitySubtitle" = "Shrimp Fried Rice";
+"shrimpFriedRice.AccessibilityPageTitle" = "Shrimp Fried Rice";
 
 /* Chicken Curry Main */
 "chickenCurryMain.Subtitle" = "Chicken Curry";
-"chickenCurryMain.AccessibilitySubtitle" = "Chicken Curry";
+"chickenCurryMain.AccessibilityPageTitle" = "Chicken Curry";
 
 /* Chicken Curry with Baguette */
 "chickenCurryWithBaguette.Subtitle" = "Chicken Curry with Baguette";
-"chickenCurryWithBaguette.AccessibilitySubtitle" = "Chicken Curry with Baguette";
+"chickenCurryWithBaguette.AccessibilityPageTitle" = "Chicken Curry with Baguette";
 
 /* Chicken Curry Noodle Soup */
 "chickenCurryNoodleSoup.Subtitle" = "Chicken Curry Noodle Soup";
-"chickenCurryNoodleSoup.AccessibilitySubtitle" = "Chicken Curry Noodle Soup";
+"chickenCurryNoodleSoup.AccessibilityPageTitle" = "Chicken Curry Noodle Soup";
 
 /* Chicken Curry with Rice */
 "chickenCurryWithRice.Subtitle" = "Chicken Curry with Rice";
-"chickenCurryWithRice.AccessibilitySubtitle" = "Chicken Curry with Rice";
+"chickenCurryWithRice.AccessibilityPageTitle" = "Chicken Curry with Rice";
 
 /* Pork Belly Stir-fry Main */
 "porkBellyStirfryMain.Subtitle" = "Pork Belly Stir-fry";
-"porkBellyStirfryMain.AccessibilitySubtitle" = "Pork Belly Stir-fry";
+"porkBellyStirfryMain.AccessibilityPageTitle" = "Pork Belly Stir-fry";
 
 /* Pork Belly with Spring Onion */
 "porkBellyWithSpringOnion.Subtitle" = "Pork Belly with Spring Onion";
-"porkBellyWithSpringOnion.AccessibilitySubtitle" = "Pork Belly with Spring Onion";
+"porkBellyWithSpringOnion.AccessibilityPageTitle" = "Pork Belly with Spring Onion";
 
 /* Pork Belly with Green Bean */
 "porkBellyWithGreenBean.Subtitle" = "Pork Belly with Green Beans";
-"porkBellyWithGreenBean.AccessibilitySubtitle" = "Pork Belly with Green Beans";
+"porkBellyWithGreenBean.AccessibilityPageTitle" = "Pork Belly with Green Beans";
 
 /* Pork Belly with Asparagus */
 "porkBellyWithAsparagus.Subtitle" = "Pork Belly with Asparagus";
-"porkBellyWithAsparagus.AccessibilitySubtitle" = "Pork Belly with Asparagus";
+"porkBellyWithAsparagus.AccessibilityPageTitle" = "Pork Belly with Asparagus";
 
 /* Pork Belly with Bell Pepper and Onion */
 "porkBellyWithBellPepperAndOnion.Subtitle" = "Pork Belly with Bell Pepper and Onion";
-"porkBellyWithBellPepperAndOnion.AccessibilitySubtitle" = "Pork Belly with Bell Pepper and Onion";
+"porkBellyWithBellPepperAndOnion.AccessibilityPageTitle" = "Pork Belly with Bell Pepper and Onion";
 
 /* Beef Pho */
 "beefPho.Subtitle" = "Beef Phở";
@@ -127,106 +132,106 @@
 
 /* Scallion & Oil Garnish */
 "scallionsOil.Subtitle" = "Scallion & Oil Garnish";
-"scallionsOil.AccessibilitySubtitle" = "Scallion & Oil Garnish";
+"scallionsOil.AccessibilityPageTitle" = "Scallion & Oil Garnish";
 
 /* Mixed Fish Sauce */
 "nuocMam.Subtitle" = "Mixed Fish Sauce";
-"nuocMam.AccessibilitySubtitle" = "Mixed Fish Sauce";
+"nuocMam.AccessibilityPageTitle" = "Mixed Fish Sauce";
 
 /* Leafy Greens */
 "leafyGreens.Subtitle" = "Leafy Greens";
-"leafyGreens.AccessibilitySubtitle" = "Leafy Greens";
+"leafyGreens.AccessibilityPageTitle" = "Leafy Greens";
 
 /* Mayonnaise */
 "mayo.Subtitle" = "Mayonnaise";
-"mayo.AccessibilitySubtitle" = "Mayonnaise";
+"mayo.AccessibilityPageTitle" = "Mayonnaise";
 
 /* Grilled Pork */
 "grilledPork.Subtitle" = "Grilled Pork";
-"grilledPork.AccessibilitySubtitle" = "Grilled Pork";
+"grilledPork.AccessibilityPageTitle" = "Grilled Pork";
 
 /* Pork Belly with Oyster Sauce */
 "porkBellyWithOysterSauce.Subtitle" = "Pork Belly with Oyster Sauce";
-"porkBellyWithOysterSauce.AccessibilitySubtitle" = "Pork Belly with Oyster Sauce";
+"porkBellyWithOysterSauce.AccessibilityPageTitle" = "Pork Belly with Oyster Sauce";
 
 /* Shaken Beef Entree */
 "shakenBeefEntree.Subtitle" = "Shaken Beef";
-"shakenBeefEntree.AccessibilitySubtitle" = "Shaken Beef";
+"shakenBeefEntree.AccessibilityPageTitle" = "Shaken Beef";
 
 /* Lime Dipping Sauce */
 "limeDippingSauce.Subtitle" = "Lime Dipping Sauce";
-"limeDippingSauce.AccessibilitySubtitle" = "Lime Dipping Sauce";
+"limeDippingSauce.AccessibilityPageTitle" = "Lime Dipping Sauce";
 
 /* Egg Fried Rice */
 "eggFriedRice.Subtitle" = "Egg Fried Rice";
-"eggFriedRice.AccessibilitySubtitle" = "Egg Fried Rice";
+"eggFriedRice.AccessibilityPageTitle" = "Egg Fried Rice";
 
 /* Tomato Rice */
 "tomatoRice.Subtitle" = "Tomato Rice";
-"tomatoRice.AccessibilitySubtitle" = "Tomato Rice";
+"tomatoRice.AccessibilityPageTitle" = "Tomato Rice";
 
 /* Curry Powder */
 "curryPowder.Subtitle" = "Curry Powder";
-"curryPowder.AccessibilitySubtitle" = "Curry Powder";
+"curryPowder.AccessibilityPageTitle" = "Curry Powder";
 
 /* Chicken Curry Entree */
 "chickenCurryEntree.Subtitle" = "Chicken Curry";
-"chickenCurryEntree.AccessibilitySubtitle" = "Chicken Curry";
+"chickenCurryEntree.AccessibilityPageTitle" = "Chicken Curry";
 
 
 // MARK: Ingredients Tab
 
 /* Baguette */
 "baguette.Subtitle" = "Baguette";
-"baguette.AccessibilitySubtitle" = "Baguette";
+"baguette.AccessibilityPageTitle" = "Baguette";
 
 /* Carrot */
 "carrot.Subtitle" = "Carrot";
-"carrot.AccessibilitySubtitle" = "Carrot";
+"carrot.AccessibilityPageTitle" = "Carrot";
 
 /* Broken Rice */
 "brokenRice.Subtitle" = "Broken Rice";
-"brokenRice.AccessibilitySubtitle" = "Broken Rice";
+"brokenRice.AccessibilityPageTitle" = "Broken Rice";
 
 /* Daikon */
 "daikon.Subtitle" = "Daikon";
-"daikon.AccessibilitySubtitle" = "Daikon";
+"daikon.AccessibilityPageTitle" = "Daikon";
 
 /* Cucumber */
 "cucumber.Subtitle" = "Cucumber";
-"cucumber.AccessibilitySubtitle" = "Cucumber";
+"cucumber.AccessibilityPageTitle" = "Cucumber";
 
 /* Fish Sauce */
 "fishSauce.Subtitle" = "Fish Sauce";
-"fishSauce.AccessibilitySubtitle" = "Fish Sauce";
+"fishSauce.AccessibilityPageTitle" = "Fish Sauce";
 
 /* Lemongrass */
 "lemongrass.Subtitle" = "Lemongrass";
-"lemongrass.AccessibilitySubtitle" = "Lemon-grass";
+"lemongrass.AccessibilityPageTitle" = "Lemon-grass";
 
 /* Perilla */
 "perilla.Subtitle" = "Perilla";
-"perilla.AccessibilitySubtitle" = "Perilla";
+"perilla.AccessibilityPageTitle" = "Perilla";
 
 /* Pork Belly */
 "porkBelly.Subtitle" = "Pork Belly";
-"porkBelly.AccessibilitySubtitle" = "Pork Belly";
+"porkBelly.AccessibilityPageTitle" = "Pork Belly";
 
 /* Oyster Sauce */
 "oysterSauce.Subtitle" = "Oyster Sauce";
-"oysterSauce.AccessibilitySubtitle" = "Oyster Sauce";
+"oysterSauce.AccessibilityPageTitle" = "Oyster Sauce";
 
 /* Rice */
 "rice.Subtitle" = "Rice";
-"rice.AccessibilitySubtitle" = "Rice";
+"rice.AccessibilityPageTitle" = "Rice";
 
 /* Soy Sauce */
 "soySauce.Subtitle" = "Soy Sauce";
-"soySauce.AccessibilitySubtitle" = "Soy Sauce";
+"soySauce.AccessibilityPageTitle" = "Soy Sauce";
 
 /* Taro */
 "taro.Subtitle" = "Taro";
-"taro.AccessibilitySubtitle" = "Khoai Môn";
+"taro.AccessibilityPageTitle" = "Taro";
 
 
 // MARK: Entries with no dedicated page
