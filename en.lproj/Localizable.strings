@@ -1862,6 +1862,350 @@
 "PorkBellyWithBellPepperAndOnion.HowTo.1.Accessibility" = "This dish goes well with white rice, egg fried rice, or tomato rice.";
 
 
+// MARK: Pho Tai (Beef Pho) Page
+
+/* Beef Pho Introduction 1 */
+"BeefPho.Introduction.1" = "##Phở## is a popular Vietnamese food that is very much known through the world. ##Phở## traditionally consists of rice noodles, meat (usually beef) and a rich and spice-filled broth. The broth is made from beef bones and meats, and cooked over a long period of time. An exquisitely good broth is said to cook from anywhere between 6-12 hours, sometimes even more. A typical ##Phở## is usually accompanied by a plate of fresh herbs and Hoisin dipping sauce.";
+
+/* Beef Pho Introduction 1 (VoiceOver) */
+"BeefPho.Introduction.1.Accessibility" = "Pho is a popular Vietnamese food that is very much known through the world. Pho traditionally consists of rice noodles, meat (usually beef) and a rich and spice-filled broth. The broth is made from beef bones and meats, and cooked over a long period of time. An exquisitely good broth is said to cook from anywhere between 6-12 hours, sometimes even more. A typical Pho is usually accompanied by a plate of fresh herbs and Hoisin dipping sauce.";
+
+/* Beef Pho Introduction 2 */
+"BeefPho.Introduction.2" = "This recipe serves 2.";
+
+/* Beef Pho Ingredients Beef Bone Amount */
+"BeefPho.Ingredients.BeefBone.Amount.us" = "2.5 lbs";
+"BeefPho.Ingredients.BeefBone.Amount.metric" = "1130 g";
+
+/* Beef Pho Ingredients Beef Bone Amount (VoiceOver) */
+"BeefPho.Ingredients.BeefBone.AccessibilityAmount.us" = "2.5 pounds";
+"BeefPho.Ingredients.BeefBone.AccessibilityAmount.metric" = "1130 g";
+
+/* Beef Pho Ingredients Beef Brisket Amount */
+"BeefPho.Ingredients.BeefBrisket.Amount.us" = "1 lb";
+"BeefPho.Ingredients.BeefBrisket.Amount.metric" = "450 g";
+
+/* Beef Pho Ingredients Beef Brisket Amount (VoiceOver) */
+"BeefPho.Ingredients.BeefBrisket.AccessibilityAmount.us" = "1 pound";
+"BeefPho.Ingredients.BeefBrisket.AccessibilityAmount.metric" = "450 g";
+
+/* Beef Pho Ingredients Star Anise Amount */
+"BeefPho.Ingredients.StarAnise.Amount" = "6-7 pieces";
+
+/* Beef Pho Ingredients Star Anise Amount (VoiceOver) */
+"BeefPho.Ingredients.StarAnise.AccessibilityAmount" = "6 to 7 pieces";
+
+/* Beef Pho Ingredients Coriander Amount */
+"BeefPho.Ingredients.Coriander.Amount" = "½ tbsp";
+
+/* Beef Pho Ingredients Coriander Amount (VoiceOver) */
+"BeefPho.Ingredients.Coriander.AccessibilityAmount" = "half a tablespoon";
+
+/* Beef Pho Ingredients Cloves Amount */
+"BeefPho.Ingredients.Cloves.Amount" = "½ tbsp";
+
+/* Beef Pho Ingredients Cloves Amount (VoiceOver) */
+"BeefPho.Ingredients.Cloves.AccessibilityAmount" = "half a tablespoon";
+
+/* Beef Pho Ingredients Cinnamon Amount */
+"BeefPho.Ingredients.Cinnamon.Amount" = "1 stick";
+
+/* Beef Pho Ingredients Cinnamon Amount (VoiceOver) */
+"BeefPho.Ingredients.Cinnamon.AccessibilityAmount" = "1 stick";
+
+/* Beef Pho Ingredients Onion Amount */
+"BeefPho.Ingredients.Onion.Amount" = "1 medium";
+
+/* Beef Pho Ingredients Onion Amount (VoiceOver) */
+"BeefPho.Ingredients.Onion.AccessibilityAmount" = "1 medium";
+
+/* Beef Pho Ingredients Daikon Amount */
+"BeefPho.Ingredients.Daikon.Amount" = "roughly same size as onion";
+
+/* Beef Pho Ingredients Daikon Amount (VoiceOver) */
+"BeefPho.Ingredients.Daikon.AccessibilityAmount" = "roughly same size as onion";
+
+/* Beef Pho Ingredients Ginger Amount */
+"BeefPho.Ingredients.Ginger.Amount" = "4-5 slices";
+
+/* Beef Pho Ingredients Ginger Amount (VoiceOver) */
+"BeefPho.Ingredients.Ginger.AccessibilityAmount" = "4 to 5 slices";
+
+/* Beef Pho Ingredients Fish Sauce Amount */
+"BeefPho.Ingredients.FishSauce.Amount" = "2 tbsp";
+
+/* Beef Pho Ingredients Fish Sauce Amount (VoiceOver) */
+"BeefPho.Ingredients.FishSauce.AccessibilityAmount" = "2 tablespoons";
+
+/* Beef Pho Ingredients MSG Amount */
+"BeefPho.Ingredients.MSG.Amount" = "⅛ tsp (optional)";
+
+/* Beef Pho Ingredients MSG Amount (VoiceOver) */
+"BeefPho.Ingredients.MSG.AccessibilityAmount" = "⅛ teaspoon (optional)";
+
+/* Beef Pho Ingredients Water Amount */
+"BeefPho.Ingredients.Water.Amount" = "depends on pot size";
+
+/* Beef Pho Ingredients Water Amount (VoiceOver) */
+"BeefPho.Ingredients.Water.AccessibilityAmount" = "depends on pot size";
+
+/* Beef Pho Ingredients Filet Mignon Beef Amount */
+"BeefPho.Ingredients.FiletMignonBeef.Amount.us" = "8-10 oz";
+"BeefPho.Ingredients.FiletMignonBeef.Amount.metric" = "220-280 g";
+
+/* Beef Pho Ingredients Filet Mignon Beef Amount (VoiceOver) */
+"BeefPho.Ingredients.FiletMignonBeef.AccessibilityAmount.us" = "8 to 10 ounces";
+"BeefPho.Ingredients.FiletMignonBeef.AccessibilityAmount.metric" = "220 to 280 g";
+
+/* Beef Pho Ingredients Pho Noodles Amount */
+"BeefPho.Ingredients.PhoNoodles.Amount.us" = "12 oz";
+"BeefPho.Ingredients.PhoNoodles.Amount.metric" = "340 g";
+
+/* Beef Pho Ingredients Pho Noodles Amount (VoiceOver) */
+"BeefPho.Ingredients.PhoNoodles.AccessibilityAmount.us" = "12 ounces";
+"BeefPho.Ingredients.PhoNoodles.AccessibilityAmount.metric" = "340 g";
+
+/* Beef Pho Ingredients Pho Garnish Amount */
+"BeefPho.Ingredients.PhoGarnish.Amount" = "assortment of onion slices, cilantro, bean sprouts, and Thai basil";
+
+/* Beef Pho Ingredients Pho Garnish Amount (VoiceOver) */
+"BeefPho.Ingredients.PhoGarnish.AccessibilityAmount" = "assortment of onion slices, cilantro, bean sprouts, and Thai basil";
+
+/* Beef Pho Ingredients Hoisin Sauce Amount */
+"BeefPho.Ingredients.HoisinSauce.Amount" = "1-2 tbsp";
+
+/* Beef Pho Ingredients Hoisin Sauce Amount (VoiceOver) */
+"BeefPho.Ingredients.HoisinSauce.AccessibilityAmount" = "1 to 2 tablespoons";
+
+/* Beef Pho Ingredients Sriracha Sauce Amount */
+"BeefPho.Ingredients.SrirachaSauce.Amount" = "1-2 tbsp";
+
+/* Beef Pho Ingredients Sriracha Sauce Amount (VoiceOver) */
+"BeefPho.Ingredients.SrirachaSauce.AccessibilityAmount" = "1 to 2 tablespoons";
+
+/* Beef Pho Ingredients Lime Amount */
+"BeefPho.Ingredients.Lime.Amount" = "1 fruit";
+
+/* Beef Pho Ingredients Lime Amount (VoiceOver) */
+"BeefPho.Ingredients.Lime.AccessibilityAmount" = "1 fruit";
+
+/* Beef Pho Instructions Step 1 Part 1 */
+"BeefPho.Instructions.Step.1.Part.1" = "Place the ##Xương Bò## (beef bones) in a pot.";
+
+/* Beef Pho Instructions Step 1 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.1.Part.1.Accessibility" = "Place the beef bones in a pot.";
+
+/* Beef Pho Instructions Step 1 Part 2 */
+"BeefPho.Instructions.Step.1.Part.2" = "Add enough water to cover the ##Xương Bò## (beef bones) and bring it to a boil.";
+
+/* Beef Pho Instructions Step 1 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.1.Part.2.Accessibility" = "Add enough water to cover the beef bones and bring it to a boil.";
+
+/* Beef Pho Instructions Step 1 Part 3 */
+"BeefPho.Instructions.Step.1.Part.3" = "Boil the ##Xương Bò## (beef bones) for 10 minutes.";
+
+/* Beef Pho Instructions Step 1 Part 3 (VoiceOver) */
+"BeefPho.Instructions.Step.1.Part.3.Accessibility" = "Boil the beef bones for 10 minutes.";
+
+/* Beef Pho Instructions Step 1 Part 4 */
+"BeefPho.Instructions.Step.1.Part.4" = "Discard the water and rinse the ##Xương Bò## (beef bones).";
+
+/* Beef Pho Instructions Step 1 Part 4 (VoiceOver) */
+"BeefPho.Instructions.Step.1.Part.4.Accessibility" = "Discard the water and rinse the beef bones.";
+
+/* Beef Pho Instructions Step 2 Part 1 */
+"BeefPho.Instructions.Step.2.Part.1" = "In a clean pot, add the ##Xương Bò## (beef bones) and ##Thịt Bò Nạm## (beef brisket).";
+
+/* Beef Pho Instructions Step 2 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.1.Accessibility" = "In a clean pot, add the beef bones and beef brisket.";
+
+/* Beef Pho Instructions Step 2 Part 2 */
+"BeefPho.Instructions.Step.2.Part.2" = "Add the peeled ##Củ Hành## (onion), ##Gừng## (ginger) slices, and peeled ##Củ Cải Trắng## (daikon).";
+
+/* Beef Pho Instructions Step 2 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.2.Accessibility" = "Add the peeled onion, ginger slices, and peeled daikon.";
+
+/* Beef Pho Instructions Step 2 Part 3 */
+"BeefPho.Instructions.Step.2.Part.3" = "Add the spices: ##Hoa Hồi## (star anises), ##Hạt Ngò## (coriander), ##Đinh Hương## (cloves), and ##Thanh Quế## (cinnamon stick).";
+
+/* Beef Pho Instructions Step 2 Part 3 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.3.Accessibility" = "Add the spices: star anises, coriander, cloves, and cinnamon stick.";
+
+/* Beef Pho Instructions Step 2 Part 4 */
+"BeefPho.Instructions.Step.2.Part.4" = "Add enough water until it is about 1 inch (2.5 cm) above the ingredients.";
+
+/* Beef Pho Instructions Step 2 Part 4 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.4.Accessibility" = "Add enough water until it is about 1 inch (2.5 centimeters) above the ingredients.";
+
+/* Beef Pho Instructions Step 2 Part 5 */
+"BeefPho.Instructions.Step.2.Part.5" = "Bring it to a boil on high heat, then reduce the heat to low-medium to simmer.";
+
+/* Beef Pho Instructions Step 2 Part 5 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.5.Accessibility" = "Bring it to a boil on high heat, then reduce the heat to low-medium to simmer.";
+
+/* Beef Pho Instructions Step 2 Part 6 */
+"BeefPho.Instructions.Step.2.Part.6" = "Skim off and discard any foam or impurity on top.";
+
+/* Beef Pho Instructions Step 2 Part 6 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.6.Accessibility" = "Skim off and discard any foam or impurity on top.";
+
+/* Beef Pho Instructions Step 2 Part 7 */
+"BeefPho.Instructions.Step.2.Part.7" = "Simmer for 2-3 hours.";
+
+/* Beef Pho Instructions Step 2 Part 7 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.7.Accessibility" = "Simmer for 2-3 hours.";
+
+/* Beef Pho Instructions Step 2 Part 8 */
+"BeefPho.Instructions.Step.2.Part.8" = "Remove the cooked ##Thịt Bò Nạm## (beef brisket) and use as topping.";
+
+/* Beef Pho Instructions Step 2 Part 8 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.8.Accessibility" = "Remove the cooked beef brisket and use as topping.";
+
+/* Beef Pho Instructions Step 2 Part 9 */
+"BeefPho.Instructions.Step.2.Part.9" = "Strain and keep the broth.";
+
+/* Beef Pho Instructions Step 2 Part 9 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.9.Accessibility" = "Strain and keep the broth.";
+
+/* Beef Pho Instructions Step 2 Part 10 */
+"BeefPho.Instructions.Step.2.Part.10" = "Bring the broth back to a simmer and add the ##Nước Mắm## (fish sauce) and ##Bột Ngọt## (msg).";
+
+/* Beef Pho Instructions Step 2 Part 10 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.10.Accessibility" = "Bring the broth back to a simmer and add the fish sauce and m-s-g.";
+
+/* Beef Pho Instructions Step 2 Note 1 */
+"BeefPho.Instructions.Step.2.Note.1" = "For better flavor, grill the ##Củ Hành## (onion) and ##Gừng## (ginger).";
+
+/* Beef Pho Instructions Step 2 Note 1 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Note.1.Accessibility" = "For better flavor, grill the onion and ginger.";
+
+/* Beef Pho Instructions Step 2 Note 2 */
+"BeefPho.Instructions.Step.2.Note.2" = "Also dry cook the ##Hoa Hồi## (star anise), ##Hạt Ngò## (coriander), ##Đinh Hương## (cloves), and ##Thanh Quế## (cinnamon stick) in a pan to activate their flavors.";
+
+/* Beef Pho Instructions Step 2 Note 2 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Note.2.Accessibility" = "Also dry cook the star anise, coriander, cloves, and cinnamon stick in a pan to activate their flavors.";
+
+/* Beef Pho Instructions Step 2 Note 3 */
+"BeefPho.Instructions.Step.2.Note.3" = "Do not cover the pot so the broth can stay clear.";
+
+/* Beef Pho Instructions Step 2 Note 3 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Note.3.Accessibility" = "Do not cover the pot so the broth can stay clear.";
+
+/* Beef Pho Instructions Step 3 Part 1 */
+"BeefPho.Instructions.Step.3.Part.1" = "Thinly slice the ##Thịt Bò Nạm## (beef brisket).";
+
+/* Beef Pho Instructions Step 3 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Part.1.Accessibility" = "Thinly slice the beef brisket.";
+
+/* Beef Pho Instructions Step 3 Part 2 */
+"BeefPho.Instructions.Step.3.Part.2" = "Thinly slice the ##Thịt Bò Phi-Lê## (filet mignon beef).";
+
+/* Beef Pho Instructions Step 3 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Part.2.Accessibility" = "Thinly slice the filet mignon beef.";
+
+/* Beef Pho Instructions Step 3 Note 1 */
+"BeefPho.Instructions.Step.3.Note.1" = "##Filet Mignon## is the best cut of beef for this recipe.";
+
+/* Beef Pho Instructions Step 3 Note 1 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Note.1.Accessibility" = "Filet Mignon is the best cut of beef for this recipe.";
+
+/* Beef Pho Instructions Step 3 Note 2 */
+"BeefPho.Instructions.Step.3.Note.2" = "If the ##Thịt Bò Phi-Lê## (filet mignon beef) is too soft to handle, freeze it for 30-45 minutes before slicing.";
+
+/* Beef Pho Instructions Step 3 Note 2 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Note.2.Accessibility" = "If the filet mignon beef is too soft to handle, freeze it for 30 to 45 minutes before slicing.";
+
+/* Beef Pho Instructions Step 3 Note 3 */
+"BeefPho.Instructions.Step.3.Note.3" = "You can also buy meat that is pre-cut at most Asian supermarkets; these meats are usually used in Shabu-Shabu (hot pot).";
+
+/* Beef Pho Instructions Step 3 Note 3 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Note.3.Accessibility" = "You can also buy meat that is pre-cut at most Asian supermarkets; these meats are usually used in Shabu-Shabu (hot pot).";
+
+/* Beef Pho Instructions Step 4 Part 1 */
+"BeefPho.Instructions.Step.4.Part.1" = "Cook the ##Bánh Phở## (Phở noodles) according to the instructions on the package.";
+
+/* Beef Pho Instructions Step 4 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.4.Part.1.Accessibility" = "Cook the Pho noodles according to the instructions on the package.";
+
+/* Beef Pho Instructions Step 4 Note 1 */
+"BeefPho.Instructions.Step.4.Note.1" = "##Bánh Phở## (Phở noodles) can be founded at most Asian supermarkets.";
+
+/* Beef Pho Instructions Step 4 Note 1 (VoiceOver) */
+"BeefPho.Instructions.Step.4.Note.1.Accessibility" = "Pho noodles can be founded at most Asian supermarkets.";
+
+/* Beef Pho Instructions Step 5 Part 1 */
+"BeefPho.Instructions.Step.5.Part.1" = "In a bowl, place the cooked ##Bánh Phở## (Phở noodles).";
+
+/* Beef Pho Instructions Step 5 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Part.1.Accessibility" = "In a bowl, place the cooked Pho noodles.";
+
+/* Beef Pho Instructions Step 5 Part 2 */
+"BeefPho.Instructions.Step.5.Part.2" = "Lay the ##Thịt Bò## (beef) slices on top of the ##Bánh Phở## (Phở noodles).";
+
+/* Beef Pho Instructions Step 5 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Part.2.Accessibility" = "Lay the beef slices on top of the Pho noodles.";
+
+/* Beef Pho Instructions Step 5 Part 3 */
+"BeefPho.Instructions.Step.5.Part.3" = "Top with garnishes like sliced ##Củ Hành## (onion) and chopped ##Ngò## (cilantro).";
+
+/* Beef Pho Instructions Step 5 Part 3 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Part.3.Accessibility" = "Top with garnishes like sliced onion and chopped cilantro.";
+
+/* Beef Pho Instructions Step 5 Part 4 */
+"BeefPho.Instructions.Step.5.Part.4" = "Pour the broth into the bowl.";
+
+/* Beef Pho Instructions Step 5 Part 4 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Part.4.Accessibility" = "Pour the broth into the bowl.";
+
+/* Beef Pho Instructions Step 5 Note 1 */
+"BeefPho.Instructions.Step.5.Note.1" = "The ##Thịt Bò Phi-Lê## (filet mignon beef) is raw to start so the broth needs to be extremely hot to cook it.";
+
+/* Beef Pho Instructions Step 5 Note 1 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Note.1.Accessibility" = "The filet mignon beef is raw to start so the broth needs to be extremely hot to cook it.";
+
+/* Beef Pho Instructions Step 6 Part 1 */
+"BeefPho.Instructions.Step.6.Part.1" = "In a saucer, add ##Tương Hoisin## (Hoisin sauce).";
+
+/* Beef Pho Instructions Step 6 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.6.Part.1.Accessibility" = "In a saucer, add Hoisin sauce.";
+
+/* Beef Pho Instructions Step 6 Part 2 */
+"BeefPho.Instructions.Step.6.Part.2" = "Add ##Tương Ớt## Sriracha (hot sauce) if you like spicy food.";
+
+/* Beef Pho Instructions Step 6 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.6.Part.2.Accessibility" = "Add Sriracha hot sauce if you like spicy food.";
+
+/* Beef Pho Instructions Step 6 Part 3 */
+"BeefPho.Instructions.Step.6.Part.3" = "Squeeze in a wedge or two of ##Chanh## (limes).";
+
+/* Beef Pho Instructions Step 6 Part 3 (VoiceOver) */
+"BeefPho.Instructions.Step.6.Part.3.Accessibility" = "Squeeze in a wedge or two of limes.";
+
+/* Beef Pho Instructions Step 6 Part 4 */
+"BeefPho.Instructions.Step.6.Part.4" = "Mix the sauce.";
+
+/* Beef Pho Instructions Step 6 Part 4 (VoiceOver) */
+"BeefPho.Instructions.Step.6.Part.4.Accessibility" = "Mix the sauce.";
+
+/* Beef Pho How To Part 1 */
+"BeefPho.HowTo.1" = "Garnish the ##Phở## with ##Giá Đậu## (bean sprouts) and ##Húng Quế## (Thai basil).";
+
+/* Beef Pho How To 1 (VoiceOver) */
+"BeefPho.HowTo.1.Accessibility" = "Garnish the Pho with bean sprouts and Thai basil.";
+
+/* Beef Pho How To 2 */
+"BeefPho.HowTo.2" = "Add ##Ớt## (jalapeños) if you like spicy food.";
+
+/* Beef Pho How To 2 (VoiceOver) */
+"BeefPho.HowTo.2.Accessibility" = "Add jalapenos if you like spicy food.";
+
+/* Beef Pho How To 3 */
+"BeefPho.HowTo.3" = "Dip the now cooked ##Thịt Bò## (beef) in the Hoisin-Lime dipping sauce.";
+
+/* Beef Pho How To 3 (VoiceOver) */
+"BeefPho.HowTo.3.Accessibility" = "Dip the now cooked beef in the Hoisin-Lime dipping sauce.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

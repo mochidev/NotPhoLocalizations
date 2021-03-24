@@ -1885,6 +1885,356 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithBellPepperAndOnion.HowTo.1.Accessibility" = "Món này rất hợp với Cơm Trắng, Cơm Chiên Trứng, hoặc Cơm Đỏ.";
 
 
+// MARK: Pho Tai (Beef Pho) Page
+
+/* Beef Pho Introduction 1 */
+"BeefPho.Introduction.1" = "##Phở## là một món ăn rất phổ biến ở Việt Nam. ##Phở## truyền thống bao gồm bánh phở, thịt bò và súp bò. Súp bò được làm từ xương bò và thịt bò và nấu trong một thời gian dài. ##Phở## thường đi kèm với một đĩa rau thơm và tương ăn phở (Hoisin).";
+
+/* Beef Pho Introduction 1 (VoiceOver) */
+"BeefPho.Introduction.1.Accessibility" = "Phở là một món ăn rất phổ biến ở Việt Nam. Phở truyền thống bao gồm bánh phở, thịt bò và súp bò. Súp bò được làm từ xương bò và thịt bò và nấu trong một thời gian dài. ##Phở## thường đi kèm với một đĩa rau thơm và tương ăn phở (Hoisin).";
+
+/* Beef Pho Introduction 2 */
+"BeefPho.Introduction.2" = "Công thức này làm cho 2 người ăn.";
+
+/* Beef Pho Ingredients Beef Bone Amount */
+"BeefPho.Ingredients.BeefBone.Amount.us" = "2.5 lbs";
+"BeefPho.Ingredients.BeefBone.Amount.metric" = "1130 g";
+
+/* Beef Pho Ingredients Beef Bone Amount (VoiceOver) */
+"BeefPho.Ingredients.BeefBone.AccessibilityAmount.us" = "2.5 pounds";
+"BeefPho.Ingredients.BeefBone.AccessibilityAmount.metric" = "1130 g";
+
+/* Beef Pho Ingredients Beef Brisket Amount */
+"BeefPho.Ingredients.BeefBrisket.Amount.us" = "1 lb";
+"BeefPho.Ingredients.BeefBrisket.Amount.metric" = "450 g";
+
+/* Beef Pho Ingredients Beef Brisket Amount (VoiceOver) */
+"BeefPho.Ingredients.BeefBrisket.AccessibilityAmount.us" = "1 pound";
+"BeefPho.Ingredients.BeefBrisket.AccessibilityAmount.metric" = "450 g";
+
+/* Beef Pho Ingredients Star Anise Amount */
+"BeefPho.Ingredients.StarAnise.Amount" = "6-7 miếng";
+
+/* Beef Pho Ingredients Star Anise Amount (VoiceOver) */
+"BeefPho.Ingredients.StarAnise.AccessibilityAmount" = "6 đến 7 miếng";
+
+/* Beef Pho Ingredients Coriander Amount */
+"BeefPho.Ingredients.Coriander.Amount.us" = "½ tbsp";
+"BeefPho.Ingredients.Coriander.Amount.metric" = "½ muỗng canh";
+
+/* Beef Pho Ingredients Coriander Amount (VoiceOver) */
+"BeefPho.Ingredients.Coriander.AccessibilityAmount" = "nửa muỗng canh";
+
+/* Beef Pho Ingredients Cloves Amount */
+"BeefPho.Ingredients.Cloves.Amount.us" = "½ tbsp";
+"BeefPho.Ingredients.Cloves.Amount.metric" = "½ muỗng canh";
+
+/* Beef Pho Ingredients Cloves Amount (VoiceOver) */
+"BeefPho.Ingredients.Cloves.AccessibilityAmount" = "nửa muỗng canh";
+
+/* Beef Pho Ingredients Cinnamon Amount */
+"BeefPho.Ingredients.Cinnamon.Amount" = "1 gậy";
+
+/* Beef Pho Ingredients Cinnamon Amount (VoiceOver) */
+"BeefPho.Ingredients.Cinnamon.AccessibilityAmount" = "1 gậy";
+
+/* Beef Pho Ingredients Onion Amount */
+"BeefPho.Ingredients.Onion.Amount" = "1 củ";
+
+/* Beef Pho Ingredients Onion Amount (VoiceOver) */
+"BeefPho.Ingredients.Onion.AccessibilityAmount" = "1 củ";
+
+/* Beef Pho Ingredients Daikon Amount */
+"BeefPho.Ingredients.Daikon.Amount" = "gần với lượng củ hành tây";
+
+/* Beef Pho Ingredients Daikon Amount (VoiceOver) */
+"BeefPho.Ingredients.Daikon.AccessibilityAmount" = "gần với lượng củ hành tây";
+
+/* Beef Pho Ingredients Ginger Amount */
+"BeefPho.Ingredients.Ginger.Amount" = "4-5 miếng";
+
+/* Beef Pho Ingredients Ginger Amount (VoiceOver) */
+"BeefPho.Ingredients.Ginger.AccessibilityAmount" = "4 đến 5 miếng";
+
+/* Beef Pho Ingredients Fish Sauce Amount */
+"BeefPho.Ingredients.FishSauce.Amount.us" = "2 tbsp";
+"BeefPho.Ingredients.FishSauce.Amount.metric" = "2 muỗng canh";
+
+/* Beef Pho Ingredients Fish Sauce Amount (VoiceOver) */
+"BeefPho.Ingredients.FishSauce.AccessibilityAmount" = "2 muỗng canh";
+
+/* Beef Pho Ingredients MSG Amount */
+"BeefPho.Ingredients.MSG.Amount.us" = "⅛ tsp (tùy ý)";
+"BeefPho.Ingredients.MSG.Amount.metric" = "⅛ muỗng cà phê (tùy ý)";
+
+/* Beef Pho Ingredients MSG Amount (VoiceOver) */
+"BeefPho.Ingredients.MSG.AccessibilityAmount" = "một phần tám muỗng cà phê (tùy ý)";
+
+/* Beef Pho Ingredients Water Amount */
+"BeefPho.Ingredients.Water.Amount" = "phụ thuộc vào kích thước nồi";
+
+/* Beef Pho Ingredients Water Amount (VoiceOver) */
+"BeefPho.Ingredients.Water.AccessibilityAmount" = "phụ thuộc vào kích thước nồi";
+
+/* Beef Pho Ingredients Filet Mignon Beef Amount */
+"BeefPho.Ingredients.FiletMignonBeef.Amount.us" = "8-10 oz";
+"BeefPho.Ingredients.FiletMignonBeef.Amount.metric" = "220-280 g";
+
+/* Beef Pho Ingredients Filet Mignon Beef Amount (VoiceOver) */
+"BeefPho.Ingredients.FiletMignonBeef.AccessibilityAmount.us" = "8 đến 10 aoxơ";
+"BeefPho.Ingredients.FiletMignonBeef.AccessibilityAmount.metric" = "220 đến 280 gờ ram";
+
+/* Beef Pho Ingredients Pho Noodles Amount */
+"BeefPho.Ingredients.PhoNoodles.Amount.us" = "12 oz";
+"BeefPho.Ingredients.PhoNoodles.Amount.metric" = "340 g";
+
+/* Beef Pho Ingredients Pho Noodles Amount (VoiceOver) */
+"BeefPho.Ingredients.PhoNoodles.AccessibilityAmount.us" = "12 aoxơ";
+"BeefPho.Ingredients.PhoNoodles.AccessibilityAmount.metric" = "340 gờ ram";
+
+/* Beef Pho Ingredients Pho Garnish Amount */
+"BeefPho.Ingredients.PhoGarnish.Amount" = "củ Hành, ngò, giá đậu, húng quế";
+
+/* Beef Pho Ingredients Pho Garnish Amount (VoiceOver) */
+"BeefPho.Ingredients.PhoGarnish.AccessibilityAmount" = "củ Hành, ngò, giá đậu, húng quế";
+
+/* Beef Pho Ingredients Hoisin Sauce Amount */
+"BeefPho.Ingredients.HoisinSauce.Amount.us" = "1-2 tbsp";
+"BeefPho.Ingredients.HoisinSauce.Amount.metric" = "1-2 muỗng canh";
+
+/* Beef Pho Ingredients Hoisin Sauce Amount (VoiceOver) */
+"BeefPho.Ingredients.HoisinSauce.AccessibilityAmount" = "1 đến 2 muỗng canh";
+
+/* Beef Pho Ingredients Sriracha Sauce Amount */
+"BeefPho.Ingredients.SrirachaSauce.Amount.us" = "1-2 tbsp";
+"BeefPho.Ingredients.SrirachaSauce.Amount.metric" = "1-2 muỗng canh";
+
+/* Beef Pho Ingredients Sriracha Sauce Amount (VoiceOver) */
+"BeefPho.Ingredients.SrirachaSauce.AccessibilityAmount" = "1 đến 2 muỗng canh";
+
+/* Beef Pho Ingredients Lime Amount */
+"BeefPho.Ingredients.Lime.Amount" = "1 quả";
+
+/* Beef Pho Ingredients Lime Amount (VoiceOver) */
+"BeefPho.Ingredients.Lime.AccessibilityAmount" = "1 quả";
+
+/* Beef Pho Instructions Step 1 Part 1 */
+"BeefPho.Instructions.Step.1.Part.1" = "Cho ##Xương Bò## (beef bones) vào nồi.";
+
+/* Beef Pho Instructions Step 1 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.1.Part.1.Accessibility" = "Cho xương bò vào nồi.";
+
+/* Beef Pho Instructions Step 1 Part 2 */
+"BeefPho.Instructions.Step.1.Part.2" = "Thêm ##Nước## (water) vừa đủ ngập ##Xương Bò## (beef bones) và nấu cho đến khi sôi.";
+
+/* Beef Pho Instructions Step 1 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.1.Part.2.Accessibility" = "Thêm nước vừa đủ ngập xương bò và nấu cho đến khi sôi.";
+
+/* Beef Pho Instructions Step 1 Part 3 */
+"BeefPho.Instructions.Step.1.Part.3" = "Tiếp tục nấu thêm 10 phút.";
+
+/* Beef Pho Instructions Step 1 Part 3 (VoiceOver) */
+"BeefPho.Instructions.Step.1.Part.3.Accessibility" = "Tiếp tục nấu thêm 10 phút.";
+
+/* Beef Pho Instructions Step 1 Part 4 */
+"BeefPho.Instructions.Step.1.Part.4" = "Đổ bỏ nước và rửa sạch ##Xương Bò## (beef bones).";
+
+/* Beef Pho Instructions Step 1 Part 4 (VoiceOver) */
+"BeefPho.Instructions.Step.1.Part.4.Accessibility" = "Đổ bỏ nước và rửa sạch xương bò.";
+
+/* Beef Pho Instructions Step 2 Part 1 */
+"BeefPho.Instructions.Step.2.Part.1" = "Cho ##Xương Bò## (beef bones) và ##Thịt Bò Nạm## (beef brisket) vào một cái nồi sạch.";
+
+/* Beef Pho Instructions Step 2 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.1.Accessibility" = "Cho xương bò và thịt bò nạm vào một cái nồi sạch.";
+
+/* Beef Pho Instructions Step 2 Part 2 */
+"BeefPho.Instructions.Step.2.Part.2" = "Thêm ##Củ Hành## (onion), ##Gừng## (ginger) slices, vào ##Củ Cải Trắng## (daikon).";
+
+/* Beef Pho Instructions Step 2 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.2.Accessibility" = "Thêm Củ Hành, Gừng, và Củ Cải Trắng.";
+
+/* Beef Pho Instructions Step 2 Part 3 */
+"BeefPho.Instructions.Step.2.Part.3" = "Thêm gia vị phở: ##Hoa Hồi## (star anises), ##Hạt Ngò## (coriander), ##Đinh Hương## (cloves), và ##Thanh Quế## (cinnamon stick).";
+
+/* Beef Pho Instructions Step 2 Part 3 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.3.Accessibility" = "Thêm gia vị phở: Hoa Hồi, Hạt Ngò, Đinh Hương, và Thanh Quế.";
+
+/* Beef Pho Instructions Step 2 Part 4 */
+"BeefPho.Instructions.Step.2.Part.4" = "Thêm đủ nước cho đến khi nó ngập khoảng 1-in ((2.5 cm) trên các nguyên liệu.";
+
+/* Beef Pho Instructions Step 2 Part 4 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.4.Accessibility" = "Thêm đủ nước cho đến khi nó ngập khoảng 1-in ((2.5 cm) trên các nguyên liệu.";
+
+/* Beef Pho Instructions Step 2 Part 5 */
+"BeefPho.Instructions.Step.2.Part.5" = "Nấu cho đến khi sôi thì giảm lửa để sôi liu riu.";
+
+/* Beef Pho Instructions Step 2 Part 5 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.5.Accessibility" = "Nấu cho đến khi sôi thì giảm lửa để sôi liu riu.";
+
+/* Beef Pho Instructions Step 2 Part 6 */
+"BeefPho.Instructions.Step.2.Part.6" = "Hớt hết bọt ở trên.";
+
+/* Beef Pho Instructions Step 2 Part 6 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.6.Accessibility" = "Hớt hết bọt ở trên.";
+
+/* Beef Pho Instructions Step 2 Part 7 */
+"BeefPho.Instructions.Step.2.Part.7" = "Nấu sôi liu riu 2-3 tiếng.";
+
+/* Beef Pho Instructions Step 2 Part 7 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.7.Accessibility" = "Nấu sôi liu riu 2 đến 3 tiếng.";
+
+/* Beef Pho Instructions Step 2 Part 8 */
+"BeefPho.Instructions.Step.2.Part.8" = "Lấy ##Thịt Bò Nạm## (beef brisket) ra và cắt thành miếng để ăn với phở.";
+
+/* Beef Pho Instructions Step 2 Part 8 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.8.Accessibility" = "Lấy Thịt Bò Nạm ra và cắt thành miếng để ăn với phở.";
+
+/* Beef Pho Instructions Step 2 Part 9 */
+"BeefPho.Instructions.Step.2.Part.9" = "Lược bỏ nguyên liệu và giữ lại nước súp.";
+
+/* Beef Pho Instructions Step 2 Part 9 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.9.Accessibility" = "Lược bỏ nguyên liệu và giữ lại nước súp.";
+
+/* Beef Pho Instructions Step 2 Part 10 */
+"BeefPho.Instructions.Step.2.Part.10" = "Nấu sôi liu riu và thêm ##Nước Mắm## (fish sauce) và ##Bột Ngọt## (msg).";
+
+/* Beef Pho Instructions Step 2 Part 10 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Part.10.Accessibility" = "Nấu sôi liu riu và thêm Nước Mắm và Bột Ngọt.";
+
+/* Beef Pho Instructions Step 2 Note 1 */
+"BeefPho.Instructions.Step.2.Note.1" = "Để có hương vị đậm đà hơn, hãy nướng ##Củ Hành## (onion) và ##Gừng## (ginger).";
+
+/* Beef Pho Instructions Step 2 Note 1 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Note.1.Accessibility" = "Để có hương vị đậm đà hơn, hãy nướng củ hành và gừng.";
+
+/* Beef Pho Instructions Step 2 Note 2 */
+"BeefPho.Instructions.Step.2.Note.2" = "Và rang các loại gia vị phở: ##Hoa Hồi## (star anises), ##Hạt Ngò## (coriander), ##Đinh Hương## (cloves), và ##Thanh Quế## (cinnamon stick), để kích hoạt hương vị của chúng.";
+
+/* Beef Pho Instructions Step 2 Note 2 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Note.2.Accessibility" = "Và rang các loại gia vị phở: Hoa Hồi, Hạt Ngò, Đinh Hương, và Thanh Quế, để kích hoạt hương vị của chúng.";
+
+/* Beef Pho Instructions Step 2 Note 3 */
+"BeefPho.Instructions.Step.2.Note.3" = "Đừng đậy nắp nồi để nước súp được trong.";
+
+/* Beef Pho Instructions Step 2 Note 3 (VoiceOver) */
+"BeefPho.Instructions.Step.2.Note.3.Accessibility" = "Đừng đậy nắp nồi để nước súp được trong.";
+
+/* Beef Pho Instructions Step 3 Part 1 */
+"BeefPho.Instructions.Step.3.Part.1" = "Cắt ##Thịt Bò Nạm## (beef brisket) thành miếng.";
+
+/* Beef Pho Instructions Step 3 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Part.1.Accessibility" = "Cắt Thịt Bò Nạm thành miếng.";
+
+/* Beef Pho Instructions Step 3 Part 2 */
+"BeefPho.Instructions.Step.3.Part.2" = "Cắt ##Thịt Bò Phi-Lê## (filet mignon beef) thành miếng.";
+
+/* Beef Pho Instructions Step 3 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Part.2.Accessibility" = "Cắt Thịt Bò Phi-Lê thành miếng.";
+
+/* Beef Pho Instructions Step 3 Note 1 */
+"BeefPho.Instructions.Step.3.Note.1" = "##Thịt Bò Phi-Lê## (filet mignon beef) là loại thịt tốt nhất cho công thức này.";
+
+/* Beef Pho Instructions Step 3 Note 1 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Note.1.Accessibility" = "Thịt Bò Phi-Lê là loại thịt tốt nhất cho công thức này.";
+
+/* Beef Pho Instructions Step 3 Note 2 */
+"BeefPho.Instructions.Step.3.Note.2" = "Nếu ##Thịt Bò Phi-Lê## (filet mignon beef) quá mềm không thể cắt, hãy để đông lạnh 30-45 phút trước khi cắt.";
+
+/* Beef Pho Instructions Step 3 Note 2 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Note.2.Accessibility" = "Nếu Thịt Bò Phi-Lê quá mềm không thể cắt, hãy để đông lạnh 30-45 phút trước khi cắt.";
+
+/* Beef Pho Instructions Step 3 Note 3 */
+"BeefPho.Instructions.Step.3.Note.3" = "Bạn cũng có thể mua thịt đã thái sẵn ở hầu hết các siêu thị Châu Á.";
+
+/* Beef Pho Instructions Step 3 Note 3 (VoiceOver) */
+"BeefPho.Instructions.Step.3.Note.3.Accessibility" = "Bạn cũng có thể mua thịt đã thái sẵn ở hầu hết các siêu thị Châu Á.";
+
+/* Beef Pho Instructions Step 4 Part 1 */
+"BeefPho.Instructions.Step.4.Part.1" = "Nấu ##Bánh Phở## (Phở noodles) theo hướng dẫn trên bao bì.";
+
+/* Beef Pho Instructions Step 4 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.4.Part.1.Accessibility" = "Nấu bánh phở theo hướng dẫn trên bao bì.";
+
+/* Beef Pho Instructions Step 4 Note 1 */
+"BeefPho.Instructions.Step.4.Note.1" = "##Bánh Phở## (Phở noodles) có thể được tìm thấy ở hầu hết các siêu thị châu Á.";
+
+/* Beef Pho Instructions Step 4 Note 1 (VoiceOver) */
+"BeefPho.Instructions.Step.4.Note.1.Accessibility" = "Bánh Phở có thể được tìm thấy ở hầu hết các siêu thị châu Á.";
+
+/* Beef Pho Instructions Step 5 Part 1 */
+"BeefPho.Instructions.Step.5.Part.1" = "Cho ##Bánh Phở## (Phở noodles) đã nấu vào tô.";
+
+/* Beef Pho Instructions Step 5 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Part.1.Accessibility" = "Cho Bánh Phở đã nấu vào tô.";
+
+/* Beef Pho Instructions Step 5 Part 2 */
+"BeefPho.Instructions.Step.5.Part.2" = "Đặt các lát ##Thịt Bò## (beef) lên trên ##Bánh Phở## (Phở noodles).";
+
+/* Beef Pho Instructions Step 5 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Part.2.Accessibility" = "Đặt các lát Thịt Bò lên trên Bánh Phở.";
+
+/* Beef Pho Instructions Step 5 Part 3 */
+"BeefPho.Instructions.Step.5.Part.3" = "Cho ##Củ Hành## (onion) lát và ##Ngò## (cilantro).";
+
+/* Beef Pho Instructions Step 5 Part 3 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Part.3.Accessibility" = "Cho Củ Hành lát và Ngò.";
+
+/* Beef Pho Instructions Step 5 Part 4 */
+"BeefPho.Instructions.Step.5.Part.4" = "Trang nước súp vào tô.";
+
+/* Beef Pho Instructions Step 5 Part 4 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Part.4.Accessibility" = "Trang nước súp vào tô.";
+
+/* Beef Pho Instructions Step 5 Note 1 */
+"BeefPho.Instructions.Step.5.Note.1" = "Lúc đầu ##Thịt Bò Phi-Lê## (filet mignon beef) còn sống nhưng nước súp sẽ nấu chín.";
+
+/* Beef Pho Instructions Step 5 Note 1 (VoiceOver) */
+"BeefPho.Instructions.Step.5.Note.1.Accessibility" = "Lúc đầu Thịt Bò Phi-Lê còn sống nhưng nước súp sẽ nấu chín.";
+
+/* Beef Pho Instructions Step 6 Part 1 */
+"BeefPho.Instructions.Step.6.Part.1" = "Trong một cái đĩa nhỏ, thêm ##Tương Ăn Phở Hoisin## (Hoisin sauce).";
+
+/* Beef Pho Instructions Step 6 Part 1 (VoiceOver) */
+"BeefPho.Instructions.Step.6.Part.1.Accessibility" = "Trong một cái đĩa nhỏ, thêm Tương Ăn Phở Hoisin.";
+
+/* Beef Pho Instructions Step 6 Part 2 */
+"BeefPho.Instructions.Step.6.Part.2" = "Thêm ##Tương Ớt## Sriracha (hot sauce) nếu bạn ăn cay.";
+
+/* Beef Pho Instructions Step 6 Part 2 (VoiceOver) */
+"BeefPho.Instructions.Step.6.Part.2.Accessibility" = "Thêm Tương Ớt nếu bạn ăn cay.";
+
+/* Beef Pho Instructions Step 6 Part 3 */
+"BeefPho.Instructions.Step.6.Part.3" = "Vắt một hoặc hai miếng ##Chanh## (limes).";
+
+/* Beef Pho Instructions Step 6 Part 3 (VoiceOver) */
+"BeefPho.Instructions.Step.6.Part.3.Accessibility" = "Vắt một hoặc hai miếng Chanh.";
+
+/* Beef Pho Instructions Step 6 Part 4 */
+"BeefPho.Instructions.Step.6.Part.4" = "Trộn đều.";
+
+/* Beef Pho Instructions Step 6 Part 4 (VoiceOver) */
+"BeefPho.Instructions.Step.6.Part.4.Accessibility" = "Trộn đều.";
+
+/* Beef Pho How To Part 1 */
+"BeefPho.HowTo.1" = "Để ăn kèm với ##Phở##, thêm ##Giá Đậu## (bean sprouts) và ##Húng Quế## (Thai basil).";
+
+/* Beef Pho How To 1 (VoiceOver) */
+"BeefPho.HowTo.1.Accessibility" = "Để ăn kèm với Phở, thêm Giá Đậu và Húng Quế.";
+
+/* Beef Pho How To 2 */
+"BeefPho.HowTo.2" = "Thêm ##Ớt## (jalapeños) nếu bạn ăn cay.";
+
+/* Beef Pho How To 2 (VoiceOver) */
+"BeefPho.HowTo.2.Accessibility" = "Thêm Ớt nếu bạn ăn cay.";
+
+/* Beef Pho How To 3 */
+"BeefPho.HowTo.3" = "Nhúng ##Thịt Bò## (beef) vào tương chấm.";
+
+/* Beef Pho How To 3 (VoiceOver) */
+"BeefPho.HowTo.3.Accessibility" = "Nhúng Thịt Bò vào tương chấm.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

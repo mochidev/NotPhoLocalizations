@@ -114,9 +114,14 @@
 "porkBellyWithAsparagus.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Măng Tây";
 
 /* Pork Belly with Bell Pepper and Onion */
-"PorkBellyWithBellPepperAndOnion.Subtitle" = "Pork Belly with Bell Pepper and Onion";
-"PorkBellyWithBellPepperAndOnion.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Ớt Chuông Và Hành";
-"PorkBellyWithBellPepperAndOnion.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Ớt Chuông Và Hành";
+"porkBellyWithBellPepperAndOnion.Subtitle" = "Pork Belly with Bell Pepper and Onion";
+"porkBellyWithBellPepperAndOnion.AccessibilitySubtitle" = "Thịt Ba Rọi Xào Ớt Chuông Và Hành";
+"porkBellyWithBellPepperAndOnion.AccessibilityPageTitle" = "Thịt Ba Rọi Xào Ớt Chuông Và Hành";
+
+/* Beef Pho */
+"beefPho.Subtitle" = "Beef Phở";
+"beefPho.AccessibilitySubtitle" = "Phở Tai";
+"beefPho.AccessibilityPageTitle" = "Phở Tai";
 
 
 // MARK: Recipes Tab
@@ -290,6 +295,12 @@
 /* Beef */
 "beef.Subtitle" = "Beef";
 
+/* Beef Bones */
+"beefBones.Subtitle" = "Beef Bones";
+
+/* Beef Brisket */
+"beefBrisket.Subtitle" = "Beef Brisket";
+
 /* Bell Pepper */
 "bellPepper.Subtitle" = "Bell Pepper";
 
@@ -308,8 +319,17 @@
 /* Cilantro */
 "cilantro.Subtitle" = "Cilantro";
 
+/* Cinnamon */
+"cinnamon.Subtitle" = "Cinnamon";
+
+/* Cloves */
+"cloves.Subtitle" = "Cloves";
+
 /* Coconut Milk */
 "coconutMilk.Subtitle" = "Coconut Milk";
+
+/* Coriander */
+"coriander.Subtitle" = "Coriander";
 
 /* Corn Starch */
 "cornStarch.Subtitle" = "Cornstarch";
@@ -326,11 +346,17 @@
 /* Egg Yolk */
 "eggYolk.Subtitle" = "Egg Yolk";
 
+/* Filet Mignon */
+"filetMignonBeef.Subtitle" = "Filet Mignon";
+
 /* Garlic */
 "garlic.Subtitle" = "Garlic";
 
 /* Garlic Powder */
 "garlicPowder.Subtitle" = "Garlic Powder";
+
+/* Ginger */
+"ginger.Subtitle" = "Ginger";
 
 /* Green Beans */
 "greenBeans.Subtitle" = "Green Beans";
@@ -343,6 +369,9 @@
 
 /* Ground Pork */
 "groundPork.Subtitle" = "Ground Pork";
+
+/* Hoisin Sauce */
+"hoisinSauce.Subtitle" = "Hoisin Sauce";
 
 /* Jalapeño */
 "jalapeno.Subtitle" = "Jalapeño";
@@ -377,6 +406,12 @@
 /* Black Pepper */
 "pepper.Subtitle" = "Black Pepper";
 
+/* Phở Garnish */
+"phoGarnish.Subtitle" = "Phở Garnish";
+
+/* Phở Noodles */
+"phoNoodles.Subtitle" = "Phở Noodles";
+
 /* Pork Belly */
 "porkBelly.Subtitle" = "Pork Belly";
 
@@ -406,6 +441,12 @@
 
 /* Sweet Potato */
 "sweetPotato.Subtitle" = "Sweet Potato";
+
+/* Sriracha Hot Sauce */
+"srirachaHotSauce.Subtitle" = "Sriracha Hot Sauce";
+
+/* Star Anise */
+"starAnise.Subtitle" = "Star Anise";
 
 /* Thai Basil */
 "thaiBasil.Subtitle" = "Thai Basil";
