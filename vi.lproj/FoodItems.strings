@@ -10,9 +10,9 @@
  `.Subtitle` should be the translated text for item row, however, this should be in English for Vietnamese localization.
  `.AccessibilitySubtitle` will be the VoiceOver equivalent for main page title.
  
- By default, this will look for a `.Title` and `.Subtitle` in the strings file. If it is missing, it will fall back to the `Food.json` values.
- For the `.accessibilitySubtitle`, used by `ItemRow`, this will check the strings file for `.AccessibilitySubtitle`, and if it is missing, it will fall back to the `foodItem.subtitle` that was set above.
- For the `.accessibilityPageTitle`, used by the `Page` header, this will check the strings file for `.AccessibilityPageTitle`, and if it is missing, it will fall back to the `foodItem.subtitle` that was set above. However, this string should always be localized, and a warning will be printed if it isn't.
+ By default, the app will look for a `.Title` and `.Subtitle` in the strings file. If it is missing, it will fall back to the `Food.json` values.
+ For the `.accessibilitySubtitle`, used by `ItemRow`, the app will check the strings file for `.AccessibilitySubtitle`, and if it is missing, it will fall back to the `foodItem.subtitle` that was set above.
+ For the `.accessibilityPageTitle`, used by the `Page` header, the app will check the strings file for `.AccessibilityPageTitle`, and if it is missing, it will fall back to the `foodItem.subtitle` that was set above. However, this string should always be localized, and a warning will be printed if it isn't.
  */
 
 
