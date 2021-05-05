@@ -70,6 +70,10 @@
 "chickenFriedRice.Subtitle" = "Chicken Fried Rice";
 "chickenFriedRice.AccessibilityPageTitle" = "Chicken Fried Rice";
 
+/* Beef Fried Rice */
+"beefFriedRice.Subtitle" = "Beef Fried Rice";
+"beefFriedRice.AccessibilityPageTitle" = "Beef Fried Rice";
+
 /* Chicken Curry Main */
 "chickenCurryMain.Subtitle" = "Chicken Curry";
 "chickenCurryMain.AccessibilityPageTitle" = "Chicken Curry";

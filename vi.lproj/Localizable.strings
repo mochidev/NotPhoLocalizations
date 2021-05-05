@@ -1424,6 +1424,198 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenFriedRice.HowTo.2.Accessibility" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn cơm chiên với Nước Mắm Chấm như chồng tôi thường ăn!";
 
 
+// MARK: Com Chien Bo (Beef Fried Rice) Page
+
+/* Beef Fried Rice Introduction 1 */
+"BeefFriedRice.Introduction.1" = "##Cơm Chiên Bò## (beef fried rice) là một công thức rất nhanh và dễ có thể làm bất cứ lúc nào. ##Cơm Chiên## (fried rice) thường được làm từ các nguyên liệu thừa và biến chúng thành một bữa ăn ngon.";
+
+/* Beef Fried Rice Introduction 1 (VoiceOver) */
+"BeefFriedRice.Introduction.1.Accessibility" = "Cơm Chiên Bò là một công thức rất nhanh và dễ có thể làm bất cứ lúc nào. Cơm Chiên thường được làm từ các nguyên liệu thừa và biến chúng thành một bữa ăn ngon.";
+
+/* Beef Fried Rice Introduction 2 */
+"BeefFriedRice.Introduction.2" = "Công thức này làm cho một người ăn.";
+
+/* Beef Fried Rice Ingredients White Rice Amount */
+"BeefFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup, cơm nguội";
+"BeefFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g, cơm nguội";
+
+/* Beef Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "ba phần tư cốc";
+"BeefFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 gờ ram";
+
+/* Beef Fried Rice Ingredients Filet Mignon Amount */
+"BeefFriedRice.Ingredients.FiletMignonBeef.Amount.us" = "3-4 oz";
+"BeefFriedRice.Ingredients.FiletMignonBeef.Amount.metric" = "80-100 g";
+
+/* Beef Fried Rice Ingredients Filet Mignon Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.FiletMignonBeef.AccessibilityAmount.us" = "3 đến 4 aoxơ";
+"BeefFriedRice.Ingredients.FiletMignonBeef.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
+
+/* Beef Fried Rice Ingredients Egg Amount */
+"BeefFriedRice.Ingredients.Egg.Amount" = "1 lớn";
+
+/* Beef Fried Rice Ingredients Green Beans Amount */
+"BeefFriedRice.Ingredients.GreenBeans.Amount.us" = "¼ cốc";
+"BeefFriedRice.Ingredients.GreenBeans.Amount.metric" = "35 g";
+
+/* Beef Fried Rice Ingredients Green Beans Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.GreenBeans.AccessibilityAmount.us" = "một phần tư cốc";
+"BeefFriedRice.Ingredients.GreenBeans.AccessibilityAmount.metric" = "35 gờ ram";
+
+/* Beef Fried Rice Ingredients Onion Amount */
+"BeefFriedRice.Ingredients.Onion.Amount.us" = "¼ cốc";
+"BeefFriedRice.Ingredients.Onion.Amount.metric" = "25 g";
+
+/* Beef Fried Rice Ingredients Onion Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "một phần tư cốc";
+"BeefFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 gờ ram";
+
+/* Beef Fried Rice Ingredients Golden Mountain Soy Sauce Amount */
+"BeefFriedRice.Ingredients.GoldenMountainSoySauce.Amount.us" = "½ tsp";
+"BeefFriedRice.Ingredients.GoldenMountainSoySauce.Amount.metric" = "½ muỗng cà phê";
+
+/* Beef Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "một nửa muỗng cà phê";
+
+/* Beef Fried Rice Ingredients Chicken Bouillon Amount */
+"BeefFriedRice.Ingredients.ChickenBouillon.Amount.us" = "½ tsp";
+"BeefFriedRice.Ingredients.ChickenBouillon.Amount.metric" = "½ muỗng cà phê";
+
+/* Beef Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "một nửa muỗng cà phê";
+
+/* Beef Fried Rice Ingredients Pepper Amount */
+"BeefFriedRice.Ingredients.Pepper.Amount.us" = "⅛ tsp";
+"BeefFriedRice.Ingredients.Pepper.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Beef Fried Rice Ingredients Pepper (VoiceOver) */
+"BeefFriedRice.Ingredients.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Beef Fried Rice Ingredients Oil Amount */
+"BeefFriedRice.Ingredients.Oil.Amount.us" = "2 tsp";
+"BeefFriedRice.Ingredients.Oil.Amount.metric" = "2 muỗng cà phê";
+
+/* Beef Fried Rice Ingredients Oil (VoiceOver) */
+"BeefFriedRice.Ingredients.Oil.AccessibilityAmount" = "two teaspoons";
+
+/* Beef Fried Rice Instructions Step 1 Part 1 */
+"BeefFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+
+/* Beef Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cắt Củ Hành thành từng lát.";
+
+/* Beef Fried Rice Instructions Step 1 Part 2 */
+"BeefFriedRice.Instructions.Step.1.Part.2" = "Cắt ##Thịt Bò Phi-Lê## (filet mignon) thành miếng nhỏ.";
+
+/* Beef Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Cắt Thịt Bò Phi-Lê thành miếng nhỏ.";
+
+/* Beef Fried Rice Instructions Step 1 Part 3 */
+"BeefFriedRice.Instructions.Step.1.Part.3" = "Cắt ##Đậu Que## (green beans) thành miếng nhỏ.";
+
+/* Beef Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Cắt Đậu Que thành miếng nhỏ.";
+
+/* Beef Fried Rice Instructions Step 1 Part 4 */
+"BeefFriedRice.Instructions.Step.1.Part.4" = "Dùng tay tách ##Cơm Trắng## (white rice) nguội thành từng hạt để dễ xào.";
+
+/* Beef Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Dùng tay tách cơm nguội thành từng hạt để dễ xào.";
+
+/* Beef Fried Rice Instructions Step 2 Part 1 */
+"BeefFriedRice.Instructions.Step.2.Part.1" = "Cho một nửa ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Beef Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Cho một nửa dầu vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Beef Fried Rice Instructions Step 2 Part 2 */
+"BeefFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Thịt Bò Phi-Lê## (filet mignon), ##Củ Hành## (onion), và ##Đậu Que## (green beans).";
+
+/* Beef Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Bò Phi-Lê, Củ Hành, và Đậu Que.";
+
+/* Beef Fried Rice Instructions Step 2 Part 3 */
+"BeefFriedRice.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Thịt Bò Phi-Lê## (filet mignon).";
+
+/* Beef Fried Rice Instructions Step 2 Part 3 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Thịt Bò Phi-Lê chín.";
+
+/* Beef Fried Rice Instructions Step 2 Part 4 */
+"BeefFriedRice.Instructions.Step.2.Part.4" = "Chuyển nguyên liệu chín vào tô nhỏ để sử dụng sau.";
+
+/* Beef Fried Rice Instructions Step 2 Note 1 */
+"BeefFriedRice.Instructions.Step.2.Note.1" = "Ở bước này, rửa sạch chảo nếu dơ.";
+
+/* Beef Fried Rice Instructions Step 2 Note 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.2.Note.1.Accessibility" = "Ở bước này, rửa sạch chảo nếu dơ.";
+
+/* Beef Fried Rice Instructions Step 3 Part 1 */
+"BeefFriedRice.Instructions.Step.3.Part.1" = "Cho phân nữa ##Dầu## (oil) còn lại vào chảo.";
+
+/* Beef Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Cho phân nữa Dầu còn lại vào chảo.";
+
+/* Beef Fried Rice Instructions Step 3 Part 2 */
+"BeefFriedRice.Instructions.Step.3.Part.2" = "Thêm ##Trứng## (egg) vào chảo và xào nhẹ.";
+
+/* Beef Fried Rice Instructions Step 3 Part 2 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.3.Part.2.Accessibility" = "Thêm Trứng vào chảo và xào nhẹ.";
+
+/* Beef Fried Rice Instructions Step 3 Part 3 */
+"BeefFriedRice.Instructions.Step.3.Part.3" = "Thêm ##Cơm Trắng## (white rice) nguội vào chảo.";
+
+/* Beef Fried Rice Instructions Step 3 Part 3 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.3.Part.3.Accessibility" = "Thêm Cơm nguội vào chảo.";
+
+/* Beef Fried Rice Instructions Step 3 Part 4 */
+"BeefFriedRice.Instructions.Step.3.Part.4" = "Xào ##Cơm Trắng## (white rice) và ##Trứng## (egg) cho đến khi cơm mềm trở lại.";
+
+/* Beef Fried Rice Instructions Step 3 Part 4 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
+
+/* Beef Fried Rice Instructions Step 4 Part 1 */
+"BeefFriedRice.Instructions.Step.4.Part.1" = "Cho ##Thịt Bò Phi-Lê## (filet mignon), ##Củ Hành## (onion), và ##Đậu Que## (green beans) vào chảo trở lại";
+
+/* Beef Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Thịt Bò Phi-Lê, Củ Hành, và Đậu Que vào chảo trở lại.";
+
+/* Beef Fried Rice Instructions Step 4 Part 2 */
+"BeefFriedRice.Instructions.Step.4.Part.2" = "Thêm ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), và ##Tiêu Đen## (black pepper).";
+
+/* Beef Fried Rice Instructions Step 4 Part 2 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.4.Part.2.Accessibility" = "Thêm Nước Tương Golden Mountain, Bột Nêm Gà và Tiêu Đen.";
+
+/* Beef Fried Rice Instructions Step 4 Part 3 */
+"BeefFriedRice.Instructions.Step.4.Part.3" = "Xào cho đến khi gia vị trộn đều.";
+
+/* Beef Fried Rice Instructions Step 4 Part 4 */
+"BeefFriedRice.Instructions.Step.4.Part.4" = "Cho cơm chiên lên dĩa và thêm hành lá lên trên.";
+
+/* Beef Fried Rice Instructions Step 4 Part 4 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.4.Part.4.Accessibility" = "Cho cơm chiên lên dĩa và thêm hành lá lên trên.";
+
+/* Beef Fried Rice Tips 1 */
+"BeefFriedRice.Tips.1" = "Để có một món cơm chiên hoàn hảo, bạn muốn sử dụng cơm qua đêm.";
+
+/* Beef Fried Rice Tips 2 */
+"BeefFriedRice.Tips.2" = "Cơm để qua đêm sẽ có ít độ ẩm hơn, giúp hạt gạo giữ được hình dạng khi xào.";
+
+/* Beef Fried Rice Tips 3 */
+"BeefFriedRice.Tips.3" = "Thông thường, nếu còn cơm thừa, tôi sẽ để tủ lạnh và dùng ngày hôm sau để làm cơm chiên.";
+
+/* Beef Fried Rice How To 1 */
+"BeefFriedRice.HowTo.1" = "##Cơm Chiên## (fried rice) ngon nhất là khi ăn nóng.";
+
+/* Beef Fried Rice How To 1 (VoiceOver) */
+"BeefFriedRice.HowTo.1.Accessibility" = "Cơm Chiên ngon nhất là khi ăn nóng.";
+
+/* Beef Fried Rice How To 2 */
+"BeefFriedRice.HowTo.2" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn ##Cơm Chiên## (fried rice) với ##Nước Mắm Chấm## (mixed fish sauce) như chồng tôi thường ăn.";
+
+/* Beef Fried Rice How To 2 (VoiceOver) */
+"BeefFriedRice.HowTo.2.Accessibility" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn cơm chiên với Nước Mắm Chấm như chồng tôi thường ăn!";
+
+
 // MARK: Ca Ri Ga (Chicken Curry) Main Page
 
 /* Chicken Curry Introduction 1 */

@@ -1403,6 +1403,194 @@
 "ChickenFriedRice.HowTo.2.Accessibility" = "If you are adventurous, you can try it with some mixed fish sauce like my husband does.";
 
 
+// MARK: Com Chien Bo (Beef Fried Rice) Page
+
+/* Beef Fried Rice Introduction 1 */
+"BeefFriedRice.Introduction.1" = "##Cơm Chiên Bò## (beef fried rice) is a quick and easy recipe that can be enjoyed any time. ##Cơm Chiên## (fried rice) is a great way to salvage any leftover ingredients and turn them into a delicious meal.";
+
+/* Beef Fried Rice Introduction 1 (VoiceOver) */
+"BeefFriedRice.Introduction.1.Accessibility" = "Beef fried rice is a quick and easy recipe that can be enjoyed any time. Fried rice is a great way to salvage any leftover ingredients and turn them into a delicious meal.";
+
+/* Beef Fried Rice Introduction 2 */
+"BeefFriedRice.Introduction.2" = "This recipe serves one.";
+
+/* Beef Fried Rice Ingredients White Rice Amount */
+"BeefFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup, cooked";
+"BeefFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g, cooked";
+
+/* Beef Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "three quarter cups, cooked";
+"BeefFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 grams, cooked";
+
+/* Beef Fried Rice Ingredients Filet Mignon Amount */
+"BeefFriedRice.Ingredients.FiletMignonBeef.Amount.us" = "3-4 oz";
+"BeefFriedRice.Ingredients.FiletMignonBeef.Amount.metric" = "80-100 g";
+
+/* Beef Fried Rice Ingredients Filet Mignon Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.FiletMignonBeef.AccessibilityAmount.us" = "3 to 4 ounces";
+"BeefFriedRice.Ingredients.FiletMignonBeef.AccessibilityAmount.metric" = "80 to 100 grams";
+
+/* Beef Fried Rice Ingredients Egg Amount */
+"BeefFriedRice.Ingredients.Egg.Amount" = "1 large";
+
+/* Beef Fried Rice Ingredients Green Beans Amount */
+"BeefFriedRice.Ingredients.GreenBeans.Amount.us" = "¼ cup";
+"BeefFriedRice.Ingredients.GreenBeans.Amount.metric" = "35 g";
+
+/* Beef Fried Rice Ingredients Green Beans Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.GreenBeans.AccessibilityAmount.us" = "one quarter cup";
+"BeefFriedRice.Ingredients.GreenBeans.AccessibilityAmount.metric" = "35 grams";
+
+/* Beef Fried Rice Ingredients Onion Amount */
+"BeefFriedRice.Ingredients.Onion.Amount.us" = "¼ cup";
+"BeefFriedRice.Ingredients.Onion.Amount.metric" = "25 g";
+
+/* Beef Fried Rice Ingredients Onion Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "one quarter cup";
+"BeefFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 grams";
+
+/* Beef Fried Rice Ingredients Golden Mountain Soy Sauce Amount */
+"BeefFriedRice.Ingredients.GoldenMountainSoySauce.Amount" = "½ tsp";
+
+/* Beef Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "half a teaspoon";
+
+/* Beef Fried Rice Ingredients Chicken Bouillon Amount */
+"BeefFriedRice.Ingredients.ChickenBouillon.Amount" = "½ tsp";
+
+/* Beef Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"BeefFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "half a teaspoon";
+
+/* Beef Fried Rice Ingredients Pepper Amount */
+"BeefFriedRice.Ingredients.Pepper.Amount" = "⅛ tsp";
+
+/* Beef Fried Rice Ingredients Pepper (VoiceOver) */
+"BeefFriedRice.Ingredients.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
+
+/* Beef Fried Rice Ingredients Oil Amount */
+"BeefFriedRice.Ingredients.Oil.Amount" = "2 tsp";
+
+/* Beef Fried Rice Ingredients Oil (VoiceOver) */
+"BeefFriedRice.Ingredients.Oil.AccessibilityAmount" = "two teaspoons";
+
+/* Beef Fried Rice Instructions Step 1 Part 1 */
+"BeefFriedRice.Instructions.Step.1.Part.1" = "Cut the ##Củ Hành## (onion) into thin slices.";
+
+/* Beef Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cut the onion into thin slices.";
+
+/* Beef Fried Rice Instructions Step 1 Part 2 */
+"BeefFriedRice.Instructions.Step.1.Part.2" = "Cut the ##Thịt Bò Phi-Lê## (filet mignon) into bite sized pieces.";
+
+/* Beef Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Cut the filet mignon into bite sized slices.";
+
+/* Beef Fried Rice Instructions Step 1 Part 3 */
+"BeefFriedRice.Instructions.Step.1.Part.3" = "Cut the ##Đậu Que## (green beans) into small pieces.";
+
+/* Beef Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Cut the green beans into small pieces.";
+
+/* Beef Fried Rice Instructions Step 1 Part 4 */
+"BeefFriedRice.Instructions.Step.1.Part.4" = "Use your hands to separate the cold ##Cơm Trắng## (white rice) into individual grains so they are not one giant clump.";
+
+/* Beef Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Use your hands to separate the cold white rice into individual grains so they are not one giant clump.";
+
+/* Beef Fried Rice Instructions Step 2 Part 1 */
+"BeefFriedRice.Instructions.Step.2.Part.1" = "In a medium-high heat wok, add half of the ##Dầu## (oil).";
+
+/* Beef Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok, add the oil.";
+
+/* Beef Fried Rice Instructions Step 2 Part 2 */
+"BeefFriedRice.Instructions.Step.2.Part.2" = "Add the ##Thịt Bò Phi-Lê## (filet mignon), ##Củ Hành## (onion), and ##Đậu Que## (green beans).";
+
+/* Beef Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Add the filet mignon, onion, and green beans.";
+
+/* Beef Fried Rice Instructions Step 2 Part 3 */
+"BeefFriedRice.Instructions.Step.2.Part.3" = "Stir fry until the ##Thịt Bò Phi-Lê## (filet mignon) are cooked.";
+
+/* Beef Fried Rice Instructions Step 2 Part 3 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Stir fry until the filet mignon are cooked.";
+
+/* Beef Fried Rice Instructions Step 2 Part 4 */
+"BeefFriedRice.Instructions.Step.2.Part.4" = "Transfer the ingredients to a bowl to use later.";
+
+/* Beef Fried Rice Instructions Step 2 Note 1 */
+"BeefFriedRice.Instructions.Step.2.Note.1" = "At this point, rinse the wok if it has too much burnt residue left from the ##Thịt Bò Phi-Lê## (filet mignon).";
+
+/* Beef Fried Rice Instructions Step 2 Note 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.2.Note.1.Accessibility" = "At this point, rinse the wok if it has too much burnt residue left from the filet mignon.";
+
+/* Beef Fried Rice Instructions Step 3 Part 1 */
+"BeefFriedRice.Instructions.Step.3.Part.1" = "Add the last half of the ##Dầu## (oil) to the wok.";
+
+/* Beef Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Add the last half of the oil to the wok.";
+
+/* Beef Fried Rice Instructions Step 3 Part 2 */
+"BeefFriedRice.Instructions.Step.3.Part.2" = "Add the ##Trứng## (egg) and scramble lightly.";
+
+/* Beef Fried Rice Instructions Step 3 Part 2 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.3.Part.2.Accessibility" = "Add the egg and scramble lightly.";
+
+/* Beef Fried Rice Instructions Step 3 Part 3 */
+"BeefFriedRice.Instructions.Step.3.Part.3" = "Add the ##Cơm Trắng## (white rice).";
+
+/* Beef Fried Rice Instructions Step 3 Part 3 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.3.Part.3.Accessibility" = "Add the white rice.";
+
+/* Beef Fried Rice Instructions Step 3 Part 4 */
+"BeefFriedRice.Instructions.Step.3.Part.4" = "Stir fry the ##Cơm Trắng## (white rice) and ##Trứng## (egg) together until the rice is soft again.";
+
+/* Beef Fried Rice Instructions Step 3 Part 4 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Stir fry the white rice and egg together until the rice is soft again.";
+
+/* Beef Fried Rice Instructions Step 4 Part 1 */
+"BeefFriedRice.Instructions.Step.4.Part.1" = "Add the ##Thịt Bò Phi-Lê## (filet mignon), ##Củ Hành## (onion), and ##Đậu Que## (green beans) back in with the ##Cơm Trắng## (white rice) and ##Trứng## (egg).";
+
+/* Beef Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Add the filet mignon, onion, and green beans back in with the white rice and egg.";
+
+/* Beef Fried Rice Instructions Step 4 Part 2 */
+"BeefFriedRice.Instructions.Step.4.Part.2" = "Add ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), and ##Tiêu Đen## (black pepper).";
+
+/* Beef Fried Rice Instructions Step 4 Part 2 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.4.Part.2.Accessibility" = "Add Golden Mountain soy sauce, chicken bouillon, and pepper.";
+
+/* Beef Fried Rice Instructions Step 4 Part 3 */
+"BeefFriedRice.Instructions.Step.4.Part.3" = "Stir fry until the seasonings are mixed in.";
+
+/* Beef Fried Rice Instructions Step 4 Part 4 */
+"BeefFriedRice.Instructions.Step.4.Part.4" = "Garnish with chopped spring onions.";
+
+/* Beef Fried Rice Instructions Step 4 Part 4 (VoiceOver) */
+"BeefFriedRice.Instructions.Step.4.Part.4.Accessibility" = "Garnish with chopped spring onions.";
+
+/* Beef Fried Rice Tips 1 */
+"BeefFriedRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
+
+/* Beef Fried Rice Tips 2 */
+"BeefFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
+
+/* Beef Fried Rice Tips 3 */
+"BeefFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
+
+/* Beef Fried Rice How To 1 */
+"BeefFriedRice.HowTo.1" = "##Cơm Chiên## (fried rice) is best served hot.";
+
+/* Beef Fried Rice How To 1 (VoiceOver) */
+"BeefFriedRice.HowTo.1.Accessibility" = "Fried rice is best served hot.";
+
+/* Beef Fried Rice How To 2 */
+"BeefFriedRice.HowTo.2" = "If you are adventurous, you can try it with some ##Nước Mắm Chấm## (mixed fish sauce) like my husband does.";
+
+/* Beef Fried Rice How To 2 (VoiceOver) */
+"BeefFriedRice.HowTo.2.Accessibility" = "If you are adventurous, you can try it with some mixed fish sauce like my husband does.";
+
+
 // MARK: Ca Ri Ga (Chicken Curry) Main Page
 
 /* Chicken Curry Introduction 1 */

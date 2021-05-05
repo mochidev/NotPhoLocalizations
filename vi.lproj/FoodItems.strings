@@ -83,6 +83,11 @@
 "chickenFriedRice.AccessibilitySubtitle" = "Cơm Chiên Gà";
 "chickenFriedRice.AccessibilityPageTitle" = "Cơm Chiên Gà";
 
+/* Beef Fried Rice */
+"beefFriedRice.Subtitle" = "Beef Fried Rice";
+"beefFriedRice.AccessibilitySubtitle" = "Cơm Chiên Bò";
+"beefFriedRice.AccessibilityPageTitle" = "Cơm Chiên Bò";
+
 /* Chicken Curry Main */
 "chickenCurryMain.Subtitle" = "Chicken Curry";
 "chickenCurryMain.AccessibilitySubtitle" = "Cà Ri Gà";
