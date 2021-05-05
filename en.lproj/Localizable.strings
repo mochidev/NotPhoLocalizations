@@ -1115,12 +1115,6 @@
 /* Shrimp Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
 "ShrimpFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Use your hands to separate the cold white rice into individual grains so they are not one giant clump.";
 
-///* Shrimp Fried Rice Instructions Step 1 Note 1 */
-//"ShrimpFriedRice.Instructions.Step.1.Note.1" = "You can substitute the frozen ##Đậu Và Cà Rốt## (peas and carrots) with fresh carrots and spring beans when available.";
-//
-///* Shrimp Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
-//"ShrimpFriedRice.Instructions.Step.1.Note.1.Accessibility" = "You can substitute the frozen peas and carrots with fresh carrots and spring beans when available.";
-
 /* Shrimp Fried Rice Instructions Step 2 Part 1 */
 "ShrimpFriedRice.Instructions.Step.2.Part.1" = "In a medium-high heat wok, add half of the ##Dầu## (oil).";
 
@@ -1213,6 +1207,200 @@
 
 /* Shrimp Fried Rice How To 2 (VoiceOver) */
 "ShrimpFriedRice.HowTo.2.Accessibility" = "If you are adventurous, you can try it with some mixed fish sauce like my husband does.";
+
+
+// MARK: Com Chien Ga (Chicken Fried Rice) Page
+
+/* Chicken Fried Rice Introduction 1 */
+"ChickenFriedRice.Introduction.1" = "##Cơm Chiên Gà## (chicken fried rice) is a quick and easy recipe that can be enjoyed any time. ##Cơm Chiên## (fried rice) is a great way to salvage any leftover ingredients and turn them into a delicious meal.";
+
+/* Chicken Fried Rice Introduction 1 (VoiceOver) */
+"ChickenFriedRice.Introduction.1.Accessibility" = "Chicken fried rice is a quick and easy recipe that can be enjoyed any time. Fried rice is a great way to salvage any leftover ingredients and turn them into a delicious meal.";
+
+/* Chicken Fried Rice Introduction 2 */
+"ChickenFriedRice.Introduction.2" = "This recipe serves one.";
+
+/* Chicken Fried Rice Ingredients White Rice Amount */
+"ChickenFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup, cooked";
+"ChickenFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g, cooked";
+
+/* Chicken Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "three quarter cups, cooked";
+"ChickenFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 grams, cooked";
+
+/* Chicken Fried Rice Ingredients Chicken Amount */
+"ChickenFriedRice.Ingredients.Chicken.Amount.us" = "3-4 oz";
+"ChickenFriedRice.Ingredients.Chicken.Amount.metric" = "80-100 g";
+
+/* Chicken Fried Rice Ingredients Chicken Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.Chicken.AccessibilityAmount.us" = "3 to 4 ounces";
+"ChickenFriedRice.Ingredients.Chicken.AccessibilityAmount.metric" = "80 to 100 grams";
+
+/* Chicken Fried Rice Ingredients Egg Amount */
+"ChickenFriedRice.Ingredients.Egg.Amount" = "1 large";
+
+/* Chicken Fried Rice Ingredients Peas And Carrots Amount */
+"ChickenFriedRice.Ingredients.PeasAndCarrots.Amount.us" = "¼ cup";
+"ChickenFriedRice.Ingredients.PeasAndCarrots.Amount.metric" = "35 g";
+
+/* Chicken Fried Rice Ingredients Peas And Carrots Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.us" = "one quarter cup";
+"ChickenFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 grams";
+
+/* Chicken Fried Rice Ingredients Onion Amount */
+"ChickenFriedRice.Ingredients.Onion.Amount.us" = "¼ cup";
+"ChickenFriedRice.Ingredients.Onion.Amount.metric" = "25 g";
+
+/* Chicken Fried Rice Ingredients Onion Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "one quarter cup";
+"ChickenFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 grams";
+
+/* Chicken Fried Rice Ingredients Golden Mountain Soy Sauce Amount */
+"ChickenFriedRice.Ingredients.GoldenMountainSoySauce.Amount" = "½ tsp";
+
+/* Chicken Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "half a teaspoon";
+
+/* Chicken Fried Rice Ingredients Chicken Bouillon Amount */
+"ChickenFriedRice.Ingredients.ChickenBouillon.Amount" = "½ tsp";
+
+/* Chicken Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "half a teaspoon";
+
+/* Chicken Fried Rice Ingredients Pepper Amount */
+"ChickenFriedRice.Ingredients.Pepper.Amount" = "⅛ tsp";
+
+/* Chicken Fried Rice Ingredients Pepper (VoiceOver) */
+"ChickenFriedRice.Ingredients.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
+
+/* Chicken Fried Rice Ingredients Oil Amount */
+"ChickenFriedRice.Ingredients.Oil.Amount" = "2 tsp";
+
+/* Chicken Fried Rice Ingredients Oil (VoiceOver) */
+"ChickenFriedRice.Ingredients.Oil.AccessibilityAmount" = "two teaspoons";
+
+/* Chicken Fried Rice Instructions Step 1 Part 1 */
+"ChickenFriedRice.Instructions.Step.1.Part.1" = "Cut the ##Củ Hành## (onion) into thin slices.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cut the onion into thin slices.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 2 */
+"ChickenFriedRice.Instructions.Step.1.Part.2" = "Cut the ##Thịt Gà## (chicken) into bite sized pieces.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Cut the chicken into bite sized slices.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 3 */
+"ChickenFriedRice.Instructions.Step.1.Part.3" = "Thaw the ##Đậu Và Cà Rốt## (peas and carrots) if they are frozen.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Thaw the peas and carrots if they are frozen.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 4 */
+"ChickenFriedRice.Instructions.Step.1.Part.4" = "Use your hands to separate the cold ##Cơm Trắng## (white rice) into individual grains so they are not one giant clump.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Use your hands to separate the cold white rice into individual grains so they are not one giant clump.";
+
+/* Chicken Fried Rice Instructions Step 1 Note 1 */
+"ChickenFriedRice.Instructions.Step.1.Note.1" = "You can substitute the frozen ##Đậu Và Cà Rốt## (peas and carrots) with fresh carrots and spring beans when available.";
+
+/* Chicken Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Note.1.Accessibility" = "You can substitute the frozen peas and carrots with fresh carrots and spring beans when available.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 1 */
+"ChickenFriedRice.Instructions.Step.2.Part.1" = "In a medium-high heat wok, add half of the ##Dầu## (oil).";
+
+/* Chicken Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok, add the oil.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 2 */
+"ChickenFriedRice.Instructions.Step.2.Part.2" = "Add the ##Thịt Gà## (chicken), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Chicken Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Add the chicken, onion, peas and carrots.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 3 */
+"ChickenFriedRice.Instructions.Step.2.Part.3" = "Stir fry until the ##Thịt Gà## (chicken) are cooked.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 3 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Stir fry until the chicken are cooked.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 4 */
+"ChickenFriedRice.Instructions.Step.2.Part.4" = "Transfer the ingredients to a bowl to use later.";
+
+/* Chicken Fried Rice Instructions Step 2 Note 1 */
+"ChickenFriedRice.Instructions.Step.2.Note.1" = "At this point, rinse the wok if it has too much burnt residue left from the ##Thịt Gà## (chicken).";
+
+/* Chicken Fried Rice Instructions Step 2 Note 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.2.Note.1.Accessibility" = "At this point, rinse the wok if it has too much burnt residue left from the chicken.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 1 */
+"ChickenFriedRice.Instructions.Step.3.Part.1" = "Add the last half of the ##Dầu## (oil) to the wok.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Add the last half of the oil to the wok.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 2 */
+"ChickenFriedRice.Instructions.Step.3.Part.2" = "Add the ##Trứng## (egg) and scramble lightly.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 2 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.3.Part.2.Accessibility" = "Add the egg and scramble lightly.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 3 */
+"ChickenFriedRice.Instructions.Step.3.Part.3" = "Add the ##Cơm Trắng## (white rice).";
+
+/* Chicken Fried Rice Instructions Step 3 Part 3 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.3.Part.3.Accessibility" = "Add the white rice.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 4 */
+"ChickenFriedRice.Instructions.Step.3.Part.4" = "Stir fry the ##Cơm Trắng## (white rice) and ##Trứng## (egg) together until the rice is soft again.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 4 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Stir fry the white rice and egg together until the rice is soft again.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 1 */
+"ChickenFriedRice.Instructions.Step.4.Part.1" = "Add the ##Thịt Gà## (chicken), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots) back in with the ##Cơm Trắng## (white rice) and ##Trứng## (egg).";
+
+/* Chicken Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Add the chicken, onion, peas and carrots back in with the white rice and egg.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 2 */
+"ChickenFriedRice.Instructions.Step.4.Part.2" = "Add ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), and ##Tiêu Đen## (pepper).";
+
+/* Chicken Fried Rice Instructions Step 4 Part 2 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.4.Part.2.Accessibility" = "Add Golden Mountain soy sauce, chicken bouillon, and pepper.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 3 */
+"ChickenFriedRice.Instructions.Step.4.Part.3" = "Stir fry until the seasonings are mixed in.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 4 */
+"ChickenFriedRice.Instructions.Step.4.Part.4" = "Garnish with chopped spring onions.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 4 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.4.Part.4.Accessibility" = "Garnish with chopped spring onions.";
+
+/* Chicken Fried Rice Tips 1 */
+"ChickenFriedRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
+
+/* Chicken Fried Rice Tips 2 */
+"ChickenFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
+
+/* Chicken Fried Rice Tips 3 */
+"ChickenFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
+
+/* Chicken Fried Rice How To 1 */
+"ChickenFriedRice.HowTo.1" = "##Cơm Chiên## (fried rice) is best served hot.";
+
+/* Chicken Fried Rice How To 1 (VoiceOver) */
+"ChickenFriedRice.HowTo.1.Accessibility" = "Fried rice is best served hot.";
+
+/* Chicken Fried Rice How To 2 */
+"ChickenFriedRice.HowTo.2" = "If you are adventurous, you can try it with some ##Nước Mắm Chấm## (mixed fish sauce) like my husband does.";
+
+/* Chicken Fried Rice How To 2 (VoiceOver) */
+"ChickenFriedRice.HowTo.2.Accessibility" = "If you are adventurous, you can try it with some mixed fish sauce like my husband does.";
 
 
 // MARK: Ca Ri Ga (Chicken Curry) Main Page

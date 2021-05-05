@@ -1048,8 +1048,8 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpFriedRice.Introduction.2" = "Công thức này làm cho một người ăn.";
 
 /* Shrimp Fried Rice Ingredients White Rice Amount */
-"ShrimpFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup";
-"ShrimpFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g";
+"ShrimpFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup, cơm nguội";
+"ShrimpFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g, cơm nguội";
 
 /* Shrimp Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
 "ShrimpFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "ba phần tư cốc";
@@ -1131,12 +1131,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Shrimp Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
 "ShrimpFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Dùng tay tách cơm nguội thành từng hạt để dễ xào.";
-
-///* Shrimp Fried Rice Instructions Step 1 Note 1 */
-//"ShrimpFriedRice.Instructions.Step.1.Note.1" = "Có thể thay thế ##Đậu Và Cà Rốt## (peas and carrots) đông đá bằng Cà Rốt và đậu que tươi.";
-//
-///* Shrimp Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
-//"ShrimpFriedRice.Instructions.Step.1.Note.1.Accessibility" = "Có thể thay thế Đậu Và Cà Rốt đông đá bằng Cà Rốt và đậu que tươi.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 1 */
 "ShrimpFriedRice.Instructions.Step.2.Part.1" = "Cho một nửa ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
@@ -1230,6 +1224,204 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Shrimp Fried Rice How To 2 (VoiceOver) */
 "ShrimpFriedRice.HowTo.2.Accessibility" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn cơm chiên với Nước Mắm Chấm như chồng tôi thường ăn!";
+
+
+// MARK: Com Chien Ga (Chicken Fried Rice) Page
+
+/* Chicken Fried Rice Introduction 1 */
+"ChickenFriedRice.Introduction.1" = "##Cơm Chiên Gà## (chicken fried rice) là một công thức rất nhanh và dễ có thể làm bất cứ lúc nào. ##Cơm Chiên## (fried rice) thường được làm từ các nguyên liệu thừa và biến chúng thành một bữa ăn ngon.";
+
+/* Chicken Fried Rice Introduction 1 (VoiceOver) */
+"ChickenFriedRice.Introduction.1.Accessibility" = "Cơm Chiên Gà là một công thức rất nhanh và dễ có thể làm bất cứ lúc nào. Cơm Chiên thường được làm từ các nguyên liệu thừa và biến chúng thành một bữa ăn ngon.";
+
+/* Chicken Fried Rice Introduction 2 */
+"ChickenFriedRice.Introduction.2" = "Công thức này làm cho một người ăn.";
+
+/* Chicken Fried Rice Ingredients White Rice Amount */
+"ChickenFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup, cơm nguội";
+"ChickenFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g, cơm nguội";
+
+/* Chicken Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "ba phần tư cốc";
+"ChickenFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 gờ ram";
+
+/* Chicken Fried Rice Ingredients Chicken Amount */
+"ChickenFriedRice.Ingredients.Chicken.Amount.us" = "3-4 oz";
+"ChickenFriedRice.Ingredients.Chicken.Amount.metric" = "80-100 g";
+
+/* Chicken Fried Rice Ingredients Chicken Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.Chicken.AccessibilityAmount.us" = "3 đến 4 aoxơ";
+"ChickenFriedRice.Ingredients.Chicken.AccessibilityAmount.metric" = "80 đến 100 gờ ram";
+
+/* Chicken Fried Rice Ingredients Egg Amount */
+"ChickenFriedRice.Ingredients.Egg.Amount" = "1 lớn";
+
+/* Chicken Fried Rice Ingredients Peas And Carrots Amount */
+"ChickenFriedRice.Ingredients.PeasAndCarrots.Amount.us" = "¼ cốc";
+"ChickenFriedRice.Ingredients.PeasAndCarrots.Amount.metric" = "35 g";
+
+/* Chicken Fried Rice Ingredients Peas And Carrots Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.us" = "một phần tư cốc";
+"ChickenFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 gờ ram";
+
+/* Chicken Fried Rice Ingredients Onion Amount */
+"ChickenFriedRice.Ingredients.Onion.Amount.us" = "¼ cốc";
+"ChickenFriedRice.Ingredients.Onion.Amount.metric" = "25 g";
+
+/* Chicken Fried Rice Ingredients Onion Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "một phần tư cốc";
+"ChickenFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 gờ ram";
+
+/* Chicken Fried Rice Ingredients Golden Mountain Soy Sauce Amount */
+"ChickenFriedRice.Ingredients.GoldenMountainSoySauce.Amount.us" = "½ tsp";
+"ChickenFriedRice.Ingredients.GoldenMountainSoySauce.Amount.metric" = "½ muỗng cà phê";
+
+/* Chicken Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "một nửa muỗng cà phê";
+
+/* Chicken Fried Rice Ingredients Chicken Bouillon Amount */
+"ChickenFriedRice.Ingredients.ChickenBouillon.Amount.us" = "½ tsp";
+"ChickenFriedRice.Ingredients.ChickenBouillon.Amount.metric" = "½ muỗng cà phê";
+
+/* Chicken Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"ChickenFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "một nửa muỗng cà phê";
+
+/* Chicken Fried Rice Ingredients Pepper Amount */
+"ChickenFriedRice.Ingredients.Pepper.Amount.us" = "⅛ tsp";
+"ChickenFriedRice.Ingredients.Pepper.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Chicken Fried Rice Ingredients Pepper (VoiceOver) */
+"ChickenFriedRice.Ingredients.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Chicken Fried Rice Ingredients Oil Amount */
+"ChickenFriedRice.Ingredients.Oil.Amount.us" = "2 tsp";
+"ChickenFriedRice.Ingredients.Oil.Amount.metric" = "2 muỗng cà phê";
+
+/* Chicken Fried Rice Ingredients Oil (VoiceOver) */
+"ChickenFriedRice.Ingredients.Oil.AccessibilityAmount" = "two teaspoons";
+
+/* Chicken Fried Rice Instructions Step 1 Part 1 */
+"ChickenFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cắt Củ Hành thành từng lát.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 2 */
+"ChickenFriedRice.Instructions.Step.1.Part.2" = "Cắt ##Thịt Gà## (chicken) thành miếng nhỏ.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Cắt Thịt Gà thành miếng nhỏ.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 3 */
+"ChickenFriedRice.Instructions.Step.1.Part.3" = "Xả đá ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Chicken Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Xả đá Đậu Và Cà Rốt.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 4 */
+"ChickenFriedRice.Instructions.Step.1.Part.4" = "Dùng tay tách ##Cơm Trắng## (white rice) nguội thành từng hạt để dễ xào.";
+
+/* Chicken Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Dùng tay tách cơm nguội thành từng hạt để dễ xào.";
+
+/* Chicken Fried Rice Instructions Step 1 Note 1 */
+"ChickenFriedRice.Instructions.Step.1.Note.1" = "Có thể thay thế ##Đậu Và Cà Rốt## (peas and carrots) đông đá bằng Cà Rốt và đậu que tươi.";
+
+/* Chicken Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.1.Note.1.Accessibility" = "Có thể thay thế Đậu Và Cà Rốt đông đá bằng Cà Rốt và đậu que tươi.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 1 */
+"ChickenFriedRice.Instructions.Step.2.Part.1" = "Cho một nửa ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Cho một nửa dầu vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 2 */
+"ChickenFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Thịt Gà## (chicken), ##Củ Hành## (onion), và ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Chicken Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Gà, Củ Hành, Đậu Và Cà Rốt.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 3 */
+"ChickenFriedRice.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Thịt Gà## (chicken) chín.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 3 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Thịt Gà chín.";
+
+/* Chicken Fried Rice Instructions Step 2 Part 4 */
+"ChickenFriedRice.Instructions.Step.2.Part.4" = "Chuyển nguyên liệu chín vào tô nhỏ để sử dụng sau.";
+
+/* Chicken Fried Rice Instructions Step 2 Note 1 */
+"ChickenFriedRice.Instructions.Step.2.Note.1" = "Ở bước này, rửa sạch chảo nếu dơ.";
+
+/* Chicken Fried Rice Instructions Step 2 Note 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.2.Note.1.Accessibility" = "Ở bước này, rửa sạch chảo nếu dơ.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 1 */
+"ChickenFriedRice.Instructions.Step.3.Part.1" = "Cho phân nữa ##Dầu## (oil) còn lại vào chảo.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Cho phân nữa Dầu còn lại vào chảo.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 2 */
+"ChickenFriedRice.Instructions.Step.3.Part.2" = "Thêm ##Trứng## (egg) vào chảo và xào nhẹ.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 2 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.3.Part.2.Accessibility" = "Thêm Trứng vào chảo và xào nhẹ.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 3 */
+"ChickenFriedRice.Instructions.Step.3.Part.3" = "Thêm ##Cơm Trắng## (white rice) nguội vào chảo.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 3 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.3.Part.3.Accessibility" = "Thêm Cơm nguội vào chảo.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 4 */
+"ChickenFriedRice.Instructions.Step.3.Part.4" = "Xào ##Cơm Trắng## (white rice) và ##Trứng## (egg) cho đến khi cơm mềm trở lại.";
+
+/* Chicken Fried Rice Instructions Step 3 Part 4 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 1 */
+"ChickenFriedRice.Instructions.Step.4.Part.1" = "Cho ##Thịt Gà## (chicken), ##Củ Hành## (onion), ##Đậu Và Cà Rốt## (peas and carrots) vào chảo trở lại";
+
+/* Chicken Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Thịt Gà, Củ Hành, Đậu Và Cà Rốt vào chảo trở lại.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 2 */
+"ChickenFriedRice.Instructions.Step.4.Part.2" = "Thêm ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), và ##Tiêu Đen## (pepper).";
+
+/* Chicken Fried Rice Instructions Step 4 Part 2 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.4.Part.2.Accessibility" = "Thêm Nước Tương Golden Mountain, Bột Nêm Gà và Tiêu Đen.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 3 */
+"ChickenFriedRice.Instructions.Step.4.Part.3" = "Xào cho đến khi gia vị trộn đều.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 4 */
+"ChickenFriedRice.Instructions.Step.4.Part.4" = "Cho cơm chiên lên dĩa và thêm hành lá lên trên.";
+
+/* Chicken Fried Rice Instructions Step 4 Part 4 (VoiceOver) */
+"ChickenFriedRice.Instructions.Step.4.Part.4.Accessibility" = "Cho cơm chiên lên dĩa và thêm hành lá lên trên.";
+
+/* Chicken Fried Rice Tips 1 */
+"ChickenFriedRice.Tips.1" = "Để có một món cơm chiên hoàn hảo, bạn muốn sử dụng cơm qua đêm.";
+
+/* Chicken Fried Rice Tips 2 */
+"ChickenFriedRice.Tips.2" = "Cơm để qua đêm sẽ có ít độ ẩm hơn, giúp hạt gạo giữ được hình dạng khi xào.";
+
+/* Chicken Fried Rice Tips 3 */
+"ChickenFriedRice.Tips.3" = "Thông thường, nếu còn cơm thừa, tôi sẽ để tủ lạnh và dùng ngày hôm sau để làm cơm chiên.";
+
+/* Chicken Fried Rice How To 1 */
+"ChickenFriedRice.HowTo.1" = "##Cơm Chiên## (fried rice) ngon nhất là khi ăn nóng.";
+
+/* Chicken Fried Rice How To 1 (VoiceOver) */
+"ChickenFriedRice.HowTo.1.Accessibility" = "Cơm Chiên ngon nhất là khi ăn nóng.";
+
+/* Chicken Fried Rice How To 2 */
+"ChickenFriedRice.HowTo.2" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn ##Cơm Chiên## (fried rice) với ##Nước Mắm Chấm## (mixed fish sauce) như chồng tôi thường ăn.";
+
+/* Chicken Fried Rice How To 2 (VoiceOver) */
+"ChickenFriedRice.HowTo.2.Accessibility" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn cơm chiên với Nước Mắm Chấm như chồng tôi thường ăn!";
 
 
 // MARK: Ca Ri Ga (Chicken Curry) Main Page

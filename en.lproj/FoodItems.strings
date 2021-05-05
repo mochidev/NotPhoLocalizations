@@ -66,6 +66,10 @@
 "shrimpFriedRice.Subtitle" = "Shrimp Fried Rice";
 "shrimpFriedRice.AccessibilityPageTitle" = "Shrimp Fried Rice";
 
+/* Chicken Fried Rice */
+"chickenFriedRice.Subtitle" = "Chicken Fried Rice";
+"chickenFriedRice.AccessibilityPageTitle" = "Chicken Fried Rice";
+
 /* Chicken Curry Main */
 "chickenCurryMain.Subtitle" = "Chicken Curry";
 "chickenCurryMain.AccessibilityPageTitle" = "Chicken Curry";
