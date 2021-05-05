@@ -1064,13 +1064,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Shrimp Fried Rice Ingredients Egg Amount */
 "ShrimpFriedRice.Ingredients.Egg.Amount" = "1 lớn";
 
-/* Shrimp Fried Rice Ingredients Peas And Carrots Amount */
-"ShrimpFriedRice.Ingredients.PeasAndCarrots.Amount.us" = "¼ cup";
-"ShrimpFriedRice.Ingredients.PeasAndCarrots.Amount.metric" = "35 g";
+/* Shrimp Fried Rice Ingredients Broccoli Amount */
+"ShrimpFriedRice.Ingredients.Broccoli.Amount.us" = "⅔ cốc";
+"ShrimpFriedRice.Ingredients.Broccoli.Amount.metric" = "50 g";
 
-/* Shrimp Fried Rice Ingredients Peas And Carrots Amount (VoiceOver) */
-"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.us" = "một phần tư cốc";
-"ShrimpFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 gờ ram";
+/* Shrimp Fried Rice Ingredients Broccoli Amount (VoiceOver) */
+"ShrimpFriedRice.Ingredients.Broccoli.AccessibilityAmount.us" = "hai phần ba cốc";
+"ShrimpFriedRice.Ingredients.Broccoli.AccessibilityAmount.metric" = "50 gờ ram";
 
 /* Shrimp Fried Rice Ingredients Onion Amount */
 "ShrimpFriedRice.Ingredients.Onion.Amount.us" = "¼ cup";
@@ -1121,10 +1121,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Lột vỏ và khoét sâu tôm.";
 
 /* Shrimp Fried Rice Instructions Step 1 Part 3 */
-"ShrimpFriedRice.Instructions.Step.1.Part.3" = "Xả đá ##Đậu Và Cà Rốt## (peas and carrots).";
+"ShrimpFriedRice.Instructions.Step.1.Part.3" = "Cắt ##Bông Cải Xanh## (broccoli) thành từng miếng nhỏ.";
 
 /* Shrimp Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Xả đá Đậu Và Cà Rốt.";
+"ShrimpFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Cắt Bông Cải Xanh thành từng miếng nhỏ.";
 
 /* Shrimp Fried Rice Instructions Step 1 Part 4 */
 "ShrimpFriedRice.Instructions.Step.1.Part.4" = "Dùng tay tách ##Cơm Trắng## (white rice) nguội thành từng hạt để dễ xào.";
@@ -1132,11 +1132,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Shrimp Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
 "ShrimpFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Dùng tay tách cơm nguội thành từng hạt để dễ xào.";
 
-/* Shrimp Fried Rice Instructions Step 1 Note 1 */
-"ShrimpFriedRice.Instructions.Step.1.Note.1" = "Có thể thay thế ##Đậu Và Cà Rốt## (peas and carrots) đông đá bằng Cà Rốt và đậu que tươi.";
-
-/* Shrimp Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.1.Note.1.Accessibility" = "Có thể thay thế Đậu Và Cà Rốt đông đá bằng Cà Rốt và đậu que tươi.";
+///* Shrimp Fried Rice Instructions Step 1 Note 1 */
+//"ShrimpFriedRice.Instructions.Step.1.Note.1" = "Có thể thay thế ##Đậu Và Cà Rốt## (peas and carrots) đông đá bằng Cà Rốt và đậu que tươi.";
+//
+///* Shrimp Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
+//"ShrimpFriedRice.Instructions.Step.1.Note.1.Accessibility" = "Có thể thay thế Đậu Và Cà Rốt đông đá bằng Cà Rốt và đậu que tươi.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 1 */
 "ShrimpFriedRice.Instructions.Step.2.Part.1" = "Cho một nửa ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
@@ -1145,10 +1145,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Cho một nửa dầu vào chảo ở nhiệt độ trung bình đến cao.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 2 */
-"ShrimpFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Tôm## (shrimps), ##Củ Hành## (onion), ##Đậu Và Cà Rốt## (peas and carrots).";
+"ShrimpFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Tôm## (shrimps), ##Củ Hành## (onion), và ##Bông Cải Xanh## (broccoli).";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Tôm, Củ Hành, Đậu Và Cà Rốt.";
+"ShrimpFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Tôm, Củ Hành, và Bông Cải Xanh.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 3 */
 "ShrimpFriedRice.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Tôm## (shrimps) chín.";
@@ -1190,10 +1190,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
 
 /* Shrimp Fried Rice Instructions Step 4 Part 1 */
-"ShrimpFriedRice.Instructions.Step.4.Part.1" = "Cho ##Tôm## (shrimps), ##Củ Hành## (onion), ##Đậu Và Cà Rốt## (peas and carrots) vào chảo trở lại.";
+"ShrimpFriedRice.Instructions.Step.4.Part.1" = "Cho ##Tôm## (shrimps), ##Củ Hành## (onion), và ##Bông Cải Xanh## (broccoli) vào chảo trở lại.";
 
 /* Shrimp Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
-"ShrimpFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Tôm, Củ Hành, Đậu Và Cà Rốt vào chảo trở lại.";
+"ShrimpFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Tôm, Củ Hành, và Bông Cải Xanh vào chảo trở lại.";
 
 /* Shrimp Fried Rice Instructions Step 4 Part 2 */
 "ShrimpFriedRice.Instructions.Step.4.Part.2" = "Thêm ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), và ##Tiêu Đen## (pepper).";
