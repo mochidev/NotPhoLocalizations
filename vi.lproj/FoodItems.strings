@@ -138,6 +138,10 @@
 "beefPho.AccessibilitySubtitle" = "Phở Tai";
 "beefPho.AccessibilityPageTitle" = "Phở Tai";
 
+/* Chicken Glass Noodle Soup */
+"chickenGlassNoodleSoup.Subtitle" = "Chicken Glass Noodle Soup";
+"chickenGlassNoodleSoup.AccessibilitySubtitle" = "Bún Miến Gà";
+"chickenGlassNoodleSoup.AccessibilityPageTitle" = "Bún Miến Gà";
 
 // MARK: Recipes Tab
 
@@ -225,6 +229,11 @@
 "chickenCurryEntree.Subtitle" = "Chicken Curry";
 "chickenCurryEntree.AccessibilitySubtitle" = "Cà Ri Gà";
 "chickenCurryEntree.AccessibilityPageTitle" = "Cà Ri Gà";
+
+/* Fried Crispy Shallot */
+"friedCrispyShallot.Subtitle" = "Fried Crispy Shallot";
+"friedCrispyShallot.AccessibilitySubtitle" = "Hành Phi";
+"friedCrispyShallot.AccessibilityPageTitle" = "Hành Phi";
 
 
 // MARK: Ingredients Tab

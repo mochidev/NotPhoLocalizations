@@ -2582,6 +2582,164 @@
 "BeefPho.HowTo.3.Accessibility" = "Dip the now cooked beef in the Hoisin-Lime dipping sauce before enjoying.";
 
 
+// MARK: Bun Mien Ga (Chicken Glass Noodle Soup) Page
+
+/* Chicken Glass Noodle Soup Introduction 1 */
+"ChickenGlassNoodleSoup.Introduction.1" = "##Bún Miến Gà## (chicken glass noodle soup) is a very simple, but delicious noodle soup that everyone is guaranteed to love. This is my go-to dish when I want something quick and easy.";
+
+/* Chicken Glass Noodle Soup Introduction 1 (VoiceOver) */
+"ChickenGlassNoodleSoup.Introduction.1.Accessibility" = "Chicken glass noodle soup) is a very simple, but delicious noodle soup that everyone is guaranteed to love. This is my go-to dish when I want something quick and easy.";
+
+/* Chicken Glass Noodle Soup Introduction 2 */
+"ChickenGlassNoodleSoup.Introduction.2" = "This recipe serves 1.";
+
+/* Chicken Glass Noodle Soup Ingredients Bean Threads Amount */
+"ChickenGlassNoodleSoup.Ingredients.BeanThreads.Amount.us" = "2 oz";
+"ChickenGlassNoodleSoup.Ingredients.BeanThreads.Amount.metric" = "55-60 g";
+
+/* Chicken Glass Noodle Soup Ingredients Bean Threads Amount (VoiceOver) */
+"ChickenGlassNoodleSoup.Ingredients.BeanThreads.AccessibilityAmount.us" = "2 ounces";
+"ChickenGlassNoodleSoup.Ingredients.BeanThreads.AccessibilityAmount.metric" = "55 to 60 grams";
+
+/* Chicken Glass Noodle Soup Ingredients Chicken Amount */
+"ChickenGlassNoodleSoup.Ingredients.Chicken.Amount.us" = "2 legs";
+"ChickenGlassNoodleSoup.Ingredients.Chicken.Amount.metric" = "250-260 g";
+
+/* Chicken Glass Noodle Soup Ingredients Chicken Amount (VoiceOver) */
+"ChickenGlassNoodleSoup.Ingredients.Chicken.AccessibilityAmount.us" = "2 legs";
+"ChickenGlassNoodleSoup.Ingredients.Chicken.AccessibilityAmount.metric" = "250 to 260 grams";
+
+/* Chicken Glass Noodle Soup Ingredients Water Amount */
+"ChickenGlassNoodleSoup.Ingredients.Water.Amount.us" = "2 cups";
+"ChickenGlassNoodleSoup.Ingredients.Water.Amount.metric" = "250 ml";
+
+/* Chicken Glass Noodle Soup Ingredients Water Amount (VoiceOver) */
+"ChickenGlassNoodleSoup.Ingredients.Water.AccessibilityAmount.us" = "2 cups";
+"ChickenGlassNoodleSoup.Ingredients.Water.AccessibilityAmount.metric" = "250 milliliters";
+
+/* Chicken Glass Noodle Soup Ingredients Chicken Bouillon Amount */
+"ChickenGlassNoodleSoup.Ingredients.ChickenBouillon.Amount" = "1 tsp";
+
+/* Chicken Glass Noodle Soup Ingredients Chicken Bouillon Amount (VoiceOver) */
+"ChickenGlassNoodleSoup.Ingredients.ChickenBouillon.AccessibilityAmount" = "1 teaspoon";
+
+/* Chicken Glass Noodle Soup Ingredients Fish Sauce Amount */
+"ChickenGlassNoodleSoup.Ingredients.FishSauce.Amount" = "2 tsp";
+
+/* Chicken Glass Noodle Soup Ingredients Fish Sauce Amount (VoiceOver) */
+"ChickenGlassNoodleSoup.Ingredients.FishSauce.AccessibilityAmount" = "2 teaspoons";
+
+/* Chicken Glass Noodle Soup Ingredients Cilantro Amount */
+"ChickenGlassNoodleSoup.Ingredients.Cilantro.Amount" = "1-2 stalks";
+
+/* Chicken Glass Noodle Soup Ingredients Cilantro Amount (VoiceOver) */
+"ChickenGlassNoodleSoup.Ingredients.Cilantro.AccessibilityAmount" = "1 to 2 stalks";
+
+/* Chicken Glass Noodle Soup Ingredients Spring Onion Amount */
+"ChickenGlassNoodleSoup.Ingredients.SpringOnion.Amount" = "1 stalk";
+
+/* Chicken Glass Noodle Soup Ingredients Spring Onion Amount (VoiceOver) */
+"ChickenGlassNoodleSoup.Ingredients.SpringOnion.AccessibilityAmount" = "1 stalk";
+
+/* Chicken Glass Noodle Soup Ingredients Fried Crispy Shallow Amount */
+"ChickenGlassNoodleSoup.Ingredients.FriedCrispyShallow.Amount" = "1 tbsp";
+
+/* Chicken Glass Noodle Soup Ingredients Fried Crispy Shallow Amount (VoiceOver) */
+"ChickenGlassNoodleSoup.Ingredients.FriedCrispyShallow.AccessibilityAmount" = "1 tablespoon";
+
+/* Chicken Glass Noodle Soup Ingredients Black Pepper Amount */
+"ChickenGlassNoodleSoup.Ingredients.Pepper.Amount" = "1-2 pinches";
+
+/* Chicken Glass Noodle Soup Ingredients Black Pepper Amount (VoiceOver) */
+"ChickenGlassNoodleSoup.Ingredients.Pepper.AccessibilityAmount" = "1 to 2 pinches";
+
+/* Chicken Glass Noodle Soup Instructions Step 1 Part 1 */
+"ChickenGlassNoodleSoup.Instructions.Step.1.Part.1" = "Bring the ##Nước## (water) to a boil in a pot.";
+
+/* Chicken Glass Noodle Soup Instructions Step 1 Part 1 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.1.Part.1.Accessibility" = "Bring the water to a boi in a pot.";
+
+/* Chicken Glass Noodle Soup Instructions Step 2 Part 1 */
+"ChickenGlassNoodleSoup.Instructions.Step.2.Part.1" = "Add the ##Đùi Gà Lớn## (chicken drumsticks) to the boiling water.";
+
+/* Chicken Glass Noodle Soup Instructions Step 2 Part 1 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.2.Part.1.Accessibility" = "Add the chicken drumsticks to the boiling water.";
+
+/* Chicken Glass Noodle Soup Instructions Step 2 Part 2 */
+"ChickenGlassNoodleSoup.Instructions.Step.2.Part.2" = "Cook the ##Đùi Gà Lớn## (chicken drumsticks) until cooked.";
+
+/* Chicken Glass Noodle Soup Instructions Step 2 Part 2 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.2.Part.2.Accessibility" = "Cook the chicken drumsticks until cooked.";
+
+/* Chicken Glass Noodle Soup Instructions Step 2 Part 3 */
+"ChickenGlassNoodleSoup.Instructions.Step.2.Part.3" = "Remove the cooked ##Đùi Gà Lớn## (chicken drumsticks) from the broth, and set them aside to cool.";
+
+/* Chicken Glass Noodle Soup Instructions Step 2 Part 3 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.2.Part.3.Accessibility" = "Remove the cooked chicken drumsticks from the broth, and set them aside to cool.";
+
+/* Chicken Glass Noodle Soup Instructions Step 2 Note 1 */
+"ChickenGlassNoodleSoup.Instructions.Step.2.Note.1" = "Any cut of chicken is fine, but the broth will be more flavorful if you use bones.";
+
+/* Chicken Glass Noodle Soup Instructions Step 2 Note 2 */
+"ChickenGlassNoodleSoup.Instructions.Step.2.Note.2" = "Store bought chicken broth is also a good substitute if you don’t want to make the broth.";
+
+/* Chicken Glass Noodle Soup Instructions Step 3 Part 1 */
+"ChickenGlassNoodleSoup.Instructions.Step.3.Part.1" = "Add the ##Bún Miến## (glass noodles) to the broth.";
+
+/* Chicken Glass Noodle Soup Instructions Step 3 Part 1 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.3.Part.1.Accessibility" = "Add the glass noodles to the broth.";
+
+/* Chicken Glass Noodle Soup Instructions Step 3 Part 2 */
+"ChickenGlassNoodleSoup.Instructions.Step.3.Part.2" = "Cook for about 5 minutes or until they are al dente.";
+
+/* Chicken Glass Noodle Soup Instructions Step 3 Part 2 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.3.Part.2.Accessibility" = "Cook for about 5 minutes or until they are al dente.";
+
+/* Chicken Glass Noodle Soup Instructions Step 3 Part 3 */
+"ChickenGlassNoodleSoup.Instructions.Step.3.Part.3" = "Add the ##Bột Nêm Gà## (chicken bouillon) and ##Nước Mắm## (fish sauce).";
+
+/* Chicken Glass Noodle Soup Instructions Step 3 Part 3 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.3.Part.3.Accessibility" = "Add the chicken bouillon and fish sauce.";
+
+/* Chicken Glass Noodle Soup Instructions Step 3 Part 4 */
+"ChickenGlassNoodleSoup.Instructions.Step.3.Part.4" = "Stir until everything is mixed, and serve the noodle soup in a bowl.";
+
+/* Chicken Glass Noodle Soup Instructions Step 3 Part 4 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.3.Part.4.Accessibility" = "Stir until everything is mixed, and serve the noodle soup in a bowl.";
+
+
+
+/* Chicken Glass Noodle Soup Instructions Step 4 Part 1 */
+"ChickenGlassNoodleSoup.Instructions.Step.4.Part.1" = "Cut or use your hands to tear the chicken into small pieces.";
+
+/* Chicken Glass Noodle Soup Instructions Step 4 Part 1 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.4.Part.1.Accessibility" = "Cut or use your hands to tear the chicken into small pieces.";
+
+/* Chicken Glass Noodle Soup Instructions Step 4 Part 2 */
+"ChickenGlassNoodleSoup.Instructions.Step.4.Part.2" = "Add the chicken to the noodle soup bowl.";
+
+/* Chicken Glass Noodle Soup Instructions Step 4 Part 2 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.4.Part.2.Accessibility" = "Add the chicken to the noodle soup bowl.";
+
+/* Chicken Glass Noodle Soup Instructions Step 4 Part 3 */
+"ChickenGlassNoodleSoup.Instructions.Step.4.Part.3" = "Garnish the noodle soup with chopped ##Ngò## (cilantro) and ##Hành Lá## (spring onions), ##Hành Phi## (fried crispy shallots), and ##Tiêu Đen## (black pepper).";
+
+/* Chicken Glass Noodle Soup Instructions Step 4 Part 3 (VoiceOver) */
+"ChickenGlassNoodleSoup.Instructions.Step.4.Part.3.Accessibility" = "Garnish the noodle soup with chopped cilantro and spring onions, fried crispy shallots, and pepper.";
+
+/* Chicken Glass Noodle Soup How To Part 1 */
+"ChickenGlassNoodleSoup.HowTo.1" = "##Bún Miến Gà## (chicken glass noodle soup) is great on a cold night.";
+
+/* Chicken Glass Noodle Soup How To 1 (VoiceOver) */
+"ChickenGlassNoodleSoup.HowTo.1.Accessibility" = "Chicken glass noodle soup is great on a cold night.";
+
+/* Chicken Glass Noodle Soup How To 2 */
+"ChickenGlassNoodleSoup.HowTo.2" = "You can also substitute the ##Bún Miến## (glass noodles) with pasta.";
+
+/* Chicken Glass Noodle Soup How To 2 (VoiceOver) */
+"ChickenGlassNoodleSoup.HowTo.2.Accessibility" = "You can also substitute the glass noodles with pasta.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

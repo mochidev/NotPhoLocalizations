@@ -115,6 +115,10 @@
 "beefPho.AccessibilitySubtitle" = "Beef Pho";
 "beefPho.AccessibilityPageTitle" = "Beef Pho";
 
+/* Chicken Glass Noodle Soup */
+"chickenGlassNoodleSoup.Subtitle" = "Chicken Glass Noodle Soup";
+"chickenGlassNoodleSoup.AccessibilityPageTitle" = "Chicken Glass Noodle Soup";
+
 
 // MARK: Recipes Tab
 
@@ -185,6 +189,10 @@
 /* Chicken Curry Entree */
 "chickenCurryEntree.Subtitle" = "Chicken Curry";
 "chickenCurryEntree.AccessibilityPageTitle" = "Chicken Curry";
+
+/* Fried Crispy Shallot */
+"friedCrispyShallot.Subtitle" = "Fried Crispy Shallot";
+"friedCrispyShallot.AccessibilityPageTitle" = "Fried Crispy Shallot";
 
 
 // MARK: Ingredients Tab
