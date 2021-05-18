@@ -230,10 +230,10 @@
 "chickenCurryEntree.AccessibilitySubtitle" = "Cà Ri Gà";
 "chickenCurryEntree.AccessibilityPageTitle" = "Cà Ri Gà";
 
-/* Fried Crispy Shallot */
-"friedCrispyShallot.Subtitle" = "Fried Crispy Shallot";
-"friedCrispyShallot.AccessibilitySubtitle" = "Hành Phi";
-"friedCrispyShallot.AccessibilityPageTitle" = "Hành Phi";
+/* Fried Crispy Shallots */
+"friedCrispyShallots.Subtitle" = "Fried Crispy Shallots";
+"friedCrispyShallots.AccessibilitySubtitle" = "Hành Phi";
+"friedCrispyShallots.AccessibilityPageTitle" = "Hành Phi";
 
 
 // MARK: Ingredients Tab

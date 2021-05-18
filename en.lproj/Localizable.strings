@@ -2708,7 +2708,6 @@
 "ChickenGlassNoodleSoup.Instructions.Step.3.Part.4.Accessibility" = "Stir until everything is mixed, and serve the noodle soup in a bowl.";
 
 
-
 /* Chicken Glass Noodle Soup Instructions Step 4 Part 1 */
 "ChickenGlassNoodleSoup.Instructions.Step.4.Part.1" = "Cut or use your hands to tear the chicken into small pieces.";
 
@@ -4750,6 +4749,89 @@
 
 /* Chicken Curry How To 4 */
 "ChickenCurryEntree.HowTo.4" = "You can eat it with baguette and dip the baguette into the curry broth.";
+
+
+// MARK: Hanh Phi (Fried Crispy Shallots) Page
+
+/* Fried Crispy Shallots Introduction 1 */
+"FriedCrispyShallots.Introduction.1" = "##Hành Phi## (fried crispy shallots) are a tasty garnish that is used in lots of Vietnamese dishes. They add a nice finish to a dish, and they are also delicious when eaten as a snack.";
+
+/* Fried Crispy Shallots Introduction 1 (VoiceOver) */
+"FriedCrispyShallots.Introduction.1.Accessibility" = "Fried crispy shallots are a tasty garnish that is used in lots of Vietnamese dishes. They add a nice finish to a dish, and they are also delicious when eaten as a snack.";
+
+/* Fried Crispy Shallots Introduction 2 */
+"FriedCrispyShallots.Introduction.2" = "This recipe yields 50-60 g.";
+
+/* Fried Crispy Shallots Ingredients Shallot Amount */
+"FriedCrispyShallots.Shallot.Amount.us" = "2 bulbs";
+"FriedCrispyShallots.Shallot.Amount.metric" = "50-60 g";
+
+/* Fried Crispy Shallots Ingredients Shallot Amount (VoiceOver) */
+"FriedCrispyShallots.Shallot.AccessibilityAmount.us" = "2 bulbs";
+"FriedCrispyShallots.Shallot.AccessibilityAmount.metric" = "50 to 60 grams";
+
+/* Fried Crispy Shallots Ingredients Oil Amount */
+"FriedCrispyShallots.Oil.Amount" = "5 tbsp";
+
+/* Fried Crispy Shallots Ingredients Oil Amount (VoiceOver) */
+"FriedCrispyShallots.Oil.AccessibilityAmount" = "5 tablespoons";
+
+/* Fried Crispy Shallots Instructions Step 1 Part 1 */
+"FriedCrispyShallots.Instructions.Step.1.Part.1" = "Peel the ##Hẹ Tây## (shallots).";
+
+/* Fried Crispy Shallots Instructions Step 1 Part 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.1.Part.1.Accessibility" = "Peel the shallots.";
+
+/* Fried Crispy Shallots Instructions Step 1 Part 2 */
+"FriedCrispyShallots.Instructions.Step.1.Part.2" = "Cut the ##Hẹ Tây## (shallots) crosswise into thin rings.";
+
+/* Fried Crispy Shallots Instructions Step 1 Part 2 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.1.Part.2.Accessibility" = "Cut the shallots crosswise into thin rings.";
+
+/* Fried Crispy Shallots Instructions Step 1 Note 1 */
+"FriedCrispyShallots.Instructions.Step.1.Note.1" = "Using a mandoline will make the cutting easier.";
+
+/* Fried Crispy Shallots Instructions Step 1 Note 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.1.Note.1.Accessibility" = "Using a mandoline will make the cutting easier.";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 1 */
+"FriedCrispyShallots.Instructions.Step.2.Part.1" = "In a low-medium heat pan/pot, add the ##Dầu## (oil).";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.2.Part.1.Accessibility" = "In a low-medium heat pan or pot, add the oil.";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 2 */
+"FriedCrispyShallots.Instructions.Step.2.Part.2" = "Add the ##Hẹ Tây## (shallots).";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 2 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.2.Part.2.Accessibility" = "Add the shallots.";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 3 */
+"FriedCrispyShallots.Instructions.Step.2.Part.3" = "Fry for about 5-6 minutes or until golden brown.";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 3 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.2.Part.3.Accessibility" = "Fry for about 5 to 6 minutes or until golden brown.";
+
+/* Fried Crispy Shallots Instructions Step 2 Note 1 */
+"FriedCrispyShallots.Instructions.Step.2.Note.1" = "Stir the shallots often to prevent burning.";
+
+/* Fried Crispy Shallots Instructions Step 2 Note 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.2.Note.1.Accessibility" = "Stir the shallots often to prevent burning.";
+
+/* Fried Crispy Shallots Instructions Step 3 Part 1 */
+"FriedCrispyShallots.Instructions.Step.3.Part.1" = "Transfer the ##Hành Phi## (fried crispy shallots) to a plate with paper towel to absorb excess ##Dầu## (oil).";
+
+/* Fried Crispy Shallots Instructions Step 3 Part 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.3.Part.1.Accessibility" = "Transfer the fried crispy shallots to a plate with paper towel to absorb excess oil.";
+
+/* Fried Crispy Shallots How To 1 */
+"FriedCrispyShallots.HowTo.1" = "Use ##Hành Phi## (fried crispy shallots) to dress up a dish.";
+
+/* Fried Crispy Shallots How To 1 (VoiceOver) */
+"FriedCrispyShallots.HowTo.1.Accessibility" = "Use fried crispy shallots to dress up a dish.";
+
+/* Fried Crispy Shallots How To 1 */
+"FriedCrispyShallots.HowTo.1" = "Or sprinkle on a bit of salt and enjoy them as chips.";
 
 
 // MARK: - # Ingredients Tab:

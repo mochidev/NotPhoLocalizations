@@ -4830,6 +4830,90 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenCurryEntree.HowTo.4" = "Bạn có thể ăn kèm với bánh mì và nhúng bánh mì vào cà ri.";
 
 
+// MARK: Hanh Phi (Fried Crispy Shallots) Page
+
+/* Fried Crispy Shallots Introduction 1 */
+"FriedCrispyShallots.Introduction.1" = "##Hành Phi## (fried crispy shallots) là món phụ gia không thể thiếu cho những món ăn Việt Nam.";
+
+/* Fried Crispy Shallots Introduction 1 (VoiceOver) */
+"FriedCrispyShallots.Introduction.1.Accessibility" = "Hành phi là món phụ gia không thể thiếu cho những món ăn Việt Nam.";
+
+/* Fried Crispy Shallots Introduction 2 */
+"FriedCrispyShallots.Introduction.2" = "Công thức này làm khoảng 50-60 g.";
+
+/* Fried Crispy Shallots Ingredients Shallot Amount */
+"FriedCrispyShallots.Shallot.Amount.us" = "2 củ";
+"FriedCrispyShallots.Shallot.Amount.metric" = "50-60 g";
+
+/* Fried Crispy Shallots Ingredients Shallot Amount (VoiceOver) */
+"FriedCrispyShallots.Shallot.AccessibilityAmount.us" = "2 củ";
+"FriedCrispyShallots.Shallot.AccessibilityAmount.metric" = "50 đến 60 gờ ram";
+
+/* Fried Crispy Shallots Ingredients Oil Amount */
+"FriedCrispyShallots.Oil.Amount.us" = "5 tbsp";
+"FriedCrispyShallots.Oil.Amount.metric" = "5 muỗng canh";
+
+/* Fried Crispy Shallots Ingredients Oil Amount (VoiceOver) */
+"FriedCrispyShallots.Oil.AccessibilityAmount" = "5 muỗng canh";
+
+/* Fried Crispy Shallots Instructions Step 1 Part 1 */
+"FriedCrispyShallots.Instructions.Step.1.Part.1" = "Lột vỏ ##Hẹ Tây## (shallots).";
+
+/* Fried Crispy Shallots Instructions Step 1 Part 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.1.Part.1.Accessibility" = "Lột vỏ Hẹ Tây.";
+
+/* Fried Crispy Shallots Instructions Step 1 Part 2 */
+"FriedCrispyShallots.Instructions.Step.1.Part.2" = "Cắt ##Hẹ Tây## (shallots) thành lát mỏng.";
+
+/* Fried Crispy Shallots Instructions Step 1 Part 2 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.1.Part.2.Accessibility" = "Cắt Hẹ Tây thành lát mỏng.";
+
+/* Fried Crispy Shallots Instructions Step 1 Note 1 */
+"FriedCrispyShallots.Instructions.Step.1.Note.1" = "Nếu làm điều lượng nhiều thì có thể dùng máy bào.";
+
+/* Fried Crispy Shallots Instructions Step 1 Note 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.1.Note.1.Accessibility" = "Nếu làm điều lượng nhiều thì có thể dùng máy bào.";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 1 */
+"FriedCrispyShallots.Instructions.Step.2.Part.1" = "Dùng chảo ở lửa nhỏ, và thêm ##Dầu## (oil).";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.2.Part.1.Accessibility" = "Dùng chảo ở lửa nhỏ, và thêm Dầu.";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 2 */
+"FriedCrispyShallots.Instructions.Step.2.Part.2" = "Cho ##Hẹ Tây## (shallots) vào chảo.";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 2 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.2.Part.2.Accessibility" = "Cho Hẹ Tây vào chảo.";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 3 */
+"FriedCrispyShallots.Instructions.Step.2.Part.3" = "Chiên khoảng 5 đến 6 phút hoặc cho đến khi vàng.";
+
+/* Fried Crispy Shallots Instructions Step 2 Part 3 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.2.Part.3.Accessibility" = "Chiên khoảng 5 đến 6 phút hoặc cho đến khi vàng.";
+
+/* Fried Crispy Shallots Instructions Step 2 Note 1 */
+"FriedCrispyShallots.Instructions.Step.2.Note.1" = "Xào ##Hẹ Tây## (shallots) thường xuyên để không bị cháy.";
+
+/* Fried Crispy Shallots Instructions Step 2 Note 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.2.Note.1.Accessibility" = "Xào Hẹ Tây thường xuyên để không bị cháy.";
+
+/* Fried Crispy Shallots Instructions Step 3 Part 1 */
+"FriedCrispyShallots.Instructions.Step.3.Part.1" = "Chuyển ##Hành Phi## (fried crispy shallots) lên đĩa có lót khăn giấy để thấm bớt dầu ##Dầu## (oil).";
+
+/* Fried Crispy Shallots Instructions Step 3 Part 1 (VoiceOver) */
+"FriedCrispyShallots.Instructions.Step.3.Part.1.Accessibility" = "Chuyển Hành Phi lên đĩa có lót khăn giấy để thấm bớt dầu.";
+
+/* Fried Crispy Shallots How To 1 */
+"FriedCrispyShallots.HowTo.1" = "Cho ##Hành Phi## (fried crispy shallots) vào món ăn như cơm, bún hoặc súp trước khi ăn.";
+
+/* Fried Crispy Shallots How To 1 (VoiceOver) */
+"FriedCrispyShallots.HowTo.1.Accessibility" = "Cho Hành Phi vào món ăn như cơm, bún hoặc súp trước khi ăn.";
+
+/* Fried Crispy Shallots How To 1 */
+"FriedCrispyShallots.HowTo.1" = "Hoặc rắc lên một chút muối và thưởng thức chúng như một món ăn nhẹ.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */
