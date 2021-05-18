@@ -700,6 +700,12 @@
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.ScallionsOil.AccessibilityAmount" = "1 to 2 tablespoons";
 
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Fried Crispy Shallots Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.FriedCrispyShallots.Amount" = "1-2 tsp (optional)";
+
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Fried Crispy Shallots Amount (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.FriedCrispyShallots.AccessibilityAmount" = "1 to 2 teaspoons (optional)";
+
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Mixed Fish Sauce Amount */
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
@@ -733,10 +739,10 @@
 "BrokenRiceGrilledPorkEggMeatloaf.Instructions.4.Accessibility" = "Drain the pickles and place them next to the slices of cucumber and tomato.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 5 */
-"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5" = "Add some ##Mỡ Hành## (scallion and oil garnish) on top of the ##Cơm Tấm## (cooked broken rice) and ##Thịt Nướng## (grilled pork).";
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5" = "Add some ##Mỡ Hành## (scallion and oil garnish) and ##Hành Phi## (fried crispy shallots) on top of the ##Cơm Tấm## (cooked broken rice) and ##Thịt Nướng## (grilled pork).";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 5 (VoiceOver) */
-"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5.Accessibility" = "Add some scallion and oil garnish on top of the cooked broken rice and grilled pork.";
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5.Accessibility" = "Add some scallion and oil garnish and fried crispy shallots on top of the cooked broken rice and grilled pork.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 6 */
 "BrokenRiceGrilledPorkEggMeatloaf.Instructions.6" = "Prepare the ##Nước Mắm Chấm## (mixed fish sauce) in a side bowl to be used as a dressing or dipping sauce for the dish.";

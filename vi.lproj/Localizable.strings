@@ -710,6 +710,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Scallion & Oil Garnish Amount (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.ScallionsOil.AccessibilityAmount" = "1 đến 2 muỗng canh";
 
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Fried Crispy Shallots Amount */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.FriedCrispyShallots.Amount.us" = "1-2 tsp (tùy ý)";
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.FriedCrispyShallots.Amount.metric" = "1-2 muỗng cà phê (tùy ý)";
+
+/* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Fried Crispy Shallots Amount (VoiceOver) */
+"BrokenRiceGrilledPorkEggMeatloaf.Ingredients.FriedCrispyShallots.AccessibilityAmount" = "1 đến 2 muỗng cà phê (tùy ý)";
+
 /* Broken Rice with Grilled Pork and Egg Meatloaf Ingredients Mixed Fish Sauce Amount */
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.Amount.us" = "½ cup";
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.Amount.metric" = "120 mL";
@@ -719,37 +726,37 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BrokenRiceGrilledPorkEggMeatloaf.Ingredients.MixedFishSauce.AccessibilityAmount.metric" = "120 mililít";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 1 */
-"BrokenRiceGrilledPorkEggMeatloaf.Instructions.1" = "Múc ##Cơm Tấm## vào trong một chén nhỏ sau đó chuyển ngược chén lên trên dĩa để cơm có thể chuyển thành một nữa hình cầu.";
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.1" = "Múc ##Cơm Tấm## (cooked broken rice) vào trong một chén nhỏ sau đó chuyển ngược chén lên trên dĩa để cơm có thể chuyển thành một nữa hình cầu.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 1 (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.Instructions.1.Accessibility" = "Múc Cơm Tấm vào trong một chén nhỏ sau đó chuyển ngược chén lên trên dĩa để cơm có thể chuyển thành một nữa hình cầu.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 2 */
-"BrokenRiceGrilledPorkEggMeatloaf.Instructions.2" = "Thêm ##Thịt Nướng## và ##Chả Trứng## lên bên cạnh ##Cơm Tấm## trên dĩa.";
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.2" = "Thêm ##Thịt Nướng## (grilled pork) và ##Chả Trứng## (steamed egg meatloaf) lên bên cạnh ##Cơm Tấm## (cooked broken rice) trên dĩa.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 2 (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.Instructions.2.Accessibility" = "Thêm Thịt Nướng và Chả Trứng lên bên cạnh Cơm Tấm trên dĩa.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 3 */
-"BrokenRiceGrilledPorkEggMeatloaf.Instructions.3" = "Cắt ##Dưa Leo## và ##Cà Chua## thành lát và thêm lên trên dĩa.";
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.3" = "Cắt ##Dưa Leo## (cucumber) và ##Cà Chua## (tomato) thành lát và thêm lên trên dĩa.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 3 (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.Instructions.3.Accessibility" = "Cắt Dưa Leo và Cà Chua thành lát và thêm lên trên dĩa.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 4 */
-"BrokenRiceGrilledPorkEggMeatloaf.Instructions.4" = "Thêm ##Đồ Chua## lên bên cạnh ##Dưa Leo## và ##Cà Chua##.";
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.4" = "Thêm ##Đồ Chua## (pickles) lên bên cạnh ##Dưa Leo## (cucumber) và ##Cà Chua## (tomato).";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 4 (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.Instructions.4.Accessibility" = "Thêm Đồ Chua lên bên cạnh Dưa Leo và Cà Chua.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 5 */
-"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5" = "Cho ##Mỡ Hành## lên trên ##Cơm Tấm## và ##Thịt Nướng##.";
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5" = "Cho ##Mỡ Hành## (scallion and oil garnish) và ##Hành Phi## (fried crispy shallots) lên trên ##Cơm Tấm## và ##Thịt Nướng##.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 5 (VoiceOver) */
-"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5.Accessibility" = "Cho Mỡ Hành lên trên Cơm Tấm và Thịt Nướng.";
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.5.Accessibility" = "Cho Mỡ Hành và Hành Phi lên trên Cơm Tấm và Thịt Nướng.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 6 */
-"BrokenRiceGrilledPorkEggMeatloaf.Instructions.6" = "Muốn thưởng thức ##Cơm Tấm## thì không thể thiếu ##Nước Mắm Chấm##.";
+"BrokenRiceGrilledPorkEggMeatloaf.Instructions.6" = "Muốn thưởng thức ##Cơm Tấm## (broken rice) thì không thể thiếu ##Nước Mắm Chấm## (mixed fish sauce).";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf Instructions 6 (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.Instructions.6.Accessibility" = "Muốn thưởng thức Cơm Tấm thì không thể thiếu Nước Mắm Chấm.";
@@ -767,19 +774,19 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BrokenRiceGrilledPorkEggMeatloaf.Tips.4" = "Nếu không có gạo tắm thì có thể dùng gạo thường ăn.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf How To 1 */
-"BrokenRiceGrilledPorkEggMeatloaf.HowTo.1" = "Đổ một ít ##Nước Mắm Chấm## lên trên ##Cơm Tấm## để ăn.";
+"BrokenRiceGrilledPorkEggMeatloaf.HowTo.1" = "Đổ một ít ##Nước Mắm Chấm## (mixed fish sauce) lên trên ##Cơm Tấm## (broken rice) để ăn.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf How To 1 (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.HowTo.1.Accessibility" = "Đổ một ít Nước Mắm Chấm lên trên Cơm Tấm để ăn.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf How To 2 */
-"BrokenRiceGrilledPorkEggMeatloaf.HowTo.2" = "Chừa một ít ##Nước Mắm Chấm## bên cạnh để ăn với ##Thịt Nướng## và ##Chả Trứng##.";
+"BrokenRiceGrilledPorkEggMeatloaf.HowTo.2" = "Chừa một ít ##Nước Mắm Chấm## (mixed fish sauce) bên cạnh để ăn với ##Thịt Nướng## (grilled pork) và ##Chả Trứng## (steamed egg meatloaf).";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf How To 2 (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.HowTo.2.Accessibility" = "Chừa một ít Nước Mắm Chấm bên cạnh để ăn với Thịt Nướng và Chả Trứng.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf How To 3 */
-"BrokenRiceGrilledPorkEggMeatloaf.HowTo.3" = "Hoặc có thể đổ ##Nước Mắm Chấm## lên trên tất cả để ăn.";
+"BrokenRiceGrilledPorkEggMeatloaf.HowTo.3" = "Hoặc có thể đổ ##Nước Mắm Chấm## (mixed fish sauce) lên trên tất cả để ăn.";
 
 /* Broken Rice with Grilled Pork and Egg Meatloaf How To 3 (VoiceOver) */
 "BrokenRiceGrilledPorkEggMeatloaf.HowTo.3.Accessibility" = "Hoặc có thể đổ Nước Mắm Chấm lên trên tất cả để ăn.";
