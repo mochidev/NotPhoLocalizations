@@ -2783,6 +2783,91 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenGlassNoodleSoup.HowTo.2.Accessibility" = "Bạn có thể thay thế bún miến với mì ống của Nước Ý.";
 
 
+// MARK: Sinh To Bo (Avocado Smoothie) Page
+
+/* Avocado Smoothie Introduction 1 */
+"AvocadoSmoothie.Introduction.1" = "##Sinh Tố Bơ## (avocado smoothie) là một thức uống rất là béo và ngọt. Nó có một mùi vị rất khác thương nếu bạn không quen ăn trái bơ nhưng khi bạn quen rồi thì nó rất ngon.";
+
+/* Avocado Smoothie Introduction 1 (VoiceOver) */
+"AvocadoSmoothie.Introduction.1.Accessibility" = "Sinh tố bơ là một thức uống rất là béo và ngọt. Nó có một mùi vị rất khác thương nếu bạn không quen ăn trái bơ nhưng khi bạn quen rồi thì nó rất ngon.";
+
+/* Avocado Smoothie Introduction 2 */
+"AvocadoSmoothie.Introduction.2" = "Công thức này làm cho một người uống (415 ml).";
+
+/* Avocado Smoothie Ingredients Avocado Amount */
+"AvocadoSmoothie.Ingredients.Avocado.Amount.us" = "½ trái trung bình";
+"AvocadoSmoothie.Ingredients.Avocado.Amount.metric" = "65-70 g";
+
+/* Avocado Smoothie Ingredients Avocado Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.Avocado.AccessibilityAmount.us" = "½ trái trung bình";
+"AvocadoSmoothie.Ingredients.Avocado.AccessibilityAmount.metric" = "65 đến 70 gờ ram";
+
+/* Avocado Smoothie Ingredients Half And Half Milk Amount */
+"AvocadoSmoothie.Ingredients.HalfAndHalfMilk.Amount.us" = "2-3 tbsp";
+"AvocadoSmoothie.Ingredients.HalfAndHalfMilk.Amount.metric" = "2-3 muỗng canh";
+
+/* Avocado Smoothie Ingredients Half And Half Milk Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.HalfAndHalfMilk.AccessibilityAmount" = "2 đến 3 muỗng canh";
+
+/* Avocado Smoothie Ingredients Condensed Milk Amount */
+"AvocadoSmoothie.Ingredients.CondensedMilk.Amount.us" = "2 tbsp";
+"AvocadoSmoothie.Ingredients.CondensedMilk.Amount.metric" = "2 muỗng canh";
+
+/* Avocado Smoothie Ingredients Condensed Milk Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.CondensedMilk.AccessibilityAmount" = "2 muỗng canh";
+
+/* Avocado Smoothie Ingredients Sugar Amount */
+"AvocadoSmoothie.Ingredients.Sugar.Amount.us" = "2 tbsp";
+"AvocadoSmoothie.Ingredients.Sugar.Amount.metric" = "2 muỗng canh";
+
+/* Avocado Smoothie Ingredients Sugar Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.Sugar.AccessibilityAmount" = "2 muỗng canh";
+
+/* Avocado Smoothie Ingredients Ice Amount */
+"AvocadoSmoothie.Ingredients.Ice.Amount.us" = "2 cốc";
+"AvocadoSmoothie.Ingredients.Ice.Amount.metric" = "240-250 g";
+
+/* Avocado Smoothie Ingredients Ice Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.us" = "2 cốc";
+"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.metric" = "240 đến 250 gờ ram";
+
+/* Avocado Smoothie Instructions Step 1 Part 1 */
+"AvocadoSmoothie.Instructions.Step.1.Part.1" = "Cho tất cả các nguyên liệu vào máy xay.";
+
+/* Avocado Smoothie Instructions Step 1 Part 1 (VoiceOver) */
+"AvocadoSmoothie.Instructions.Step.1.Part.1.Accessibility" = "Cho tất cả các nguyên liệu vào máy xay.";
+
+/* Avocado Smoothie Instructions Step 1 Part 2 */
+"AvocadoSmoothie.Instructions.Step.1.Part.2" = "Xay cho đến tất cả nguyên liệu được chọn đều sau đó đổ vào ly uống.";
+
+/* Avocado Smoothie Instructions Step 1 Part 2 (VoiceOver) */
+"AvocadoSmoothie.Instructions.Step.1.Part.2.Accessibility" = "Xay cho đến tất cả nguyên liệu được chọn đều sau đó đổ vào ly uống.";
+
+/* Avocado Smoothie Tips 1 */
+"AvocadoSmoothie.Tips.1" = "Nếu bạn không có máy xay đủ mạnh thì xay các nguyên liệu từ bước: bắt đầu với ##Nước Đá## (ice), sau đó là ##Trái Bơ## (avocado), sau đó mới cho các đường vào.";
+
+/* Avocado Smoothie Tips 1 (VoiceOver) */
+"AvocadoSmoothie.Tips.1.Accessibility" = "Nếu bạn không có máy xay đủ mạnh thì xay các nguyên liệu từ bước: bắt đầu với nước đá, sau đó là bờ, sau đó mới cho các đường vào.";
+
+/* Avocado Smoothie Tips 2 */
+"AvocadoSmoothie.Tips.2" = "Bạn có thể thay thế ##Sữa Tươi## (Half and Half milk) bằng nước.";
+
+/* Avocado Smoothie Tips 2 (VoiceOver) */
+"AvocadoSmoothie.Tips.2.Accessibility" = "Bạn có thể thay thế sữa Tươi bằng nước.";
+
+/* Avocado Smoothie Tips 3 */
+"AvocadoSmoothie.Tips.3" = "The ##Sữa Đặc## (condensed milk) giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng ##Đường## (sugar).";
+
+/* Avocado Smoothie Tips 3 (VoiceOver) */
+"AvocadoSmoothie.Tips.3.Accessibility" = "Sữa đặc giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng đường";
+
+/* Avocado Smoothie Tips 4 */
+"AvocadoSmoothie.Tips.4" = "Bạn có thể điều chỉnh độ ngọt của sinh tố bằng cách thêm hoặc bớt ##Đường## (sugar).";
+
+/* Avocado Smoothie Tips 4 (VoiceOver) */
+"AvocadoSmoothie.Tips.4.Accessibility" = "Bạn có thể điều chỉnh độ ngọt của sinh tố bằng cách thêm hoặc bớt đường.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

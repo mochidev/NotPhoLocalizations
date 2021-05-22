@@ -119,6 +119,10 @@
 "chickenGlassNoodleSoup.Subtitle" = "Chicken Glass Noodle Soup";
 "chickenGlassNoodleSoup.AccessibilityPageTitle" = "Chicken Glass Noodle Soup";
 
+/* Avocado Smoothie */
+"avocadoSmoothie.Subtitle" = "Avocado Smoothie";
+"avocadoSmoothie.AccessibilityPageTitle" = "Avocado Smoothie";
+
 
 // MARK: Recipes Tab
 

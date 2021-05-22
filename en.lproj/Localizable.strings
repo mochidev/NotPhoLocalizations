@@ -2745,6 +2745,88 @@
 "ChickenGlassNoodleSoup.HowTo.2.Accessibility" = "You can also substitute the glass noodles with pasta.";
 
 
+// MARK: Sinh To Bo (Avocado Smoothie) Page
+
+/* Avocado Smoothie Introduction 1 */
+"AvocadoSmoothie.Introduction.1" = "##Sinh Tố Bơ## (avocado smoothie) is a rich and creamy drink. It definitely has a unique flavor, especially  if you are not used to having your avocado sweet, but it’s very tasty once you like it.";
+
+/* Avocado Smoothie Introduction 1 (VoiceOver) */
+"AvocadoSmoothie.Introduction.1.Accessibility" = "Avocado smoothie is a rich and creamy drink. It definitely has a unique flavor, especially  if you are not used to having your avocado sweet, but it’s very tasty once you like it.";
+
+/* Avocado Smoothie Introduction 2 */
+"AvocadoSmoothie.Introduction.2" = "This recipe serves one (1¾ cups or 415 ml).";
+
+/* Avocado Smoothie Ingredients Avocado Amount */
+"AvocadoSmoothie.Ingredients.Avocado.Amount.us" = "½ medium fruit";
+"AvocadoSmoothie.Ingredients.Avocado.Amount.metric" = "65-70 g";
+
+/* Avocado Smoothie Ingredients Avocado Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.Avocado.AccessibilityAmount.us" = "half a medium sized fruit";
+"AvocadoSmoothie.Ingredients.Avocado.AccessibilityAmount.metric" = "65 to 70 grams";
+
+/* Avocado Smoothie Ingredients Half And Half Milk Amount */
+"AvocadoSmoothie.Ingredients.HalfAndHalfMilk.Amount" = "2-3 tbsp";
+
+/* Avocado Smoothie Ingredients Half And Half Milk Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.HalfAndHalfMilk.AccessibilityAmount" = "2 to 3 tablespoons";
+
+/* Avocado Smoothie Ingredients Condensed Milk Amount */
+"AvocadoSmoothie.Ingredients.CondensedMilk.Amount" = "2 tbsp";
+
+/* Avocado Smoothie Ingredients Condensed Milk Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.CondensedMilk.AccessibilityAmount" = "2 tablespoons";
+
+/* Avocado Smoothie Ingredients Sugar Amount */
+"AvocadoSmoothie.Ingredients.Sugar.Amount" = "2 tbsp";
+
+/* Avocado Smoothie Ingredients Sugar Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.Sugar.AccessibilityAmount" = "2 tablespoons";
+
+/* Avocado Smoothie Ingredients Ice Amount */
+"AvocadoSmoothie.Ingredients.Ice.Amount.us" = "2 cups";
+"AvocadoSmoothie.Ingredients.Ice.Amount.metric" = "240-250 g";
+
+/* Avocado Smoothie Ingredients Ice Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.us" = "2 cups";
+"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.metric" = "240 to 250 grams";
+
+/* Avocado Smoothie Instructions Step 1 Part 1 */
+"AvocadoSmoothie.Instructions.Step.1.Part.1" = "Add all the ingredients to the blender.";
+
+/* Avocado Smoothie Instructions Step 1 Part 1 (VoiceOver) */
+"AvocadoSmoothie.Instructions.Step.1.Part.1.Accessibility" = "Add all the ingredients to the blender.";
+
+/* Avocado Smoothie Instructions Step 1 Part 2 */
+"AvocadoSmoothie.Instructions.Step.1.Part.2" = "Blend until everything is mixed, then serve.";
+
+/* Avocado Smoothie Instructions Step 1 Part 2 (VoiceOver) */
+"AvocadoSmoothie.Instructions.Step.1.Part.2.Accessibility" = "Blend until everything is mixed, then serve.";
+
+/* Avocado Smoothie Tips 1 */
+"AvocadoSmoothie.Tips.1" = "If you don't have a powerful enough blender, blend the ingredients in steps: starting with the ##Nước Đá## (ice), then ##Trái Bơ## (avocado), and so on.";
+
+/* Avocado Smoothie Tips 1 (VoiceOver) */
+"AvocadoSmoothie.Tips.1.Accessibility" = "If you don't have a powerful enough blender, blend the ingredients in steps: starting with the ice, then avocado, and so on.";
+
+/* Avocado Smoothie Tips 2 */
+"AvocadoSmoothie.Tips.2" = "You can substitute ##Sữa Tươi## (Half and Half milk) with regular milk or water; you just need a little bit of liquid to help blend the ##Trái Bơ## (avocado).";
+
+/* Avocado Smoothie Tips 2 (VoiceOver) */
+"AvocadoSmoothie.Tips.2.Accessibility" = "You can substitute Half and Half milk with regular milk or water; you just need a little bit of liquid to help blend the avocado.";
+
+/* Avocado Smoothie Tips 3 */
+"AvocadoSmoothie.Tips.3" = "The ##Sữa Đặc## (condensed milk) gives the smoothie a sweet and creamy flavor, but you can substitute it with ##Đường## (sugar).";
+
+/* Avocado Smoothie Tips 3 (VoiceOver) */
+"AvocadoSmoothie.Tips.3.Accessibility" = "The condensed milk gives the smoothie a sweet and creamy flavor, but you can substitute it with sugar.";
+
+/* Avocado Smoothie Tips 4 */
+"AvocadoSmoothie.Tips.4" = "You can adjust the sweetness of the smoothie by adding or removing ##Đường## (sugar).";
+
+/* Avocado Smoothie Tips 4 (VoiceOver) */
+"AvocadoSmoothie.Tips.4.Accessibility" = "You can adjust the sweetness of the smoothie by adding or removing sugar.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

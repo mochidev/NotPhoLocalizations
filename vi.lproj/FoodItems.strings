@@ -143,6 +143,12 @@
 "chickenGlassNoodleSoup.AccessibilitySubtitle" = "Bún Miến Gà";
 "chickenGlassNoodleSoup.AccessibilityPageTitle" = "Bún Miến Gà";
 
+/* Avocado Smoothie */
+"avocadoSmoothie.Subtitle" = "Avocado Smoothie";
+"avocadoSmoothie.AccessibilitySubtitle" = "Sinh Tố Bơ";
+"avocadoSmoothie.AccessibilityPageTitle" = "Sinh Tố Bơ";
+
+
 // MARK: Recipes Tab
 
 /* Crepe Batter */
