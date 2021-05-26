@@ -2663,7 +2663,7 @@
 "ChickenGlassNoodleSoup.Instructions.Step.1.Part.1" = "Bring the ##Nước## (water) to a boil in a pot.";
 
 /* Chicken Glass Noodle Soup Instructions Step 1 Part 1 (VoiceOver) */
-"ChickenGlassNoodleSoup.Instructions.Step.1.Part.1.Accessibility" = "Bring the water to a boi in a pot.";
+"ChickenGlassNoodleSoup.Instructions.Step.1.Part.1.Accessibility" = "Bring the water to a boil in a pot.";
 
 /* Chicken Glass Noodle Soup Instructions Step 2 Part 1 */
 "ChickenGlassNoodleSoup.Instructions.Step.2.Part.1" = "Add the ##Đùi Gà Lớn## (chicken drumsticks) to the boiling water.";
@@ -2748,13 +2748,14 @@
 // MARK: Sinh To Bo (Avocado Smoothie) Page
 
 /* Avocado Smoothie Introduction 1 */
-"AvocadoSmoothie.Introduction.1" = "##Sinh Tố Bơ## (avocado smoothie) is a rich and creamy drink. It definitely has a unique flavor, especially  if you are not used to having your avocado sweet, but it’s very tasty once you like it.";
+"AvocadoSmoothie.Introduction.1" = "##Sinh Tố Bơ## (avocado smoothie) is a rich and creamy drink. It definitely has a unique flavor, especially if you are not used to having your avocados sweet, but it’s very tasty once it grows on you.";
 
 /* Avocado Smoothie Introduction 1 (VoiceOver) */
-"AvocadoSmoothie.Introduction.1.Accessibility" = "Avocado smoothie is a rich and creamy drink. It definitely has a unique flavor, especially  if you are not used to having your avocado sweet, but it’s very tasty once you like it.";
+"AvocadoSmoothie.Introduction.1.Accessibility" = "Avocado smoothie is a rich and creamy drink. It definitely has a unique flavor, especially if you are not used to having your avocados sweet, but it’s very tasty once it grows on you.";
 
 /* Avocado Smoothie Introduction 2 */
-"AvocadoSmoothie.Introduction.2" = "This recipe serves one (1¾ cups or 415 ml).";
+"AvocadoSmoothie.Introduction.2.us" = "This recipe serves one (1¾ cups).";
+"AvocadoSmoothie.Introduction.2.metric" = "This recipe serves one (415 ml).";
 
 /* Avocado Smoothie Ingredients Avocado Amount */
 "AvocadoSmoothie.Ingredients.Avocado.Amount.us" = "½ medium fruit";
