@@ -4849,7 +4849,8 @@
 "FriedCrispyShallots.Introduction.1.Accessibility" = "Fried crispy shallots are a tasty garnish that is used in lots of Vietnamese dishes. They add a nice finish to a dish, and they are also delicious when eaten as a snack.";
 
 /* Fried Crispy Shallots Introduction 2 */
-"FriedCrispyShallots.Introduction.2" = "This recipe yields 50-60 g.";
+"FriedCrispyShallots.Introduction.2.us" = "This recipe yields 4 tablespoons.";
+"FriedCrispyShallots.Introduction.2.metric" = "This recipe yields 10-20 grams.";
 
 /* Fried Crispy Shallots Ingredients Shallot Amount */
 "FriedCrispyShallots.Shallot.Amount.us" = "2 bulbs";

@@ -2792,7 +2792,8 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "AvocadoSmoothie.Introduction.1.Accessibility" = "Sinh tố bơ là một thức uống rất là béo và ngọt. Nó có một mùi vị rất khác thương nếu bạn không quen ăn trái bơ nhưng khi bạn quen rồi thì nó rất ngon.";
 
 /* Avocado Smoothie Introduction 2 */
-"AvocadoSmoothie.Introduction.2" = "Công thức này làm cho một người uống (415 ml).";
+"AvocadoSmoothie.Introduction.2.us" = "Công thức này làm cho một người uống (1¾ cốc).";
+"AvocadoSmoothie.Introduction.2.metric" = "Công thức này làm cho một người uống (415 ml).";
 
 /* Avocado Smoothie Ingredients Avocado Amount */
 "AvocadoSmoothie.Ingredients.Avocado.Amount.us" = "½ trái trung bình";
@@ -4931,7 +4932,8 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "FriedCrispyShallots.Introduction.1.Accessibility" = "Hành phi là món phụ gia không thể thiếu cho những món ăn Việt Nam.";
 
 /* Fried Crispy Shallots Introduction 2 */
-"FriedCrispyShallots.Introduction.2" = "Công thức này làm khoảng 50-60 g.";
+"FriedCrispyShallots.Introduction.2.us" = "Công thức này làm khoảng 4 tbsp.";
+"FriedCrispyShallots.Introduction.2.metric" = "Công thức này làm khoảng 10-20 gờ ram.";
 
 /* Fried Crispy Shallots Ingredients Shallot Amount */
 "FriedCrispyShallots.Shallot.Amount.us" = "2 củ";
