@@ -2828,6 +2828,95 @@
 "AvocadoSmoothie.Tips.4.Accessibility" = "You can adjust the sweetness of the smoothie by adding or removing sugar.";
 
 
+// MARK: Sinh To Xoai (Mango Smoothie) Page
+
+/* Mango Smoothie Introduction 1 */
+"MangoSmoothie.Introduction.1" = "##Sinh Tố Xoài## (mango smoothie) is a sweet and creamy drink. It is a nice smoothie to have during the summer.";
+
+/* Mango Smoothie Introduction 1 (VoiceOver) */
+"MangoSmoothie.Introduction.1.Accessibility" = "Mango smoothie is a sweet and creamy drink. It is a nice smoothie to have during the summer.";
+
+/* Mango Smoothie Introduction 2 */
+"MangoSmoothie.Introduction.2.us" = "This recipe serves one (about 14 fl oz).";
+"MangoSmoothie.Introduction.2.metric" = "This recipe serves one (about 415 ml).";
+
+/* Mango Smoothie Ingredients Mango Amount */
+"MangoSmoothie.Ingredients.Mango.Amount.us" = "5 oz";
+"MangoSmoothie.Ingredients.Mango.Amount.metric" = "140 g";
+
+/* Mango Smoothie Ingredients Mango Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.Mango.AccessibilityAmount.us" = "5 ounces";
+"MangoSmoothie.Ingredients.Mango.AccessibilityAmount.metric" = "140 grams";
+
+/* Mango Smoothie Ingredients Condensed Milk Amount */
+"MangoSmoothie.Ingredients.CondensedMilk.Amount" = "2 tbsp";
+
+/* Mango Smoothie Ingredients Condensed Milk Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.CondensedMilk.AccessibilityAmount" = "2 tablespoons";
+
+/* Mango Smoothie Ingredients Sugar Amount */
+"MangoSmoothie.Ingredients.Sugar.Amount" = "2 tbsp";
+
+/* Mango Smoothie Ingredients Sugar Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.Sugar.AccessibilityAmount" = "2 tablespoons";
+
+/* Mango Smoothie Ingredients Ice Amount */
+"MangoSmoothie.Ingredients.Ice.Amount.us" = "7 oz";
+"MangoSmoothie.Ingredients.Ice.Amount.metric" = "200 g";
+
+/* Mango Smoothie Ingredients Ice Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.Ice.AccessibilityAmount.us" = "7 ounces";
+"MangoSmoothie.Ingredients.Ice.AccessibilityAmount.metric" = "200 grams";
+
+/* Mango Smoothie Instructions Step 1 Part 1 */
+"MangoSmoothie.Instructions.Step.1.Part.1" = "Peel the ##Trái Xoài## (mango) and cut it into small pieces.";
+
+/* Mango Smoothie Instructions Step 1 Part 1 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.1.Part.1.Accessibility" = "Peel the mango and cut it into small pieces.";
+
+/* Mango Smoothie Instructions Step 1 Note 1 */
+"MangoSmoothie.Instructions.Step.1.Note.1" = "The riper the fruit is, the sweeter it is, then you don’t need to add too much sugar.";
+
+/* Mango Smoothie Instructions Step 1 Note 1 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.1.Note.1.Accessibility" = "The riper the fruit is, the sweeter it is, then you don’t need to add too much sugar.";
+
+/* Mango Smoothie Instructions Step 1 Note 2 */
+"MangoSmoothie.Instructions.Step.1.Note.2" = "If you have extra mangos leftover, you can freeze them for next time.";
+
+/* Mango Smoothie Instructions Step 1 Note 2 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.1.Note.2.Accessibility" = "If you have extra mangos leftover, you can freeze them for next time.";
+
+/* Mango Smoothie Instructions Step 2 Part 1 */
+"MangoSmoothie.Instructions.Step.2.Part.1" = "Add all the ingredients to the blender.";
+
+/* Mango Smoothie Instructions Step 2 Part 1 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.2.Part.1.Accessibility" = "Add all the ingredients to the blender.";
+
+/* Mango Smoothie Instructions Step 2 Part 2 */
+"MangoSmoothie.Instructions.Step.2.Part.2" = "Blend until everything is mixed, then serve.";
+
+/* Mango Smoothie Instructions Step 2 Part 2 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.2.Part.2.Accessibility" = "Blend until everything is mixed, then serve.";
+
+/* Mango Smoothie Tips 1 */
+"MangoSmoothie.Tips.1" = "If you don't have a powerful enough blender, blend the ingredients in steps: starting with the ##Nước Đá## (ice), then ##Trái Xoài## (mango), and so on.";
+
+/* Mango Smoothie Tips 1 (VoiceOver) */
+"MangoSmoothie.Tips.1.Accessibility" = "If you don't have a powerful enough blender, blend the ingredients in steps: starting with the ice, then mango, and so on.";
+
+/* Mango Smoothie Tips 2 */
+"MangoSmoothie.Tips.2" = "The ##Sữa Đặc## (condensed milk) gives the smoothie a sweet and creamy flavor, but you can substitute it with ##Đường## (sugar).";
+
+/* Mango Smoothie Tips 2 (VoiceOver) */
+"MangoSmoothie.Tips.2.Accessibility" = "The condensed milk gives the smoothie a sweet and creamy flavor, but you can substitute it with sugar.";
+
+/* Mango Smoothie Tips 3 */
+"MangoSmoothie.Tips.3" = "You can adjust the sweetness of the smoothie by adding or removing ##Đường## (sugar).";
+
+/* Mango Smoothie Tips 3 (VoiceOver) */
+"MangoSmoothie.Tips.3.Accessibility" = "You can adjust the sweetness of the smoothie by adding or removing sugar.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

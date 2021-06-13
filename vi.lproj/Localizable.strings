@@ -2869,6 +2869,97 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "AvocadoSmoothie.Tips.4.Accessibility" = "Bạn có thể điều chỉnh độ ngọt của sinh tố bằng cách thêm hoặc bớt đường.";
 
 
+// MARK: Sinh To Xoai (Mango Smoothie) Page
+
+/* Mango Smoothie Introduction 1 */
+"MangoSmoothie.Introduction.1" = "##Sinh Tố Xoài## (mango smoothie) là một thức uống rất là béo và ngọt. Nó rất thích hợp uống vào trong mùa hè.";
+
+/* Mango Smoothie Introduction 1 (VoiceOver) */
+"MangoSmoothie.Introduction.1.Accessibility" = "Sinh Tố Xoài là một thức uống rất là béo và ngọt. Nó rất thích hợp uống vào trong mùa hè.";
+
+/* Mango Smoothie Introduction 2 */
+"MangoSmoothie.Introduction.2.us" = "Công thức này làm cho một người uống (14 fl oz).";
+"MangoSmoothie.Introduction.2.metric" = "Công thức này làm cho một người uống (415 ml).";
+
+/* Mango Smoothie Ingredients Mango Amount */
+"MangoSmoothie.Ingredients.Mango.Amount.us" = "5 oz";
+"MangoSmoothie.Ingredients.Mango.Amount.metric" = "140 g";
+
+/* Mango Smoothie Ingredients Mango Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.Mango.AccessibilityAmount.us" = "5 aoxơ";
+"MangoSmoothie.Ingredients.Mango.AccessibilityAmount.metric" = "140 gờ ram";
+
+/* Mango Smoothie Ingredients Condensed Milk Amount */
+"MangoSmoothie.Ingredients.CondensedMilk.Amount.us" = "2 tbsp";
+"MangoSmoothie.Ingredients.CondensedMilk.Amount.metric" = "2 muỗng canh";
+
+/* Mango Smoothie Ingredients Condensed Milk Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.CondensedMilk.AccessibilityAmount" = "2 muỗng canh";
+
+/* Mango Smoothie Ingredients Sugar Amount */
+"MangoSmoothie.Ingredients.Sugar.Amount.us" = "2 tbsp";
+"MangoSmoothie.Ingredients.Sugar.Amount.metric" = "2 muỗng canh";
+
+/* Mango Smoothie Ingredients Sugar Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.Sugar.AccessibilityAmount" = "2 muỗng canh";
+
+/* Mango Smoothie Ingredients Ice Amount */
+"MangoSmoothie.Ingredients.Ice.Amount.us" = "7 oz";
+"MangoSmoothie.Ingredients.Ice.Amount.metric" = "200 g";
+
+/* Mango Smoothie Ingredients Ice Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.Ice.AccessibilityAmount.us" = "7 aoxơ";
+"MangoSmoothie.Ingredients.Ice.AccessibilityAmount.metric" = "200 gờ ram";
+
+/* Mango Smoothie Instructions Step 1 Part 1 */
+"MangoSmoothie.Instructions.Step.1.Part.1" = "Lột vỏ ##Trái Xoài## (mango) và cắt thành từng miếng nhỏ.";
+
+/* Mango Smoothie Instructions Step 1 Part 1 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.1.Part.1.Accessibility" = "Lột vỏ Trái Xoài và cắt thành từng miếng nhỏ.";
+
+/* Mango Smoothie Instructions Step 1 Note 1 */
+"MangoSmoothie.Instructions.Step.1.Note.1" = "Nếu ##Trái Xoài## (mango) được chín thì độ ngọt của ##Trái Xoài## (mango) sẽ cao hơn thì bạn không cần phải cho nhiều đường.";
+
+/* Mango Smoothie Instructions Step 1 Note 1 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.1.Note.1.Accessibility" = "Nếu Trái Xoài được chín thì độ ngọt của Trái Xoài sẽ cao hơn thì bạn không cần phải cho nhiều đường.";
+
+/* Mango Smoothie Instructions Step 1 Note 2 */
+"MangoSmoothie.Instructions.Step.1.Note.2" = "Nếu bạn có ##Trái Xoài## (mango) dư thì có thể để đồng đá để dùng lần sau.";
+
+/* Mango Smoothie Instructions Step 1 Note 2 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.1.Note.2.Accessibility" = "Nếu bạn có Trái Xoài dư thì có thể để đồng đá để dùng lần sau.";
+
+/* Mango Smoothie Instructions Step 2 Part 1 */
+"MangoSmoothie.Instructions.Step.2.Part.1" = "Cho tất cả các nguyên liệu vào máy xay.";
+
+/* Mango Smoothie Instructions Step 2 Part 1 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.2.Part.1.Accessibility" = "Cho tất cả các nguyên liệu vào máy xay.";
+
+/* Mango Smoothie Instructions Step 2 Part 2 */
+"MangoSmoothie.Instructions.Step.2.Part.2" = "Xay cho đến tất cả nguyên liệu được chọn đều sau đó đổ vào ly uống.";
+
+/* Mango Smoothie Instructions Step 2 Part 2 (VoiceOver) */
+"MangoSmoothie.Instructions.Step.2.Part.2.Accessibility" = "Xay cho đến tất cả nguyên liệu được chọn đều sau đó đổ vào ly uống.";
+
+/* Mango Smoothie Tips 1 */
+"MangoSmoothie.Tips.1" = "Nếu bạn không có máy xay đủ mạnh thì xay các nguyên liệu từ bước: bắt đầu với ##Nước Đá## (ice), sau đó là ##Trái Xoài## (mango), sau đó mới cho các đường vào.";
+
+/* Mango Smoothie Tips 1 (VoiceOver) */
+"MangoSmoothie.Tips.1.Accessibility" = "Nếu bạn không có máy xay đủ mạnh thì xay các nguyên liệu từ bước: bắt đầu với nước đá, sau đó là trái xoài, sau đó mới cho các đường vào.";
+
+/* Mango Smoothie Tips 2 */
+"MangoSmoothie.Tips.2" = "The ##Sữa Đặc## (condensed milk) giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng ##Đường## (sugar).";
+
+/* Mango Smoothie Tips 2 (VoiceOver) */
+"MangoSmoothie.Tips.2.Accessibility" = "Sữa đặc giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng đường";
+
+/* Mango Smoothie Tips 3 */
+"MangoSmoothie.Tips.3" = "Bạn có thể điều chỉnh độ ngọt của sinh tố bằng cách thêm hoặc bớt ##Đường## (sugar).";
+
+/* Mango Smoothie Tips 3 (VoiceOver) */
+"MangoSmoothie.Tips.3.Accessibility" = "Bạn có thể điều chỉnh độ ngọt của sinh tố bằng cách thêm hoặc bớt đường.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

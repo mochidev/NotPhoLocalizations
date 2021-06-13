@@ -123,6 +123,10 @@
 "avocadoSmoothie.Subtitle" = "Avocado Smoothie";
 "avocadoSmoothie.AccessibilityPageTitle" = "Avocado Smoothie";
 
+/* Mango Smoothie */
+"mangoSmoothie.Subtitle" = "Mango Smoothie";
+"mangoSmoothie.AccessibilityPageTitle" = "Mango Smoothie";
+
 
 // MARK: Recipes Tab
 

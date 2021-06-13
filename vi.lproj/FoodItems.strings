@@ -148,6 +148,11 @@
 "avocadoSmoothie.AccessibilitySubtitle" = "Sinh Tố Bơ";
 "avocadoSmoothie.AccessibilityPageTitle" = "Sinh Tố Bơ";
 
+/* Mango Smoothie */
+"mangoSmoothie.Subtitle" = "Mango Smoothie";
+"mangoSmoothie.AccessibilitySubtitle" = "Sinh Tố Xoài";
+"mangoSmoothie.AccessibilityPageTitle" = "Sinh Tố Xoài";
+
 
 // MARK: Recipes Tab
 
