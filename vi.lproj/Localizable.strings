@@ -2792,7 +2792,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "AvocadoSmoothie.Introduction.1.Accessibility" = "Sinh tố bơ là một thức uống rất là béo và ngọt. Nó có một mùi vị rất khác thương nếu bạn không quen ăn trái bơ nhưng khi bạn quen rồi thì nó rất ngon.";
 
 /* Avocado Smoothie Introduction 2 */
-"AvocadoSmoothie.Introduction.2.us" = "Công thức này làm cho một người uống (1¾ cốc).";
+"AvocadoSmoothie.Introduction.2.us" = "Công thức này làm cho một người uống (14 fl oz).";
 "AvocadoSmoothie.Introduction.2.metric" = "Công thức này làm cho một người uống (415 ml).";
 
 /* Avocado Smoothie Ingredients Avocado Amount */
@@ -2825,12 +2825,12 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "AvocadoSmoothie.Ingredients.Sugar.AccessibilityAmount" = "2 muỗng canh";
 
 /* Avocado Smoothie Ingredients Ice Amount */
-"AvocadoSmoothie.Ingredients.Ice.Amount.us" = "2 cốc";
-"AvocadoSmoothie.Ingredients.Ice.Amount.metric" = "240-250 g";
+"AvocadoSmoothie.Ingredients.Ice.Amount.us" = "7 oz";
+"AvocadoSmoothie.Ingredients.Ice.Amount.metric" = "200 g";
 
 /* Avocado Smoothie Ingredients Ice Amount (VoiceOver) */
-"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.us" = "2 cốc";
-"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.metric" = "240 đến 250 gờ ram";
+"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.us" = "7 aoxơ";
+"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.metric" = "200 gờ ram";
 
 /* Avocado Smoothie Instructions Step 1 Part 1 */
 "AvocadoSmoothie.Instructions.Step.1.Part.1" = "Cho tất cả các nguyên liệu vào máy xay.";
@@ -2848,7 +2848,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "AvocadoSmoothie.Tips.1" = "Nếu bạn không có máy xay đủ mạnh thì xay các nguyên liệu từ bước: bắt đầu với ##Nước Đá## (ice), sau đó là ##Trái Bơ## (avocado), sau đó mới cho các đường vào.";
 
 /* Avocado Smoothie Tips 1 (VoiceOver) */
-"AvocadoSmoothie.Tips.1.Accessibility" = "Nếu bạn không có máy xay đủ mạnh thì xay các nguyên liệu từ bước: bắt đầu với nước đá, sau đó là bờ, sau đó mới cho các đường vào.";
+"AvocadoSmoothie.Tips.1.Accessibility" = "Nếu bạn không có máy xay đủ mạnh thì xay các nguyên liệu từ bước: bắt đầu với nước đá, sau đó là trái bờ, sau đó mới cho các đường vào.";
 
 /* Avocado Smoothie Tips 2 */
 "AvocadoSmoothie.Tips.2" = "Bạn có thể thay thế ##Sữa Tươi## (Half and Half milk) bằng nước.";

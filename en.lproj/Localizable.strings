@@ -2754,8 +2754,8 @@
 "AvocadoSmoothie.Introduction.1.Accessibility" = "Avocado smoothie is a rich and creamy drink. It definitely has a unique flavor, especially if you are not used to having your avocados sweet, but it’s very tasty once it grows on you.";
 
 /* Avocado Smoothie Introduction 2 */
-"AvocadoSmoothie.Introduction.2.us" = "This recipe serves one (1¾ cups).";
-"AvocadoSmoothie.Introduction.2.metric" = "This recipe serves one (415 ml).";
+"AvocadoSmoothie.Introduction.2.us" = "This recipe serves one (about 14 fl oz).";
+"AvocadoSmoothie.Introduction.2.metric" = "This recipe serves one (about 415 ml).";
 
 /* Avocado Smoothie Ingredients Avocado Amount */
 "AvocadoSmoothie.Ingredients.Avocado.Amount.us" = "½ medium fruit";
@@ -2784,12 +2784,12 @@
 "AvocadoSmoothie.Ingredients.Sugar.AccessibilityAmount" = "2 tablespoons";
 
 /* Avocado Smoothie Ingredients Ice Amount */
-"AvocadoSmoothie.Ingredients.Ice.Amount.us" = "2 cups";
-"AvocadoSmoothie.Ingredients.Ice.Amount.metric" = "240-250 g";
+"AvocadoSmoothie.Ingredients.Ice.Amount.us" = "7 oz";
+"AvocadoSmoothie.Ingredients.Ice.Amount.metric" = "200 g";
 
 /* Avocado Smoothie Ingredients Ice Amount (VoiceOver) */
-"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.us" = "2 cups";
-"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.metric" = "240 to 250 grams";
+"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.us" = "7 oz";
+"AvocadoSmoothie.Ingredients.Ice.AccessibilityAmount.metric" = "200 grams";
 
 /* Avocado Smoothie Instructions Step 1 Part 1 */
 "AvocadoSmoothie.Instructions.Step.1.Part.1" = "Add all the ingredients to the blender.";
