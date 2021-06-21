@@ -2917,6 +2917,220 @@
 "MangoSmoothie.Tips.3.Accessibility" = "You can adjust the sweetness of the smoothie by adding or removing sugar.";
 
 
+// MARK: Sườn Heo BBQ (BBQ Pork Ribs) Page
+
+/* BBQ Pork Ribs Introduction 1 */
+"BBQPorkRibs.Introduction.1" = "In celebration of July 4th, American Independence Day, I want to share this ##Sườn Heo BBQ## (BBQ pork ribs) recipe with everyone. Even if you don’t celebrate this holiday, it is still a good recipe to try. Although this recipe is not a Vietnamese dish, I learned it from a Vietnamese person at a Vietnamese restaurant, and it’s really delicious so there is no harm in expanding our pallets. So please enjoy this limited time recipe!";
+
+/* BBQ Pork Ribs Introduction 1 (VoiceOver) */
+"BBQPorkRibs.Introduction.1.Accessibility" = "In celebration of July 4th, American Independence Day, I want to share this BBQ pork ribs recipe with everyone. Even if you don’t celebrate this holiday, it is still a good recipe to try. Although this recipe is not a Vietnamese dish, I learned it from a Vietnamese person at a Vietnamese restaurant, and it’s really delicious so there is no harm in expanding our pallets. So please enjoy this limited time recipe!";
+
+/* BBQ Pork Ribs Introduction 2 */
+"BBQPorkRibs.Introduction.2" = "This recipe serves about 5.";
+
+/* BBQ Pork Ribs Ingredients Pork Ribs Amount */
+"BBQPorkRibs.Ingredients.PorkRibs.Amount.us" = "1 rack (about 3.5 lbs with bones)";
+"BBQPorkRibs.Ingredients.PorkRibs.Amount.metric" = "1 rack (about 1.5 kg with bones)";
+
+/* BBQ Pork Ribs Ingredients Pork Ribs Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.PorkRibs.AccessibilityAmount.us" = "1 rack (about 3.5 lbs with bones)";
+"BBQPorkRibs.Ingredients.PorkRibs.AccessibilityAmount.metric" = "1 rack (about 1.5 kg with bones)";
+
+/* BBQ Pork Ribs Ingredients Garlic Powder Amount */
+"BBQPorkRibs.Ingredients.GarlicPowder.Amount" = "½ tbsp";
+
+/* BBQ Pork Ribs Ingredients Garlic Powder Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.GarlicPowder.AccessibilityAmount" = "half a tablespoon";
+
+/* BBQ Pork Ribs Ingredients Onion Powder Amount */
+"BBQPorkRibs.Ingredients.OnionPowder.Amount" = "½ tbsp";
+
+/* BBQ Pork Ribs Ingredients Onion Powder Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.OnionPowder.AccessibilityAmount" = "half a tablespoon";
+
+/* BBQ Pork Ribs Ingredients Italian Herbs Amount */
+"BBQPorkRibs.Ingredients.ItalianHerbs.Amount" = "½ tbsp";
+
+/* BBQ Pork Ribs Ingredients Italian Herbs Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.ItalianHerbs.AccessibilityAmount" = "half a tablespoon";
+
+/* BBQ Pork Ribs Ingredients Salt Amount */
+"BBQPorkRibs.Ingredients.Salt.Amount" = "1 tsp";
+
+/* BBQ Pork Ribs Ingredients Salt Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.Salt.AccessibilityAmount" = "1 teaspoon";
+
+/* BBQ Pork Ribs Ingredients Pepper Amount */
+"BBQPorkRibs.Ingredients.Pepper.Amount" = "¼ tsp";
+
+/* BBQ Pork Ribs Ingredients Pepper Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.Pepper.AccessibilityAmount" = "one quarter teaspoon";
+
+/* BBQ Pork Ribs Ingredients Kraft Original Barbecue Sauce Amount */
+"BBQPorkRibs.Ingredients.KraftOriginalBarbecueSauce.Amount" = "6 tbsp";
+
+/* BBQ Pork Ribs Ingredients Kraft Original Barbecue Sauce Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.KraftOriginalBarbecueSauce.AccessibilityAmount" = "6 tablespoons";
+
+/* BBQ Pork Ribs Ingredients Agave Syrup Amount */
+"BBQPorkRibs.Ingredients.AgaveSyrup.Amount" = "6 tbsp";
+
+/* BBQ Pork Ribs Ingredients Agave Syrup Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.AgaveSyrup.AccessibilityAmount" = "6 tablespoons";
+
+/* BBQ Pork Ribs Ingredients Aluminum Foil Amount */
+"BBQPorkRibs.Ingredients.AluminumFoil.Amount" = "2 tbsp";
+
+/* BBQ Pork Ribs Ingredients Aluminum Foil Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.AluminumFoil.AccessibilityAmount" = "2 tablespoons";
+
+/* BBQ Pork Ribs Instructions Step 1 Part 1 */
+"BBQPorkRibs.Instructions.Step.1.Part.1" = "Cut the ##Sườn Heo## (pork ribs) into 3-bone sections.";
+
+/* BBQ Pork Ribs Instructions Step 1 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.1.Part.1.Accessibility" = "Cut the pork ribs into 3-bone sections.";
+
+/* BBQ Pork Ribs Instructions Step 1 Part 2 */
+"BBQPorkRibs.Instructions.Step.1.Part.2" = "Season the ##Sườn Heo## (pork ribs) with ##Bột Tỏi## (garlic powder), ##Bột Hành Tây## (onion powder), ##Gia Vị Ý## (Italian herbs), ##Muối## (salt), and ##Tiêu Đen## (black pepper).";
+
+/* BBQ Pork Ribs Instructions Step 1 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.1.Part.2.Accessibility" = "Season the pork ribs with garlic powder, onion powder, Italian herbs, salt, and black pepper.";
+
+/* BBQ Pork Ribs Instructions Step 1 Note 1 */
+"BBQPorkRibs.Instructions.Step.1.Note.1" = "If you can’t find ##Gia Vị Ý## (Italian herbs), you can leave them out.";
+
+/* BBQ Pork Ribs Instructions Step 1 Note 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.1.Note.1.Accessibility" = "If you can’t find Italian herbs, you can leave them out.";
+
+/* BBQ Pork Ribs Instructions Step 2 Part 1 */
+"BBQPorkRibs.Instructions.Step.2.Part.1" = "Wrap each piece in ##Giấy Nhôm## (aluminum foil).";
+
+/* BBQ Pork Ribs Instructions Step 2 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.2.Part.1.Accessibility" = "Wrap each piece in aluminum foil.";
+
+/* BBQ Pork Ribs Instructions Step 2 Part 2 */
+"BBQPorkRibs.Instructions.Step.2.Part.2.us" = "Bake in the oven at 275ºF for 4 hours.";
+"BBQPorkRibs.Instructions.Step.2.Part.2.metric" = "Bake in the oven at 135ºC for 4 hours.";
+
+/* BBQ Pork Ribs Instructions Step 2 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.2.Part.2.Accessibility.us" = "Bake in the oven at 275ºF for 4 hours.";
+"BBQPorkRibs.Instructions.Step.2.Part.2.Accessibility.metric" = "Bake in the oven at 135ºC for 4 hours.";
+
+/* BBQ Pork Ribs Instructions Step 2 Note 1 */
+"BBQPorkRibs.Instructions.Step.2.Note.1" = "I like to wrap the ribs concave up so that any meat juice that come out while cooking still submerge the ribs.";
+
+/* BBQ Pork Ribs Instructions Step 2 Note 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.2.Note.1.Accessibility" = "I like to wrap the ribs concave up so that any meat juice that come out while cooking still submerge the ribs.";
+
+/* BBQ Pork Ribs Instructions Step 3 Part 1 */
+"BBQPorkRibs.Instructions.Step.3.Part.1" = "Mix the ##Nước Sốt BBQ## (barbecue sauce) and ##Mật Cây Thùa## (agave syrup).";
+
+/* BBQ Pork Ribs Instructions Step 3 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Part.1.Accessibility" = "Mix the barbecue sauce and agave syrup.";
+
+/* BBQ Pork Ribs Instructions Step 3 Part 2 */
+"BBQPorkRibs.Instructions.Step.3.Part.2" = "Set the sauce aside for later.";
+
+/* BBQ Pork Ribs Instructions Step 3 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Part.2.Accessibility" = "Set the sauce aside for later.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 1 */
+"BBQPorkRibs.Instructions.Step.3.Note.1" = "To make the sauce tastier, add 1-2 tbsp of the meat juice.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Note.1.Accessibility" = "To make the sauce tastier, add 1 to 2 tablespoons of the meat juice.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 2 */
+"BBQPorkRibs.Instructions.Step.3.Note.2" = "Kraft Original is the most standard of barbecue sauce, but any variety is fine.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Note.2.Accessibility" = "Kraft Original is the most standard of barbecue sauce, but any variety is fine.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 3 */
+"BBQPorkRibs.Instructions.Step.3.Note.3" = "You can substitute ##Mật Cây Thùa## (agave syrup) with honey.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 3 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Note.3.Accessibility" = "You can substitute agave syrup with honey.";
+
+/* BBQ Pork Ribs Instructions Step 4 Part 1 */
+"BBQPorkRibs.Instructions.Step.4.Part.1" = "Once the ##Sườn Heo## (pork ribs) finished cooking, remove the ##Sườn Heo## (pork ribs) from the ##Giấy Nhôm## (aluminum foil).";
+
+/* BBQ Pork Ribs Instructions Step 4 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.4.Part.1.Accessibility" = "Once the pork ribs finished cooking, remove the pork ribs from the aluminum foil.";
+
+/* BBQ Pork Ribs Instructions Step 4 Part 2 */
+"BBQPorkRibs.Instructions.Step.4.Part.2" = "Place the ##Sườn Heo## (pork ribs), concave up this time, on a baking tray.";
+
+/* BBQ Pork Ribs Instructions Step 4 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.4.Part.2.Accessibility" = "Place the pork ribs, concave up this time, on a baking tray.";
+
+/* BBQ Pork Ribs Instructions Step 5 Part 1 */
+"BBQPorkRibs.Instructions.Step.5.Part.1" = "Brush on the mixed ##Nước Sốt BBQ## (barbecue sauce) and broil in the oven for 5 minutes.";
+
+/* BBQ Pork Ribs Instructions Step 5 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.5.Part.1.Accessibility" = "Brush on the mixed barbecue sauce and broil in the oven for 5 minutes.";
+
+/* BBQ Pork Ribs Instructions Step 5 Part 2 */
+"BBQPorkRibs.Instructions.Step.5.Part.2" = "Repeat this step for 1-2 more times until there is a nice layer of caramelized barbecue sauce on top.";
+
+/* BBQ Pork Ribs Instructions Step 5 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.5.Part.2.Accessibility" = "Repeat this step for 1-2 more times until there is a nice layer of caramelized barbecue sauce on top.";
+
+/* BBQ Pork Ribs Instructions Step 5 Note 1 */
+"BBQPorkRibs.Instructions.Step.5.Note.1" = "You can also use a barbecue grill.";
+
+/* BBQ Pork Ribs Instructions Step 5 Note 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.5.Note.1.Accessibility" = "You can also use a barbecue grill.";
+
+/* BBQ Pork Ribs Tips 1 */
+"BBQPorkRibs.Tips.1" = "If you know you will have leftovers, don’t remove the cooked ##Sườn Heo## (pork ribs) from the ##Giấy Nhôm## (aluminum foil).";
+
+/* BBQ Pork Ribs Tips 1 (VoiceOver) */
+"BBQPorkRibs.Tips.1.Accessibility" = "If you know you will have leftovers, don’t remove the cooked pork ribs from the aluminum foil.";
+
+/* BBQ Pork Ribs Tips 2 */
+"BBQPorkRibs.Tips.2" = "Let the ##Sườn Heo## (pork ribs) cool completely then place the aluminum wrapped ribs in a ziplock bag.";
+
+/* BBQ Pork Ribs Tips 2 (VoiceOver) */
+"BBQPorkRibs.Tips.2.Accessibility" = "Let the pork ribs cool completely then place the aluminum wrapped ribs in a ziplock bag.";
+
+/* BBQ Pork Ribs Tips 3 */
+"BBQPorkRibs.Tips.3" = "Store the ##Sườn Heo## (pork ribs) in the freezer.";
+
+/* BBQ Pork Ribs Tips 3 (VoiceOver) */
+"BBQPorkRibs.Tips.3.Accessibility" = "Store the pork ribs in the freezer.";
+
+/* BBQ Pork Ribs Tips 4 */
+"BBQPorkRibs.Tips.4" = "Label and date the ziplock so you will know next time how long they have been in the freezer.";
+
+/* BBQ Pork Ribs Tips 4 (VoiceOver) */
+"BBQPorkRibs.Tips.4.Accessibility" = "Label and date the ziplock so you will know next time how long they have been in the freezer.";
+
+/* BBQ Pork Ribs Tips 5 */
+"BBQPorkRibs.Tips.5" = "When you want to eat the ##Sườn Heo## (pork ribs), remove them from the ##Giấy Nhôm## (aluminum foil).";
+
+/* BBQ Pork Ribs Tips 5 (VoiceOver) */
+"BBQPorkRibs.Tips.5.Accessibility" = "When you want to eat the pork ribs, remove them from the aluminum foil.";
+
+/* BBQ Pork Ribs Tips 6 */
+"BBQPorkRibs.Tips.6" = "Microwave the ##Sườn Heo## (pork ribs) for 2-3 minutes to warm up.";
+
+/* BBQ Pork Ribs Tips 6 (VoiceOver) */
+"BBQPorkRibs.Tips.6.Accessibility" = "Microwave the pork ribs for 2-3 minutes to warm up.";
+
+/* BBQ Pork Ribs Tips 7 */
+"BBQPorkRibs.Tips.7" = "Repeat steps 4 and 5 from the instructions.";
+
+/* BBQ Pork Ribs Tips 7 (VoiceOver) */
+"BBQPorkRibs.Tips.7.Accessibility" = "Repeat steps 4 and 5 from the instructions.";
+
+/* BBQ Pork Ribs How To 1 */
+"BBQPorkRibs.HowTo.1" = "Enjoy these ##Sườn Heo BBQ## (BBQ pork ribs) with salad or rice.";
+
+/* BBQ Pork Ribs How To 1 (VoiceOver) */
+"BBQPorkRibs.HowTo.1.Accessibility" = "Enjoy these BBQ pork ribs with salad or rice.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

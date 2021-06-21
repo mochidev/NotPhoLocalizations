@@ -2960,6 +2960,228 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "MangoSmoothie.Tips.3.Accessibility" = "Bạn có thể điều chỉnh độ ngọt của sinh tố bằng cách thêm hoặc bớt đường.";
 
 
+// MARK: Sườn Heo BBQ (BBQ Pork Ribs) Page
+
+/* BBQ Pork Ribs Introduction 1 */
+"BBQPorkRibs.Introduction.1" = "Để chúc mừng ngày lễ quốc khánh của nước Mỹ (Independence Day, July 4th) mình muốn chia sẽ với các bạn một bí quyết làm món ##Sườn Heo BBQ## (BBQ pork ribs). Tùy món ăn này không phải món ăn Việt Nam nhưng nó rất ngon. Món ăn này mình chỉ chia sẽ trong khoảng thời gian ngắn cho nên mời các bạn nấu thử ăn.";
+
+/* BBQ Pork Ribs Introduction 1 (VoiceOver) */
+"BBQPorkRibs.Introduction.1.Accessibility" = "Để chúc mừng ngày lễ quốc khánh của nước Mỹ (ngày 4 tháng 7) mình muốn chia sẽ với các bạn một bí quyết làm món ##Sườn Heo BBQ## (BBQ pork ribs). Tùy món ăn này không phải món ăn Việt Nam nhưng nó rất ngon. Món ăn này mình chỉ chia sẽ trong khoảng thời gian ngắn cho nên mời các bạn nấu thử ăn.";
+
+/* BBQ Pork Ribs Introduction 2 */
+"BBQPorkRibs.Introduction.2" = "Công thức này làm cho khoảng 5 người ăn.";
+
+/* BBQ Pork Ribs Ingredients Pork Ribs Amount */
+"BBQPorkRibs.Ingredients.PorkRibs.Amount.us" = "3.5 lbs, với xương";
+"BBQPorkRibs.Ingredients.PorkRibs.Amount.metric" = "1.5 kg, với xương";
+
+/* BBQ Pork Ribs Ingredients Pork Ribs Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.PorkRibs.AccessibilityAmount.us" = "3.5 lbs, với xương";
+"BBQPorkRibs.Ingredients.PorkRibs.AccessibilityAmount.metric" = "1.5 kg, với xương";
+
+/* BBQ Pork Ribs Ingredients Garlic Powder Amount */
+"BBQPorkRibs.Ingredients.GarlicPowder.Amount.us" = "½ tbsp";
+"BBQPorkRibs.Ingredients.GarlicPowder.Amount.metric" = "½ muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Garlic Powder Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.GarlicPowder.AccessibilityAmount" = "nửa muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Onion Powder Amount */
+"BBQPorkRibs.Ingredients.OnionPowder.Amount.us" = "½ tbsp";
+"BBQPorkRibs.Ingredients.OnionPowder.Amount.metric" = "½ muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Onion Powder Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.OnionPowder.AccessibilityAmount" = "nửa muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Italian Herbs Amount */
+"BBQPorkRibs.Ingredients.ItalianHerbs.Amount.us" = "½ tbsp";
+"BBQPorkRibs.Ingredients.ItalianHerbs.Amount.metric" = "½ muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Italian Herbs Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.ItalianHerbs.AccessibilityAmount" = "nửa muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Salt Amount */
+"BBQPorkRibs.Ingredients.Salt.Amount.us" = "1 tsp";
+"BBQPorkRibs.Ingredients.Salt.Amount.metric" = "1 muỗng cà phê";
+
+/* BBQ Pork Ribs Ingredients Salt Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.Salt.AccessibilityAmount" = "1 muỗng cà phê";
+
+/* BBQ Pork Ribs Ingredients Pepper Amount */
+"BBQPorkRibs.Ingredients.Pepper.Amount.us" = "¼ tsp";
+"BBQPorkRibs.Ingredients.Pepper.Amount.metric" = "¼ muỗng cà phê";
+
+/* BBQ Pork Ribs Ingredients Pepper Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.Pepper.AccessibilityAmount" = "một phần tư muỗng cà phê";
+
+/* BBQ Pork Ribs Ingredients Kraft Original Barbecue Sauce Amount */
+"BBQPorkRibs.Ingredients.KraftOriginalBarbecueSauce.Amount.us" = "6 tbsp";
+"BBQPorkRibs.Ingredients.KraftOriginalBarbecueSauce.Amount.metric" = "6 muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Kraft Original Barbecue Sauce Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.KraftOriginalBarbecueSauce.AccessibilityAmount" = "6 muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Agave Syrup Amount */
+"BBQPorkRibs.Ingredients.AgaveSyrup.Amount.us" = "6 tbsp";
+"BBQPorkRibs.Ingredients.AgaveSyrup.Amount.metric" = "6 muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Agave Syrup Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.AgaveSyrup.AccessibilityAmount" = "6 muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Aluminum Foil Amount */
+"BBQPorkRibs.Ingredients.AluminumFoil.Amount.us" = "2 tbsp";
+"BBQPorkRibs.Ingredients.AluminumFoil.Amount.metric" = "2 muỗng canh";
+
+/* BBQ Pork Ribs Ingredients Aluminum Foil Amount (VoiceOver) */
+"BBQPorkRibs.Ingredients.AluminumFoil.AccessibilityAmount" = "2 muỗng canh";
+
+/* BBQ Pork Ribs Instructions Step 1 Part 1 */
+"BBQPorkRibs.Instructions.Step.1.Part.1" = "Cắt ##Sườn Heo## (pork ribs) thành từng miếng khoảng 3 khúc xương.";
+
+/* BBQ Pork Ribs Instructions Step 1 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.1.Part.1.Accessibility" = "Cắt Sườn Heo thành từng miếng khoảng 3 khúc xương.";
+
+/* BBQ Pork Ribs Instructions Step 1 Part 2 */
+"BBQPorkRibs.Instructions.Step.1.Part.2" = "Ướp ##Sườn Heo## (pork ribs) với ##Bột Tỏi## (garlic powder), ##Bột Hành Tây## (onion powder), ##Gia Vị Ý## (Italian herbs), ##Muối## (salt), và ##Tiêu Đen## (black pepper).";
+
+/* BBQ Pork Ribs Instructions Step 1 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.1.Part.2.Accessibility" = "Ướp Sườn Heo với Bột Tỏi, Bột Hành Tây, Gia Vị Ý, Muối, và Tiêu Đen.";
+
+/* BBQ Pork Ribs Instructions Step 1 Note 1 */
+"BBQPorkRibs.Instructions.Step.1.Note.1" = "Nếu bạn không tìm được ##Gia Vị Ý## (Italian herbs) thì có thể bỏ nó ra.";
+
+/* BBQ Pork Ribs Instructions Step 1 Note 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.1.Note.1.Accessibility" = "Nếu bạn không tìm được Gia Vị Ý thì có thể bỏ nó ra.";
+
+/* BBQ Pork Ribs Instructions Step 2 Part 1 */
+"BBQPorkRibs.Instructions.Step.2.Part.1" = "Gói từ khúc ##Sườn Heo## (pork ribs) trong ##Giấy Nhôm## (aluminum foil).";
+
+/* BBQ Pork Ribs Instructions Step 2 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.2.Part.1.Accessibility" = "Gói từ khúc Sườn Heo trong Giấy Nhôm.";
+
+/* BBQ Pork Ribs Instructions Step 2 Part 2 */
+"BBQPorkRibs.Instructions.Step.2.Part.2.us" = "Nướng ##Sườn Heo## (pork ribs) trong lò nướng ở nhiệt độ 275ºF cho 4 tiếng đồng hồ.";
+"BBQPorkRibs.Instructions.Step.2.Part.2.metric" = "Nướng ##Sườn Heo## (pork ribs) trong lò nướng ở nhiệt độ 135ºC cho 4 tiếng đồng hồ.";
+
+/* BBQ Pork Ribs Instructions Step 2 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.2.Part.2.Accessibility.us" = "Nướng Sườn Heo trong lò nướng ở nhiệt độ 275ºF cho 4 tiếng đồng hồ.";
+"BBQPorkRibs.Instructions.Step.2.Part.2.Accessibility.metric" = "Nướng Sườn Heo trong lò nướng ở nhiệt độ 135ºC cho 4 tiếng đồng hồ.";
+
+/* BBQ Pork Ribs Instructions Step 2 Note 1 */
+"BBQPorkRibs.Instructions.Step.2.Note.1" = "Khi gói thịt mình thích đặt phần thịt của sườn trực tiếp lên trên giấy nhôm và khi nấu nước thịt sẽ chảy ra và bao quanh thịt thì nó không bị khô.";
+
+/* BBQ Pork Ribs Instructions Step 2 Note 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.2.Note.1.Accessibility" = "Khi gói thịt mình thích đặt phần thịt của sườn trực tiếp lên trên giấy nhôm và khi nấu nước thịt sẽ chảy ra và bao quanh thịt thì nó không bị khô.";
+
+/* BBQ Pork Ribs Instructions Step 3 Part 1 */
+"BBQPorkRibs.Instructions.Step.3.Part.1" = "Khuấy đều ##Nước Sốt BBQ## (barbecue sauce) và ##Mật Cây Thùa## (agave syrup).";
+
+/* BBQ Pork Ribs Instructions Step 3 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Part.1.Accessibility" = "Khuấy đều Nước Sốt BBQ và Mật Cây Thùa.";
+
+/* BBQ Pork Ribs Instructions Step 3 Part 2 */
+"BBQPorkRibs.Instructions.Step.3.Part.2" = "Để nước sốt sang một bên để dùng sau.";
+
+/* BBQ Pork Ribs Instructions Step 3 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Part.2.Accessibility" = "Để nước sốt sang một bên để dùng sau.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 1 */
+"BBQPorkRibs.Instructions.Step.3.Note.1" = "Nếu như muốn nước sót được ngon hơn thì thêm 1-2b muỗng canh nước thịt.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Note.1.Accessibility" = "Nếu như muốn nước sót được ngon hơn thì thêm một đến hai muỗng canh nước thịt.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 2 */
+"BBQPorkRibs.Instructions.Step.3.Note.2" = "Nước sốt ##Kraft Original## là loại mình thường dùng nhưng bạn có thể dùng bất kỳ nhãn hiệu nào.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Note.2.Accessibility" = "Nước sốt Kraft Original là loại mình thường dùng nhưng bạn có thể dùng bất kỳ nhãn hiệu nào.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 3 */
+"BBQPorkRibs.Instructions.Step.3.Note.3" = "Bạn có thể thay thế ##Mật Cây Thùa## (agave syrup) với mật ông.";
+
+/* BBQ Pork Ribs Instructions Step 3 Note 3 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.3.Note.3.Accessibility" = "Bạn có thể thay thế Mật Cây Thùa với mật ông.";
+
+/* BBQ Pork Ribs Instructions Step 4 Part 1 */
+"BBQPorkRibs.Instructions.Step.4.Part.1" = "Sau khi ##Sườn Heo## (pork ribs) đã chín thì lấy khỏi nó từ ##Giấy Nhôm## (aluminum foil).";
+
+/* BBQ Pork Ribs Instructions Step 4 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.4.Part.1.Accessibility" = "Sau khi Sườn Heo đã chín thì lấy khỏi nó từ Giấy Nhôm.";
+
+/* BBQ Pork Ribs Instructions Step 4 Part 2 */
+"BBQPorkRibs.Instructions.Step.4.Part.2" = "Đặt ##Sườn Heo## (pork ribs) lên trên khay nướng, nhưng lần này mình muốn thân hình thịt hướng lên trên.";
+
+/* BBQ Pork Ribs Instructions Step 4 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.4.Part.2.Accessibility" = "Đặt Sườn Heo lên trên khay nướng, nhưng lần này mình muốn thân hình thịt hướng lên trên.";
+
+/* BBQ Pork Ribs Instructions Step 5 Part 1 */
+"BBQPorkRibs.Instructions.Step.5.Part.1" = "Đánh lên nước sót bạn đã pha và bỏ vô lò nướng trở lại và nướng khoảng 5-7 phút.";
+
+/* BBQ Pork Ribs Instructions Step 5 Part 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.5.Part.1.Accessibility" = "Đánh lên nước sót bạn đã pha và bỏ vô lò nướng trở lại và nướng khoảng 5-7 phút.";
+
+/* BBQ Pork Ribs Instructions Step 5 Part 2 */
+"BBQPorkRibs.Instructions.Step.5.Part.2" = "Lặp lại bước này thêm 1-2 lần nữa cho đến khi trên mặt thịt có một lớp sốt đặt kẹo.";
+
+/* BBQ Pork Ribs Instructions Step 5 Part 2 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.5.Part.2.Accessibility" = "Lặp lại bước này thêm 1-2 lần nữa cho đến khi trên mặt thịt có một lớp sốt đặt kẹo.";
+
+/* BBQ Pork Ribs Instructions Step 5 Note 1 */
+"BBQPorkRibs.Instructions.Step.5.Note.1" = "Bạn cũng có thể dùng lò nướng bbq ngoài trời để nướng bước này.";
+
+/* BBQ Pork Ribs Instructions Step 5 Note 1 (VoiceOver) */
+"BBQPorkRibs.Instructions.Step.5.Note.1.Accessibility" = "Bạn cũng có thể dùng lò nướng bbq ngoài trời để nướng bước này.";
+
+/* BBQ Pork Ribs Tips 1 */
+"BBQPorkRibs.Tips.1" = "Nếu bạn dự định không ăn hết ##Sườn Heo## (pork ribs) thì có thể giữ nó trong ##Giấy Nhôm## (aluminum foil).";
+
+/* BBQ Pork Ribs Tips 1 (VoiceOver) */
+"BBQPorkRibs.Tips.1.Accessibility" = "Nếu bạn dự định không ăn hết Sườn Heo thì có thể giữ nó trong Giấy Nhôm.";
+
+/* BBQ Pork Ribs Tips 2 */
+"BBQPorkRibs.Tips.2" = "Sau khi ##Sườn Heo## (pork ribs) gói trong ##Giấy Nhôm## (aluminum foil) nguội lại thì có thể bỏ nó trong túi ziplock để chứa đi.";
+
+/* BBQ Pork Ribs Tips 2 (VoiceOver) */
+"BBQPorkRibs.Tips.2.Accessibility" = "Sau khi Sườn Heo gói trong Giấy Nhôm nguội lại thì có thể bỏ nó trong túi ziplock để chứa đi.";
+
+/* BBQ Pork Ribs Tips 3 */
+"BBQPorkRibs.Tips.3" = "Chứa thịt trong tủ đá.";
+
+/* BBQ Pork Ribs Tips 3 (VoiceOver) */
+"BBQPorkRibs.Tips.3.Accessibility" = "Chứa thịt trong tủ đá.";
+
+/* BBQ Pork Ribs Tips 4 */
+"BBQPorkRibs.Tips.4" = "Đừng quên viết ngày trên túi ziplock để lần sau bạn biết thịt đã trong tủ đá bao lâu rồi.";
+
+/* BBQ Pork Ribs Tips 4 (VoiceOver) */
+"BBQPorkRibs.Tips.4.Accessibility" = "Đừng quên viết ngày trên túi ziplock để lần sau bạn biết thịt đã trong tủ đá bao lâu rồi.";
+
+/* BBQ Pork Ribs Tips 5 */
+"BBQPorkRibs.Tips.5" = "Khi bạn muốn ăn ##Sườn Heo## (pork ribs) thì lấy thịt ra từ tủ đá và lấy bò ##Giấy Nhôm## (aluminum foil).";
+
+/* BBQ Pork Ribs Tips 5 (VoiceOver) */
+"BBQPorkRibs.Tips.5.Accessibility" = "Khi bạn muốn ăn Sườn Heo thì lấy thịt ra từ tủ đá và lấy bò Giấy Nhôm.";
+
+/* BBQ Pork Ribs Tips 6 */
+"BBQPorkRibs.Tips.6" = "Cho ##Sườn Heo## (pork ribs) vào máy quay và quay khoảng 2-3 phút.";
+
+/* BBQ Pork Ribs Tips 6 (VoiceOver) */
+"BBQPorkRibs.Tips.6.Accessibility" = "Cho Sườn Heo vào máy quay và quay khoảng 2-3 phút.";
+
+/* BBQ Pork Ribs Tips 7 */
+"BBQPorkRibs.Tips.7" = "Lập lại cách làm #4 và #5.";
+
+/* BBQ Pork Ribs Tips 7 (VoiceOver) */
+"BBQPorkRibs.Tips.7.Accessibility" = "Lập lại cách làm #4 và #5.";
+
+/* BBQ Pork Ribs How To 1 */
+"BBQPorkRibs.HowTo.1" = "Món ##Sườn Heo BBQ## (BBQ pork ribs) này rất ngon khi ăn với xà lách hoặc cơm trắng.";
+
+/* BBQ Pork Ribs How To 1 (VoiceOver) */
+"BBQPorkRibs.HowTo.1.Accessibility" = "Món ##Sườn Heo BBQ## (BBQ pork ribs) này rất ngon khi ăn với xà lách hoặc cơm trắng.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

@@ -153,6 +153,10 @@
 "mangoSmoothie.AccessibilitySubtitle" = "Sinh Tố Xoài";
 "mangoSmoothie.AccessibilityPageTitle" = "Sinh Tố Xoài";
 
+/* BBQ Pork Ribs */
+"bbqPorkRibs.Subtitle" = "BBQ Pork Ribs";
+"bbqPorkRibs.AccessibilitySubtitle" = "Sườn Heo BBQ";
+"bbqPorkRibs.AccessibilityPageTitle" = "Sườn Heo BBQ";
 
 // MARK: Recipes Tab
 

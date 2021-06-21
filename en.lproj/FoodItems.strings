@@ -127,6 +127,10 @@
 "mangoSmoothie.Subtitle" = "Mango Smoothie";
 "mangoSmoothie.AccessibilityPageTitle" = "Mango Smoothie";
 
+/* BBQ Pork Ribs */
+"bbqPorkRibs.Subtitle" = "BBQ Pork Ribs";
+"bbqPorkRibs.AccessibilityPageTitle" = "BBQ Pork Ribs";
+
 
 // MARK: Recipes Tab
 
