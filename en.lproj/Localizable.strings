@@ -3017,10 +3017,10 @@
 "BBQPorkRibs.Instructions.Step.2.Part.2.Accessibility.metric" = "Bake in the oven at 135ºC for 4 hours.";
 
 /* BBQ Pork Ribs Instructions Step 2 Note 1 */
-"BBQPorkRibs.Instructions.Step.2.Note.1" = "I like to wrap the ribs concave up so that any meat juice that come out while cooking still submerge the ribs.";
+"BBQPorkRibs.Instructions.Step.2.Note.1" = "I like to wrap the ribs concave up so that any meat juice that comes out while cooking will still submerge the ribs.";
 
 /* BBQ Pork Ribs Instructions Step 2 Note 1 (VoiceOver) */
-"BBQPorkRibs.Instructions.Step.2.Note.1.Accessibility" = "I like to wrap the ribs concave up so that any meat juice that come out while cooking still submerge the ribs.";
+"BBQPorkRibs.Instructions.Step.2.Note.1.Accessibility" = "I like to wrap the ribs concave up so that any meat juice that comes out while cooking will still submerge the ribs.";
 
 /* BBQ Pork Ribs Instructions Step 3 Part 1 */
 "BBQPorkRibs.Instructions.Step.3.Part.1" = "Mix the ##Nước Sốt BBQ## (barbecue sauce) and ##Mật Cây Thùa## (agave syrup).";
@@ -3035,16 +3035,16 @@
 "BBQPorkRibs.Instructions.Step.3.Part.2.Accessibility" = "Set the sauce aside for later.";
 
 /* BBQ Pork Ribs Instructions Step 3 Note 1 */
-"BBQPorkRibs.Instructions.Step.3.Note.1" = "To make the sauce tastier, add 1-2 tbsp of the meat juice.";
+"BBQPorkRibs.Instructions.Step.3.Note.1" = "To make the sauce tastier, add 1-2 tbsp of the meat juice from the ribs that finish baking.";
 
 /* BBQ Pork Ribs Instructions Step 3 Note 1 (VoiceOver) */
-"BBQPorkRibs.Instructions.Step.3.Note.1.Accessibility" = "To make the sauce tastier, add 1 to 2 tablespoons of the meat juice.";
+"BBQPorkRibs.Instructions.Step.3.Note.1.Accessibility" = "To make the sauce tastier, add 1 to 2 tablespoons of the meat juice from the ribs that finish baking.";
 
 /* BBQ Pork Ribs Instructions Step 3 Note 2 */
-"BBQPorkRibs.Instructions.Step.3.Note.2" = "Kraft Original is the most standard of barbecue sauce, but any variety is fine.";
+"BBQPorkRibs.Instructions.Step.3.Note.2" = "Kraft Original is the most standard of barbecue sauces, but any variety is fine.";
 
 /* BBQ Pork Ribs Instructions Step 3 Note 2 (VoiceOver) */
-"BBQPorkRibs.Instructions.Step.3.Note.2.Accessibility" = "Kraft Original is the most standard of barbecue sauce, but any variety is fine.";
+"BBQPorkRibs.Instructions.Step.3.Note.2.Accessibility" = "Kraft Original is the most standard of barbecue sauces, but any variety is fine.";
 
 /* BBQ Pork Ribs Instructions Step 3 Note 3 */
 "BBQPorkRibs.Instructions.Step.3.Note.3" = "You can substitute ##Mật Cây Thùa## (agave syrup) with honey.";
@@ -3053,10 +3053,10 @@
 "BBQPorkRibs.Instructions.Step.3.Note.3.Accessibility" = "You can substitute agave syrup with honey.";
 
 /* BBQ Pork Ribs Instructions Step 4 Part 1 */
-"BBQPorkRibs.Instructions.Step.4.Part.1" = "Once the ##Sườn Heo## (pork ribs) finished cooking, remove the ##Sườn Heo## (pork ribs) from the ##Giấy Nhôm## (aluminum foil).";
+"BBQPorkRibs.Instructions.Step.4.Part.1" = "Once the ##Sườn Heo## (pork ribs) finish cooking, remove the ##Sườn Heo## (pork ribs) from the ##Giấy Nhôm## (aluminum foil).";
 
 /* BBQ Pork Ribs Instructions Step 4 Part 1 (VoiceOver) */
-"BBQPorkRibs.Instructions.Step.4.Part.1.Accessibility" = "Once the pork ribs finished cooking, remove the pork ribs from the aluminum foil.";
+"BBQPorkRibs.Instructions.Step.4.Part.1.Accessibility" = "Once the pork ribs finish cooking, remove the pork ribs from the aluminum foil.";
 
 /* BBQ Pork Ribs Instructions Step 4 Part 2 */
 "BBQPorkRibs.Instructions.Step.4.Part.2" = "Place the ##Sườn Heo## (pork ribs), concave up this time, on a baking tray.";
@@ -3071,10 +3071,10 @@
 "BBQPorkRibs.Instructions.Step.5.Part.1.Accessibility" = "Brush on the mixed barbecue sauce and broil in the oven for 5 minutes.";
 
 /* BBQ Pork Ribs Instructions Step 5 Part 2 */
-"BBQPorkRibs.Instructions.Step.5.Part.2" = "Repeat this step for 1-2 more times until there is a nice layer of caramelized barbecue sauce on top.";
+"BBQPorkRibs.Instructions.Step.5.Part.2" = "Repeat this step 1-2 more times until there is a nice layer of caramelized barbecue sauce on top.";
 
 /* BBQ Pork Ribs Instructions Step 5 Part 2 (VoiceOver) */
-"BBQPorkRibs.Instructions.Step.5.Part.2.Accessibility" = "Repeat this step for 1-2 more times until there is a nice layer of caramelized barbecue sauce on top.";
+"BBQPorkRibs.Instructions.Step.5.Part.2.Accessibility" = "Repeat this step 1-2 more times until there is a nice layer of caramelized barbecue sauce on top.";
 
 /* BBQ Pork Ribs Instructions Step 5 Note 1 */
 "BBQPorkRibs.Instructions.Step.5.Note.1" = "You can also use a barbecue grill.";
@@ -3089,10 +3089,10 @@
 "BBQPorkRibs.Tips.1.Accessibility" = "If you know you will have leftovers, don’t remove the cooked pork ribs from the aluminum foil.";
 
 /* BBQ Pork Ribs Tips 2 */
-"BBQPorkRibs.Tips.2" = "Let the ##Sườn Heo## (pork ribs) cool completely then place the aluminum wrapped ribs in a ziplock bag.";
+"BBQPorkRibs.Tips.2" = "Let the ##Sườn Heo## (pork ribs) cool completely then place the aluminum-wrapped ribs in a ziplock bag.";
 
 /* BBQ Pork Ribs Tips 2 (VoiceOver) */
-"BBQPorkRibs.Tips.2.Accessibility" = "Let the pork ribs cool completely then place the aluminum wrapped ribs in a ziplock bag.";
+"BBQPorkRibs.Tips.2.Accessibility" = "Let the pork ribs cool completely then place the aluminum-wrapped ribs in a ziplock bag.";
 
 /* BBQ Pork Ribs Tips 3 */
 "BBQPorkRibs.Tips.3" = "Store the ##Sườn Heo## (pork ribs) in the freezer.";
@@ -3101,10 +3101,10 @@
 "BBQPorkRibs.Tips.3.Accessibility" = "Store the pork ribs in the freezer.";
 
 /* BBQ Pork Ribs Tips 4 */
-"BBQPorkRibs.Tips.4" = "Label and date the ziplock so you will know next time how long they have been in the freezer.";
+"BBQPorkRibs.Tips.4" = "Label and date the ziplock bag so you will know next time how long they have been in the freezer.";
 
 /* BBQ Pork Ribs Tips 4 (VoiceOver) */
-"BBQPorkRibs.Tips.4.Accessibility" = "Label and date the ziplock so you will know next time how long they have been in the freezer.";
+"BBQPorkRibs.Tips.4.Accessibility" = "Label and date the ziplock bag so you will know next time how long they have been in the freezer.";
 
 /* BBQ Pork Ribs Tips 5 */
 "BBQPorkRibs.Tips.5" = "When you want to eat the ##Sườn Heo## (pork ribs), remove them from the ##Giấy Nhôm## (aluminum foil).";
@@ -3113,10 +3113,10 @@
 "BBQPorkRibs.Tips.5.Accessibility" = "When you want to eat the pork ribs, remove them from the aluminum foil.";
 
 /* BBQ Pork Ribs Tips 6 */
-"BBQPorkRibs.Tips.6" = "Microwave the ##Sườn Heo## (pork ribs) for 2-3 minutes to warm up.";
+"BBQPorkRibs.Tips.6" = "Microwave the ##Sườn Heo## (pork ribs) for 2-3 minutes to warm them up.";
 
 /* BBQ Pork Ribs Tips 6 (VoiceOver) */
-"BBQPorkRibs.Tips.6.Accessibility" = "Microwave the pork ribs for 2-3 minutes to warm up.";
+"BBQPorkRibs.Tips.6.Accessibility" = "Microwave the pork ribs for 2-3 minutes to warm them up.";
 
 /* BBQ Pork Ribs Tips 7 */
 "BBQPorkRibs.Tips.7" = "Repeat steps 4 and 5 from the instructions.";
