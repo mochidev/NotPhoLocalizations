@@ -2980,39 +2980,39 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BBQPorkRibs.Ingredients.PorkRibs.AccessibilityAmount.metric" = "1.5 kg, với xương";
 
 /* BBQ Pork Ribs Ingredients Garlic Powder Amount */
-"BBQPorkRibs.Ingredients.GarlicPowder.Amount.us" = "½ tbsp";
-"BBQPorkRibs.Ingredients.GarlicPowder.Amount.metric" = "½ muỗng canh";
+"BBQPorkRibs.Ingredients.GarlicPowder.Amount.us" = "1 tbsp";
+"BBQPorkRibs.Ingredients.GarlicPowder.Amount.metric" = "1 muỗng canh";
 
 /* BBQ Pork Ribs Ingredients Garlic Powder Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.GarlicPowder.AccessibilityAmount" = "nửa muỗng canh";
+"BBQPorkRibs.Ingredients.GarlicPowder.AccessibilityAmount" = "1 muỗng canh";
 
 /* BBQ Pork Ribs Ingredients Onion Powder Amount */
-"BBQPorkRibs.Ingredients.OnionPowder.Amount.us" = "½ tbsp";
-"BBQPorkRibs.Ingredients.OnionPowder.Amount.metric" = "½ muỗng canh";
+"BBQPorkRibs.Ingredients.OnionPowder.Amount.us" = "1 tbsp";
+"BBQPorkRibs.Ingredients.OnionPowder.Amount.metric" = "1 muỗng canh";
 
 /* BBQ Pork Ribs Ingredients Onion Powder Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.OnionPowder.AccessibilityAmount" = "nửa muỗng canh";
+"BBQPorkRibs.Ingredients.OnionPowder.AccessibilityAmount" = "1 muỗng canh";
 
 /* BBQ Pork Ribs Ingredients Italian Herbs Amount */
-"BBQPorkRibs.Ingredients.ItalianHerbs.Amount.us" = "½ tbsp";
-"BBQPorkRibs.Ingredients.ItalianHerbs.Amount.metric" = "½ muỗng canh";
+"BBQPorkRibs.Ingredients.ItalianHerbs.Amount.us" = "1 tbsp";
+"BBQPorkRibs.Ingredients.ItalianHerbs.Amount.metric" = "1 muỗng canh";
 
 /* BBQ Pork Ribs Ingredients Italian Herbs Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.ItalianHerbs.AccessibilityAmount" = "nửa muỗng canh";
+"BBQPorkRibs.Ingredients.ItalianHerbs.AccessibilityAmount" = "1 muỗng canh";
 
 /* BBQ Pork Ribs Ingredients Salt Amount */
-"BBQPorkRibs.Ingredients.Salt.Amount.us" = "1 tsp";
-"BBQPorkRibs.Ingredients.Salt.Amount.metric" = "1 muỗng cà phê";
+"BBQPorkRibs.Ingredients.Salt.Amount.us" = "2 tsp";
+"BBQPorkRibs.Ingredients.Salt.Amount.metric" = "2 muỗng cà phê";
 
 /* BBQ Pork Ribs Ingredients Salt Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.Salt.AccessibilityAmount" = "1 muỗng cà phê";
+"BBQPorkRibs.Ingredients.Salt.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* BBQ Pork Ribs Ingredients Pepper Amount */
-"BBQPorkRibs.Ingredients.Pepper.Amount.us" = "¼ tsp";
-"BBQPorkRibs.Ingredients.Pepper.Amount.metric" = "¼ muỗng cà phê";
+"BBQPorkRibs.Ingredients.Pepper.Amount.us" = "½ tsp";
+"BBQPorkRibs.Ingredients.Pepper.Amount.metric" = "½ muỗng cà phê";
 
 /* BBQ Pork Ribs Ingredients Pepper Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.Pepper.AccessibilityAmount" = "một phần tư muỗng cà phê";
+"BBQPorkRibs.Ingredients.Pepper.AccessibilityAmount" = "một phần hai muỗng cà phê";
 
 /* BBQ Pork Ribs Ingredients Kraft Original Barbecue Sauce Amount */
 "BBQPorkRibs.Ingredients.KraftOriginalBarbecueSauce.Amount.us" = "6 tbsp";
@@ -3029,11 +3029,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BBQPorkRibs.Ingredients.AgaveSyrup.AccessibilityAmount" = "6 muỗng canh";
 
 /* BBQ Pork Ribs Ingredients Aluminum Foil Amount */
-"BBQPorkRibs.Ingredients.AluminumFoil.Amount.us" = "2 tbsp";
-"BBQPorkRibs.Ingredients.AluminumFoil.Amount.metric" = "2 muỗng canh";
+"BBQPorkRibs.Ingredients.AluminumFoil.Amount" = "để gói";
 
 /* BBQ Pork Ribs Ingredients Aluminum Foil Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.AluminumFoil.AccessibilityAmount" = "2 muỗng canh";
+"BBQPorkRibs.Ingredients.AluminumFoil.AccessibilityAmount" = "để gói";
 
 /* BBQ Pork Ribs Instructions Step 1 Part 1 */
 "BBQPorkRibs.Instructions.Step.1.Part.1" = "Cắt ##Sườn Heo## (pork ribs) thành từng miếng khoảng 3 khúc xương.";

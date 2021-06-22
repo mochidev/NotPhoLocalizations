@@ -2937,34 +2937,34 @@
 "BBQPorkRibs.Ingredients.PorkRibs.AccessibilityAmount.metric" = "1 rack (about 1.5 kg with bones)";
 
 /* BBQ Pork Ribs Ingredients Garlic Powder Amount */
-"BBQPorkRibs.Ingredients.GarlicPowder.Amount" = "½ tbsp";
+"BBQPorkRibs.Ingredients.GarlicPowder.Amount" = "1 tbsp";
 
 /* BBQ Pork Ribs Ingredients Garlic Powder Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.GarlicPowder.AccessibilityAmount" = "half a tablespoon";
+"BBQPorkRibs.Ingredients.GarlicPowder.AccessibilityAmount" = "one tablespoon";
 
 /* BBQ Pork Ribs Ingredients Onion Powder Amount */
-"BBQPorkRibs.Ingredients.OnionPowder.Amount" = "½ tbsp";
+"BBQPorkRibs.Ingredients.OnionPowder.Amount" = "1 tbsp";
 
 /* BBQ Pork Ribs Ingredients Onion Powder Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.OnionPowder.AccessibilityAmount" = "half a tablespoon";
+"BBQPorkRibs.Ingredients.OnionPowder.AccessibilityAmount" = "one tablespoon";
 
 /* BBQ Pork Ribs Ingredients Italian Herbs Amount */
-"BBQPorkRibs.Ingredients.ItalianHerbs.Amount" = "½ tbsp";
+"BBQPorkRibs.Ingredients.ItalianHerbs.Amount" = "1 tbsp";
 
 /* BBQ Pork Ribs Ingredients Italian Herbs Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.ItalianHerbs.AccessibilityAmount" = "half a tablespoon";
+"BBQPorkRibs.Ingredients.ItalianHerbs.AccessibilityAmount" = "one tablespoon";
 
 /* BBQ Pork Ribs Ingredients Salt Amount */
-"BBQPorkRibs.Ingredients.Salt.Amount" = "1 tsp";
+"BBQPorkRibs.Ingredients.Salt.Amount" = "2 tsp";
 
 /* BBQ Pork Ribs Ingredients Salt Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.Salt.AccessibilityAmount" = "1 teaspoon";
+"BBQPorkRibs.Ingredients.Salt.AccessibilityAmount" = "2 teaspoons";
 
 /* BBQ Pork Ribs Ingredients Pepper Amount */
-"BBQPorkRibs.Ingredients.Pepper.Amount" = "¼ tsp";
+"BBQPorkRibs.Ingredients.Pepper.Amount" = "½ tsp";
 
 /* BBQ Pork Ribs Ingredients Pepper Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.Pepper.AccessibilityAmount" = "one quarter teaspoon";
+"BBQPorkRibs.Ingredients.Pepper.AccessibilityAmount" = "half a teaspoon";
 
 /* BBQ Pork Ribs Ingredients Kraft Original Barbecue Sauce Amount */
 "BBQPorkRibs.Ingredients.KraftOriginalBarbecueSauce.Amount" = "6 tbsp";
@@ -2979,10 +2979,10 @@
 "BBQPorkRibs.Ingredients.AgaveSyrup.AccessibilityAmount" = "6 tablespoons";
 
 /* BBQ Pork Ribs Ingredients Aluminum Foil Amount */
-"BBQPorkRibs.Ingredients.AluminumFoil.Amount" = "2 tbsp";
+"BBQPorkRibs.Ingredients.AluminumFoil.Amount" = "for wrapping";
 
 /* BBQ Pork Ribs Ingredients Aluminum Foil Amount (VoiceOver) */
-"BBQPorkRibs.Ingredients.AluminumFoil.AccessibilityAmount" = "2 tablespoons";
+"BBQPorkRibs.Ingredients.AluminumFoil.AccessibilityAmount" = "for wrapping";
 
 /* BBQ Pork Ribs Instructions Step 1 Part 1 */
 "BBQPorkRibs.Instructions.Step.1.Part.1" = "Cut the ##Sườn Heo## (pork ribs) into 3-bone sections.";
