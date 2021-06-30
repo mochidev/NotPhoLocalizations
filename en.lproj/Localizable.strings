@@ -3134,7 +3134,7 @@
 // MARK: Ca Phe Sua (Vietnamese Coffee) Page
 
 /* Vietnamese Coffee Introduction 1 */
-"VietnameseCoffee.Introduction.1" = "##Cà Phê## (coffee) was introduced to Vietnam in 1857 by a French priest. What makes Vietnamese ##Cà Phê## (coffee) special is the used of ##Sữa Đặc## (sweetened condensed milk), because fresh milk was not readily available at the time. The term ##Cà Phê Sữa## is a combination of the ##Cà Phê## (coffee) and ##Sữa Đặc## (sweetened condensed milk) to mean Vietnamese coffee. ##Cà Phê Sữa## (Vietnamese coffee) can be enjoyed hot or cold. The normal presentation of ##Cà Phê Sữa## (Vietnamese coffee) is you have the ##Sữa Đặc## (sweetened condensed milk) in a cup and the Phin filter on top that drips the ##Cà Phê## (coffee) over the ##Sữa Đặc## (sweetened condensed milk).";
+"VietnameseCoffee.Introduction.1" = "##Cà Phê## (coffee) was introduced to Vietnam in 1857 by a French priest. What makes Vietnamese ##Cà Phê## (coffee) special is the used of ##Sữa Đặc## (sweetened condensed milk), because fresh milk was not readily available at the time. The term ##Cà Phê Sữa## is a combination of the ##Cà Phê## (coffee) and ##Sữa Đặc## (sweetened condensed milk) to mean Vietnamese coffee. ##Cà Phê Sữa## (Vietnamese coffee) can be enjoyed hot or cold. The normal presentation of ##Cà Phê Sữa## (Vietnamese coffee) is you have the ##Sữa Đặc## (sweetened condensed milk) in a cup and the ##Phin Lọc## (Phin filter) on top that drips the ##Cà Phê## (coffee) over the ##Sữa Đặc## (sweetened condensed milk).";
 
 /* Vietnamese Coffee Introduction 1 (VoiceOver) */
 "VietnameseCoffee.Introduction.1.Accessibility" = "Coffee was introduced to Vietnam in 1857 by a French priest. What makes Vietnamese coffee special is the used of sweetened condensed milk, because fresh milk was not readily available at the time. Vietnamese coffee can be enjoyed hot or cold. The normal presentation of Vietnamese coffee is you have the sweetened condensed milk in a cup and the Phin filter on top that drips the coffee over the sweetened condensed milk.";
@@ -3221,6 +3221,12 @@
 
 /* Vietnamese Coffee Instructions Step 2 Note 1 (VoiceOver) */
 "VietnameseCoffee.Instructions.Step.2.Note.1.Accessibility" = "If you don’t have a Phin filter, any coffee maker will work.";
+
+/* Vietnamese Coffee Instructions Step 2 Note 2 */
+"VietnameseCoffee.Instructions.Step.2.Note.2" = "The brand of coffee I used is called ##Café Du Monde##, but any variety is fine.";
+
+/* Vietnamese Coffee Instructions Step 2 Note 2 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Note.2.Accessibility" = "The brand of coffee I used is called Café Du Monde, but any variety is fine.";
 
 /* Vietnamese Coffee Instructions Step 3 Part 1 */
 "VietnameseCoffee.Instructions.Step.3.Part.1" = "Let the ##Cà Phê## (coffee) drip.";
