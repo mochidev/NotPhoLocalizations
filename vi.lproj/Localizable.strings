@@ -3292,12 +3292,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Vietnamese Coffee Instructions Step 3 Note 1 (VoiceOver) */
 "VietnameseCoffee.Instructions.Step.3.Note.1.Accessibility" = "Pha Cà Phê với Sữa Đặc.";
 
-/* Vietnamese Coffee Instructions Step 3 Note 2 */
-"VietnameseCoffee.Instructions.Step.3.Note.2" = "Thêm ##Sữa Đặc## (sweetened condensed milk) nếu ##Cà Phê## (coffee) vẫn còn đậm.";
-
-/* Vietnamese Coffee Instructions Step 3 Note 2 (VoiceOver) */
-"VietnameseCoffee.Instructions.Step.3.Note.2.Accessibility" = "Thêm Sữa Đặc nếu Cà Phê vẫn còn đậm.";
-
 /* Vietnamese Coffee How To 1 */
 "VietnameseCoffee.HowTo.1" = "Nếu muốn uống ##Cà Phê## (coffee) nóng thì hãy thưởng thức ##Cà Phê## (coffee) sau khi pha với ##Sữa Đặc## (sweetened condensed milk).";
 
