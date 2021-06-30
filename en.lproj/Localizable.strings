@@ -3131,6 +3131,128 @@
 "BBQPorkRibs.HowTo.1.Accessibility" = "Enjoy these BBQ pork ribs with salad or rice.";
 
 
+// MARK: Ca Phe Sua (Vietnamese Coffee) Page
+
+/* Vietnamese Coffee Introduction 1 */
+"VietnameseCoffee.Introduction.1" = "##Cà Phê## (coffee) was introduced to Vietnam in 1857 by a French priest. What makes Vietnamese ##Cà Phê## (coffee) special is the used of ##Sữa Đặc## (sweetened condensed milk), because fresh milk was not readily available at the time. The term ##Cà Phê Sữa## is a combination of the ##Cà Phê## (coffee) and ##Sữa Đặc## (sweetened condensed milk) to mean Vietnamese coffee. ##Cà Phê Sữa## (Vietnamese coffee) can be enjoyed hot or cold. The normal presentation of ##Cà Phê Sữa## (Vietnamese coffee) is you have the ##Sữa Đặc## (sweetened condensed milk) in a cup and the Phin filter on top that drips the ##Cà Phê## (coffee) over the ##Sữa Đặc## (sweetened condensed milk).";
+
+/* Vietnamese Coffee Introduction 1 (VoiceOver) */
+"VietnameseCoffee.Introduction.1.Accessibility" = "Coffee was introduced to Vietnam in 1857 by a French priest. What makes Vietnamese coffee special is the used of sweetened condensed milk, because fresh milk was not readily available at the time. Vietnamese coffee can be enjoyed hot or cold. The normal presentation of Vietnamese coffee is you have the sweetened condensed milk in a cup and the Phin filter on top that drips the coffee over the sweetened condensed milk.";
+
+/* Vietnamese Coffee Introduction 2 */
+"VietnameseCoffee.Introduction.2" = "This recipe serves 1.";
+
+/* Vietnamese Coffee Ingredients Ground Coffee Amount */
+"VietnameseCoffee.Ingredients.GroundCoffee.Amount" = "2 tbsp";
+
+/* Vietnamese Coffee Ingredients Ground Coffee Amount (VoiceOver) */
+"VietnameseCoffee.Ingredients.GroundCoffee.AccessibilityAmount" = "2 tablespoons";
+
+/* Vietnamese Coffee Ingredients Sweetened Condensed Milk Amount */
+"VietnameseCoffee.Ingredients.SweetenedCondensedMilk.Amount" = "2-3 tbsp";
+
+/* Vietnamese Coffee Ingredients Sweetened Condensed Milk Amount (VoiceOver) */
+"VietnameseCoffee.Ingredients.SweetenedCondensedMilk.AccessibilityAmount" = "2 to 3 tablespoons";
+
+/* Vietnamese Coffee Ingredients Water Amount */
+"VietnameseCoffee.Ingredients.Water.Amount.us" = "6 fl oz (hot)";
+"VietnameseCoffee.Ingredients.Water.Amount.metric" = "175 ml (hot)";
+
+/* Vietnamese Coffee Ingredients Water Amount (VoiceOver) */
+"VietnameseCoffee.Ingredients.Water.AccessibilityAmount.us" = "6 fluid ounces (hot)";
+"VietnameseCoffee.Ingredients.Water.AccessibilityAmount.metric" = "175 milliliters (hot)";
+
+/* Vietnamese Coffee Ingredients Phin Filter Amount */
+"VietnameseCoffee.Ingredients.PhinFilter.Amount" = "1 filter";
+
+/* Vietnamese Coffee Ingredients Phin Filter Amount (VoiceOver) */
+"VietnameseCoffee.Ingredients.PhinFilter.AccessibilityAmount" = "1 filter";
+
+/* Vietnamese Coffee Instructions Step 1 Part 1 */
+"VietnameseCoffee.Instructions.Step.1.Part.1" = "Add ##Sữa Đặc## (sweetened condensed milk) to a cup.";
+
+/* Vietnamese Coffee Instructions Step 1 Part 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.1.Part.1.Accessibility" = "Add sweetened condensed milk to a cup.";
+
+/* Vietnamese Coffee Instructions Step 1 Note 1 */
+"VietnameseCoffee.Instructions.Step.1.Note.1" = "Start with 1-2 tablespoons of ##Sữa Đặc## (sweetened condensed milk) first, then add more later if the coffee is still too strong.";
+
+/* Vietnamese Coffee Instructions Step 1 Note 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.1.Note.1.Accessibility" = "Start with 1-2 tablespoons of sweetened condensed milk first, then add more later if the coffee is still too strong.";
+
+/* Vietnamese Coffee Instructions Step 1 Note 2 */
+"VietnameseCoffee.Instructions.Step.1.Note.2" = "Or you can save this step for the end if you are unsure how sweet you want your coffee.";
+
+/* Vietnamese Coffee Instructions Step 1 Note 2 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.1.Note.2.Accessibility" = "Or you can save this step for the end if you are unsure how sweet you want your coffee.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 1 */
+"VietnameseCoffee.Instructions.Step.2.Part.1" = "Place the ##Phin Lọc## (Phin filter) on top of the cup.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.1.Accessibility" = "Place the Phin filter on top of the cup.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 2 */
+"VietnameseCoffee.Instructions.Step.2.Part.2" = "Add the ##Cà Phê Xay## (ground coffee) into the ##Phin Lọc## (Phin filter).";
+
+/* Vietnamese Coffee Instructions Step 2 Part 2 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.2.Accessibility" = "Add the ground coffee into the Phin filter.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 3 */
+"VietnameseCoffee.Instructions.Step.2.Part.3" = "Add 2 tablespoons of hot water over the ##Cà Phê Xay## (ground coffee), and let the coffee bloom for 1 minute.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 3 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.3.Accessibility" = "Add 2 tablespoons of hot water over the ground coffee, and let the coffee bloom for 1 minute.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 4 */
+"VietnameseCoffee.Instructions.Step.2.Part.4" = "Place the ##Miếng Ép## (presser) into the ##Phin Lọc## (Phin filter) and press down gently on the ##Cà Phê Xay## (ground coffee).";
+
+/* Vietnamese Coffee Instructions Step 2 Part 4 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.4.Accessibility" = "Place the presser into the Phin filter and press down gently on the ground coffee.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 4 */
+"VietnameseCoffee.Instructions.Step.2.Part.4" = "Add the remaining hot water and cover with the lid.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 4 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.4.Accessibility" = "Add the remaining hot water and cover with the lid.";
+
+/* Vietnamese Coffee Instructions Step 2 Note 1 */
+"VietnameseCoffee.Instructions.Step.2.Note.1" = "If you don’t have a ##Phin Lọc## (Phin filter), any coffee maker will work.";
+
+/* Vietnamese Coffee Instructions Step 2 Note 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Note.1.Accessibility" = "If you don’t have a Phin filter, any coffee maker will work.";
+
+/* Vietnamese Coffee Instructions Step 3 Part 1 */
+"VietnameseCoffee.Instructions.Step.3.Part.1" = "Let the ##Cà Phê## (coffee) drip.";
+
+/* Vietnamese Coffee Instructions Step 3 Part 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.3.Part.1.Accessibility" = "Let the coffee drip.";
+
+/* Vietnamese Coffee Instructions Step 3 Note 1 */
+"VietnameseCoffee.Instructions.Step.3.Note.1" = "Mix the ##Cà Phê## (coffee) with ##Sữa Đặc## (sweetened condensed milk) if you skip this step earlier.";
+
+/* Vietnamese Coffee Instructions Step 3 Note 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.3.Note.1.Accessibility" = "Mix the coffee with sweetened condensed milk if you skip this step earlier.";
+
+/* Vietnamese Coffee Instructions Step 3 Note 2 */
+"VietnameseCoffee.Instructions.Step.3.Note.2" = "Or add more ##Sữa Đặc## (sweetened condensed milk) if the coffee is still too strong.";
+
+/* Vietnamese Coffee Instructions Step 3 Note 2 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.3.Note.2.Accessibility" = "Or add more sweetened condensed milk if the coffee is still too strong.";
+
+/* Vietnamese Coffee How To 1 */
+"VietnameseCoffee.HowTo.1" = "For hot coffee, enjoy the well mixed coffee as is.";
+
+/* Vietnamese Coffee How To 1 (VoiceOver) */
+"VietnameseCoffee.HowTo.1.Accessibility" = "For hot coffee, enjoy the well mixed coffee as is.";
+
+/* Vietnamese Coffee How To 2 */
+"VietnameseCoffee.HowTo.2" = "For iced coffee, pour the well mixed coffee over a glass of ice to enjoy.";
+
+/* Vietnamese Coffee How To 2 (VoiceOver) */
+"VietnameseCoffee.HowTo.2.Accessibility" = "For iced coffee, pour the well mixed coffee over a glass of ice to enjoy.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

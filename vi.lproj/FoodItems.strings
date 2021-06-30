@@ -158,6 +158,12 @@
 "bbqPorkRibs.AccessibilitySubtitle" = "Sườn Heo BBQ";
 "bbqPorkRibs.AccessibilityPageTitle" = "Sườn Heo BBQ";
 
+/* Vietnamese Coffee */
+"vietnameseCoffee.Subtitle" = "Vietnamese Coffee";
+"vietnameseCoffee.AccessibilitySubtitle" = "Cà Phê Sữa";
+"vietnameseCoffee.AccessibilityPageTitle" = "Cà Phê Sữa";
+
+
 // MARK: Recipes Tab
 
 /* Crepe Batter */
