@@ -3274,6 +3274,12 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Vietnamese Coffee Instructions Step 2 Note 1 (VoiceOver) */
 "VietnameseCoffee.Instructions.Step.2.Note.1.Accessibility" = "Nếu bạn không có Phin Lọc thì dùng máy lọc cà phê nào cũng được.";
 
+/* Vietnamese Coffee Instructions Step 2 Note 2 */
+"VietnameseCoffee.Instructions.Step.2.Note.2" = "Nhãn hiệu cà phê mình dùng là ##Café Du Monde## nhưng bạn có thể dùng bất cứ loại nào.";
+
+/* Vietnamese Coffee Instructions Step 2 Note 2 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Note.2.Accessibility" = "Nhãn hiệu cà phê mình dùng là Café Du Monde nhưng bạn có thể dùng bất cứ loại nào.";
+
 /* Vietnamese Coffee Instructions Step 3 Part 1 */
 "VietnameseCoffee.Instructions.Step.3.Part.1" = "Để ##Cà Phê## (coffee) nhỏ giọt.";
 
