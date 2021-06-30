@@ -131,6 +131,10 @@
 "bbqPorkRibs.Subtitle" = "BBQ Pork Ribs";
 "bbqPorkRibs.AccessibilityPageTitle" = "BBQ Pork Ribs";
 
+/* Vietnamese Coffee */
+"vietnameseCoffee.Subtitle" = "Vietnamese Coffee";
+"vietnameseCoffee.AccessibilityPageTitle" = "Vietnamese Coffee";
+
 
 // MARK: Recipes Tab
 

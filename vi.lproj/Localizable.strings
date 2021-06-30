@@ -3181,6 +3181,130 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BBQPorkRibs.HowTo.1.Accessibility" = "Món ##Sườn Heo BBQ## (BBQ pork ribs) này rất ngon khi ăn với xà lách hoặc cơm trắng.";
 
 
+// MARK: Ca Phe Sua (Vietnamese Coffee) Page
+
+/* Vietnamese Coffee Introduction 1 */
+"VietnameseCoffee.Introduction.1" = "##Cà Phê## (coffee) du nhập vào Việt Nam vào năm 1857 bởi một linh mục người Pháp. Điều đặc biệt của cà phê Việt Nam là sử dụng ##Sữa Đặc## (sweetened condensed milk) có đường vì lúc đó sữa tươi rất hiếm. ##Cà Phê Sữa## (Vietnamese coffee) có thể được thưởng thức nóng hoặc lạnh. Cách trình bày thông thường của ##Cà Phê Sữa## (Vietnamese coffee) là bạn cho ##Sữa Đặc## (sweetened condensed milk) vào cốc, sau đó đặt Phin lên trên để nhỏ ##Cà Phê## (coffee) lên trên sữa đặc.";
+
+/* Vietnamese Coffee Introduction 1 (VoiceOver) */
+"VietnameseCoffee.Introduction.1.Accessibility" = "Cà Phê du nhập vào Việt Nam vào năm 1857 bởi một linh mục người Pháp. Điều đặc biệt của cà phê Việt Nam là sử dụng Sữa Đặc có đường vì lúc đó sữa tươi rất hiếm. Cà Phê Sữa có thể được thưởng thức nóng hoặc lạnh. Cách trình bày thông thường của Cà Phê Sữa là bạn cho Sữa Đặc vào cốc, sau đó đặt Phin lên trên để nhỏ Cà Phê lên trên sữa đặc.";
+
+/* Vietnamese Coffee Introduction 2 */
+"VietnameseCoffee.Introduction.2" = "Công thức này làm cho một người uống.";
+
+/* Vietnamese Coffee Ingredients Ground Coffee Amount */
+"VietnameseCoffee.Ingredients.GroundCoffee.Amount.us" = "2 tbsp";
+"VietnameseCoffee.Ingredients.GroundCoffee.Amount.metric" = "2 muỗng canh";
+
+/* Vietnamese Coffee Ingredients Ground Coffee Amount (VoiceOver) */
+"VietnameseCoffee.Ingredients.GroundCoffee.AccessibilityAmount" = "2 muỗng canh";
+
+/* Vietnamese Coffee Ingredients Sweetened Condensed Milk Amount */
+"VietnameseCoffee.Ingredients.SweetenedCondensedMilk.Amount.us" = "2-3 tbsp";
+"VietnameseCoffee.Ingredients.SweetenedCondensedMilk.Amount.metric" = "2-3 muỗng canh";
+
+/* Vietnamese Coffee Ingredients Sweetened Condensed Milk Amount (VoiceOver) */
+"VietnameseCoffee.Ingredients.SweetenedCondensedMilk.AccessibilityAmount" = "2 đến 3 muỗng canh";
+
+/* Vietnamese Coffee Ingredients Water Amount */
+"VietnameseCoffee.Ingredients.Water.Amount.us" = "6 fl oz (nóng)";
+"VietnameseCoffee.Ingredients.Water.Amount.metric" = "175 ml (nóng)";
+
+/* Vietnamese Coffee Ingredients Water Amount (VoiceOver) */
+"VietnameseCoffee.Ingredients.Water.AccessibilityAmount.us" = "6 aoxơ (nóng)";
+"VietnameseCoffee.Ingredients.Water.AccessibilityAmount.metric" = "175 mililít (nóng)";
+
+/* Vietnamese Coffee Ingredients Phin Filter Amount */
+"VietnameseCoffee.Ingredients.PhinFilter.Amount" = "1 phin";
+
+/* Vietnamese Coffee Ingredients Phin Filter Amount (VoiceOver) */
+"VietnameseCoffee.Ingredients.PhinFilter.AccessibilityAmount" = "1 phin";
+
+/* Vietnamese Coffee Instructions Step 1 Part 1 */
+"VietnameseCoffee.Instructions.Step.1.Part.1" = "Cho ##Sữa Đặc## (sweetened condensed milk) vào cốc.";
+
+/* Vietnamese Coffee Instructions Step 1 Part 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.1.Part.1.Accessibility" = "Cho Sữa Đặc vào cốc.";
+
+/* Vietnamese Coffee Instructions Step 1 Note 1 */
+"VietnameseCoffee.Instructions.Step.1.Note.1" = "Cho khoảng 1-2 muỗng canh ##Sữa Đặc## (sweetened condensed milk), sau đó nếu ##Cà Phê## (coffee) vẫn còn đậm thì thêm ##Sữa Đặc## (sweetened condensed milk).";
+
+/* Vietnamese Coffee Instructions Step 1 Note 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.1.Note.1.Accessibility" = "Cho khoảng 1-2 muỗng canh Sữa Đặc, sau đó nếu Cà Phê vẫn còn đậm thì thêm Sữa Đặc.";
+
+/* Vietnamese Coffee Instructions Step 1 Note 2 */
+"VietnameseCoffee.Instructions.Step.1.Note.2" = "Hoặc bạn có thể giữ bước này cho đến cuối cùng nếu bạn không biết phải cho bao nhiêu ##Sữa Đặc## (sweetened condensed milk).";
+
+/* Vietnamese Coffee Instructions Step 1 Note 2 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.1.Note.2.Accessibility" = "Hoặc bạn có thể giữ bước này cho đến cuối cùng nếu bạn không biết phải cho bao nhiêu sữa đặc.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 1 */
+"VietnameseCoffee.Instructions.Step.2.Part.1" = "Đặt ##Phin Lọc## (Phin filter) lên trên cốc.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.1.Accessibility" = "Đặt Phin Lọc lên trên cốc.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 2 */
+"VietnameseCoffee.Instructions.Step.2.Part.2" = "Cho ##Cà Phê Xay## (ground coffee) vào ##Phin Lọc## (Phin filter).";
+
+/* Vietnamese Coffee Instructions Step 2 Part 2 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.2.Accessibility" = "Cho Cà Phê Xay vào Phin Lọc.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 3 */
+"VietnameseCoffee.Instructions.Step.2.Part.3" = "Cho 2 muỗng canh ##Nước## (water) nóng vào ##Cà Phê Xay## (ground coffee) và để ##Cà Phê## (coffee) nở khoảng 1 phút.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 3 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.3.Accessibility" = "Cho 2 muỗng canh nước nóng vào Cà Phê Xay và để Cà Phê nở khoảng 1 phút.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 4 */
+"VietnameseCoffee.Instructions.Step.2.Part.4" = "Đặt ##Miếng Ép## (presser) vào ##Phin Lọc## (Phin filter) và ấn nhẹ ##Cà Phê Xay## (ground coffee) xay xuống.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 4 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.4.Accessibility" = "Đặt miếng ép vào Phin Lọc và ấn nhẹ Cà Phê Xay xay xuống.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 4 */
+"VietnameseCoffee.Instructions.Step.2.Part.4" = "Thêm tất cả ##Nước## (water) nóng còn lại và đầy nắp lại.";
+
+/* Vietnamese Coffee Instructions Step 2 Part 4 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.4.Accessibility" = "Thêm tất cả nước nóng còn lại và đầy nắp lại.";
+
+/* Vietnamese Coffee Instructions Step 2 Note 1 */
+"VietnameseCoffee.Instructions.Step.2.Note.1" = "Nếu bạn không có ##Phin Lọc## (Phin filter) thì dùng máy lọc cà phê nào cũng được.";
+
+/* Vietnamese Coffee Instructions Step 2 Note 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Note.1.Accessibility" = "Nếu bạn không có Phin Lọc thì dùng máy lọc cà phê nào cũng được.";
+
+/* Vietnamese Coffee Instructions Step 3 Part 1 */
+"VietnameseCoffee.Instructions.Step.3.Part.1" = "Để ##Cà Phê## (coffee) nhỏ giọt.";
+
+/* Vietnamese Coffee Instructions Step 3 Part 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.3.Part.1.Accessibility" = "Để Cà Phê nhỏ giọt.";
+
+/* Vietnamese Coffee Instructions Step 3 Note 1 */
+"VietnameseCoffee.Instructions.Step.3.Note.1" = "Pha ##Cà Phê## (coffee) với ##Sữa Đặc## (sweetened condensed milk).";
+
+/* Vietnamese Coffee Instructions Step 3 Note 1 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.3.Note.1.Accessibility" = "Pha Cà Phê với Sữa Đặc.";
+
+/* Vietnamese Coffee Instructions Step 3 Note 2 */
+"VietnameseCoffee.Instructions.Step.3.Note.2" = "Thêm ##Sữa Đặc## (sweetened condensed milk) nếu ##Cà Phê## (coffee) vẫn còn đậm.";
+
+/* Vietnamese Coffee Instructions Step 3 Note 2 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.3.Note.2.Accessibility" = "Thêm Sữa Đặc nếu Cà Phê vẫn còn đậm.";
+
+/* Vietnamese Coffee How To 1 */
+"VietnameseCoffee.HowTo.1" = "Nếu muốn uống ##Cà Phê## (coffee) nóng thì hãy thưởng thức ##Cà Phê## (coffee) sau khi pha với ##Sữa Đặc## (sweetened condensed milk).";
+
+/* Vietnamese Coffee How To 1 (VoiceOver) */
+"VietnameseCoffee.HowTo.1.Accessibility" = "Nếu muốn uống Cà Phê nóng thì hãy thưởng thức Cà Phê sau khi pha với Sữa Đặc.";
+
+/* Vietnamese Coffee How To 2 */
+"VietnameseCoffee.HowTo.2" = "Nếu muốn uống ##Cà Phê## (coffee) đá thì hãy bỏ nước đá vào ##Cà Phê Sữa## (Vietnamese coffee).";
+
+/* Vietnamese Coffee How To 2 (VoiceOver) */
+"VietnameseCoffee.HowTo.2.Accessibility" = "Nếu muốn uống Cà Phê đá thì hãy bỏ nước đá vào Cà Phê Sữa.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */
