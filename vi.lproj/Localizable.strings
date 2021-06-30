@@ -2810,12 +2810,12 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Avocado Smoothie Ingredients Half And Half Milk Amount (VoiceOver) */
 "AvocadoSmoothie.Ingredients.HalfAndHalfMilk.AccessibilityAmount" = "2 đến 3 muỗng canh";
 
-/* Avocado Smoothie Ingredients Condensed Milk Amount */
-"AvocadoSmoothie.Ingredients.CondensedMilk.Amount.us" = "2 tbsp";
-"AvocadoSmoothie.Ingredients.CondensedMilk.Amount.metric" = "2 muỗng canh";
+/* Avocado Smoothie Ingredients Sweetened Condensed Milk Amount */
+"AvocadoSmoothie.Ingredients.SweetenedCondensedMilk.Amount.us" = "2 tbsp";
+"AvocadoSmoothie.Ingredients.SweetenedCondensedMilk.Amount.metric" = "2 muỗng canh";
 
-/* Avocado Smoothie Ingredients Condensed Milk Amount (VoiceOver) */
-"AvocadoSmoothie.Ingredients.CondensedMilk.AccessibilityAmount" = "2 muỗng canh";
+/* Avocado Smoothie Ingredients Sweetened Condensed Milk Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.SweetenedCondensedMilk.AccessibilityAmount" = "2 muỗng canh";
 
 /* Avocado Smoothie Ingredients Sugar Amount */
 "AvocadoSmoothie.Ingredients.Sugar.Amount.us" = "2 tbsp";
@@ -2857,7 +2857,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "AvocadoSmoothie.Tips.2.Accessibility" = "Bạn có thể thay thế sữa Tươi bằng nước.";
 
 /* Avocado Smoothie Tips 3 */
-"AvocadoSmoothie.Tips.3" = "The ##Sữa Đặc## (condensed milk) giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng ##Đường## (sugar).";
+"AvocadoSmoothie.Tips.3" = "The ##Sữa Đặc## (sweetened condensed milk) giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng ##Đường## (sugar).";
 
 /* Avocado Smoothie Tips 3 (VoiceOver) */
 "AvocadoSmoothie.Tips.3.Accessibility" = "Sữa đặc giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng đường";
@@ -2889,12 +2889,12 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "MangoSmoothie.Ingredients.Mango.AccessibilityAmount.us" = "5 aoxơ";
 "MangoSmoothie.Ingredients.Mango.AccessibilityAmount.metric" = "140 gờ ram";
 
-/* Mango Smoothie Ingredients Condensed Milk Amount */
-"MangoSmoothie.Ingredients.CondensedMilk.Amount.us" = "2 tbsp";
-"MangoSmoothie.Ingredients.CondensedMilk.Amount.metric" = "2 muỗng canh";
+/* Mango Smoothie Ingredients Sweetened Condensed Milk Amount */
+"MangoSmoothie.Ingredients.SweetenedCondensedMilk.Amount.us" = "2 tbsp";
+"MangoSmoothie.Ingredients.SweetenedCondensedMilk.Amount.metric" = "2 muỗng canh";
 
-/* Mango Smoothie Ingredients Condensed Milk Amount (VoiceOver) */
-"MangoSmoothie.Ingredients.CondensedMilk.AccessibilityAmount" = "2 muỗng canh";
+/* Mango Smoothie Ingredients Sweetened Condensed Milk Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.SweetenedCondensedMilk.AccessibilityAmount" = "2 muỗng canh";
 
 /* Mango Smoothie Ingredients Sugar Amount */
 "MangoSmoothie.Ingredients.Sugar.Amount.us" = "2 tbsp";
@@ -2948,7 +2948,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "MangoSmoothie.Tips.1.Accessibility" = "Nếu bạn không có máy xay đủ mạnh thì xay các nguyên liệu từ bước: bắt đầu với nước đá, sau đó là trái xoài, sau đó mới cho các đường vào.";
 
 /* Mango Smoothie Tips 2 */
-"MangoSmoothie.Tips.2" = "The ##Sữa Đặc## (condensed milk) giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng ##Đường## (sugar).";
+"MangoSmoothie.Tips.2" = "The ##Sữa Đặc## (sweetened condensed milk) giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng ##Đường## (sugar).";
 
 /* Mango Smoothie Tips 2 (VoiceOver) */
 "MangoSmoothie.Tips.2.Accessibility" = "Sữa đặc giúp sinh tố có vị kem ngọt ngào nhưng bạn có thể thay thế bằng đường";

@@ -2771,11 +2771,11 @@
 /* Avocado Smoothie Ingredients Half And Half Milk Amount (VoiceOver) */
 "AvocadoSmoothie.Ingredients.HalfAndHalfMilk.AccessibilityAmount" = "2 to 3 tablespoons";
 
-/* Avocado Smoothie Ingredients Condensed Milk Amount */
-"AvocadoSmoothie.Ingredients.CondensedMilk.Amount" = "2 tbsp";
+/* Avocado Smoothie Ingredients Sweetened Condensed Milk Amount */
+"AvocadoSmoothie.Ingredients.SweetenedCondensedMilk.Amount" = "2 tbsp";
 
-/* Avocado Smoothie Ingredients Condensed Milk Amount (VoiceOver) */
-"AvocadoSmoothie.Ingredients.CondensedMilk.AccessibilityAmount" = "2 tablespoons";
+/* Avocado Smoothie Ingredients Sweetened Condensed Milk Amount (VoiceOver) */
+"AvocadoSmoothie.Ingredients.SweetenedCondensedMilk.AccessibilityAmount" = "2 tablespoons";
 
 /* Avocado Smoothie Ingredients Sugar Amount */
 "AvocadoSmoothie.Ingredients.Sugar.Amount" = "2 tbsp";
@@ -2816,10 +2816,10 @@
 "AvocadoSmoothie.Tips.2.Accessibility" = "You can substitute Half and Half milk with regular milk or water; you just need a little bit of liquid to help blend the avocado.";
 
 /* Avocado Smoothie Tips 3 */
-"AvocadoSmoothie.Tips.3" = "The ##Sữa Đặc## (condensed milk) gives the smoothie a sweet and creamy flavor, but you can substitute it with ##Đường## (sugar).";
+"AvocadoSmoothie.Tips.3" = "The ##Sữa Đặc## (sweetened condensed milk) gives the smoothie a sweet and creamy flavor, but you can substitute it with ##Đường## (sugar).";
 
 /* Avocado Smoothie Tips 3 (VoiceOver) */
-"AvocadoSmoothie.Tips.3.Accessibility" = "The condensed milk gives the smoothie a sweet and creamy flavor, but you can substitute it with sugar.";
+"AvocadoSmoothie.Tips.3.Accessibility" = "The sweetened condensed milk gives the smoothie a sweet and creamy flavor, but you can substitute it with sugar.";
 
 /* Avocado Smoothie Tips 4 */
 "AvocadoSmoothie.Tips.4" = "You can adjust the sweetness of the smoothie by adding or removing ##Đường## (sugar).";
@@ -2848,11 +2848,11 @@
 "MangoSmoothie.Ingredients.Mango.AccessibilityAmount.us" = "5 ounces";
 "MangoSmoothie.Ingredients.Mango.AccessibilityAmount.metric" = "140 grams";
 
-/* Mango Smoothie Ingredients Condensed Milk Amount */
-"MangoSmoothie.Ingredients.CondensedMilk.Amount" = "2 tbsp";
+/* Mango Smoothie Ingredients Sweetened Condensed Milk Amount */
+"MangoSmoothie.Ingredients.SweetenedCondensedMilk.Amount" = "2 tbsp";
 
-/* Mango Smoothie Ingredients Condensed Milk Amount (VoiceOver) */
-"MangoSmoothie.Ingredients.CondensedMilk.AccessibilityAmount" = "2 tablespoons";
+/* Mango Smoothie Ingredients Sweetened Condensed Milk Amount (VoiceOver) */
+"MangoSmoothie.Ingredients.SweetenedCondensedMilk.AccessibilityAmount" = "2 tablespoons";
 
 /* Mango Smoothie Ingredients Sugar Amount */
 "MangoSmoothie.Ingredients.Sugar.Amount" = "2 tbsp";
@@ -2905,10 +2905,10 @@
 "MangoSmoothie.Tips.1.Accessibility" = "If you don't have a powerful enough blender, blend the ingredients in steps: starting with the ice, then mango, and so on.";
 
 /* Mango Smoothie Tips 2 */
-"MangoSmoothie.Tips.2" = "The ##Sữa Đặc## (condensed milk) gives the smoothie a sweet and creamy flavor, but you can substitute it with ##Đường## (sugar).";
+"MangoSmoothie.Tips.2" = "The ##Sữa Đặc## (sweetened condensed milk) gives the smoothie a sweet and creamy flavor, but you can substitute it with ##Đường## (sugar).";
 
 /* Mango Smoothie Tips 2 (VoiceOver) */
-"MangoSmoothie.Tips.2.Accessibility" = "The condensed milk gives the smoothie a sweet and creamy flavor, but you can substitute it with sugar.";
+"MangoSmoothie.Tips.2.Accessibility" = "The sweetened condensed milk gives the smoothie a sweet and creamy flavor, but you can substitute it with sugar.";
 
 /* Mango Smoothie Tips 3 */
 "MangoSmoothie.Tips.3" = "You can adjust the sweetness of the smoothie by adding or removing ##Đường## (sugar).";
