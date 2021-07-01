@@ -5444,6 +5444,71 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "FriedCrispyShallots.HowTo.2" = "Hoặc rắc lên một chút muối và thưởng thức chúng như một món ăn nhẹ.";
 
 
+// MARK: Dau Xanh Hap (Steamed Mung Beans) Page
+
+/* Steamed Mung Beans Introduction 1 */
+"SteamedMungBeans.Introduction.1" = "Đậu Xanh## (mung beans) thường được dùng trong nhiều món ăn Việt Nam. Đậu Xanh## (mung beans) có hai loại; một là màu xanh còn một loại là màu vàng. Đậu xanh màu xanh là có vỏ còn đậu xanh vàng là không vỏ. Đậu xanh vàng thương được hấp và làm thanh nhân dùng trong những món ăn như là ##Bánh Xèo## (Vietnamese crêpes), ##Bánh Cam## (sesame balls), ##Tương Đậu Phộng## (peanut dipping sauce) và vân vân.";
+
+/* Steamed Mung Beans Introduction 1 (VoiceOver) */
+"SteamedMungBeans.Introduction.1.Accessibility" = "Đậu xanh thường được dùng trong nhiều món ăn Việt Nam. Đậu xanh có hai loại; một là màu xanh còn một loại là màu vàng. Đậu xanh màu xanh là có vỏ còn đậu xanh vàng là không vỏ. Đậu xanh vàng thương được hấp và làm thanh nhân dùng trong những món ăn như là bánh xèo, bánh cam, tương đậu phỏng và vân vân.";
+
+/* Steamed Mung Beans Introduction 2 */
+"SteamedMungBeans.Introduction.2.us" = "Công thức này làm hơn ½ cốc.";
+"SteamedMungBeans.Introduction.2.metric" = "Công thức này làm hơn 125 g.";
+
+/* Steamed Mung Beans Ingredients Yellow Mung Beans Amount */
+"SteamedMungBeans.YellowMungBeans.Amount.us" = "½ cốc";
+"SteamedMungBeans.YellowMungBeans.Amount.metric" = "125 g";
+
+/* Steamed Mung Beans Ingredients Yellow Mung Beans Amount (VoiceOver) */
+"SteamedMungBeans.YellowMungBeans.AccessibilityAmount.us" = "½ cốc";
+"SteamedMungBeans.YellowMungBeans.AccessibilityAmount.metric" = "125 gờ ram";
+
+/* Steamed Mung Beans Ingredients Water Amount */
+"SteamedMungBeans.Water.Amount.us" = "1 cốc";
+"SteamedMungBeans.Water.Amount.metric" = "240 ml";
+
+/* Steamed Mung Beans Ingredients Water Amount (VoiceOver) */
+"SteamedMungBeans.Water.AccessibilityAmount.us" = "1 cốc";
+"SteamedMungBeans.Water.AccessibilityAmount.metric" = "240 mililít";
+
+/* Steamed Mung Beans Instructions Step 1 Part 1 */
+"SteamedMungBeans.Instructions.Step.1.Part.1" = "Ngâm ##Đậu Xanh Không Vỏ## (peeled and split mung beans) trong ##Nước## (water) 30 phút.";
+
+/* Steamed Mung Beans Instructions Step 1 Part 1 (VoiceOver) */
+"SteamedMungBeans.Instructions.Step.1.Part.1.Accessibility" = "Ngâm Đậu Xanh Không Vỏ mung trong Nước 30 phút.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 1 */
+"SteamedMungBeans.Instructions.Step.2.Part.1" = "Rửa sạch ##Đậu Xanh Không Vỏ## (peeled and split mung beans) bằng nước lạnh sau đó để ráo.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 1 (VoiceOver) */
+"SteamedMungBeans.Instructions.Step.2.Part.1.Accessibility" = "Rửa sạch đậu xanh bằng nước lạnh sau đó để ráo.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 2 */
+"SteamedMungBeans.Instructions.Step.2.Part.2" = "Cho ##Đậu Xanh Không Vỏ## (peeled and split mung beans) vào nồi hấp.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 2 (VoiceOver) */
+"SteamedMungBeans.Instructions.Step.2.Part.2.Accessibility" = "Cho đậu xanh vào nồi hấp.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 3 */
+"SteamedMungBeans.Instructions.Step.2.Part.3" = "Hấp 30 phút.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 3 (VoiceOver) */
+"SteamedMungBeans.Instructions.Step.2.Part.3.Accessibility" = "Hấp 30 phút.";
+
+/* Steamed Mung Beans Tips 1 */
+"SteamedMungBeans.Tips.1" = "Để ##Đậu Xanh Hấp## (steamed mung beans) nguội trước khi cất đi.";
+
+/* Steamed Mung Beans Tips 1 (VoiceOver) */
+"SteamedMungBeans.Tips.1.Accessibility" = "Để đậu nguội trước khi cất đi.";
+
+/* Steamed Mung Beans Tips 2 */
+"SteamedMungBeans.Tips.2" = "Cho ##Đậu Xanh Hấp## (steamed mung beans) vào túi ziplock và để đông lạnh.";
+
+/* Steamed Mung Beans Tips 2 (VoiceOver) */
+"SteamedMungBeans.Tips.2.Accessibility" = "Cho Đậu Xanh Hấp vào túi ziplock và để đông lạnh.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

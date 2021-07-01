@@ -210,6 +210,10 @@
 "friedCrispyShallots.Subtitle" = "Fried Crispy Shallots";
 "friedCrispyShallots.AccessibilityPageTitle" = "Fried Crispy Shallots";
 
+/* Steamed Mung Beans */
+"steamedMungBeans.Subtitle" = "Steamed Mung Beans";
+"steamedMungBeans.AccessibilityPageTitle" = "Steamed Mung Beans";
+
 
 // MARK: Ingredients Tab
 

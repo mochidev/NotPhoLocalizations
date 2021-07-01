@@ -5349,6 +5349,71 @@
 "FriedCrispyShallots.HowTo.2" = "Or sprinkle on a bit of salt and enjoy them as chips.";
 
 
+// MARK: Dau Xanh Hap (Steamed Mung Beans) Page
+
+/* Steamed Mung Beans Introduction 1 */
+"SteamedMungBeans.Introduction.1" = "##Đậu Xanh## (mung beans) are often used as a topping or component in many dishes. There are two types of ##Đậu Xanh## (mung beans); green and yellow. The green ##Đậu Xanh## (mung beans) are with skin and the yellow ##Đậu Xanh## (mung beans) are hulled and split in halves. Yellow ##Đậu Xanh## (mung beans) are used more often steamed or as a paste, and accompany many dishes like ##Bánh Xèo## (Vietnamese crêpes), ##Bánh Cam## (sesame balls), ##Tương Đậu Phộng## (peanut dipping sauce), and many more.";
+
+/* Steamed Mung Beans Introduction 1 (VoiceOver) */
+"SteamedMungBeans.Introduction.1.Accessibility" = "Mung beans are often used as a topping or component in many dishes. There are two types of mung beans; green and yellow. The green mung beans are with skin and the yellow mung beans are hulled and split in halves. Yellow mung beans are used more often steamed or as a paste, and accompany many dishes like Vietnamese crêpes, sesame balls, peanut dipping sauce, and many more.";
+
+/* Steamed Mung Beans Introduction 2 */
+"SteamedMungBeans.Introduction.2.us" = "This recipe yields a bit over ½ cup.";
+"SteamedMungBeans.Introduction.2.metric" = "This recipe yields a bit over 125 g.";
+
+/* Steamed Mung Beans Ingredients Yellow Mung Beans Amount */
+"SteamedMungBeans.YellowMungBeans.Amount.us" = "½ cup";
+"SteamedMungBeans.YellowMungBeans.Amount.metric" = "125 g";
+
+/* Steamed Mung Beans Ingredients Yellow Mung Beans Amount (VoiceOver) */
+"SteamedMungBeans.YellowMungBeans.AccessibilityAmount.us" = "half a cup";
+"SteamedMungBeans.YellowMungBeans.AccessibilityAmount.metric" = "125 grams";
+
+/* Steamed Mung Beans Ingredients Water Amount */
+"SteamedMungBeans.Water.Amount.us" = "1 cup";
+"SteamedMungBeans.Water.Amount.metric" = "240 ml";
+
+/* Steamed Mung Beans Ingredients Water Amount (VoiceOver) */
+"SteamedMungBeans.Water.AccessibilityAmount.us" = "one cup";
+"SteamedMungBeans.Water.AccessibilityAmount.metric" = "240 milliliters";
+
+/* Steamed Mung Beans Instructions Step 1 Part 1 */
+"SteamedMungBeans.Instructions.Step.1.Part.1" = "Soak the ##Đậu Xanh Không Vỏ## (peeled and split mung beans) in ##Nước## (water) for 30 minutes.";
+
+/* Steamed Mung Beans Instructions Step 1 Part 1 (VoiceOver) */
+"SteamedMungBeans.Instructions.Step.1.Part.1.Accessibility" = "Soak the peeled and split mung beans in water for 30 minutes.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 1 */
+"SteamedMungBeans.Instructions.Step.2.Part.1" = "Rinse the ##Đậu Xanh Không Vỏ## (peeled and split mung beans) in fresh water, then drain.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 1 (VoiceOver) */
+"SteamedMungBeans.Instructions.Step.2.Part.1.Accessibility" = "Rinse the peeled and split mung beans in fresh water, then drain.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 2 */
+"SteamedMungBeans.Instructions.Step.2.Part.2" = "Place the ##Đậu Xanh Không Vỏ## (peeled and split mung beans) in a steamer.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 2 (VoiceOver) */
+"SteamedMungBeans.Instructions.Step.2.Part.2.Accessibility" = "Place the peeled and split mung beans in a steamer.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 3 */
+"SteamedMungBeans.Instructions.Step.2.Part.3" = "Steam for 30 minutes.";
+
+/* Steamed Mung Beans Instructions Step 2 Part 3 (VoiceOver) */
+"SteamedMungBeans.Instructions.Step.2.Part.3.Accessibility" = "Steam for 30 minutes.";
+
+/* Steamed Mung Beans Tips 1 */
+"SteamedMungBeans.Tips.1" = "Let the ##Đậu Xanh Hấp## (steamed mung beans) cool completely before storing away.";
+
+/* Steamed Mung Beans Tips 1 (VoiceOver) */
+"SteamedMungBeans.Tips.1.Accessibility" = "Let the steamed mung beans cool completely before storing away.";
+
+/* Steamed Mung Beans Tips 2 */
+"SteamedMungBeans.Tips.2" = "Store them in a ziplock bag and freeze.";
+
+/* Steamed Mung Beans Tips 2 (VoiceOver) */
+"SteamedMungBeans.Tips.2.Accessibility" = "Store them in a ziplock bag and freeze.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

@@ -256,6 +256,11 @@
 "friedCrispyShallots.AccessibilitySubtitle" = "Hành Phi";
 "friedCrispyShallots.AccessibilityPageTitle" = "Hành Phi";
 
+/* Steamed Mung Beans */
+"steamedMungBeans.Subtitle" = "Steamed Mung Beans";
+"steamedMungBeans.AccessibilitySubtitle" = "Đậu Xanh Hấp";
+"steamedMungBeans.AccessibilityPageTitle" = "Đậu Xanh Hấp";
+
 
 // MARK: Ingredients Tab
 
