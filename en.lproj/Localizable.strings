@@ -406,10 +406,10 @@
 "Crepe.Variants.4.Accessibility" = "I find this technique gives the shrimps and pork belly even more flavors.";
 
 /* Crepe Variants 5 */
-"Crepe.Variants.5" = "Another item I like to add is ##Đậu Xanh Hấp## (steamed mung beans); just sprinkle some after you pour the batter.";
+"Crepe.Variants.5" = "Another item I like to add is ##Đậu Xanh Hấp## (steamed mung beans); just sprinkle some in after you pour the batter.";
 
 /* Crepe Variants 5 (VoiceOver) */
-"Crepe.Variants.5.Accessibility" = "Another item I like to add is (steamed mung beans); just sprinkle some after you pour the batter.";
+"Crepe.Variants.5.Accessibility" = "Another item I like to add is (steamed mung beans); just sprinkle some in after you pour the batter.";
 
 /* Crepe How To 1 */
 "Crepe.HowTo.1" = "Grab a piece of ##Rau Xà Lách## (lettuce).";
@@ -5358,10 +5358,10 @@
 // MARK: Dau Xanh Hap (Steamed Mung Beans) Page
 
 /* Steamed Mung Beans Introduction 1 */
-"SteamedMungBeans.Introduction.1" = "##Đậu Xanh## (mung beans) are often used as a topping or component in many dishes. There are two types of ##Đậu Xanh## (mung beans); green and yellow. The green ##Đậu Xanh## (mung beans) are with skin and the yellow ##Đậu Xanh## (mung beans) are hulled and split in halves. Yellow ##Đậu Xanh## (mung beans) are used more often steamed or as a paste, and accompany many dishes like ##Bánh Xèo## (Vietnamese crêpes), ##Bánh Cam## (sesame balls), ##Tương Đậu Phộng## (peanut dipping sauce), and many more.";
+"SteamedMungBeans.Introduction.1" = "##Đậu Xanh## (mung beans) are often used as a topping or component in many dishes. There are two types of ##Đậu Xanh## (mung beans); green and yellow. The green ##Đậu Xanh## (mung beans) still have their skin, while the yellow ##Đậu Xanh## (mung beans) are hulled and split in halves. Yellow ##Đậu Xanh## (mung beans) are used more often, either steamed or as a paste, and accompany many dishes like ##Bánh Xèo## (Vietnamese crêpes), ##Bánh Cam## (sesame balls), ##Tương Đậu Phộng## (peanut dipping sauce), and many more.";
 
 /* Steamed Mung Beans Introduction 1 (VoiceOver) */
-"SteamedMungBeans.Introduction.1.Accessibility" = "Mung beans are often used as a topping or component in many dishes. There are two types of mung beans; green and yellow. The green mung beans are with skin and the yellow mung beans are hulled and split in halves. Yellow mung beans are used more often steamed or as a paste, and accompany many dishes like Vietnamese crêpes, sesame balls, peanut dipping sauce, and many more.";
+"SteamedMungBeans.Introduction.1.Accessibility" = "Mung beans are often used as a topping or component in many dishes. There are two types of mung beans; green and yellow. The green mung beans still have their skin, while the yellow mung beans are hulled and split in halves. Yellow mung beans are used more often, either steamed or as a paste, and accompany many dishes like Vietnamese crêpes, sesame balls, peanut dipping sauce, and many more.";
 
 /* Steamed Mung Beans Introduction 2 */
 "SteamedMungBeans.Introduction.2.us" = "This recipe yields a bit over ½ cup.";
