@@ -3210,11 +3210,11 @@
 /* Vietnamese Coffee Instructions Step 2 Part 4 (VoiceOver) */
 "VietnameseCoffee.Instructions.Step.2.Part.4.Accessibility" = "Place the presser into the Phin filter and press down gently on the ground coffee.";
 
-/* Vietnamese Coffee Instructions Step 2 Part 4 */
-"VietnameseCoffee.Instructions.Step.2.Part.4" = "Add the remaining hot water and cover with the lid.";
+/* Vietnamese Coffee Instructions Step 2 Part 5 */
+"VietnameseCoffee.Instructions.Step.2.Part.5" = "Add the remaining hot water and cover with the lid.";
 
-/* Vietnamese Coffee Instructions Step 2 Part 4 (VoiceOver) */
-"VietnameseCoffee.Instructions.Step.2.Part.4.Accessibility" = "Add the remaining hot water and cover with the lid.";
+/* Vietnamese Coffee Instructions Step 2 Part 5 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.5.Accessibility" = "Add the remaining hot water and cover with the lid.";
 
 /* Vietnamese Coffee Instructions Step 2 Note 1 */
 "VietnameseCoffee.Instructions.Step.2.Note.1" = "If you don’t have a ##Phin Lọc## (Phin filter), any coffee maker will work.";

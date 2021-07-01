@@ -3262,11 +3262,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Vietnamese Coffee Instructions Step 2 Part 4 (VoiceOver) */
 "VietnameseCoffee.Instructions.Step.2.Part.4.Accessibility" = "Đặt miếng ép vào Phin Lọc và ấn nhẹ Cà Phê Xay xay xuống.";
 
-/* Vietnamese Coffee Instructions Step 2 Part 4 */
-"VietnameseCoffee.Instructions.Step.2.Part.4" = "Thêm tất cả ##Nước## (water) nóng còn lại và đầy nắp lại.";
+/* Vietnamese Coffee Instructions Step 2 Part 5 */
+"VietnameseCoffee.Instructions.Step.2.Part.5" = "Thêm tất cả ##Nước## (water) nóng còn lại và đầy nắp lại.";
 
-/* Vietnamese Coffee Instructions Step 2 Part 4 (VoiceOver) */
-"VietnameseCoffee.Instructions.Step.2.Part.4.Accessibility" = "Thêm tất cả nước nóng còn lại và đầy nắp lại.";
+/* Vietnamese Coffee Instructions Step 2 Part 5 (VoiceOver) */
+"VietnameseCoffee.Instructions.Step.2.Part.5.Accessibility" = "Thêm tất cả nước nóng còn lại và đầy nắp lại.";
 
 /* Vietnamese Coffee Instructions Step 2 Note 1 */
 "VietnameseCoffee.Instructions.Step.2.Note.1" = "Nếu bạn không có ##Phin Lọc## (Phin filter) thì dùng máy lọc cà phê nào cũng được.";
