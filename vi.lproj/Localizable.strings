@@ -408,6 +408,12 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Crepe Variants 4 (VoiceOver) */
 "Crepe.Variants.4.Accessibility" = "Tôi thấy công thức này mang lại cho tôm và Thịt Ba Rọi nhiều hương vị hơn.";
 
+/* Crepe Variants 5 */
+"Crepe.Variants.5" = "Có một món mình thích nhất đó là ##Đậu Xanh Hấp## (steamed mung beans), bạn chỉ cần giải một ít lên trên ##Bột Bánh Xèo## (crepe batter).";
+
+/* Crepe Variants 5 (VoiceOver) */
+"Crepe.Variants.5.Accessibility" = "Có một món mình thích nhất đó là Đậu Xanh Hấp, bạn chỉ cần giải một ít lên trên Bột Bánh Xèo.";
+
 /* Crepe How To 1 */
 "Crepe.HowTo.1" = "Lấy một lá ##Rau Xà Lách## (lettuce) trong tay.";
 
