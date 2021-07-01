@@ -405,6 +405,12 @@
 /* Crepe Variants 4 (VoiceOver) */
 "Crepe.Variants.4.Accessibility" = "I find this technique gives the shrimps and pork belly even more flavors.";
 
+/* Crepe Variants 5 */
+"Crepe.Variants.5" = "Another item I like to add is ##Đậu Xanh Hấp## (steamed mung beans); just sprinkle some after you pour the batter.";
+
+/* Crepe Variants 5 (VoiceOver) */
+"Crepe.Variants.5.Accessibility" = "Another item I like to add is (steamed mung beans); just sprinkle some after you pour the batter.";
+
 /* Crepe How To 1 */
 "Crepe.HowTo.1" = "Grab a piece of ##Rau Xà Lách## (lettuce).";
 
