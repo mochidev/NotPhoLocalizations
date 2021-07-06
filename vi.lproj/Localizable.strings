@@ -6159,7 +6159,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "SubscriptionView.Offer.1.PurchaseButton" = "ĐĂNG KÝ";
 
 /* Subscription View Offer 1 Trial */
-"SubscriptionView.Offer.1.Trial" = "Dùng Thử Miễn Phí 1 Tuần";
+"SubscriptionView.Offer.1.Trial" = "Dùng Thử Miễn Phí 1 Tuần,\nSau Đó %@ / Tháng";
 
 /* Subscription View Offer 1 Bullet Text 1 */
 "SubscriptionView.Offer.1.BulletText.1" = "Mở khóa tất cả món ăn hiện tại.";
@@ -6189,7 +6189,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "SubscriptionView.Offer.2.PurchaseButton" = "ĐĂNG KÝ";
 
 /* Subscription View Offer 2 Trial */
-"SubscriptionView.Offer.2.Trial" = "Dùng Thử Miễn Phí 1 Tuần";
+"SubscriptionView.Offer.2.Trial" = "Dùng Thử Miễn Phí 1 Tuần,\nSau Đó %@ / Năm";
 
 /* Subscription View Offer 2 Bullet Text 1 */
 "SubscriptionView.Offer.2.BulletText.1" = "Mở khóa tất cả món ăn hiện tại,";

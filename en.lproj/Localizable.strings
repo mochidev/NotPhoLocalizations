@@ -6007,7 +6007,7 @@
 "SubscriptionView.Offer.1.PurchaseButton" = "SUBSCRIBE";
 
 /* Subscription View Offer 1 Trial */
-"SubscriptionView.Offer.1.Trial" = "Try 1 Week Free";
+"SubscriptionView.Offer.1.Trial" = "Try 1 Week Free,\nThen %@ / Month";
 
 /* Subscription View Offer 1 Bullet Text 1 */
 "SubscriptionView.Offer.1.BulletText.1" = "Unlock all current recipes.";
@@ -6037,7 +6037,7 @@
 "SubscriptionView.Offer.2.PurchaseButton" = "SUBSCRIBE";
 
 /* Subscription View Offer 2 Trial */
-"SubscriptionView.Offer.2.Trial" = "Try 1 Week Free";
+"SubscriptionView.Offer.2.Trial" = "Try 1 Week Free,\nThen %@ / Year";
 
 /* Subscription View Offer 2 Bullet Text 1 */
 "SubscriptionView.Offer.2.BulletText.1" = "Unlock all current recipes,";
