@@ -5420,6 +5420,122 @@
 "SteamedMungBeans.Tips.2.Accessibility" = "Store them in a ziplock bag and freeze.";
 
 
+// MARK: Tuong Dau Phong (Peanut Sauce) Page
+
+/* Peanut Sauce Introduction 1 */
+"PeanutSauce.Introduction.1" = "##Tương Đậu Phộng## (peanut sauce) is very simple but delicious and it is used as a dipping sauce in a lot of appetizers.";
+
+/* Peanut Sauce Introduction 1 (VoiceOver) */
+"PeanutSauce.Introduction.1.Accessibility" = "Peanut sauce is very simple but delicious and it is used as a dipping sauce in a lot of appetizers.";
+
+/* Peanut Sauce Introduction 2 */
+"PeanutSauce.Introduction.2" = "This recipe yields 2-3 servings.";
+
+/* Peanut Sauce Ingredients Hoisin Sauce Amount */
+"PeanutSauce.HoisinSauce.Amount.us" = "¼ cup";
+"PeanutSauce.HoisinSauce.Amount.metric" = "60 ml";
+
+/* Peanut Sauce Ingredients Hoisin Sauce Amount (VoiceOver) */
+"PeanutSauce.HoisinSauce.AccessibilityAmount.us" = "a quarter cup";
+"PeanutSauce.HoisinSauce.AccessibilityAmount.metric" = "60 milliliters";
+
+/* Peanut Sauce Ingredients Hoisin Sauce Amount */
+"PeanutSauce.HoisinSauce.Amount.us" = "¼ cup";
+"PeanutSauce.HoisinSauce.Amount.metric" = "90 g";
+
+/* Peanut Sauce Ingredients Hoisin Sauce Amount (VoiceOver) */
+"PeanutSauce.HoisinSauce.AccessibilityAmount.us" = "a quarter cup";
+"PeanutSauce.HoisinSauce.AccessibilityAmount.metric" = "90 grams";
+
+/* Peanut Sauce Ingredients Peanut Butter Amount */
+"PeanutSauce.PeanutButter.Amount" = "1 tbsp";
+
+/* Peanut Sauce Ingredients Peanut Butter Amount (VoiceOver) */
+"PeanutSauce.PeanutButter.AccessibilityAmount" = "1 tablespoon";
+
+/* Peanut Sauce Ingredients Steamed Mung Beans Amount */
+"PeanutSauce.SteamedMungBeans.Amount.us" = "½ cup";
+"PeanutSauce.SteamedMungBeans.Amount.metric" = "70 g";
+
+/* Peanut Sauce Ingredients Steamed Mung Beans Amount (VoiceOver) */
+"PeanutSauce.SteamedMungBeans.AccessibilityAmount.us" = "half a cup";
+"PeanutSauce.SteamedMungBeans.AccessibilityAmount.metric" = "70 grams";
+
+/* Peanut Sauce Ingredients Water Amount */
+"PeanutSauce.Water.Amount.us" = "½ cup";
+"PeanutSauce.Water.Amount.metric" = "120 ml";
+
+/* Peanut Sauce Ingredients Water Amount (VoiceOver) */
+"PeanutSauce.Water.AccessibilityAmount.us" = "half a cup";
+"PeanutSauce.Water.AccessibilityAmount.metric" = "120 milliliters";
+
+/* Peanut Sauce Instructions Step 1 Part 1 */
+"PeanutSauce.Instructions.Step.1.Part.1" = "Prepare the ##Đậu Xanh Hấp## (steamed mung beans) by following the recipe in the Ingredients section.";
+
+/* Peanut Sauce Instructions Step 1 Part 1 (VoiceOver) */
+"PeanutSauce.Instructions.Step.1.Part.1.Accessibility" = "Prepare the steamed mung beans by following the recipe in the Ingredients section.";
+
+/* Peanut Sauce Instructions Step 2 Part 1 */
+"PeanutSauce.Instructions.Step.2.Part.1" = "Blend the ##Đậu Xanh Hấp## (steamed mung beans) and ##Nước## (water) together until smooth.";
+
+/* Peanut Sauce Instructions Step 2 Part 1 (VoiceOver) */
+"PeanutSauce.Instructions.Step.2.Part.1.Accessibility" = "Blend the steamed mung beans and water together until smooth.";
+
+/* Peanut Sauce Instructions Step 3 Part 1 */
+"PeanutSauce.Instructions.Step.3.Part.1" = "In a sauce pan on low-medium heat, add the blended ##Đậu Xanh## (mung beans), ##Bơ Đậu Phộng## (peanut butter), and ##Tương Ăn Phở Hoisin## (hoisin sauce).";
+
+/* Peanut Sauce Instructions Step 3 Part 1 (VoiceOver) */
+"PeanutSauce.Instructions.Step.3.Part.1.Accessibility" = "In a sauce pan on low-medium heat, add the blended mung beans, peanut butter, and hoisin sauce.";
+
+/* Peanut Sauce Instructions Step 3 Part 2 */
+"PeanutSauce.Instructions.Step.3.Part.2" = "Stir the ingredients until they are well mixed.";
+
+/* Peanut Sauce Instructions Step 3 Part 2 (VoiceOver) */
+"PeanutSauce.Instructions.Step.3.Part.2.Accessibility" = "Stir the ingredients until they are well mixed.";
+
+/* Peanut Sauce Instructions Step 3 Part 3 */
+"PeanutSauce.Instructions.Step.3.Part.3" = "Once the ##Tương Đậu Phộng## (peanut sauce) begins to simmer, transfer it to a bowl.";
+
+/* Peanut Sauce Instructions Step 3 Part 3 (VoiceOver) */
+"PeanutSauce.Instructions.Step.3.Part.3.Accessibility" = "Once the peanut sauce begins to simmer, transfer it to a bowl.";
+
+/* Peanut Sauce Instructions Step 3 Part 4 */
+"PeanutSauce.Instructions.Step.3.Part.4" = "Let it cool before serving.";
+
+/* Peanut Sauce Instructions Step 3 Part 4 (VoiceOver) */
+"PeanutSauce.Instructions.Step.3.Part.4.Accessibility" = "Let it cool before serving.";
+
+/* Peanut Sauce Tips 1 */
+"PeanutSauce.Tips.1" = "Sprinkle in some crushed roasted peanuts to add some texture.";
+
+/* Peanut Sauce Tips 1 VoiceOver) */
+"PeanutSauce.Tips.1.Accessibility" = "Sprinkle in some crushed roasted peanuts to add some texture.";
+
+/* Peanut Sauce Tips 2 */
+"PeanutSauce.Tips.2" = "Or add some ##Đồ Chua## (pickled carrot and daikon) to the peanut sauce for a tangy flavor.";
+
+/* Peanut Sauce Tips 2 VoiceOver) */
+"PeanutSauce.Tips.2.Accessibility" = "Or add some pickled carrot and daikon to the peanut sauce for a tangy flavor.";
+
+/* Peanut Sauce Tips 3 */
+"PeanutSauce.Tips.3" = "You can also substitute ##Bơ Đậu Phộng## (peanut butter) with almond butter.";
+
+/* Peanut Sauce Tips 3 VoiceOver) */
+"PeanutSauce.Tips.3.Accessibility" = "You can also substitute peanut butter with almond butter.";
+
+/* Peanut Sauce Tips 4 */
+"PeanutSauce.Tips.4" = "Store the ##Tương Đậu Phộng## (peanut sauce) in the refrigerator.";
+
+/* Peanut Sauce Tips 4 VoiceOver) */
+"PeanutSauce.Tips.4.Accessibility" = "Store the peanut sauce in the refrigerator.";
+
+/* Peanut Sauce Tips 5 */
+"PeanutSauce.Tips.5" = "If the ##Tương Đậu Phộng## (peanut sauce) gets too thick after being in the refrigerator, mix in some water to lighten it.";
+
+/* Peanut Sauce Tips 5 VoiceOver) */
+"PeanutSauce.Tips.5.Accessibility" = "If the peanut sauce gets too thick after being in the refrigerator, mix in some water to lighten it.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

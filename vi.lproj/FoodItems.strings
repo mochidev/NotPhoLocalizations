@@ -261,6 +261,11 @@
 "steamedMungBeans.AccessibilitySubtitle" = "Đậu Xanh Hấp";
 "steamedMungBeans.AccessibilityPageTitle" = "Đậu Xanh Hấp";
 
+/* Peanut Sauce */
+"peanutSauce.Subtitle" = "Peanut Sauce";
+"peanutSauce.AccessibilitySubtitle" = "Tương Đậu Phộng";
+"peanutSauce.AccessibilityPageTitle" = "Tương Đậu Phộng";
+
 
 // MARK: Ingredients Tab
 

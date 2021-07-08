@@ -214,6 +214,10 @@
 "steamedMungBeans.Subtitle" = "Steamed Mung Beans";
 "steamedMungBeans.AccessibilityPageTitle" = "Steamed Mung Beans";
 
+/* Peanut Sauce */
+"peanutSauce.Subtitle" = "Peanut Sauce";
+"peanutSauce.AccessibilityPageTitle" = "Peanut Sauce";
+
 
 // MARK: Ingredients Tab
 
