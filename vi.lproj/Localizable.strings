@@ -5515,6 +5515,123 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "SteamedMungBeans.Tips.2.Accessibility" = "Cho Đậu Xanh Hấp vào túi ziplock và để đông lạnh.";
 
 
+// MARK: Tuong Dau Phong (Peanut Sauce) Page
+
+/* Peanut Sauce Introduction 1 */
+"PeanutSauce.Introduction.1" = "##Tương Đậu Phộng## (peanut sauce) rất đơn giản mà ngon và được dùng làm tương chấm trong những món ăn tráng miệng.";
+
+/* Peanut Sauce Introduction 1 (VoiceOver) */
+"PeanutSauce.Introduction.1.Accessibility" = "Tương Đậu Phộng rất đơn giản mà ngon và được dùng làm tương chấm trong những món ăn tráng miệng.";
+
+/* Peanut Sauce Introduction 2 */
+"PeanutSauce.Introduction.2" = "Công thức này làm khoảng 2-3 phần ăn.";
+
+/* Peanut Sauce Ingredients Hoisin Sauce Amount */
+"PeanutSauce.HoisinSauce.Amount.us" = "¼ cup";
+"PeanutSauce.HoisinSauce.Amount.metric" = "60 ml";
+
+/* Peanut Sauce Ingredients Hoisin Sauce Amount (VoiceOver) */
+"PeanutSauce.HoisinSauce.AccessibilityAmount.us" = "một phần tư cốc";
+"PeanutSauce.HoisinSauce.AccessibilityAmount.metric" = "60 mililít";
+
+/* Peanut Sauce Ingredients Hoisin Sauce Amount */
+"PeanutSauce.HoisinSauce.Amount.us" = "¼ cup";
+"PeanutSauce.HoisinSauce.Amount.metric" = "90 g";
+
+/* Peanut Sauce Ingredients Hoisin Sauce Amount (VoiceOver) */
+"PeanutSauce.HoisinSauce.AccessibilityAmount.us" = "một phần tư cốc";
+"PeanutSauce.HoisinSauce.AccessibilityAmount.metric" = "90 gờ ram";
+
+/* Peanut Sauce Ingredients Peanut Butter Amount */
+"PeanutSauce.PeanutButter.Amount.us" = "1 tbsp";
+"PeanutSauce.PeanutButter.Amount.metric" = "1 muỗng canh";
+
+/* Peanut Sauce Ingredients Peanut Butter Amount (VoiceOver) */
+"PeanutSauce.PeanutButter.AccessibilityAmount" = "1 muỗng canh";
+
+/* Peanut Sauce Ingredients Steamed Mung Beans Amount */
+"PeanutSauce.SteamedMungBeans.Amount.us" = "½ cup";
+"PeanutSauce.SteamedMungBeans.Amount.metric" = "70 g";
+
+/* Peanut Sauce Ingredients Steamed Mung Beans Amount (VoiceOver) */
+"PeanutSauce.SteamedMungBeans.AccessibilityAmount.us" = "một phần hai cốc";
+"PeanutSauce.SteamedMungBeans.AccessibilityAmount.metric" = "70 gờ ram";
+
+/* Peanut Sauce Ingredients Water Amount */
+"PeanutSauce.Water.Amount.us" = "½ cup";
+"PeanutSauce.Water.Amount.metric" = "120 ml";
+
+/* Peanut Sauce Ingredients Water Amount (VoiceOver) */
+"PeanutSauce.Water.AccessibilityAmount.us" = "một phần hai cốc";
+"PeanutSauce.Water.AccessibilityAmount.metric" = "120 mililít";
+
+/* Peanut Sauce Instructions Step 1 Part 1 */
+"PeanutSauce.Instructions.Step.1.Part.1" = "Chuẩn bị ##Đậu Xanh Hấp## (steamed mung beans) theo công thức ở phần trên mà làm.";
+
+/* Peanut Sauce Instructions Step 1 Part 1 (VoiceOver) */
+"PeanutSauce.Instructions.Step.1.Part.1.Accessibility" = "Chuẩn bị Đậu Xanh Hấp theo công thức ở phần trên mà làm.";
+
+/* Peanut Sauce Instructions Step 2 Part 1 */
+"PeanutSauce.Instructions.Step.2.Part.1" = "Cho ##Đậu Xanh Hấp## (steamed mung beans) và ##Nước## (water) và vào máy xay sinh tố và xay cho đến khi nhuyễn.";
+
+/* Peanut Sauce Instructions Step 2 Part 1 (VoiceOver) */
+"PeanutSauce.Instructions.Step.2.Part.1.Accessibility" = "Cho Đậu Xanh Hấp và Nước và vào máy xay sinh tố và xay cho đến khi nhuyễn.";
+
+/* Peanut Sauce Instructions Step 3 Part 1 */
+"PeanutSauce.Instructions.Step.3.Part.1" = "Trong cái nồi ở lửa nhỏ cho vào ##Đậu Xanh## (mung beans), ##Bơ Đậu Phộng## (peanut butter), và ##Tương Ăn Phở Hoisin## (hoisin sauce).";
+
+/* Peanut Sauce Instructions Step 3 Part 1 (VoiceOver) */
+"PeanutSauce.Instructions.Step.3.Part.1.Accessibility" = "Trong cái nồi ở lửa nhỏ cho vào Đậu Xanh, Bơ Đậu Phộng, và Tương Ăn Phở Hoisin.";
+
+/* Peanut Sauce Instructions Step 3 Part 2 */
+"PeanutSauce.Instructions.Step.3.Part.2" = "Quậy tất cả giá trị cho đến khi điều.";
+
+/* Peanut Sauce Instructions Step 3 Part 2 (VoiceOver) */
+"PeanutSauce.Instructions.Step.3.Part.2.Accessibility" = "Quậy tất cả giá trị cho đến khi điều.";
+
+/* Peanut Sauce Instructions Step 3 Part 3 */
+"PeanutSauce.Instructions.Step.3.Part.3" = "Nấu cho đến khi ##Tương Đậu Phộng## (peanut sauce) bắt đầu sôi thì lấy khối lửa và chuyển vô tô.";
+
+/* Peanut Sauce Instructions Step 3 Part 3 (VoiceOver) */
+"PeanutSauce.Instructions.Step.3.Part.3.Accessibility" = "Nấu cho đến khi ##Tương Đậu Phộng## (peanut sauce) bắt đầu sôi thì lấy khối lửa và chuyển vô tô.";
+
+/* Peanut Sauce Instructions Step 3 Part 4 */
+"PeanutSauce.Instructions.Step.3.Part.4" = "Để sốt nguội lại trước khi ăn.";
+
+/* Peanut Sauce Instructions Step 3 Part 4 (VoiceOver) */
+"PeanutSauce.Instructions.Step.3.Part.4.Accessibility" = "Để sốt nguội lại trước khi ăn.";
+
+/* Peanut Sauce Tips 1 */
+"PeanutSauce.Tips.1" = "##Tương Đậu Phộng## (peanut sauce) có thể ăn cùng với đậu phỏng rang.";
+
+/* Peanut Sauce Tips 1 VoiceOver) */
+"PeanutSauce.Tips.1.Accessibility" = "Tương Đậu Phộng có thể ăn cùng với đậu phỏng rang.";
+
+/* Peanut Sauce Tips 2 */
+"PeanutSauce.Tips.2" = "Bạn cũng có thể cho miếng ##Đồ Chua## (pickled carrot and daikon) vào tương.";
+
+/* Peanut Sauce Tips 2 VoiceOver) */
+"PeanutSauce.Tips.2.Accessibility" = "Bạn cũng có thể cho miếng Đồ Chua vào tương.";
+
+/* Peanut Sauce Tips 3 */
+"PeanutSauce.Tips.3" = "Nếu không thích ##Bơ Đậu Phộng## (peanut butter) thì có thể thay thế bằng bơ hạnh nhân.";
+
+/* Peanut Sauce Tips 3 VoiceOver) */
+"PeanutSauce.Tips.3.Accessibility" = "Nếu không thích Bơ Đậu Phộng thì có thể thay thế bằng bơ hạnh nhân.";
+
+/* Peanut Sauce Tips 4 */
+"PeanutSauce.Tips.4" = "Nếu có ##Tương Đậu Phộng## (peanut sauce) dư thì chứa vào tủ lạnh.";
+
+/* Peanut Sauce Tips 4 VoiceOver) */
+"PeanutSauce.Tips.4.Accessibility" = "Nếu có Tương Đậu Phộng dư thì chứa vào tủ lạnh.";
+
+/* Peanut Sauce Tips 5 */
+"PeanutSauce.Tips.5" = "Nếu ##Tương Đậu Phộng## (peanut sauce) trở thành hơi đặc sau khi chứa trong tủ lạnh thì có thể pha thêm một ít nước để tương lỏng lại.";
+
+/* Peanut Sauce Tips 5 VoiceOver) */
+"PeanutSauce.Tips.5.Accessibility" = "Nếu Tương Đậu Phộng trở thành hơi đặc sau khi chứa trong tủ lạnh thì có thể pha thêm một ít nước để tương lỏng lại.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */
