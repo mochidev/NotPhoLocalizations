@@ -5534,14 +5534,6 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PeanutSauce.HoisinSauce.AccessibilityAmount.us" = "một phần tư cốc";
 "PeanutSauce.HoisinSauce.AccessibilityAmount.metric" = "60 mililít";
 
-/* Peanut Sauce Ingredients Hoisin Sauce Amount */
-"PeanutSauce.HoisinSauce.Amount.us" = "¼ cup";
-"PeanutSauce.HoisinSauce.Amount.metric" = "90 g";
-
-/* Peanut Sauce Ingredients Hoisin Sauce Amount (VoiceOver) */
-"PeanutSauce.HoisinSauce.AccessibilityAmount.us" = "một phần tư cốc";
-"PeanutSauce.HoisinSauce.AccessibilityAmount.metric" = "90 gờ ram";
-
 /* Peanut Sauce Ingredients Peanut Butter Amount */
 "PeanutSauce.PeanutButter.Amount.us" = "1 tbsp";
 "PeanutSauce.PeanutButter.Amount.metric" = "1 muỗng canh";

@@ -5439,14 +5439,6 @@
 "PeanutSauce.HoisinSauce.AccessibilityAmount.us" = "a quarter cup";
 "PeanutSauce.HoisinSauce.AccessibilityAmount.metric" = "60 milliliters";
 
-/* Peanut Sauce Ingredients Hoisin Sauce Amount */
-"PeanutSauce.HoisinSauce.Amount.us" = "¼ cup";
-"PeanutSauce.HoisinSauce.Amount.metric" = "90 g";
-
-/* Peanut Sauce Ingredients Hoisin Sauce Amount (VoiceOver) */
-"PeanutSauce.HoisinSauce.AccessibilityAmount.us" = "a quarter cup";
-"PeanutSauce.HoisinSauce.AccessibilityAmount.metric" = "90 grams";
-
 /* Peanut Sauce Ingredients Peanut Butter Amount */
 "PeanutSauce.PeanutButter.Amount" = "1 tbsp";
 
