@@ -163,6 +163,11 @@
 "vietnameseCoffee.AccessibilitySubtitle" = "Cà Phê Sữa";
 "vietnameseCoffee.AccessibilityPageTitle" = "Cà Phê Sữa";
 
+/* Shrimp and Pork Spring Roll */
+"shrimpPorkSpringRoll.Subtitle" = "Shrimp and Pork Spring Roll";
+"shrimpPorkSpringRoll.AccessibilitySubtitle" = "Gỏi Cuốn Tôm Thịt";
+"shrimpPorkSpringRoll.AccessibilityPageTitle" = "Gỏi Cuốn Tôm Thịt";
+
 
 // MARK: Recipes Tab
 

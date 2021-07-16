@@ -135,6 +135,10 @@
 "vietnameseCoffee.Subtitle" = "Vietnamese Coffee";
 "vietnameseCoffee.AccessibilityPageTitle" = "Vietnamese Coffee";
 
+/* Shrimp and Pork Spring Roll */
+"shrimpPorkSpringRoll.Subtitle" = "Shrimp and Pork Spring Roll";
+"shrimpPorkSpringRoll.AccessibilityPageTitle" = "Shrimp and Pork Spring Roll";
+
 
 // MARK: Recipes Tab
 

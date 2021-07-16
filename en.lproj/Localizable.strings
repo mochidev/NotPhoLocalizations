@@ -3259,6 +3259,219 @@
 "VietnameseCoffee.HowTo.2.Accessibility" = "For iced coffee, pour the well mixed coffee over a glass of ice to enjoy.";
 
 
+// MARK: Goi Cuon Tom Thit (Shrimp and Pork Spring Roll) Page
+
+/* Shrimp and Pork Spring Roll Introduction 1 */
+"ShrimpPorkSpringRoll.Introduction.1" = "##Gỏi Cuốn Tôm Thịt## (shrimp and pork spring roll) is a very popular appetizer that is enjoyed any time. The traditional ##Gỏi Cuốn## (spring roll) consists of pork, shrimp, vermicelli noodle, and vegetables, such as lettuce and bean sprouts, and are all wrapped up in rice paper.";
+
+/* Shrimp and Pork Spring Roll Introduction 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Introduction.1.Accessibility" = "Shrimp and pork spring roll is a very popular appetizer that is enjoyed any time. The traditional spring roll consists of pork, shrimp, vermicelli noodle, and vegetables, such as lettuce and bean sprouts, and are all wrapped up in rice paper.";
+
+/* Shrimp and Pork Spring Roll Ingredients Pork Butt Amount */
+"ShrimpPorkSpringRoll.Ingredients.PorkButt.Amount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Pork Butt Amount (VoiceOver) */
+"ShrimpPorkSpringRoll.Ingredients.PorkButt.AccessibilityAmount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Shrimp Amount */
+"ShrimpPorkSpringRoll.Ingredients.Shrimp.Amount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Shrimp Amount (VoiceOver) */
+"ShrimpPorkSpringRoll.Ingredients.Shrimp.AccessibilityAmount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Vermicelli Noodles Amount */
+"ShrimpPorkSpringRoll.Ingredients.VermicelliNoodles.Amount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Vermicelli Noodles Amount (VoiceOver) */
+"ShrimpPorkSpringRoll.Ingredients.VermicelliNoodles.AccessibilityAmount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Lettuce Amount */
+"ShrimpPorkSpringRoll.Ingredients.Lettuce.Amount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Lettuce Amount (VoiceOver) */
+"ShrimpPorkSpringRoll.Ingredients.Lettuce.AccessibilityAmount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Bean Sprouts Amount */
+"ShrimpPorkSpringRoll.Ingredients.BeanSprouts.Amount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Bean Sprouts Amount (VoiceOver) */
+"ShrimpPorkSpringRoll.Ingredients.BeanSprouts.AccessibilityAmount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Rice Paper Amount */
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.Amount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Rice Paper Amount (VoiceOver) */
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.AccessibilityAmount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Peanut Sauce Amount */
+"ShrimpPorkSpringRoll.Ingredients.PeanutSauce.Amount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Peanut Sauce Amount (VoiceOver) */
+"ShrimpPorkSpringRoll.Ingredients.PeanutSauce.AccessibilityAmount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Mixed Fish Sauce Amount */
+"ShrimpPorkSpringRoll.Ingredients.MixedFishSauce.Amount" = "???";
+
+/* Shrimp and Pork Spring Roll Ingredients Mixed Fish Sauce Amount (VoiceOver) */
+"ShrimpPorkSpringRoll.Ingredients.MixedFishSauce.AccessibilityAmount" = "???";
+
+/* Shrimp and Pork Spring Roll Instructions Step 1 Part 1 */
+"ShrimpPorkSpringRoll.Instructions.Step.1.Part.1" = "Peel and devein the ##Tôm## (shrimps).";
+
+/* Shrimp and Pork Spring Roll Instructions Step 1 Part 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.1.Part.1.Accessibility" = "Peel and devein the shrimps.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 1 Part 2 */
+"ShrimpPorkSpringRoll.Instructions.Step.1.Part.2" = "Boil the ##Tôm## (shrimps) in hot water until they are cooked.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 1 Part 2 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.1.Part.2.Accessibility" = "Boil the shrimps in hot water until they are cooked.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 1 Part 3 */
+"ShrimpPorkSpringRoll.Instructions.Step.1.Part.3" = "Let them cool before cutting.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 1 Part 3 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.1.Part.3.Accessibility" = "Let it cool before cutting.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 1 Part 4 */
+"ShrimpPorkSpringRoll.Instructions.Step.1.Part.4" = "Cut each ##Tôm## (shrimp) in half horizontally.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 1 Part 4 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.1.Part.4.Accessibility" = "Cut each shrimp in half horizontally.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Part 1 */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Part.1" = "Boil the ##Thịt Mông## (pork butt) in hot water until it is cooked.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Part 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Part.1.Accessibility" = "Boil the pork butt in hot water until it is cooked.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Part 2 */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Part.2" = "Let it cool before cutting.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Part 2 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Part.2.Accessibility" = "Let it cool before cutting.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Part 3 */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Part.3" = "Cut the ##Thịt Mông## (pork butt) into thin slices (as thin as possible).";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Part 3 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Part.3.Accessibility" = "Cut the pork butt into thin slices (as thin as possible).";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Note 1 */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Note.1" = "Pork butt and pork shoulder are similar cuts of pork, and they have slightly more fat than pork leg.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Note 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Note.1.Accessibility" = "Pork butt and pork shoulder are similar cuts of pork, and they have slightly more fat than pork leg.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Note 2 */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Note.2" = "Any of these cuts of pork would be fine.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 2 Note 2 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.2.Note.2.Accessibility" = "Any of these cuts of pork would be fine.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 3 Part 1 */
+"ShrimpPorkSpringRoll.Instructions.Step.3.Part.1" = "Cook the ##Bún## (vermicelli noodles) according to the instructions on the package.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 3 Part 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.3.Part.1.Accessibility" = "Cook the vermicelli noodles according to the instructions on the package.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 3 Note 1 */
+"ShrimpPorkSpringRoll.Instructions.Step.3.Note.1" = "I normally use very little noodles so the amount is up to you.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 3 Note 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.3.Note.1.Accessibility" = "I normally use very little noodles so the amount is up to you.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 3 Note 2 */
+"ShrimpPorkSpringRoll.Instructions.Step.3.Note.2" = "For starter use ¼ pack of the noodles, then make more if needed.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 3 Note 2 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.3.Note.2.Accessibility" = "For starter use ¼ pack of the noodles, then make more if needed.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 4 Part 1 */
+"ShrimpPorkSpringRoll.Instructions.Step.4.Part.1" = "Wash and dry all vegetables.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 4 Part 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.4.Part.1.Accessibility" = "Wash and dry all vegetables.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 1 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.1" = "Submerge one sheet of ##Bánh Tráng## (rice paper) into warm water until both sides are wet, then remove from water.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.1.Accessibility" = "Submerge one sheet of rice paper into warm water until both sides are wet, then remove from water.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 2 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.2" = "Place the now wet ##Bánh Tráng## (rice paper) on a clean working surface.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 2 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.2.Accessibility" = "Place the now wet rice paper on a clean working surface.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 3 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.3" = "Place 3 half prices of ##Tôm## (shrimp) horizontally in the center of the rice wrapper.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 3 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.3.Accessibility" = "Place 3 half prices of shrimp horizontally in the center of the rice wrapper.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 4 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.4" = "Place 2 pieces of sliced ##Thịt Mông## (pork butt) over the shrimps.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 4 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.4.Accessibility" = "Place 2 pieces of sliced pork butt over the shrimps.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 5 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.5" = "Place a small piece of ##Rau Xà Lách## (lettuce) over the ##Thịt Mông## (pork butt).";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 5 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.5.Accessibility" = "Place a small piece of lettuce over the pork butt.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 6 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.6" = "Place some ##Giá Đậu## (bean sprouts) on top of the ##Rau Xà Lách## (lettuce).";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 6 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.6.Accessibility" = "Place some bean sprouts on top of the lettuce.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 7 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.7" = "Place some ##Bún## (vermicelli noodles) next to the ##Giá Đậu## (bean sprouts).";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 7 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.7.Accessibility" = "Place some vermicelli noodles next to the bean sprouts.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 8 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.8" = "Fold the two sides of the ##Bánh Tráng## (rice paper) in toward the center.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 8 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.8.Accessibility" = "Fold the two sides of the rice paper in toward the center.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 9 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.9" = "Fold the bottom part of the ##Bánh Tráng## (rice paper) up towards the center.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 9 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.9.Accessibility" = "Fold the bottom part of the rice paper up towards the center.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 10 */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.10" = "Roll the contents up, keeping it tight.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 5 Part 10 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.10.Accessibility" = "Roll the contents up, keeping it tight.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 6 Part 1 */
+"ShrimpPorkSpringRoll.Instructions.Step.6.Part.1" = "Make the dipping sauce.";
+
+/* Shrimp and Pork Spring Roll Instructions Step 6 Part 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.6.Part.1.Accessibility" = "Make the dipping sauce.";
+
+/* Shrimp and Pork Spring Roll How To 1 */
+"ShrimpPorkSpringRoll.HowTo.1" = "##Gỏi Cuốn## (spring rolls) can be enjoyed with ##Tương Đậu Phộng## (peanut sauce) or ##Nước Mắm Chấm## (mixed fish sauce).";
+
+/* Shrimp and Pork Spring Roll How To 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.HowTo.1" = "Spring rolls can be enjoyed with peanut sauce or mixed fish sauce.";
+
+/* Shrimp and Pork Spring Roll How To 2 */
+"ShrimpPorkSpringRoll.HowTo.2" = "For the ##Tương Đậu Phộng## (peanut sauce), add some Sriracha sauce if you like spicy food.";
+
+/* Shrimp and Pork Spring Roll How To 2 (VoiceOver) */
+"ShrimpPorkSpringRoll.HowTo.2" = "For the peanut sauce, add some Sriracha sauce if you like spicy food.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */
