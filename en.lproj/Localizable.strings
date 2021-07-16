@@ -3262,10 +3262,10 @@
 // MARK: Goi Cuon Tom Thit (Shrimp and Pork Spring Roll) Page
 
 /* Shrimp and Pork Spring Roll Introduction 1 */
-"ShrimpPorkSpringRoll.Introduction.1" = "##Gỏi Cuốn Tôm Thịt## (shrimp and pork spring roll) is a very popular appetizer that is enjoyed any time. The traditional ##Gỏi Cuốn## (spring roll) consists of pork, shrimp, vermicelli noodle, and vegetables, such as lettuce and bean sprouts, and are all wrapped up in rice paper.";
+"ShrimpPorkSpringRoll.Introduction.1" = "##Gỏi Cuốn Tôm Thịt## (shrimp and pork spring roll) is a very popular appetizer that can be enjoyed any time. The traditional ##Gỏi Cuốn## (spring roll) consists of pork, shrimp, vermicelli noodle, and vegetables, such as lettuce and bean sprouts, and are all wrapped up in rice paper.";
 
 /* Shrimp and Pork Spring Roll Introduction 1 (VoiceOver) */
-"ShrimpPorkSpringRoll.Introduction.1.Accessibility" = "Shrimp and pork spring roll is a very popular appetizer that is enjoyed any time. The traditional spring roll consists of pork, shrimp, vermicelli noodle, and vegetables, such as lettuce and bean sprouts, and are all wrapped up in rice paper.";
+"ShrimpPorkSpringRoll.Introduction.1.Accessibility" = "Shrimp and pork spring roll is a very popular appetizer that can be enjoyed any time. The traditional spring roll consists of pork, shrimp, vermicelli noodle, and vegetables, such as lettuce and bean sprouts, and are all wrapped up in rice paper.";
 
 /* Shrimp and Pork Spring Roll Ingredients Pork Butt Amount */
 "ShrimpPorkSpringRoll.Ingredients.PorkButt.Amount" = "???";
@@ -3328,7 +3328,7 @@
 "ShrimpPorkSpringRoll.Instructions.Step.1.Part.2.Accessibility" = "Boil the shrimps in hot water until they are cooked.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 1 Part 3 */
-"ShrimpPorkSpringRoll.Instructions.Step.1.Part.3" = "Let them cool before cutting.";
+"ShrimpPorkSpringRoll.Instructions.Step.1.Part.3" = "Let it cool before cutting.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 1 Part 3 (VoiceOver) */
 "ShrimpPorkSpringRoll.Instructions.Step.1.Part.3.Accessibility" = "Let it cool before cutting.";
@@ -3376,16 +3376,16 @@
 "ShrimpPorkSpringRoll.Instructions.Step.3.Part.1.Accessibility" = "Cook the vermicelli noodles according to the instructions on the package.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 3 Note 1 */
-"ShrimpPorkSpringRoll.Instructions.Step.3.Note.1" = "I normally use very little noodles so the amount is up to you.";
+"ShrimpPorkSpringRoll.Instructions.Step.3.Note.1" = "I normally use very little noodles, but the amount is up to you.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 3 Note 1 (VoiceOver) */
-"ShrimpPorkSpringRoll.Instructions.Step.3.Note.1.Accessibility" = "I normally use very little noodles so the amount is up to you.";
+"ShrimpPorkSpringRoll.Instructions.Step.3.Note.1.Accessibility" = "I normally use very little noodles, but the amount is up to you.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 3 Note 2 */
-"ShrimpPorkSpringRoll.Instructions.Step.3.Note.2" = "For starter use ¼ pack of the noodles, then make more if needed.";
+"ShrimpPorkSpringRoll.Instructions.Step.3.Note.2" = "When starting, use ¼ pack of the noodles, then make more if needed.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 3 Note 2 (VoiceOver) */
-"ShrimpPorkSpringRoll.Instructions.Step.3.Note.2.Accessibility" = "For starter use ¼ pack of the noodles, then make more if needed.";
+"ShrimpPorkSpringRoll.Instructions.Step.3.Note.2.Accessibility" = "When starting, use one quarter pack of the noodles, then make more if needed.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 4 Part 1 */
 "ShrimpPorkSpringRoll.Instructions.Step.4.Part.1" = "Wash and dry all vegetables.";
