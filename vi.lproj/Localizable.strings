@@ -3319,6 +3319,9 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Shrimp and Pork Spring Roll Introduction 1 (VoiceOver) */
 "ShrimpPorkSpringRoll.Introduction.1.Accessibility" = "Gỏi Cuốn Tôm Thịt là một món khai vị nổi tiếng. Gỏi Cuốn truyền thống được làm từ thịt heo, tôm, bún và các loại rau như xà lách, giá đậu và được cuốn trong bánh tráng.";
 
+/* Shrimp and Pork Spring Roll Introduction 1 */
+"ShrimpPorkSpringRoll.Introduction.2" = "Công thức này làm 10 cuốn.";
+
 /* Shrimp and Pork Spring Roll Ingredients Pork Butt Amount */
 "ShrimpPorkSpringRoll.Ingredients.PorkButt.Amount.us" = "½ lb";
 "ShrimpPorkSpringRoll.Ingredients.PorkButt.Amount.metric" = "230 g";
@@ -3357,10 +3360,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpPorkSpringRoll.Ingredients.BeanSprouts.AccessibilityAmount.metric" = "70 gờ ram";
 
 /* Shrimp and Pork Spring Roll Ingredients Rice Paper Amount */
-"ShrimpPorkSpringRoll.Ingredients.RicePaper.Amount" = "10 tấm";
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.Amount.us" = "10 tấm (kích thước 8.5 inches) ";
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.Amount.metric" = "10 tấm (kích thước 22 cm)";
 
 /* Shrimp and Pork Spring Roll Ingredients Rice Paper Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.RicePaper.AccessibilityAmount" = "10 tấm";
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.AccessibilityAmount" = "10 tấm (kích thước 22 xăng ti mét)";
 
 /* Shrimp and Pork Spring Roll Ingredients Peanut Sauce Amount */
 "ShrimpPorkSpringRoll.Ingredients.PeanutSauce.Amount" = "1 phần";

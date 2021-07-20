@@ -3267,6 +3267,9 @@
 /* Shrimp and Pork Spring Roll Introduction 1 (VoiceOver) */
 "ShrimpPorkSpringRoll.Introduction.1.Accessibility" = "Shrimp and pork spring roll is a very popular appetizer that can be enjoyed any time. The traditional spring roll consists of pork, shrimp, vermicelli noodle, and vegetables, such as lettuce and bean sprouts, and are all wrapped up in rice paper.";
 
+/* Shrimp and Pork Spring Roll Introduction 1 */
+"ShrimpPorkSpringRoll.Introduction.2" = "This recipe makes 10 rolls.";
+
 /* Shrimp and Pork Spring Roll Ingredients Pork Butt Amount */
 "ShrimpPorkSpringRoll.Ingredients.PorkButt.Amount.us" = "½ lb";
 "ShrimpPorkSpringRoll.Ingredients.PorkButt.Amount.metric" = "230 g";
@@ -3306,10 +3309,12 @@
 "ShrimpPorkSpringRoll.Ingredients.BeanSprouts.AccessibilityAmount.metric" = "70 grams";
 
 /* Shrimp and Pork Spring Roll Ingredients Rice Paper Amount */
-"ShrimpPorkSpringRoll.Ingredients.RicePaper.Amount" = "10 sheets";
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.Amount.us" = "10 sheets (8.5 in diameter)";
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.Amount.metric" = "10 sheets (22 cm diameter)";
 
 /* Shrimp and Pork Spring Roll Ingredients Rice Paper Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.RicePaper.AccessibilityAmount" = "10 sheets";
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.AccessibilityAmount.us" = "10 sheets (8.5 in diameter)";
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.AccessibilityAmount.metric" = "10 sheets (22 cm diameter)";
 
 /* Shrimp and Pork Spring Roll Ingredients Peanut Sauce Amount */
 "ShrimpPorkSpringRoll.Ingredients.PeanutSauce.Amount" = "1 portion";
