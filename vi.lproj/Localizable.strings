@@ -3320,52 +3320,59 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpPorkSpringRoll.Introduction.1.Accessibility" = "Gỏi Cuốn Tôm Thịt là một món khai vị nổi tiếng. Gỏi Cuốn truyền thống được làm từ thịt heo, tôm, bún và các loại rau như xà lách, giá đậu và được cuốn trong bánh tráng.";
 
 /* Shrimp and Pork Spring Roll Ingredients Pork Butt Amount */
-"ShrimpPorkSpringRoll.Ingredients.PorkButt.Amount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.PorkButt.Amount.us" = "½ lb";
+"ShrimpPorkSpringRoll.Ingredients.PorkButt.Amount.metric" = "230 g";
 
 /* Shrimp and Pork Spring Roll Ingredients Pork Butt Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.PorkButt.AccessibilityAmount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.PorkButt.AccessibilityAmount" = "230 gờ ram";
 
 /* Shrimp and Pork Spring Roll Ingredients Shrimp Amount */
-"ShrimpPorkSpringRoll.Ingredients.Shrimp.Amount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.Shrimp.Amount" = "15 con";
 
 /* Shrimp and Pork Spring Roll Ingredients Shrimp Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.Shrimp.AccessibilityAmount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.Shrimp.AccessibilityAmount" = "15 con";
 
 /* Shrimp and Pork Spring Roll Ingredients Vermicelli Noodles Amount */
-"ShrimpPorkSpringRoll.Ingredients.VermicelliNoodles.Amount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.VermicelliNoodles.Amount.us" = "2 oz (khô)";
+"ShrimpPorkSpringRoll.Ingredients.VermicelliNoodles.Amount.metric" = "60 g (khô)";
 
 /* Shrimp and Pork Spring Roll Ingredients Vermicelli Noodles Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.VermicelliNoodles.AccessibilityAmount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.VermicelliNoodles.AccessibilityAmount.us" = "2 aoxơ (khô)";
+"ShrimpPorkSpringRoll.Ingredients.VermicelliNoodles.AccessibilityAmount.metric" = "60 gờ ram (khô)";
 
 /* Shrimp and Pork Spring Roll Ingredients Lettuce Amount */
-"ShrimpPorkSpringRoll.Ingredients.Lettuce.Amount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.Lettuce.Amount.us" = "4 oz (10 lá)";
+"ShrimpPorkSpringRoll.Ingredients.Lettuce.Amount.metric" = "100 g (10 lá)";
 
 /* Shrimp and Pork Spring Roll Ingredients Lettuce Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.Lettuce.AccessibilityAmount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.Lettuce.AccessibilityAmount.us" = "4 aoxơ (10 lá)";
+"ShrimpPorkSpringRoll.Ingredients.Lettuce.AccessibilityAmount.metric" = "100 gờ ram (10 lá)";
 
 /* Shrimp and Pork Spring Roll Ingredients Bean Sprouts Amount */
-"ShrimpPorkSpringRoll.Ingredients.BeanSprouts.Amount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.BeanSprouts.Amount.us" = "2.5 oz";
+"ShrimpPorkSpringRoll.Ingredients.BeanSprouts.Amount.metric" = "70 g";
 
 /* Shrimp and Pork Spring Roll Ingredients Bean Sprouts Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.BeanSprouts.AccessibilityAmount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.BeanSprouts.AccessibilityAmount.us" = "2.5 aoxơ";
+"ShrimpPorkSpringRoll.Ingredients.BeanSprouts.AccessibilityAmount.metric" = "70 gờ ram";
 
 /* Shrimp and Pork Spring Roll Ingredients Rice Paper Amount */
-"ShrimpPorkSpringRoll.Ingredients.RicePaper.Amount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.Amount" = "10 tấm";
 
 /* Shrimp and Pork Spring Roll Ingredients Rice Paper Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.RicePaper.AccessibilityAmount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.RicePaper.AccessibilityAmount" = "10 tấm";
 
 /* Shrimp and Pork Spring Roll Ingredients Peanut Sauce Amount */
-"ShrimpPorkSpringRoll.Ingredients.PeanutSauce.Amount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.PeanutSauce.Amount" = "1 phần";
 
 /* Shrimp and Pork Spring Roll Ingredients Peanut Sauce Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.PeanutSauce.AccessibilityAmount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.PeanutSauce.AccessibilityAmount" = "1 phần";
 
 /* Shrimp and Pork Spring Roll Ingredients Mixed Fish Sauce Amount */
-"ShrimpPorkSpringRoll.Ingredients.MixedFishSauce.Amount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.MixedFishSauce.Amount" = "1 phần";
 
 /* Shrimp and Pork Spring Roll Ingredients Mixed Fish Sauce Amount (VoiceOver) */
-"ShrimpPorkSpringRoll.Ingredients.MixedFishSauce.AccessibilityAmount" = "???";
+"ShrimpPorkSpringRoll.Ingredients.MixedFishSauce.AccessibilityAmount" = "1 phần";
 
 /* Shrimp and Pork Spring Roll Instructions Step 1 Part 1 */
 "ShrimpPorkSpringRoll.Instructions.Step.1.Part.1" = "Lột vỏ và khoét sâu ##Tôm## (shrimps).";
