@@ -15,6 +15,9 @@
 /* The Heading for Ingredients sections */
 "Heading.Ingredients" = "Nguyên Liệu";
 
+/* The Heading for Dipping Sauces sections */
+"Heading.DippingSauces" = "Nước Chấm";
+
 /* The Heading for Instructions sections */
 "Heading.Instructions" = "Cách Làm";
 

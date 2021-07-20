@@ -15,6 +15,9 @@
 /* The Heading for Ingredients sections */
 "Heading.Ingredients" = "Ingredients";
 
+/* The Heading for Dipping Sauces sections */
+"Heading.DippingSauces" = "Dipping Sauces";
+
 /* The Heading for Instructions sections */
 "Heading.Instructions" = "Instructions";
 
