@@ -502,11 +502,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Vermicelli.Ingredients.LeafyGreens.Amount" = "các loại";
 
 /* Vermicelli Ingredients Cucumber Amount */
-"Vermicelli.Ingredients.Cucumber.Amount.us" = "½ trái dưa chuột ba tư, cắt thành lát";
+"Vermicelli.Ingredients.Cucumber.Amount.us" = "½ trái dưa leo ba tư, cắt thành lát";
 "Vermicelli.Ingredients.Cucumber.Amount.metric" = "55 g, cắt thành lát";
 
 /* Vermicelli Ingredients Cucumber Amount (VoiceOver) */
-"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.us" = "một nửa trái dưa chuột ba tư cắt thành lát";
+"Vermicelli.Ingredients.Cucumber.AccessibilityAmount.us" = "một nửa trái dưa leo ba tư cắt thành lát";
 "Vermicelli.Ingredients.Cucumber.AccessibilityAmount.metric" = "55 gờ ram, cắt thành lát";
 
 /* Vermicelli Ingredients Bean Sprouts Amount */
@@ -3566,20 +3566,18 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "GrilledPorkSpringRoll.Ingredients.Lettuce.AccessibilityAmount.metric" = "100 gờ ram (10 lá)";
 
 /* Grilled Pork Spring Roll Ingredients Cucumber Amount */
-"GrilledPorkSpringRoll.Ingredients.Cucumber.Amount.us" = "???";
-"GrilledPorkSpringRoll.Ingredients.Cucumber.Amount.metric" = "???";
+"GrilledPorkSpringRoll.Ingredients.Cucumber.Amount.us" = "1 trái dưa leo ba tư";
+"GrilledPorkSpringRoll.Ingredients.Cucumber.Amount.metric" = "100 g";
 
 /* Grilled Pork Spring Roll Ingredients Cucumber Amount (VoiceOver) */
-"GrilledPorkSpringRoll.Ingredients.Cucumber.AccessibilityAmount.us" = "???";
-"GrilledPorkSpringRoll.Ingredients.Cucumber.AccessibilityAmount.metric" = "???";
+"GrilledPorkSpringRoll.Ingredients.Cucumber.AccessibilityAmount.us" = "1 trái dưa leo ba tư";
+"GrilledPorkSpringRoll.Ingredients.Cucumber.AccessibilityAmount.metric" = "100 gờ ram";
 
 /* Grilled Pork Spring Roll Ingredients Mint Amount */
-"GrilledPorkSpringRoll.Ingredients.Mint.Amount.us" = "???";
-"GrilledPorkSpringRoll.Ingredients.Mint.Amount.metric" = "???";
+"GrilledPorkSpringRoll.Ingredients.Mint.Amount" = "một nắm tay nhỏ";
 
 /* Grilled Pork Spring Roll Ingredients Mint Amount (VoiceOver) */
-"GrilledPorkSpringRoll.Ingredients.Mint.AccessibilityAmount.us" = "???";
-"GrilledPorkSpringRoll.Ingredients.Mint.AccessibilityAmount.metric" = "???";
+"GrilledPorkSpringRoll.Ingredients.Mint.AccessibilityAmount" = "một nắm tay nhỏ";
 
 /* Grilled Pork Spring Roll Ingredients Rice Paper Amount */
 "GrilledPorkSpringRoll.Ingredients.RicePaper.Amount.us" = "10 tấm (kích thước 8.5 inches) ";
@@ -3643,10 +3641,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "GrilledPorkSpringRoll.Instructions.Step.3.Part.1.Accessibility" = "Rửa và ráo khô các loại rau.";
 
 /* Grilled Pork Spring Roll Instructions Step 3 Part 2 */
-"GrilledPorkSpringRoll.Instructions.Step.3.Part.2" = "Cắt ##Dưa Leo## (cucumber) thành từ miếng dải.";
+"GrilledPorkSpringRoll.Instructions.Step.3.Part.2" = "Cắt ##Dưa Leo## (cucumber) thành 10 miếng dải.";
 
 /* Grilled Pork Spring Roll Instructions Step 3 Part 2 (VoiceOver) */
-"GrilledPorkSpringRoll.Instructions.Step.3.Part.2.Accessibility" = "Cắt dưa leo thành từ miếng dải.";
+"GrilledPorkSpringRoll.Instructions.Step.3.Part.2.Accessibility" = "Cắt dưa leo thành 10 miếng dải.";
 
 /* Grilled Pork Spring Roll Instructions Step 4 Part 1 */
 "GrilledPorkSpringRoll.Instructions.Step.4.Part.1" = "Nhúng một tấm ##Bánh Tráng## (rice paper) vào nước ấm cho đến khi hai mặt bánh tráng điều ước và lấy khỏi nước.";

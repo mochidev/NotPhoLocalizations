@@ -3516,20 +3516,18 @@
 "GrilledPorkSpringRoll.Ingredients.Lettuce.AccessibilityAmount.metric" = "100 grams (10 leaves)";
 
 /* Grilled Pork Spring Roll Ingredients Cucumber Amount */
-"GrilledPorkSpringRoll.Ingredients.Cucumber.Amount.us" = "???";
-"GrilledPorkSpringRoll.Ingredients.Cucumber.Amount.metric" = "???";
+"GrilledPorkSpringRoll.Ingredients.Cucumber.Amount.us" = "1 (Persian)";
+"GrilledPorkSpringRoll.Ingredients.Cucumber.Amount.metric" = "100 g";
 
 /* Grilled Pork Spring Roll Ingredients Cucumber Amount (VoiceOver) */
-"GrilledPorkSpringRoll.Ingredients.Cucumber.AccessibilityAmount.us" = "???";
-"GrilledPorkSpringRoll.Ingredients.Cucumber.AccessibilityAmount.metric" = "???";
+"GrilledPorkSpringRoll.Ingredients.Cucumber.AccessibilityAmount.us" = "1 (Persian)";
+"GrilledPorkSpringRoll.Ingredients.Cucumber.AccessibilityAmount.metric" = "100 g";
 
 /* Grilled Pork Spring Roll Ingredients Mint Amount */
-"GrilledPorkSpringRoll.Ingredients.Mint.Amount.us" = "???";
-"GrilledPorkSpringRoll.Ingredients.Mint.Amount.metric" = "???";
+"GrilledPorkSpringRoll.Ingredients.Mint.Amount" = "small handful";
 
 /* Grilled Pork Spring Roll Ingredients Mint Amount (VoiceOver) */
-"GrilledPorkSpringRoll.Ingredients.Mint.AccessibilityAmount.us" = "???";
-"GrilledPorkSpringRoll.Ingredients.Mint.AccessibilityAmount.metric" = "???";
+"GrilledPorkSpringRoll.Ingredients.Mint.AccessibilityAmount" = "small handful";
 
 /* Grilled Pork Spring Roll Ingredients Rice Paper Amount */
 "GrilledPorkSpringRoll.Ingredients.RicePaper.Amount.us" = "10 sheets (8.5 in diameter)";
@@ -3594,10 +3592,10 @@
 "GrilledPorkSpringRoll.Instructions.Step.3.Part.1.Accessibility" = "Wash and dry all vegetables.";
 
 /* Grilled Pork Spring Roll Instructions Step 3 Part 2 */
-"GrilledPorkSpringRoll.Instructions.Step.3.Part.2" = "Cut the ##Dưa Leo## (cucumber) into thin strips.";
+"GrilledPorkSpringRoll.Instructions.Step.3.Part.2" = "Cut the ##Dưa Leo## (cucumber) into 10 sticks.";
 
 /* Grilled Pork Spring Roll Instructions Step 3 Part 2 (VoiceOver) */
-"GrilledPorkSpringRoll.Instructions.Step.3.Part.2.Accessibility" = "Cut the cucumber into thin strips.";
+"GrilledPorkSpringRoll.Instructions.Step.3.Part.2.Accessibility" = "Cut the cucumber into 10 sticks.";
 
 /* Grilled Pork Spring Roll Instructions Step 4 Part 1 */
 "GrilledPorkSpringRoll.Instructions.Step.4.Part.1" = "Submerge one sheet of ##Bánh Tráng## (rice paper) into warm water until both sides are wet, then remove from water.";
@@ -3630,10 +3628,10 @@
 "GrilledPorkSpringRoll.Instructions.Step.4.Part.5.Accessibility" = "Place some vermicelli noodles on top of the lettuce.";
 
 /* Grilled Pork Spring Roll Instructions Step 4 Part 6 */
-"GrilledPorkSpringRoll.Instructions.Step.4.Part.6" = "Place a ##Dưa Leo## (cucumber) strip next to the ##Bún## (vermicelli noodles).";
+"GrilledPorkSpringRoll.Instructions.Step.4.Part.6" = "Place a ##Dưa Leo## (cucumber) stick next to the ##Bún## (vermicelli noodles).";
 
 /* Grilled Pork Spring Roll Instructions Step 4 Part 6 (VoiceOver) */
-"GrilledPorkSpringRoll.Instructions.Step.4.Part.6.Accessibility" = "Place a cucumber strip next to the vermicelli noodles.";
+"GrilledPorkSpringRoll.Instructions.Step.4.Part.6.Accessibility" = "Place a cucumber stick next to the vermicelli noodles.";
 
 /* Grilled Pork Spring Roll Instructions Step 4 Part 7 */
 "GrilledPorkSpringRoll.Instructions.Step.4.Part.7" = "Place some ##Bạc Hà## (mints) on top of the ##Bún## (vermicelli noodles).";
