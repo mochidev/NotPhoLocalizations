@@ -3484,7 +3484,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpPorkSpringRoll.Instructions.Step.5.Part.5.Accessibility" = "Đặt một miếng rau xà lách trên các miếng thịt.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 5 Part 6 */
-"ShrimpPorkSpringRoll.Instructions.Step.5.Part.6" = "Đặt một ít ##Bún## (vermicelli noodles) trên ##Rau Xà Lách## (lettuce).";
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.6" = "Đặt một ít ##Bún## (vermicelli noodles) lên trên ##Rau Xà Lách## (lettuce).";
 
 /* Shrimp and Pork Spring Roll Instructions Step 5 Part 6 (VoiceOver) */
 "ShrimpPorkSpringRoll.Instructions.Step.5.Part.6.Accessibility" = "Đặt một ít bún trên rau xà lách.";
@@ -3523,13 +3523,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpPorkSpringRoll.HowTo.1" = "##Gỏi Cuốn## (spring roll) có thể được ăn với ##Tương Đậu Phộng## (peanut sauce) hoặc nước mắm chấm.";
 
 /* Shrimp and Pork Spring Roll How To 1 (VoiceOver) */
-"ShrimpPorkSpringRoll.HowTo.1" = "Chấm gỏi cuốn vào tương trước khi ăn.";
+"ShrimpPorkSpringRoll.HowTo.1.Accessibility" = "Chấm gỏi cuốn vào tương trước khi ăn.";
 
 /* Shrimp and Pork Spring Roll How To 2 */
 "ShrimpPorkSpringRoll.HowTo.2" = "Bạn có thể cho một chút tương ớt vào ##Tương Đậu Phộng## (peanut sauce) nếu bạn thích ăn cay.";
 
 /* Shrimp and Pork Spring Roll How To 2 (VoiceOver) */
-"ShrimpPorkSpringRoll.HowTo.2" = "Bạn có thể cho một chút tương ớt vào tương đậu phỏng nếu bạn thích ăn cay.";
+"ShrimpPorkSpringRoll.HowTo.2.Accessibility" = "Bạn có thể cho một chút tương ớt vào tương đậu phỏng nếu bạn thích ăn cay.";
 
 
 // MARK: - # Recipes Tab:

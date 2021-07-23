@@ -3416,10 +3416,10 @@
 "ShrimpPorkSpringRoll.Instructions.Step.5.Part.2.Accessibility" = "Place the now wet rice paper on a clean working surface.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 5 Part 3 */
-"ShrimpPorkSpringRoll.Instructions.Step.5.Part.3" = "Place 3 half prices of ##Tôm## (shrimp) horizontally in the center of the rice wrapper.";
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.3" = "Place 3 half prices of ##Tôm## (shrimp) horizontally in the center of the ##Bánh Tráng## (rice paper).";
 
 /* Shrimp and Pork Spring Roll Instructions Step 5 Part 3 (VoiceOver) */
-"ShrimpPorkSpringRoll.Instructions.Step.5.Part.3.Accessibility" = "Place 3 half prices of shrimp horizontally in the center of the rice wrapper.";
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.3.Accessibility" = "Place 3 half prices of shrimp horizontally in the center of the rice paper.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 5 Part 4 */
 "ShrimpPorkSpringRoll.Instructions.Step.5.Part.4" = "Place 2 pieces of sliced ##Thịt Mông## (pork butt) over the shrimps.";
@@ -3473,13 +3473,13 @@
 "ShrimpPorkSpringRoll.HowTo.1" = "##Gỏi Cuốn## (spring rolls) can be enjoyed with ##Tương Đậu Phộng## (peanut sauce) or ##Nước Mắm Chấm## (mixed fish sauce).";
 
 /* Shrimp and Pork Spring Roll How To 1 (VoiceOver) */
-"ShrimpPorkSpringRoll.HowTo.1" = "Spring rolls can be enjoyed with peanut sauce or mixed fish sauce.";
+"ShrimpPorkSpringRoll.HowTo.1.Accessibility" = "Spring rolls can be enjoyed with peanut sauce or mixed fish sauce.";
 
 /* Shrimp and Pork Spring Roll How To 2 */
 "ShrimpPorkSpringRoll.HowTo.2" = "For the ##Tương Đậu Phộng## (peanut sauce), add some Sriracha sauce if you like spicy food.";
 
 /* Shrimp and Pork Spring Roll How To 2 (VoiceOver) */
-"ShrimpPorkSpringRoll.HowTo.2" = "For the peanut sauce, add some Sriracha sauce if you like spicy food.";
+"ShrimpPorkSpringRoll.HowTo.2.Accessibility" = "For the peanut sauce, add some Sriracha sauce if you like spicy food.";
 
 
 // MARK: - # Recipes Tab:
