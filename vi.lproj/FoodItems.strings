@@ -168,6 +168,11 @@
 "shrimpPorkSpringRoll.AccessibilitySubtitle" = "Gỏi Cuốn Tôm Thịt";
 "shrimpPorkSpringRoll.AccessibilityPageTitle" = "Gỏi Cuốn Tôm Thịt";
 
+/* Grilled Pork Spring Roll */
+"grilledPorkSpringRoll.Subtitle" = "Grilled Pork Spring Roll";
+"grilledPorkSpringRoll.AccessibilitySubtitle" = "Gỏi Cuốn Thịt Nướng";
+"grilledPorkSpringRoll.AccessibilityPageTitle" = "Gỏi Cuốn Thịt Nướng";
+
 
 // MARK: Recipes Tab
 

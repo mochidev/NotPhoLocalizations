@@ -139,6 +139,10 @@
 "shrimpPorkSpringRoll.Subtitle" = "Shrimp and Pork Spring Roll";
 "shrimpPorkSpringRoll.AccessibilityPageTitle" = "Shrimp and Pork Spring Roll";
 
+/* Grilled Pork Spring Roll */
+"grilledPorkSpringRoll.Subtitle" = "Grilled Pork Spring Roll";
+"grilledPorkSpringRoll.AccessibilityPageTitle" = "Grilled Pork Spring Roll";
+
 
 // MARK: Recipes Tab
 
