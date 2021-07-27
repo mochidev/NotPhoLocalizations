@@ -3466,7 +3466,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpPorkSpringRoll.Instructions.Step.5.Part.2.Accessibility" = "Đặt tắm bánh tráng ướt lên trên một tấm thớt hoặc trên mặt bàn.";
 
 /* Shrimp and Pork Spring Roll Instructions Step 5 Part 3 */
-"ShrimpPorkSpringRoll.Instructions.Step.5.Part.3" = "Đặt ba miếng ##Tôm## (shrimp) giữa bánh tráng.";
+"ShrimpPorkSpringRoll.Instructions.Step.5.Part.3" = "Đặt ba miếng ##Tôm## (shrimp) giữa ##Bánh Tráng## (rice paper).";
 
 /* Shrimp and Pork Spring Roll Instructions Step 5 Part 3 (VoiceOver) */
 "ShrimpPorkSpringRoll.Instructions.Step.5.Part.3.Accessibility" = "Đặt ba miếng tôm giữa bánh tráng.";
@@ -3513,11 +3513,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Shrimp and Pork Spring Roll Instructions Step 6 Part 3 (VoiceOver) */
 "ShrimpPorkSpringRoll.Instructions.Step.6.Part.3.Accessibility" = "Cuốn lên và giữ những nguyên liệu trong bánh tráng chặt.";
 
-/* Shrimp and Pork Spring Roll Instructions Step 6 Part 1 */
-"ShrimpPorkSpringRoll.Instructions.Step.6.Part.1" = "Làm tương chấm theo cách thức ở trên.";
+/* Shrimp and Pork Spring Roll Instructions Step 7 Part 1 */
+"ShrimpPorkSpringRoll.Instructions.Step.7.Part.1" = "Làm tương chấm theo cách thức ở trên.";
 
-/* Shrimp and Pork Spring Roll Instructions Step 6 Part 1 (VoiceOver) */
-"ShrimpPorkSpringRoll.Instructions.Step.6.Part.1.Accessibility" = "Làm tương chấm theo cách thức ở trên.";
+/* Shrimp and Pork Spring Roll Instructions Step 7 Part 1 (VoiceOver) */
+"ShrimpPorkSpringRoll.Instructions.Step.7.Part.1.Accessibility" = "Làm tương chấm theo cách thức ở trên.";
 
 /* Shrimp and Pork Spring Roll How To 1 */
 "ShrimpPorkSpringRoll.HowTo.1" = "##Gỏi Cuốn## (spring roll) có thể được ăn với ##Tương Đậu Phộng## (peanut sauce) hoặc nước mắm chấm.";
