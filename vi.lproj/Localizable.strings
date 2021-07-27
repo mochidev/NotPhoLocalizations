@@ -3725,6 +3725,311 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "GrilledPorkSpringRoll.HowTo.2.Accessibility" = "Bạn có thể cho một chút tương ớt vào tương đậu phỏng nếu bạn thích ăn cay.";
 
 
+// MARK: Bo Bia (Jicama Spring Roll) Page
+
+/* Jicama Spring Roll Introduction 1 */
+"JicamaSpringRoll.Introduction.1" = "##Bò Bía## (jicama spring roll) is another variation of ##Gỏi Cuốn## (spring roll) that is slightly different from other ##Gỏi Cuốn## (spring rolls) because it uses jicama and carrot instead of vermicelli noodles. The jicama and carrot is stir-fried and seasoned, which contributes a lot of flavor to the ##Gỏi Cuốn## (spring roll). ##Bò Bía## (jicama spring roll) is actually my favorite type of ##Gỏi Cuốn## (spring roll). However it is not sold in most Vietnamese restaurants so I would always have to make it myself whenever I have a craving, but it’s all worth the effort because it’s delicious.";
+
+/* Jicama Spring Roll Introduction 1 (VoiceOver) */
+"JicamaSpringRoll.Introduction.1.Accessibility" = "Jicama spring roll is another variation of spring roll that is slightly different from other spring rolls because it uses jicama and carrot instead of vermicelli noodles. The jicama and carrot is stir-fried and seasoned, which contributes a lot of flavor to the spring roll. Jicama spring roll is actually my favorite type of spring roll. However it is not sold in most Vietnamese restaurants so I would always have to make it myself whenever I have a craving, but it’s all worth the effort because it’s delicious.";
+
+/* Jicama Spring Roll Introduction 2 */
+"JicamaSpringRoll.Introduction.2" = "Công thức này làm 10 cuốn.";
+
+/* Jicama Spring Roll Ingredients Jicama Amount */
+"JicamaSpringRoll.Ingredients.Jicama.Amount.us" = "6 oz";
+"JicamaSpringRoll.Ingredients.Jicama.Amount.metric" = "170 g";
+
+/* Jicama Spring Roll Ingredients Jicama Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.Jicama.AccessibilityAmount.us" = "6 aoxơ";
+"JicamaSpringRoll.Ingredients.Jicama.AccessibilityAmount.metric" = "170 gờ ram";
+
+/* Jicama Spring Roll Ingredients Carrot Amount */
+"JicamaSpringRoll.Ingredients.Carrot.Amount.us" = "3.5 oz";
+"JicamaSpringRoll.Ingredients.Carrot.Amount.metric" = "100 g";
+
+/* Jicama Spring Roll Ingredients Carrot Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.Carrot.AccessibilityAmount.us" = "3.5 aoxơ";
+"JicamaSpringRoll.Ingredients.Carrot.AccessibilityAmount.metric" = "100 gờ ram";
+
+/* Jicama Spring Roll Ingredients Chicken Bouillon Amount */
+"JicamaSpringRoll.Ingredients.ChickenBouillon.Amount.us" = "1 tsp";
+"JicamaSpringRoll.Ingredients.ChickenBouillon.Amount.metric" = "1 muỗng cà phê";
+
+/* Jicama Spring Roll Ingredients Chicken Bouillon Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.ChickenBouillon.AccessibilityAmount" = "1 muỗng cà phê";
+
+/* Jicama Spring Roll Ingredients Fish Sauce Amount */
+"JicamaSpringRoll.Ingredients.FishSauce.Amount.us" = "½ tsp";
+"JicamaSpringRoll.Ingredients.FishSauce.Amount.metric" = "½ muỗng cà phê";
+
+/* Jicama Spring Roll Ingredients Fish Sauce Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.FishSauce.AccessibilityAmount" = "một phần hai muỗng cà phê";
+
+/* Jicama Spring Roll Ingredients Black Pepper Amount */
+"JicamaSpringRoll.Ingredients.BlackPepper.Amount.us" = "⅛ tsp";
+"JicamaSpringRoll.Ingredients.BlackPepper.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Jicama Spring Roll Ingredients Black Pepper Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.BlackPepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Jicama Spring Roll Ingredients Water Amount */
+"JicamaSpringRoll.Ingredients.Water.Amount.us" = "1-2 tbsp";
+"JicamaSpringRoll.Ingredients.Water.Amount.metric" = "1-2 muỗng canh";
+
+/* Jicama Spring Roll Ingredients Water Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.Water.AccessibilityAmount" = "1 đến 2 muỗng canh";
+
+/* Jicama Spring Roll Ingredients Oil Amount */
+"JicamaSpringRoll.Ingredients.Oil.Amount.us" = "1 tsp";
+"JicamaSpringRoll.Ingredients.Oil.Amount.metric" = "1 muỗng cà phê";
+
+/* Jicama Spring Roll Ingredients Oil Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.Oil.AccessibilityAmount" = "một muỗng cà phê";
+
+/* Jicama Spring Roll Ingredients Chinese Sausage Amount */
+"JicamaSpringRoll.Ingredients.ChineseSausage.Amount" = "1 cọng";
+
+/* Jicama Spring Roll Ingredients Chinese Sausage Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.ChineseSausage.AccessibilityAmount" = "một cọng";
+
+/* Jicama Spring Roll Ingredients Egg Amount */
+"JicamaSpringRoll.Ingredients.Egg.Amount" = "2 trứng lớn";
+
+/* Jicama Spring Roll Ingredients Egg Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.Egg.AccessibilityAmount" = "2 trứng lớn";
+
+/* Jicama Spring Roll Ingredients Lettuce Amount */
+"JicamaSpringRoll.Ingredients.Lettuce.Amount.us" = "4 oz (10 lá)";
+"JicamaSpringRoll.Ingredients.Lettuce.Amount.metric" = "100 g (10 lá)";
+
+/* Jicama Spring Roll Ingredients Lettuce Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.Lettuce.AccessibilityAmount.us" = "4 aoxơ (10 lá)";
+"JicamaSpringRoll.Ingredients.Lettuce.AccessibilityAmount.metric" = "100 gờ ram (10 lá)";
+
+/* Jicama Spring Roll Ingredients Thai Basil Amount */
+"JicamaSpringRoll.Ingredients.ThaiBasil.Amount" = "một nắm tay nhỏ";
+
+/* Jicama Spring Roll Ingredients Thai Basil Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.ThaiBasil.AccessibilityAmount" = "một nắm tay nhỏ";
+
+/* Jicama Spring Roll Ingredients Peanut Sauce Amount */
+"JicamaSpringRoll.Ingredients.PeanutSauce.Amount" = "1 phần";
+
+/* Jicama Spring Roll Ingredients Peanut Sauce Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.PeanutSauce.AccessibilityAmount" = "1 phần";
+
+/* Jicama Spring Roll Instructions Step 1 Part 1 */
+"JicamaSpringRoll.Instructions.Step.1.Part.1" = "Gót vỏ ##Củ Sắn## (jicama) và ##Cà Rốt## (carrot).";
+
+/* Jicama Spring Roll Instructions Step 1 Part 1 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.1.Part.1.Accessibility" = "Gót vỏ củ sắn và cà rốt.";
+
+/* Jicama Spring Roll Instructions Step 1 Part 2 */
+"JicamaSpringRoll.Instructions.Step.1.Part.2" = "Cắt ##Củ Sắn## (jicama) và ##Cà Rốt## (carrot) thành sợi mỏng.";
+
+/* Jicama Spring Roll Instructions Step 1 Part 2 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.1.Part.2.Accessibility" = "Cắt củ sắn và cà rốt thành sợi mỏng.";
+
+/* Jicama Spring Roll Instructions Step 2 Part 1 */
+"JicamaSpringRoll.Instructions.Step.2.Part.1" = "Cho ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Jicama Spring Roll Instructions Step 2 Part 1 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.2.Part.1.Accessibility" = "Cho dầu vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Jicama Spring Roll Instructions Step 2 Part 2 */
+"JicamaSpringRoll.Instructions.Step.2.Part.2" = "Cho ##Củ Sắn## (jicama) và ##Cà Rốt## (carrot) vào chảo và xào khoảng vài phút.";
+
+/* Jicama Spring Roll Instructions Step 2 Part 2 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.2.Part.2.Accessibility" = "Cho củ sắn và cà rốt vào chảo và xào khoảng vài phút.";
+
+/* Jicama Spring Roll Instructions Step 2 Part 3 */
+"JicamaSpringRoll.Instructions.Step.2.Part.3" = "Cho ##Nước## (water), ##Bột Nêm Gà## (chicken bouillon), ##Nước Mắm## (fish sauce), và ##Tiêu Đen## (black pepper).";
+
+/* Jicama Spring Roll Instructions Step 2 Part 3 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.2.Part.3.Accessibility" = "Cho nước, water, bột nêm gà, nước mắm, and Tiêu Đen.";
+
+/* Jicama Spring Roll Instructions Step 2 Part 4 */
+"JicamaSpringRoll.Instructions.Step.2.Part.4" = "Tiếp tục xào thêm vài phút.";
+
+/* Jicama Spring Roll Instructions Step 2 Part 4 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.2.Part.4.Accessibility" = "Tiếp tục xào thêm vài phút.";
+
+/* Jicama Spring Roll Instructions Step 2 Part 5 */
+"JicamaSpringRoll.Instructions.Step.2.Part.5" = "Chuyển củ sắn và cà rốt vào tô để sử dụng sau.";
+
+/* Jicama Spring Roll Instructions Step 2 Part 5 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.2.Part.5.Accessibility" = "Chuyển củ sắn và cà rốt vào tô để sử dụng sau.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 1 */
+"JicamaSpringRoll.Instructions.Step.3.Part.1" = "Cho ##Lạp Xưởng## (chinese sausage) vào chảo ở nhiệt độ trung bình thấp.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 1 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.3.Part.1.Accessibility" = "Cho lạp xưởng vào chảo ở nhiệt độ trung bình thấp.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 2 */
+"JicamaSpringRoll.Instructions.Step.3.Part.2" = "Thêm một chút ##Nước## (water) và đậy nắp chảo.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 2 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.3.Part.2.Accessibility" = "Thêm một chút nước và đậy nắp chảo.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 3 */
+"JicamaSpringRoll.Instructions.Step.3.Part.3" = "Hấp ##Lạp Xưởng## (chinese sausage) khoảng vài phút.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 3 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.3.Part.3.Accessibility" = "Hấp lạp xưởng khoảng vài phút.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 4 */
+"JicamaSpringRoll.Instructions.Step.3.Part.4" = "Lấy nắp ra và tiếp tục chiên ##Lạp Xưởng## (chinese sausage).";
+
+/* Jicama Spring Roll Instructions Step 3 Part 4 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.3.Part.4.Accessibility" = "Lấy nắp ra và tiếp tục chiên lạp xưởng.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 5 */
+"JicamaSpringRoll.Instructions.Step.3.Part.5" = "Chiên thêm khoảng 2-3 phút nữa rồi thì lấy ra khỏi chảo.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 5 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.3.Part.5.Accessibility" = "Chiên thêm khoảng 2-3 phút nữa rồi thì lấy ra khỏi chảo.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 6 */
+"JicamaSpringRoll.Instructions.Step.3.Part.6" = "Cắt ##Lạp Xưởng## (chinese sausage) thành từng lát mỏng.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 6 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.3.Part.6.Accessibility" = "Cắt lạp xưởng thành từng lát mỏng.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 7 */
+"JicamaSpringRoll.Instructions.Step.3.Part.7" = "Chuyển ##Lạp Xưởng## (chinese sausage) vào tô để sử dụng sau.";
+
+/* Jicama Spring Roll Instructions Step 3 Part 7 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.3.Part.7.Accessibility" = "Chuyển lạp xưởng vào tô để sử dụng sau.";
+
+/* Jicama Spring Roll Instructions Step 3 Note 1 */
+"JicamaSpringRoll.Instructions.Step.3.Note.1" = "Không cần thêm ##Dầu## (oil) khi chiên ##Lạp Xưởng## (chinese sausage) vì mỡ trong lạp xưởng sẽ chảy ra.";
+
+/* Jicama Spring Roll Instructions Step 3 Note 1 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.3.Note.1.Accessibility" = "Không cần thêm dầu khi chiên lạp xưởng vì mỡ trong lạp xưởng sẽ chảy ra.";
+
+/* Jicama Spring Roll Instructions Step 3 Note 2 */
+"JicamaSpringRoll.Instructions.Step.3.Note.2" = "Nhưng bạn có thể thêm chút ##Dầu## (oil) nếu muốn ##Lạp Xưởng## (chinese sausage) chiên nhanh hơn.";
+
+/* Jicama Spring Roll Instructions Step 3 Note 2 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.3.Note.2.Accessibility" = "Nhưng bạn có thể thêm chút dầu nếu muốn lạp xưởng chiên nhanh hơn.";
+
+/* Jicama Spring Roll Instructions Step 4 Part 1 */
+"JicamaSpringRoll.Instructions.Step.4.Part.1" = "Đánh ##Trứng## (egg) ra trong tô.";
+
+/* Jicama Spring Roll Instructions Step 4 Part 1 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.4.Part.1.Accessibility" = "Đánh trứng ra trong tô.";
+
+/* Jicama Spring Roll Instructions Step 4 Part 2 */
+"JicamaSpringRoll.Instructions.Step.4.Part.2" = "Cho ##Trứng## (egg) vào chảo bạn mới dùng để chiên ##Lạp Xưởng## (chinese sausage).";
+
+/* Jicama Spring Roll Instructions Step 4 Part 2 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.4.Part.2.Accessibility" = "Cho trứng vào chảo bạn mới dùng để chiên lạp xưởng";
+
+/* Jicama Spring Roll Instructions Step 4 Part 3 */
+"JicamaSpringRoll.Instructions.Step.4.Part.3" = "Xoay chảo để ##Trứng## (egg) có thể lan ra đều.";
+
+/* Jicama Spring Roll Instructions Step 4 Part 3 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.4.Part.3.Accessibility" = "Xoay chảo để trứng có thể lan ra đều.";
+
+/* Jicama Spring Roll Instructions Step 4 Part 4 */
+"JicamaSpringRoll.Instructions.Step.4.Part.4" = "Lật ##Trứng## (egg) khi phần dưới của ##Trứng## (egg) không còn dính chảo.";
+
+/* Jicama Spring Roll Instructions Step 4 Part 4 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.4.Part.4.Accessibility" = "Lật trứng khi phần dưới của trứng không còn dính chảo.";
+
+/* Jicama Spring Roll Instructions Step 4 Part 5 */
+"JicamaSpringRoll.Instructions.Step.4.Part.5" = "Khi chiên xong, cắt ##Trứng## (egg) thành từng miếng.";
+
+/* Jicama Spring Roll Instructions Step 4 Part 5 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.4.Part.5.Accessibility" = "Khi chiên xong, cắt trứng thành từng miếng.";
+
+/* Jicama Spring Roll Instructions Step 5 Part 1 */
+"JicamaSpringRoll.Instructions.Step.5.Part.1" = "Rửa và ráo khô các loại rau.";
+
+/* Jicama Spring Roll Instructions Step 5 Part 1 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.5.Part.1.Accessibility" = "Rửa và ráo khô các loại rau.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 1 */
+"JicamaSpringRoll.Instructions.Step.6.Part.1" = "Nhúng một tấm ##Bánh Tráng## (rice paper) vào nước ấm cho đến khi hai mặt bánh tráng điều ước và lấy khỏi nước.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 1 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.6.Part.1.Accessibility" = "Nhúng một tấm bánh tráng vào nước ấm cho đến khi hai mặt bánh tráng điều ước và lấy khỏi nước.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 2 */
+"JicamaSpringRoll.Instructions.Step.6.Part.2" = "Đặt tắm ##Bánh Tráng## (rice paper) ướt lên trên một tấm thớt hoặc trên mặt bàn.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 2 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.6.Part.2.Accessibility" = "Đặt tắm bánh tráng ướt lên trên một tấm thớt hoặc trên mặt bàn.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 3 */
+"JicamaSpringRoll.Instructions.Step.6.Part.3" = "Đặt vài miếng ##Lạp Xưởng## (chinese sausage) giữa ##Bánh Tráng## (rice paper).";
+
+/* Jicama Spring Roll Instructions Step 6 Part 3 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.6.Part.3.Accessibility" = "Đặt vài miếng lạp xưởng giữa bánh tráng.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 4 */
+"JicamaSpringRoll.Instructions.Step.6.Part.4" = "Đặt vài miếng ##Trứng## (egg) trên các miếng ##Lạp Xưởng## (chinese sausage).";
+
+/* Jicama Spring Roll Instructions Step 6 Part 4 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.6.Part.4.Accessibility" = "Đặt vài miếng trứng trên các miếng lạp xưởng.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 5 */
+"JicamaSpringRoll.Instructions.Step.6.Part.5" = "Đặt một miếng ##Rau Xà Lách## (lettuce) trên các miếng ##Trứng## (egg).";
+
+/* Jicama Spring Roll Instructions Step 6 Part 5 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.6.Part.5.Accessibility" = "Đặt một miếng rau xà lách trên các miếng trứng.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 6 */
+"JicamaSpringRoll.Instructions.Step.6.Part.6" = "Đặt một ít củ sắn và cà rốt đã xào chín lên trên ##Rau Xà Lách## (lettuce).";
+
+/* Jicama Spring Roll Instructions Step 6 Part 6 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.6.Part.6.Accessibility" = "Đặt một ít củ sắn và cà rốt đã xào chín lên trên rau xà lách.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 7 */
+"JicamaSpringRoll.Instructions.Step.6.Part.7" = "Đặt vài miếng ##Húng Quế## (Thai basil) lên trên củ sắn và cà rốt đã xào chín.";
+
+/* Jicama Spring Roll Instructions Step 6 Part 7 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.6.Part.7.Accessibility" = "Đặt vài miếng húng quế lên trên củ sắn và cà rốt đã xào chín.";
+
+/* Jicama Spring Roll Instructions Step 7 Part 1 */
+"JicamaSpringRoll.Instructions.Step.7.Part.1" = "Sếp hai bên ##Bánh Tráng## (rice paper) vào giữa.";
+
+/* Jicama Spring Roll Instructions Step 7 Part 1 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.7.Part.1.Accessibility" = "Sếp hai bên bánh tráng vào giữa.";
+
+/* Jicama Spring Roll Instructions Step 7 Part 2 */
+"JicamaSpringRoll.Instructions.Step.7.Part.2" = "Sếp phần dưới của ##Bánh Tráng## (rice paper) lên phía giữa.";
+
+/* Jicama Spring Roll Instructions Step 7 Part 2 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.7.Part.2.Accessibility" = "Sếp phần dưới của bánh tráng lên phía giữa.";
+
+/* Jicama Spring Roll Instructions Step 7 Part 3 */
+"JicamaSpringRoll.Instructions.Step.7.Part.3" = "Cuốn lên và giữ những nguyên liệu trong bánh tráng chặt.";
+
+/* Jicama Spring Roll Instructions Step 7 Part 3 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.7.Part.3.Accessibility" = "Cuốn lên và giữ những nguyên liệu trong bánh tráng chặt.";
+
+/* Jicama Spring Roll Instructions Step 8 Part 1 */
+"JicamaSpringRoll.Instructions.Step.8.Part.1" = "Làm tương chấm theo cách thức ở trên.";
+
+/* Jicama Spring Roll Instructions Step 8 Part 1 (VoiceOver) */
+"JicamaSpringRoll.Instructions.Step.8.Part.1.Accessibility" = "Làm tương chấm theo cách thức ở trên.";
+
+/* Jicama Spring Roll How To 1 */
+"JicamaSpringRoll.HowTo.1" = "Chấm ##Gỏi Cuốn## (spring rolls) cvào ##Tương Đậu Phộng## (peanut sauce) trước khi ăn.";
+
+/* Jicama Spring Roll How To 1 (VoiceOver) */
+"JicamaSpringRoll.HowTo.1.Accessibility" = "Chấm rogỏi cuốn vào tương đậu phộng trước khi ăn.";
+
+/* Jicama Spring Roll How To 2 */
+"JicamaSpringRoll.HowTo.2" = "Bạn có thể cho một chút tương ớt vào ##Tương Đậu Phộng## (peanut sauce) nếu bạn thích ăn cay.";
+
+/* Jicama Spring Roll How To 2 (VoiceOver) */
+"JicamaSpringRoll.HowTo.2.Accessibility" = "Bạn có thể cho một chút tương ớt vào tương đậu phỏng nếu bạn thích ăn cay.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

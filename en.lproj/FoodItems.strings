@@ -143,6 +143,10 @@
 "grilledPorkSpringRoll.Subtitle" = "Grilled Pork Spring Roll";
 "grilledPorkSpringRoll.AccessibilityPageTitle" = "Grilled Pork Spring Roll";
 
+/* Jicama Spring Roll */
+"jicamaSpringRoll.Subtitle" = "Jicama Spring Roll";
+"jicamaSpringRoll.AccessibilityPageTitle" = "Jicama Spring Roll";
+
 
 // MARK: Recipes Tab
 

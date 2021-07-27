@@ -173,6 +173,11 @@
 "grilledPorkSpringRoll.AccessibilitySubtitle" = "Gỏi Cuốn Thịt Nướng";
 "grilledPorkSpringRoll.AccessibilityPageTitle" = "Gỏi Cuốn Thịt Nướng";
 
+/* Jicama Spring Roll */
+"jicamaSpringRoll.Subtitle" = "Jicama Spring Roll";
+"jicamaSpringRoll.AccessibilitySubtitle" = "Bò Bía";
+"jicamaSpringRoll.AccessibilityPageTitle" = "Bò Bía";
+
 
 // MARK: Recipes Tab
 
