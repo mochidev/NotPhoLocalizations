@@ -3679,10 +3679,10 @@
 // MARK: Bo Bia (Jicama Spring Roll) Page
 
 /* Jicama Spring Roll Introduction 1 */
-"JicamaSpringRoll.Introduction.1" = "##Bò Bía## (jicama spring roll) is another variation of ##Gỏi Cuốn## (spring roll) that is slightly different from other ##Gỏi Cuốn## (spring rolls) because it uses jicama and carrot instead of vermicelli noodles. The jicama and carrot is stir-fried and seasoned, which contributes a lot of flavor to the ##Gỏi Cuốn## (spring roll). ##Bò Bía## (jicama spring roll) is actually my favorite type of ##Gỏi Cuốn## (spring roll). However it is not sold in most Vietnamese restaurants so I would always have to make it myself whenever I have a craving, but it’s all worth the effort because it’s delicious.";
+"JicamaSpringRoll.Introduction.1" = "##Bò Bía## (jicama spring roll) is another variation of ##Gỏi Cuốn## (spring roll) that is slightly different from other ##Gỏi Cuốn## (spring rolls) because it uses jicama and carrot instead of vermicelli noodles. The jicama and carrot is stir-fried and seasoned, which contributes a lot of flavor to the ##Gỏi Cuốn## (spring roll). ##Bò Bía## (jicama spring roll) is actually my favorite type of ##Gỏi Cuốn## (spring roll). However it is not sold in most Vietnamese restaurants so I would always have to make it myself whenever I started to crave it, but it’s all worth the effort because it’s delicious.";
 
 /* Jicama Spring Roll Introduction 1 (VoiceOver) */
-"JicamaSpringRoll.Introduction.1.Accessibility" = "Jicama spring roll is another variation of spring roll that is slightly different from other spring rolls because it uses jicama and carrot instead of vermicelli noodles. The jicama and carrot is stir-fried and seasoned, which contributes a lot of flavor to the spring roll. Jicama spring roll is actually my favorite type of spring roll. However it is not sold in most Vietnamese restaurants so I would always have to make it myself whenever I have a craving, but it’s all worth the effort because it’s delicious.";
+"JicamaSpringRoll.Introduction.1.Accessibility" = "Jicama spring roll is another variation of spring roll that is slightly different from other spring rolls because it uses jicama and carrot instead of vermicelli noodles. The jicama and carrot is stir-fried and seasoned, which contributes a lot of flavor to the spring roll. Jicama spring roll is actually my favorite type of spring roll. However it is not sold in most Vietnamese restaurants so I would always have to make it myself whenever I started to crave it, but it’s all worth the effort because it’s delicious.";
 
 /* Jicama Spring Roll Introduction 2 */
 "JicamaSpringRoll.Introduction.2" = "This recipe makes 10 rolls.";
@@ -3802,10 +3802,10 @@
 "JicamaSpringRoll.Instructions.Step.2.Part.4.Accessibility" = "Stir-fry for another 2-3 minutes.";
 
 /* Jicama Spring Roll Instructions Step 2 Part 5 */
-"JicamaSpringRoll.Instructions.Step.2.Part.5" = "Transfer the content to a bowl to use later.";
+"JicamaSpringRoll.Instructions.Step.2.Part.5" = "Transfer the contents to a bowl to use later.";
 
 /* Jicama Spring Roll Instructions Step 2 Part 5 (VoiceOver) */
-"JicamaSpringRoll.Instructions.Step.2.Part.5.Accessibility" = "Transfer the content to a bowl to use later.";
+"JicamaSpringRoll.Instructions.Step.2.Part.5.Accessibility" = "Transfer the contents to a bowl to use later.";
 
 /* Jicama Spring Roll Instructions Step 3 Part 1 */
 "JicamaSpringRoll.Instructions.Step.3.Part.1" = "In a low-medium pan, add the ##Lạp Xưởng## (chinese sausage) link.";
@@ -3844,10 +3844,10 @@
 "JicamaSpringRoll.Instructions.Step.3.Part.6.Accessibility" = "Cut the chinese sausage link into thin slices.";
 
 /* Jicama Spring Roll Instructions Step 3 Part 7 */
-"JicamaSpringRoll.Instructions.Step.3.Part.7" = "Transfer the content to a bowl to use later.";
+"JicamaSpringRoll.Instructions.Step.3.Part.7" = "Transfer the contents to a bowl to use later.";
 
 /* Jicama Spring Roll Instructions Step 3 Part 7 (VoiceOver) */
-"JicamaSpringRoll.Instructions.Step.3.Part.7.Accessibility" = "Transfer the content to a bowl to use later.";
+"JicamaSpringRoll.Instructions.Step.3.Part.7.Accessibility" = "Transfer the contents to a bowl to use later.";
 
 /* Jicama Spring Roll Instructions Step 3 Note 1 */
 "JicamaSpringRoll.Instructions.Step.3.Note.1" = "No additional oil is necessary when cooking ##Lạp Xưởng## (chinese sausage) because the fat in the sausage will melt enough to coat the pan.";
@@ -3880,10 +3880,10 @@
 "JicamaSpringRoll.Instructions.Step.4.Part.3.Accessibility" = "Spread the egg evenly to cover the entire bottom of the pan.";
 
 /* Jicama Spring Roll Instructions Step 4 Part 4 */
-"JicamaSpringRoll.Instructions.Step.4.Part.4" = "When the ##Trứng## (egg) is cooked and no longer stick to the pan, flip it over to cook the other side.";
+"JicamaSpringRoll.Instructions.Step.4.Part.4" = "When the ##Trứng## (egg) is cooked and no longer sticks to the pan, flip it over to cook the other side.";
 
 /* Jicama Spring Roll Instructions Step 4 Part 4 (VoiceOver) */
-"JicamaSpringRoll.Instructions.Step.4.Part.4.Accessibility" = "When the egg is cooked and no longer stick to the pan, flip it over to cook the other side.";
+"JicamaSpringRoll.Instructions.Step.4.Part.4.Accessibility" = "When the egg is cooked and no longer sticks to the pan, flip it over to cook the other side.";
 
 /* Jicama Spring Roll Instructions Step 4 Part 5 */
 "JicamaSpringRoll.Instructions.Step.4.Part.5" = "Cut the ##Trứng## (egg) into strips.";
@@ -3892,10 +3892,10 @@
 "JicamaSpringRoll.Instructions.Step.4.Part.5.Accessibility" = "Cut the egg into strips.";
 
 /* Jicama Spring Roll Instructions Step 5 Part 1 */
-"JicamaSpringRoll.Instructions.Step.5.Part.1" = "Wash and dry all vegetables.";
+"JicamaSpringRoll.Instructions.Step.5.Part.1" = "Wash and dry all the vegetables.";
 
 /* Jicama Spring Roll Instructions Step 5 Part 1 (VoiceOver) */
-"JicamaSpringRoll.Instructions.Step.5.Part.1.Accessibility" = "Wash and dry all vegetables.";
+"JicamaSpringRoll.Instructions.Step.5.Part.1.Accessibility" = "Wash and dry all the vegetables.";
 
 /* Jicama Spring Roll Instructions Step 6 Part 1 */
 "JicamaSpringRoll.Instructions.Step.6.Part.1" = "Submerge one sheet of ##Bánh Tráng## (rice paper) into warm water until both sides are wet, then remove from water.";
