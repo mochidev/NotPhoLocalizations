@@ -3972,10 +3972,10 @@
 "JicamaSpringRoll.Instructions.Step.8.Part.1.Accessibility" = "Make the dipping sauce.";
 
 /* Jicama Spring Roll How To 1 */
-"JicamaSpringRoll.HowTo.1" = "##Gỏi Cuốn## (spring rolls) can be enjoyed with ##Tương Đậu Phộng## (peanut sauce) or ##Nước Mắm Chấm## (mixed fish sauce).";
+"JicamaSpringRoll.HowTo.1" = "Enjoy the ##Gỏi Cuốn## (spring rolls) with the ##Tương Đậu Phộng## (peanut sauce).";
 
 /* Jicama Spring Roll How To 1 (VoiceOver) */
-"JicamaSpringRoll.HowTo.1.Accessibility" = "Spring rolls can be enjoyed with peanut sauce or mixed fish sauce.";
+"JicamaSpringRoll.HowTo.1.Accessibility" = "Enjoy the spring rolls with the peanut sauce.";
 
 /* Jicama Spring Roll How To 2 */
 "JicamaSpringRoll.HowTo.2" = "For the ##Tương Đậu Phộng## (peanut sauce), add some Sriracha sauce if you like spicy food.";
