@@ -3759,6 +3759,14 @@
 /* Jicama Spring Roll Ingredients Thai Basil Amount (VoiceOver) */
 "JicamaSpringRoll.Ingredients.ThaiBasil.AccessibilityAmount" = "small handfull";
 
+/* Jicama Spring Roll Ingredients Rice Paper Amount */
+"JicamaSpringRoll.Ingredients.RicePaper.Amount.us" = "10 sheets (8.5 in diameter)";
+"JicamaSpringRoll.Ingredients.RicePaper.Amount.metric" = "10 sheets (22 cm diameter)";
+
+/* Jicama Spring Roll Ingredients Rice Paper Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.RicePaper.AccessibilityAmount.us" = "10 sheets (8.5 in diameter)";
+"JicamaSpringRoll.Ingredients.RicePaper.AccessibilityAmount.metric" = "10 sheets (22 cm diameter)";
+
 /* Jicama Spring Roll Ingredients Peanut Sauce Amount */
 "JicamaSpringRoll.Ingredients.PeanutSauce.Amount" = "1 portion";
 

@@ -3813,6 +3813,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Jicama Spring Roll Ingredients Thai Basil Amount (VoiceOver) */
 "JicamaSpringRoll.Ingredients.ThaiBasil.AccessibilityAmount" = "một nắm tay nhỏ";
 
+/* Jicama Spring Roll Ingredients Rice Paper Amount */
+"JicamaSpringRoll.Ingredients.RicePaper.Amount.us" = "10 tấm (kích thước 8.5 inches) ";
+"JicamaSpringRoll.Ingredients.RicePaper.Amount.metric" = "10 tấm (kích thước 22 cm)";
+
+/* Jicama Spring Roll Ingredients Rice Paper Amount (VoiceOver) */
+"JicamaSpringRoll.Ingredients.RicePaper.AccessibilityAmount" = "10 tấm (kích thước 22 xăng ti mét)";
+
 /* Jicama Spring Roll Ingredients Peanut Sauce Amount */
 "JicamaSpringRoll.Ingredients.PeanutSauce.Amount" = "1 phần";
 
