@@ -350,11 +350,26 @@
 "taro.AccessibilityPageTitle" = "Khoai Môn";
 
 
+/* Chinese Sausage */
+"chineseSausage.Subtitle" = "Chinese Sausage";
+"chineseSausage.AccessibilitySubtitle" = "Lạp Xưởng";
+"chineseSausage.AccessibilityPageTitle" = "Lạp Xưởng";
+
+
 // MARK: Entries with no dedicated page
 
 
+/* Agave Syrup */
+"agaveSyrup.Subtitle" = "Agave Syrup";
+
+/* Aluminum Foil */
+"aluminumFoil.Subtitle" = "Aluminum Foil";
+
 /* Asparagus */
 "asparagus.Subtitle" = "Asparagus";
+
+/* Avocado */
+"avocado.Subtitle" = "Avocado";
 
 /* Bean Sprouts */
 "beanSprouts.Subtitle" = "Bean Sprouts";
@@ -373,6 +388,9 @@
 
 /* Bell Pepper */
 "bellPepper.Subtitle" = "Bell Pepper";
+
+/* Broccoli */
+"broccoli.Subtitle" = "Broccoli";
 
 /* Chicken Bouillon */
 "chickenBouillon.Subtitle" = "Chicken Bouillon";
@@ -434,17 +452,35 @@
 /* Spring Onion */
 "greenOnion.Subtitle" = "Spring Onion";
 
+/* Ground Coffee */
+"groundCoffee.Subtitle" = "Ground Coffee";
+
 /* Ground Cumin */
 "groundCumin.Subtitle" = "Ground Cumin";
 
 /* Ground Pork */
 "groundPork.Subtitle" = "Ground Pork";
 
+/* Half and Half Milk */
+"halfAndHalfMilk.Subtitle" = "Half and Half Milk";
+
 /* Hoisin Sauce */
 "hoisinSauce.Subtitle" = "Hoisin Sauce";
 
+/* Ice */
+"ice.Subtitle" = "Ice";
+
+/* Italian Herbs */
+"italianHerbs.Subtitle" = "Italian Herbs";
+
 /* Jalapeño */
 "jalapeno.Subtitle" = "Jalapeño";
+
+/* Jicama */
+"jicama.Subtitle" = "Jicama";
+
+/* Kraft Original Barbecue Sauce */
+"kraftOriginalBarbecueSauce.Subtitle" = "Kraft Original Barbecue Sauce";
 
 /* Lettuce */
 "lettuce.Subtitle" = "Lettuce";
@@ -452,11 +488,17 @@
 /* Lime */
 "lime.Subtitle" = "Lime";
 
-/* Mint */
-"mint.Subtitle" = "Mint";
+/* Mango */
+"mango.Subtitle" = "Mango";
 
 /* McCormick Curry Powder */
 "mcCormickCurryPowder.Subtitle" = "McCormick Curry Powder";
+
+/* Mint */
+"mint.Subtitle" = "Mint";
+
+/* MSG */
+"msg.Subtitle" = "MSG";
 
 /* Oil */
 "oil.Subtitle" = "Oil";
@@ -470,8 +512,14 @@
 /* Peanuts */
 "peanut.Subtitle" = "Peanuts";
 
+/* Peanut Butter */
+"peanutButter.Subtitle" = "Peanut Butter";
+
 /* Peas and Carrots */
 "peasAndCarrots.Subtitle" = "Peas and Carrots";
+
+/* Phin Filter */
+"phinFilter.Subtitle" = "Phin Filter";
 
 /* Black Pepper */
 "pepper.Subtitle" = "Black Pepper";
@@ -488,8 +536,20 @@
 /* Pork */
 "rawPork.Subtitle" = "Pork";
 
+/* Pork Belly */
+"porkBelly.Subtitle" = "Pork Belly";
+
+/* Pork Butt */
+"porkButt.Subtitle" = "Pork Butt";
+
+/* Pork Ribs */
+"porkRibs.Subtitle" = "Pork Ribs";
+
 /* Rice Flour */
 "riceFlour.Subtitle" = "Rice Flour";
+
+/* Rice Paper */
+"ricePaper.Subtitle" = "Rice Paper";
 
 /* Sake */
 "sake.Subtitle" = "Japanese Sake";
@@ -508,6 +568,9 @@
 
 /* Sugar */
 "sugar.Subtitle" = "Sugar";
+
+/* Sweetened Condensed Milk */
+"sweetenedCondensedMilk.Subtitle" = "Sweetened Condensed Milk";
 
 /* Sweet Potato */
 "sweetPotato.Subtitle" = "Sweet Potato";

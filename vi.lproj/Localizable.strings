@@ -6755,6 +6755,21 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Taro.Introduction.Accessibility" = "Khoai môn là một loại khoai có vị ngọt. Khoai môn có kết cấu tương tự như khoai tây nên bạn có thể sử dụng chúng thay thế cho nhau.";
 
 
+// MARK: Lap Xuong (Chinese Sausage) Page
+
+/* Chinese Sausage Introduction */
+"ChineseSausage.Introduction" = "##Lạp Xưởng## (Chinese sausage) là một loại xúc xích. Nguyên gốc của ##Lạp Xưởng## (Chinese sausage) đến từ đồ ăn Quảng Châu và thông thường làm từ thịt heo xay và mở sau đó phơi khô. Mùi vị của ##Lạp Xưởng## (Chinese sausage) là mặn và ngọt và dùng trong những món ăn như là cơm chiên, gỏi cuốn, và thậm chí cả bánh trung thu.";
+
+/* Chinese Sausage Introduction (VoiceOVer) */
+"ChineseSausage.Introduction.Accessibility" = "Lạp Xưởng là một loại xúc xích. Nguyên gốc của lập xưởng đến từ đồ ăn Quảng Châu và thông thường làm từ thịt heo xay và mở sau đó phơi khô. Mùi vị của lập xưởng là mặn và ngọt và dùng trong những món ăn như là cơm chiên, gỏi cuốn, và thậm chí cả bánh trung thu.";
+
+/* Chinese Sausage Brands */
+"ChineseSausage.Brands" = "##Lạp Xưởng## (Chinese sausage) có rất nhiều hiểu những loại thông thường mình thường mua gọi là ##Kam Yen Jan##. Lạp xưởng hiệu này không phải là loại ngon nhất nhưng nó có thể tìm được ở rất nhiều siêu thị lớn hoặc nhỏ. Nhãn hiệu ##Kam Yen Jan## có hai loại; một loại có bao bì màu trắng còn một loại kia có bao bì màu đỏ. Loại có bao bì màu đỏ thì ngon hơn tại vì nó làm bằng thịt heo và thịt gà và nó có ít mỡ.";
+
+/* Chinese Sausage Brands (VoiceOVer) */
+"ChineseSausage.Brands.Accessibility" = "Lạp Xưởng có rất nhiều hiểu những loại thông thường mình thường mua gọi là Kam Yen Jan. Lạp xưởng hiệu này không phải là loại ngon nhất nhưng nó có thể tìm được ở rất nhiều siêu thị lớn hoặc nhỏ. Nhãn hiệu Kam Yen Jan có hai loại; một loại có bao bì màu trắng còn một loại kia có bao bì màu đỏ. Loại có bao bì màu đỏ thì ngon hơn tại vì nó làm bằng thịt heo và thịt gà và nó có ít mỡ.";
+
+
 // MARK: - # About Tab:
 
 /* About Tab Page Title */

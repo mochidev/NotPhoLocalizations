@@ -6601,6 +6601,21 @@
 "Taro.Introduction.Accessibility" = "Taro is a starchy root vegetable that has a mildly sweet flavor. The texture is very similar to potato so you can use them interchangeably in recipes like chicken curry if you aren’t a fan of potatos.";
 
 
+// MARK: Lap Xuong (Chinese Sausage) Page
+
+/* Chinese Sausage Introduction */
+"ChineseSausage.Introduction" = "##Lạp Xưởng## means sausage, but to differentiate this type of sausage from other culture people often refer to it as Chinese sausage. The most common variety of ##Lạp Xưởng## (Chinese sausage) originated from Cantonese cuisine where the sausage is made of pork and pork fat and let to dry in the sun. This variety of ##Lạp Xưởng## (Chinese sausage) is savory and sweet, and it used in dishes like fried rice, spring roll, and even moon cake, which is eaten during the Mid-Autumn festival.";
+
+/* Chinese Sausage Introduction (VoiceOVer) */
+"ChineseSausage.Introduction.Accessibility" = "To differentiate this type of sausage from other culture people often refer to it as Chinese sausage. The most common variety of Chinese sausage originated from Cantonese cuisine where the sausage is made of pork and pork fat and let to dry in the sun. This variety of Chinese sausage is savory and sweet, and it's used in dishes like fried rice, spring roll, and even moon cake, which is eaten during the Mid-Autumn festival.";
+
+/* Chinese Sausage Brands */
+"ChineseSausage.Brands" = "There are many brands of ##Lạp Xưởng## (Chinese sausage) that you can find at an Asian supermarket, but the most known or common brand is ##Kam Yen Jan##. In my opinion, there are better ones and bad ones but ##Kam Yen Jan## is the most standard and you can almost find it in any big or small Asian market. ##Kam Yen Jan## has two kinds: one with a white/red label and one with a red/yellow label. The red/yellow label kind is better because it is pork and chicken and it has less fat.";
+
+/* Chinese Sausage Brands (VoiceOVer) */
+"ChineseSausage.Brands.Accessibility" = "There are many brands of Chinese sausage that you can find at an Asian supermarket, but the most known or common brand is Kam Yen Jan. In my opinion, there are better ones and bad ones but Kam Yen Jan is the most standard and you can almost find it in any big or small Asian market. Kam Yen Jan has two kinds: one with a white/red label and one with a red/yellow label. The red/yellow label kind is better because it is pork and chicken and it has less fat.";
+
+
 // MARK: - # About Tab:
 
 /* About Tab Page Title */
