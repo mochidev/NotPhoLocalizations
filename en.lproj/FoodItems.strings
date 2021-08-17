@@ -59,8 +59,8 @@
 "ShakenBeefWithFriedRice.AccessibilityPageTitle" = "Shaken Beef with Fried Rice";
 
 /* Fried Rice Main */
-"friedRice.Subtitle" = "Fried Rice";
-"friedRice.AccessibilityPageTitle" = "Fried Rice";
+"friedRice.Subtitle" = "Fried Rice Dishes";
+"friedRice.AccessibilityPageTitle" = "Fried Rice Dishes";
 
 /* Shrimp Fried Rice */
 "shrimpFriedRice.Subtitle" = "Shrimp Fried Rice";
@@ -73,6 +73,10 @@
 /* Beef Fried Rice */
 "beefFriedRice.Subtitle" = "Beef Fried Rice";
 "beefFriedRice.AccessibilityPageTitle" = "Beef Fried Rice";
+
+/* Chinese Sausage Fried Rice */
+"chineseSausageFriedRice.Subtitle" = "Chinese Sausage Fried Rice";
+"chineseSausageFriedRice.AccessibilityPageTitle" = "Chinese Sausage Fried Rice";
 
 /* Chicken Curry Main */
 "chickenCurryMain.Subtitle" = "Chicken Curry";
