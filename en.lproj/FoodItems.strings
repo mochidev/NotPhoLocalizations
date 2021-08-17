@@ -139,6 +139,10 @@
 "vietnameseCoffee.Subtitle" = "Vietnamese Coffee";
 "vietnameseCoffee.AccessibilityPageTitle" = "Vietnamese Coffee";
 
+/* Spring Roll Main */
+"springRoll.Subtitle" = "Spring Roll Dishes";
+"springRoll.AccessibilityPageTitle" = "Spring Roll Dishes";
+
 /* Shrimp and Pork Spring Roll */
 "shrimpPorkSpringRoll.Subtitle" = "Shrimp and Pork Spring Roll";
 "shrimpPorkSpringRoll.AccessibilityPageTitle" = "Shrimp and Pork Spring Roll";

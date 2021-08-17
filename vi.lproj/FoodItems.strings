@@ -168,6 +168,11 @@
 "vietnameseCoffee.AccessibilitySubtitle" = "Cà Phê Sữa";
 "vietnameseCoffee.AccessibilityPageTitle" = "Cà Phê Sữa";
 
+/* Spring Roll Main */
+"springRoll.Subtitle" = "Spring Roll Dishes";
+"springRoll.AccessibilitySubtitle" = "Gỏi Cuốn";
+"springRoll.AccessibilityPageTitle" = "Gỏi Cuốn";
+
 /* Shrimp and Pork Spring Roll */
 "shrimpPorkSpringRoll.Subtitle" = "Shrimp and Pork Spring Roll";
 "shrimpPorkSpringRoll.AccessibilitySubtitle" = "Gỏi Cuốn Tôm Thịt";
