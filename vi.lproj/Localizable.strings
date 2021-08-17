@@ -3510,6 +3510,24 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "VietnameseCoffee.HowTo.2.Accessibility" = "Nếu muốn uống Cà Phê đá thì hãy bỏ nước đá vào Cà Phê Sữa.";
 
 
+// MARK: Goi Cuon (Spring Roll) Main Page
+
+/* Spring Roll Introduction 1 */
+"SpringRoll.Introduction.1" = "##Gỏi Cuốn## (spring roll) là một món khai vị nổi tiếng. ##Gỏi Cuốn## (spring roll) truyền thống được làm từ thịt heo, tôm, bún và các loại rau như xà lách, giá đậu và được cuốn trong bánh tráng.";
+
+/* Spring Roll Introduction 1 (VoiceOver) */
+"SpringRoll.Introduction.1.Accessibility" = "Gỏi Cuốn là một món khai vị nổi tiếng. Gỏi Cuốn truyền thống được làm từ thịt heo, tôm, bún và các loại rau như xà lách, giá đậu và được cuốn trong bánh tráng.";
+
+/* Spring Roll Introduction 2 */
+"SpringRoll.Introduction.2" = "##Gỏi Cuốn## (spring roll) có rất nhiều loại và mình muốn chia sẻ với các bạn bao gồm món mình thích nhất gọi là ##Bò Bía## (jicama spring roll).";
+
+/* Spring Roll Introduction 2 (VoiceOver) */
+"SpringRoll.Introduction.2.Accessibility" = "Gỏi Cuốn có rất nhiều loại và mình muốn chia sẻ với các bạn bao gồm món mình thích nhất gọi là bò bía.";
+
+/* Spring Roll Introduction 3 */
+"SpringRoll.Introduction.3" = "Nếu bạn cảm thấy hiếu kỳ thì nên thử tất cả các biến thể!";
+
+
 // MARK: Goi Cuon Tom Thit (Shrimp and Pork Spring Roll) Page
 
 /* Shrimp and Pork Spring Roll Introduction 1 */

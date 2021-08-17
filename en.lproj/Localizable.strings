@@ -1206,7 +1206,7 @@
 "ShrimpFriedRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
 
 /* Shrimp Fried Rice Tips 2 */
-"ShrimpFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
+"ShrimpFriedRice.Tips.2" = "Old rice has less moisture, which helps the rice grains hold their shape when stir fried.";
 
 /* Shrimp Fried Rice Tips 3 */
 "ShrimpFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
@@ -1400,7 +1400,7 @@
 "ChickenFriedRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
 
 /* Chicken Fried Rice Tips 2 */
-"ChickenFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
+"ChickenFriedRice.Tips.2" = "Old rice has less moisture, which helps the rice grains hold their shape when stir fried.";
 
 /* Chicken Fried Rice Tips 3 */
 "ChickenFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
@@ -1588,7 +1588,7 @@
 "BeefFriedRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
 
 /* Beef Fried Rice Tips 2 */
-"BeefFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
+"BeefFriedRice.Tips.2" = "Old rice has less moisture, which helps the rice grains hold their shape when stir fried.";
 
 /* Beef Fried Rice Tips 3 */
 "BeefFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
@@ -1780,7 +1780,7 @@
 "ChineseSausageFriedRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
 
 /* Chinese Sausage Fried Rice Tips 2 */
-"ChineseSausageFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
+"ChineseSausageFriedRice.Tips.2" = "Old rice has less moisture, which helps the rice grains hold their shape when stir fried.";
 
 /* Chinese Sausage Fried Rice Tips 3 */
 "ChineseSausageFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
@@ -3452,6 +3452,24 @@
 
 /* Vietnamese Coffee How To 2 (VoiceOver) */
 "VietnameseCoffee.HowTo.2.Accessibility" = "For iced coffee, pour the well mixed coffee over a glass of ice to enjoy.";
+
+
+// MARK: Goi Cuon (Spring Roll) Main Page
+
+/* Spring Roll Introduction 1 */
+"SpringRoll.Introduction.1" = "##Gỏi Cuốn## (spring roll) is a very popular appetizer that can be enjoyed any time. The traditional ##Gỏi Cuốn## (spring roll) consists of pork, shrimp, vermicelli noodle, and vegetables, such as lettuce and bean sprouts, and are all wrapped up in rice paper.";
+
+/* Spring Roll Introduction 1 (VoiceOver) */
+"SpringRoll.Introduction.1.Accessibility" = "Spring roll is a very popular appetizer that can be enjoyed any time. The traditional spring roll consists of pork, shrimp, vermicelli noodle, and vegetables, such as lettuce and bean sprouts, and are all wrapped up in rice paper.";
+
+/* Spring Roll Introduction 2 */
+"SpringRoll.Introduction.2" = "There are many other variations of ##Gỏi Cuốn## (spring roll) that I want to introduce to you, including my all-time favorite ##Bò Bía## (jicama spring roll).";
+
+/* Spring Roll Introduction 2 (VoiceOver) */
+"SpringRoll.Introduction.2.Accessibility" = "There are many other variations of spring roll that I want to introduce to you, including my all-time favorite jicama spring roll.";
+
+/* Spring Roll Introduction 3 */
+"SpringRoll.Introduction.3" = "If you’re feeling adventurous, give all the variations a try!";
 
 
 // MARK: Goi Cuon Tom Thit (Shrimp and Pork Spring Roll) Page
@@ -6796,16 +6814,16 @@
 // MARK: Lap Xuong (Chinese Sausage) Page
 
 /* Chinese Sausage Introduction */
-"ChineseSausage.Introduction" = "##Lạp Xưởng## means sausage, but to differentiate this type of sausage from other culture people often refer to it as Chinese sausage. The most common variety of ##Lạp Xưởng## (Chinese sausage) originated from Cantonese cuisine where the sausage is made of pork and pork fat and let to dry in the sun. This variety of ##Lạp Xưởng## (Chinese sausage) is savory and sweet, and it used in dishes like fried rice, spring roll, and even moon cake, which is eaten during the Mid-Autumn festival.";
+"ChineseSausage.Introduction" = "##Lạp Xưởng## means sausage, but to differentiate this type of sausage from other cultures people often refer to it as Chinese sausage. The most common variety of ##Lạp Xưởng## (Chinese sausage) originated from Cantonese cuisine where the sausage is made of pork and pork fat and let to dry in the sun. This variety of ##Lạp Xưởng## (Chinese sausage) is savory and sweet, and it used in dishes like fried rice, spring rolls, and even moon cake, which is eaten during the Mid-Autumn festival.";
 
 /* Chinese Sausage Introduction (VoiceOVer) */
-"ChineseSausage.Introduction.Accessibility" = "To differentiate this type of sausage from other culture people often refer to it as Chinese sausage. The most common variety of Chinese sausage originated from Cantonese cuisine where the sausage is made of pork and pork fat and let to dry in the sun. This variety of Chinese sausage is savory and sweet, and it's used in dishes like fried rice, spring roll, and even moon cake, which is eaten during the Mid-Autumn festival.";
+"ChineseSausage.Introduction.Accessibility" = "To differentiate this type of sausage from other cultures people often refer to it as Chinese sausage. The most common variety of Chinese sausage originated from Cantonese cuisine where the sausage is made of pork and pork fat and let to dry in the sun. This variety of Chinese sausage is savory and sweet, and it's used in dishes like fried rice, spring rolls, and even moon cake, which is eaten during the Mid-Autumn festival.";
 
 /* Chinese Sausage Brands */
-"ChineseSausage.Brands" = "There are many brands of ##Lạp Xưởng## (Chinese sausage) that you can find at an Asian supermarket, but the most known or common brand is ##Kam Yen Jan##. In my opinion, there are better ones and bad ones but ##Kam Yen Jan## is the most standard and you can almost find it in any big or small Asian market. ##Kam Yen Jan## has two kinds: one with a white/red label and one with a red/yellow label. The red/yellow label kind is better because it is pork and chicken and it has less fat.";
+"ChineseSausage.Brands" = "There are many brands of ##Lạp Xưởng## (Chinese sausage) that you can find at an Asian supermarket, but the most known or common brand is ##Kam Yen Jan##. In my opinion, there are better ones and worse ones, but ##Kam Yen Jan## is the most standard, and you can find it in almost any big or small Asian market. There are two kinds of ##Kam Yen Jan##: one with a white/red label and one with a red/yellow label. The red/yellow label kind is better because it is made of pork and chicken, and it has less fat.";
 
 /* Chinese Sausage Brands (VoiceOVer) */
-"ChineseSausage.Brands.Accessibility" = "There are many brands of Chinese sausage that you can find at an Asian supermarket, but the most known or common brand is Kam Yen Jan. In my opinion, there are better ones and bad ones but Kam Yen Jan is the most standard and you can almost find it in any big or small Asian market. Kam Yen Jan has two kinds: one with a white/red label and one with a red/yellow label. The red/yellow label kind is better because it is pork and chicken and it has less fat.";
+"ChineseSausage.Brands.Accessibility" = "There are many brands of Chinese sausage that you can find at an Asian supermarket, but the most known or common brand is Kam Yen Jan. In my opinion, there are better ones and worse ones, but Kam Yen Jan is the most standard, and you can find it in almost any big or small Asian market. There are two kinds of Kam Yen Jan: one with a white/red label and one with a red/yellow label. The red/yellow label kind is better because it is made of pork and chicken, and it has less fat.";
 
 
 // MARK: - # About Tab:
