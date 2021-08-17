@@ -1314,7 +1314,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenFriedRice.Ingredients.Oil.Amount.metric" = "2 muỗng cà phê";
 
 /* Chicken Fried Rice Ingredients Oil (VoiceOver) */
-"ChickenFriedRice.Ingredients.Oil.AccessibilityAmount" = "two teaspoons";
+"ChickenFriedRice.Ingredients.Oil.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Chicken Fried Rice Instructions Step 1 Part 1 */
 "ChickenFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
@@ -1512,7 +1512,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BeefFriedRice.Ingredients.Oil.Amount.metric" = "2 muỗng cà phê";
 
 /* Beef Fried Rice Ingredients Oil (VoiceOver) */
-"BeefFriedRice.Ingredients.Oil.AccessibilityAmount" = "two teaspoons";
+"BeefFriedRice.Ingredients.Oil.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Beef Fried Rice Instructions Step 1 Part 1 */
 "BeefFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
@@ -1630,6 +1630,202 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Beef Fried Rice How To 2 (VoiceOver) */
 "BeefFriedRice.HowTo.2.Accessibility" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn cơm chiên với Nước Mắm Chấm như chồng tôi thường ăn!";
+
+
+// MARK: Com Chien Lap Xuong (Chinese Sausage Fried Rice) Page
+
+/* Chinese Sausage Fried Rice Introduction 1 */
+"ChineseSausageFriedRice.Introduction.1" = "##Cơm Chiên Lạp Xưởng## (Chinese sausage fried rice) là một công thức rất nhanh và dễ có thể làm bất cứ lúc nào. ##Cơm Chiên## (fried rice) thường được làm từ các nguyên liệu thừa và biến chúng thành một bữa ăn ngon.";
+
+/* Chinese Sausage Fried Rice Introduction 1 (VoiceOver) */
+"ChineseSausageFriedRice.Introduction.1.Accessibility" = "Cơm Chiên Lạp Xưởng là một công thức rất nhanh và dễ có thể làm bất cứ lúc nào. Cơm Chiên thường được làm từ các nguyên liệu thừa và biến chúng thành một bữa ăn ngon.";
+
+/* Chinese Sausage Fried Rice Introduction 2 */
+"ChineseSausageFriedRice.Introduction.2" = "Công thức này làm cho một người ăn.";
+
+/* Chinese Sausage Fried Rice Ingredients White Rice Amount */
+"ChineseSausageFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup, cơm nguội";
+"ChineseSausageFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g, cơm nguội";
+
+/* Chinese Sausage Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "ba phần tư cốc";
+"ChineseSausageFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 gờ ram";
+
+/* Chinese Sausage Fried Rice Ingredients Chinese Sausage Amount */
+"ChineseSausageFriedRice.Ingredients.ChineseSausage.Amount" = "1 cộng";
+
+/* Chinese Sausage Fried Rice Ingredients Chinese Sausage Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.ChineseSausage.AccessibilityAmount.us" = "1 cộng";
+
+/* Chinese Sausage Fried Rice Ingredients Egg Amount */
+"ChineseSausageFriedRice.Ingredients.Egg.Amount" = "1 lớn";
+
+/* Chinese Sausage Fried Rice Ingredients Peas And Carrots Amount */
+"ChineseSausageFriedRice.Ingredients.PeasAndCarrots.Amount.us" = "¼ cốc";
+"ChineseSausageFriedRice.Ingredients.PeasAndCarrots.Amount.metric" = "35 g";
+
+/* Chinese Sausage Fried Rice Ingredients Peas And Carrots Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.us" = "một phần tư cốc";
+"ChineseSausageFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 gờ ram";
+
+/* Chinese Sausage Fried Rice Ingredients Onion Amount */
+"ChineseSausageFriedRice.Ingredients.Onion.Amount.us" = "¼ cốc";
+"ChineseSausageFriedRice.Ingredients.Onion.Amount.metric" = "25 g";
+
+/* Chinese Sausage Fried Rice Ingredients Onion Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "một phần tư cốc";
+"ChineseSausageFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 gờ ram";
+
+/* Chinese Sausage Fried Rice Ingredients Golden Mountain Soy Sauce Amount */
+"ChineseSausageFriedRice.Ingredients.GoldenMountainSoySauce.Amount.us" = "½ tsp";
+"ChineseSausageFriedRice.Ingredients.GoldenMountainSoySauce.Amount.metric" = "½ muỗng cà phê";
+
+/* Chinese Sausage Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "một nửa muỗng cà phê";
+
+/* Chinese Sausage Fried Rice Ingredients Chicken Bouillon Amount */
+"ChineseSausageFriedRice.Ingredients.ChickenBouillon.Amount.us" = "½ tsp";
+"ChineseSausageFriedRice.Ingredients.ChickenBouillon.Amount.metric" = "½ muỗng cà phê";
+
+/* Chinese Sausage Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "một nửa muỗng cà phê";
+
+/* Chinese Sausage Fried Rice Ingredients Pepper Amount */
+"ChineseSausageFriedRice.Ingredients.Pepper.Amount.us" = "⅛ tsp";
+"ChineseSausageFriedRice.Ingredients.Pepper.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Chinese Sausage Fried Rice Ingredients Pepper (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.Pepper.AccessibilityAmount" = "một phần tám muỗng cà phê";
+
+/* Chinese Sausage Fried Rice Ingredients Oil Amount */
+"ChineseSausageFriedRice.Ingredients.Oil.Amount.us" = "2 tsp";
+"ChineseSausageFriedRice.Ingredients.Oil.Amount.metric" = "2 muỗng cà phê";
+
+/* Chinese Sausage Fried Rice Ingredients Oil (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.Oil.AccessibilityAmount" = "2 muỗng cà phê";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 1 */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cắt Củ Hành thành từng lát.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 2 */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.2" = "Cắt ##Lạp Xưởng## (Chinese sausage) thành miếng nhỏ.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Cắt Lạp Xưởng thành miếng nhỏ.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 3 */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.3" = "Xả đá ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Xả đá Đậu Và Cà Rốt.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 4 */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.4" = "Dùng tay tách ##Cơm Trắng## (white rice) nguội thành từng hạt để dễ xào.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Dùng tay tách cơm nguội thành từng hạt để dễ xào.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Note 1 */
+"ChineseSausageFriedRice.Instructions.Step.1.Note.1" = "Có thể thay thế ##Đậu Và Cà Rốt## (peas and carrots) đông đá bằng Cà Rốt và đậu que tươi.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Note.1.Accessibility" = "Có thể thay thế Đậu Và Cà Rốt đông đá bằng Cà Rốt và đậu que tươi.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 1 */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.1" = "Cho một nửa ##Dầu## (oil) vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Cho một nửa dầu vào chảo ở nhiệt độ trung bình đến cao.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 2 */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Lạp Xưởng## (Chinese sausage), ##Củ Hành## (onion), và ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Lạp Xưởng, Củ Hành, Đậu Và Cà Rốt.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 3 */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.3" = "Xào cho đến khi ##Lạp Xưởng## (Chinese sausage) chín.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 3 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Lạp Xưởng chín.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 4 */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.4" = "Chuyển nguyên liệu chín vào tô nhỏ để sử dụng sau.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Note 1 */
+"ChineseSausageFriedRice.Instructions.Step.2.Note.1" = "Ở bước này, rửa sạch chảo nếu dơ.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Note 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.2.Note.1.Accessibility" = "Ở bước này, rửa sạch chảo nếu dơ.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 1 */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.1" = "Cho phân nữa ##Dầu## (oil) còn lại vào chảo.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Cho phân nữa Dầu còn lại vào chảo.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 2 */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.2" = "Thêm ##Trứng## (egg) vào chảo và xào nhẹ.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 2 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.2.Accessibility" = "Thêm Trứng vào chảo và xào nhẹ.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 3 */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.3" = "Thêm ##Cơm Trắng## (white rice) nguội vào chảo.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 3 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.3.Accessibility" = "Thêm Cơm nguội vào chảo.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 4 */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.4" = "Xào ##Cơm Trắng## (white rice) và ##Trứng## (egg) cho đến khi cơm mềm trở lại.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 4 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 1 */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.1" = "Cho ##Lạp Xưởng## (Chinese sausage), ##Củ Hành## (onion), ##Đậu Và Cà Rốt## (peas and carrots) vào chảo trở lại";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Lạp Xưởng, Củ Hành, Đậu Và Cà Rốt vào chảo trở lại.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 2 */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.2" = "Thêm ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), và ##Tiêu Đen## (pepper).";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 2 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.2.Accessibility" = "Thêm Nước Tương Golden Mountain, Bột Nêm Gà và Tiêu Đen.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 3 */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.3" = "Xào cho đến khi gia vị trộn đều.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 4 */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.4" = "Cho cơm chiên lên dĩa và thêm hành lá lên trên.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 4 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.4.Accessibility" = "Cho cơm chiên lên dĩa và thêm hành lá lên trên.";
+
+/* Chinese Sausage Fried Rice Tips 1 */
+"ChineseSausageFriedRice.Tips.1" = "Để có một món cơm chiên hoàn hảo, bạn muốn sử dụng cơm qua đêm.";
+
+/* Chinese Sausage Fried Rice Tips 2 */
+"ChineseSausageFriedRice.Tips.2" = "Cơm để qua đêm sẽ có ít độ ẩm hơn, giúp hạt gạo giữ được hình dạng khi xào.";
+
+/* Chinese Sausage Fried Rice Tips 3 */
+"ChineseSausageFriedRice.Tips.3" = "Thông thường, nếu còn cơm thừa, tôi sẽ để tủ lạnh và dùng ngày hôm sau để làm cơm chiên.";
+
+/* Chinese Sausage Fried Rice How To 1 */
+"ChineseSausageFriedRice.HowTo.1" = "##Cơm Chiên## (fried rice) ngon nhất là khi ăn nóng.";
+
+/* Chinese Sausage Fried Rice How To 1 (VoiceOver) */
+"ChineseSausageFriedRice.HowTo.1.Accessibility" = "Cơm Chiên ngon nhất là khi ăn nóng.";
+
+/* Chinese Sausage Fried Rice How To 2 */
+"ChineseSausageFriedRice.HowTo.2" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn ##Cơm Chiên## (fried rice) với ##Nước Mắm Chấm## (mixed fish sauce) như chồng tôi thường ăn.";
+
+/* Chinese Sausage Fried Rice How To 2 (VoiceOver) */
+"ChineseSausageFriedRice.HowTo.2.Accessibility" = "Nếu bạn cảm thấy hiếu kỳ thì thử ăn cơm chiên với Nước Mắm Chấm như chồng tôi thường ăn!";
 
 
 // MARK: Ca Ri Ga (Chicken Curry) Main Page

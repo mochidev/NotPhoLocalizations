@@ -1606,6 +1606,198 @@
 "BeefFriedRice.HowTo.2.Accessibility" = "If you are adventurous, you can try it with some mixed fish sauce like my husband does.";
 
 
+// MARK: Com Chien Lap Xuong (Chinese Sausage Fried Rice) Page
+
+/* Chinese Sausage Fried Rice Introduction 1 */
+"ChineseSausageFriedRice.Introduction.1" = "##Cơm Chiên Lạp Xưởng## (Chinese sausage fried rice) is a quick and easy recipe that can be enjoyed any time. ##Cơm Chiên## (fried rice) is a great way to salvage any leftover ingredients and turn them into a delicious meal.";
+
+/* Chinese Sausage Fried Rice Introduction 1 (VoiceOver) */
+"ChineseSausageFriedRice.Introduction.1.Accessibility" = "Chinese sausage fried rice is a quick and easy recipe that can be enjoyed any time. Fried rice is a great way to salvage any leftover ingredients and turn them into a delicious meal.";
+
+/* Chinese Sausage Fried Rice Introduction 2 */
+"ChineseSausageFriedRice.Introduction.2" = "This recipe serves one.";
+
+/* Chinese Sausage Fried Rice Ingredients White Rice Amount */
+"ChineseSausageFriedRice.Ingredients.WhiteRice.Amount.us" = "¾ cup, cooked";
+"ChineseSausageFriedRice.Ingredients.WhiteRice.Amount.metric" = "130 g, cooked";
+
+/* Chinese Sausage Fried Rice Ingredients Whtie Rice Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.WhiteRice.AccessibilityAmount.us" = "three quarter cups, cooked";
+"ChineseSausageFriedRice.Ingredients.WhiteRice.AccessibilityAmount.metric" = "130 grams, cooked";
+
+/* Chinese Sausage Fried Rice Ingredients Chinese Sausage Amount */
+"ChineseSausageFriedRice.Ingredients.ChineseSausage.Amount" = "1 link";
+
+/* Chinese Sausage Fried Rice Ingredients Chinese Sausage Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.ChineseSausage.AccessibilityAmount" = "1 link";
+
+/* Chinese Sausage Fried Rice Ingredients Egg Amount */
+"ChineseSausageFriedRice.Ingredients.Egg.Amount" = "1 large";
+
+/* Chinese Sausage Fried Rice Ingredients Peas And Carrots Amount */
+"ChineseSausageFriedRice.Ingredients.PeasAndCarrots.Amount.us" = "¼ cup";
+"ChineseSausageFriedRice.Ingredients.PeasAndCarrots.Amount.metric" = "35 g";
+
+/* Chinese Sausage Fried Rice Ingredients Peas And Carrots Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.us" = "one quarter cup";
+"ChineseSausageFriedRice.Ingredients.PeasAndCarrots.AccessibilityAmount.metric" = "35 grams";
+
+/* Chinese Sausage Fried Rice Ingredients Onion Amount */
+"ChineseSausageFriedRice.Ingredients.Onion.Amount.us" = "¼ cup";
+"ChineseSausageFriedRice.Ingredients.Onion.Amount.metric" = "25 g";
+
+/* Chinese Sausage Fried Rice Ingredients Onion Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.Onion.AccessibilityAmount.us" = "one quarter cup";
+"ChineseSausageFriedRice.Ingredients.Onion.AccessibilityAmount.metric" = "25 grams";
+
+/* Chinese Sausage Fried Rice Ingredients Golden Mountain Soy Sauce Amount */
+"ChineseSausageFriedRice.Ingredients.GoldenMountainSoySauce.Amount" = "½ tsp";
+
+/* Chinese Sausage Fried Rice Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "half a teaspoon";
+
+/* Chinese Sausage Fried Rice Ingredients Chicken Bouillon Amount */
+"ChineseSausageFriedRice.Ingredients.ChickenBouillon.Amount" = "½ tsp";
+
+/* Chinese Sausage Fried Rice Ingredients Chicken Bouillon Amount (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.ChickenBouillon.AccessibilityAmount" = "half a teaspoon";
+
+/* Chinese Sausage Fried Rice Ingredients Pepper Amount */
+"ChineseSausageFriedRice.Ingredients.Pepper.Amount" = "⅛ tsp";
+
+/* Chinese Sausage Fried Rice Ingredients Pepper (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.Pepper.AccessibilityAmount" = "one eighth of a teaspoon";
+
+/* Chinese Sausage Fried Rice Ingredients Oil Amount */
+"ChineseSausageFriedRice.Ingredients.Oil.Amount" = "2 tsp";
+
+/* Chinese Sausage Fried Rice Ingredients Oil (VoiceOver) */
+"ChineseSausageFriedRice.Ingredients.Oil.AccessibilityAmount" = "two teaspoons";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 1 */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.1" = "Cut the ##Củ Hành## (onion) into thin slices.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cut the onion into thin slices.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 2 */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.2" = "Cut the ##Lạp Xưởng## (Chinese sausage) into slices.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 2 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.2.Accessibility" = "Cut the Chinese sausage into slices.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 3 */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.3" = "Thaw the ##Đậu Và Cà Rốt## (peas and carrots) if they are frozen.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 3 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.3.Accessibility" = "Thaw the peas and carrots if they are frozen.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 4 */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.4" = "Use your hands to separate the cold ##Cơm Trắng## (white rice) into individual grains so they are not one giant clump.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Part 4 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Part.4.Accessibility" = "Use your hands to separate the cold white rice into individual grains so they are not one giant clump.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Note 1 */
+"ChineseSausageFriedRice.Instructions.Step.1.Note.1" = "You can substitute the frozen ##Đậu Và Cà Rốt## (peas and carrots) with fresh carrots and spring beans when available.";
+
+/* Chinese Sausage Fried Rice Instructions Step 1 Note 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.1.Note.1.Accessibility" = "You can substitute the frozen peas and carrots with fresh carrots and spring beans when available.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 1 */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.1" = "In a medium-high heat wok, add half of the ##Dầu## (oil).";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.1.Accessibility" = "In a medium to high heat wok, add the oil.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 2 */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.2" = "Add the ##Lạp Xưởng## (Chinese sausage), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots).";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Add the Chinese sausage, onion, peas and carrots.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 3 */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.3" = "Stir fry until the ##Lạp Xưởng## (Chinese sausage) is lightly charred.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 3 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.3.Accessibility" = "Stir fry until the Chinese sausage is lightly charred.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Part 4 */
+"ChineseSausageFriedRice.Instructions.Step.2.Part.4" = "Transfer the ingredients to a bowl to use later.";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Note 1 */
+"ChineseSausageFriedRice.Instructions.Step.2.Note.1" = "At this point, rinse the wok if it has too much burnt residue left from the ##Lạp Xưởng## (Chinese sausage).";
+
+/* Chinese Sausage Fried Rice Instructions Step 2 Note 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.2.Note.1.Accessibility" = "At this point, rinse the wok if it has too much burnt residue left from the Chinese sausage.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 1 */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.1" = "Add the last half of the ##Dầu## (oil) to the wok.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.1.Accessibility" = "Add the last half of the oil to the wok.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 2 */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.2" = "Add the ##Trứng## (egg) and scramble lightly.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 2 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.2.Accessibility" = "Add the egg and scramble lightly.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 3 */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.3" = "Add the ##Cơm Trắng## (white rice).";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 3 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.3.Accessibility" = "Add the white rice.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 4 */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.4" = "Stir fry the ##Cơm Trắng## (white rice) and ##Trứng## (egg) together until the rice is soft again.";
+
+/* Chinese Sausage Fried Rice Instructions Step 3 Part 4 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Stir fry the white rice and egg together until the rice is soft again.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 1 */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.1" = "Add the ##Lạp Xưởng## (chinese sausage), ##Củ Hành## (onion), and ##Đậu Và Cà Rốt## (peas and carrots) back in with the ##Cơm Trắng## (white rice) and ##Trứng## (egg).";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Add the chinese sausage, onion, peas and carrots back in with the white rice and egg.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 2 */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.2" = "Add ##Nước Tương Golden Mountain## (Golden Mountain soy sauce), ##Bột Nêm Gà## (chicken bouillon), and ##Tiêu Đen## (pepper).";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 2 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.2.Accessibility" = "Add Golden Mountain soy sauce, chicken bouillon, and pepper.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 3 */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.3" = "Stir fry until the seasonings are mixed in.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 4 */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.4" = "Garnish with chopped spring onions.";
+
+/* Chinese Sausage Fried Rice Instructions Step 4 Part 4 (VoiceOver) */
+"ChineseSausageFriedRice.Instructions.Step.4.Part.4.Accessibility" = "Garnish with chopped spring onions.";
+
+/* Chinese Sausage Fried Rice Tips 1 */
+"ChineseSausageFriedRice.Tips.1" = "For prefect fried rice, you want to use day old rice.";
+
+/* Chinese Sausage Fried Rice Tips 2 */
+"ChineseSausageFriedRice.Tips.2" = "Old rice would have less moisture, which helps the rice grain hold their shape when stir fried.";
+
+/* Chinese Sausage Fried Rice Tips 3 */
+"ChineseSausageFriedRice.Tips.3" = "Normally, if I have any leftover rice, I would refrigerate the leftover and use it the next day to make fried rice.";
+
+/* Chinese Sausage Fried Rice How To 1 */
+"ChineseSausageFriedRice.HowTo.1" = "##Cơm Chiên## (fried rice) is best served hot.";
+
+/* Chinese Sausage Fried Rice How To 1 (VoiceOver) */
+"ChineseSausageFriedRice.HowTo.1.Accessibility" = "Fried rice is best served hot.";
+
+/* Chinese Sausage Fried Rice How To 2 */
+"ChineseSausageFriedRice.HowTo.2" = "If you are adventurous, you can try it with some ##Nước Mắm Chấm## (mixed fish sauce) like my husband does.";
+
+/* Chinese Sausage Fried Rice How To 2 (VoiceOver) */
+"ChineseSausageFriedRice.HowTo.2.Accessibility" = "If you are adventurous, you can try it with some mixed fish sauce like my husband does.";
+
+
 // MARK: Ca Ri Ga (Chicken Curry) Main Page
 
 /* Chicken Curry Introduction 1 */
