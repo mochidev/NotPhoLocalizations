@@ -4194,6 +4194,141 @@
 "JicamaSpringRoll.HowTo.2.Accessibility" = "For the peanut sauce, add some Sriracha sauce if you like spicy food.";
 
 
+// MARK: Chuoi Chien (Banana Fritters) Page
+
+/* Banana Fritters Introduction 1 */
+"BananaFritters.Introduction.1" = "##Chuối Chiên## (banana fritters) are a simple but delicious snack or dessert. They were my favorite childhood snack, but I don’t eat it as often anymore mainly because not many places sale it. Now with this recipe I can make them anytime I have cravings.";
+
+/* Banana Fritters Introduction 1 (VoiceOver) */
+"BananaFritters.Introduction.1.Accessibility" = "Banana fritters are a simple but delicious snack or dessert. They were my favorite childhood snack, but I don’t eat it as often anymore mainly because not many places sale it. Now with this recipe I can make them anytime I have cravings";
+
+/* Banana Fritters Introduction 2 */
+"BananaFritters.Introduction.2" = "This recipe makes 6-8 pieces.";
+
+/* Banana Fritters Ingredients Thai Banana Amount */
+"BananaFritters.Ingredients.ThaiBanana.Amount" = "3-4, ripe";
+
+/* Banana Fritters Ingredients Thai Banana Amount (VoiceOver) */
+"BananaFritters.Ingredients.ThaiBanana.AccessibilityAmount" = "3 to 4, ripe";
+
+/* Banana Fritters Ingredients Tempura Batter Amount */
+"BananaFritters.Ingredients.TempuraBatter.Amount" = "1 portion";
+
+/* Banana Fritters Ingredients Tempura Batter Amount (VoiceOver) */
+"BananaFritters.Ingredients.TempuraBatter.AccessibilityAmount" = "1 portion";
+
+/* Banana Fritters Ingredients Oil Amount */
+"BananaFritters.Ingredients.Oil.Amount" = "enough for frying";
+
+/* Banana Fritters Ingredients Oil Amount (VoiceOver) */
+"BananaFritters.Ingredients.Oil.AccessibilityAmount" = "enough for frying";
+
+/* Banana Fritters Header Banana Types */
+"Header.BananaTypes" = "Types of Banana";
+
+/* Banana Fritters Type 1 */
+"Banana.Type.1" = "Thai bananas are the best for this recipe because they are sweet and hold their shape well when cooked.";
+
+/* Banana Fritters Type 1 (VoiceOver) */
+"Banana.Type.1.Accessibility" = "Thai bananas are the best for this recipe because they are sweet and hold their shape well when cooked.";
+
+/* Banana Fritters Type 2 */
+"Banana.Type.2" = "Ladyfinger (baby) bananas are good, but they are not as fragrant as Thai bananas.";
+
+/* Banana Fritters Type 2 (VoiceOver) */
+"Banana.Type.2.Accessibility" = "Ladyfinger (baby) bananas are good, but they are not as fragrant as Thai bananas.";
+
+/* Banana Fritters Type 3 */
+"Banana.Type.3" = "Regular bananas (Chiquita) are okay because they fall apart when cooked too long.";
+
+/* Banana Fritters Type 3 (VoiceOver) */
+"Banana.Type.3.Accessibility" = "Regular bananas (Chiquita) are okay because they fall apart when cooked too long.";
+
+/* Banana Fritters Type 4 */
+"Banana.Type.4" = "Plantains are also okay because even though they hold their shapes, they have the same texture as cooked potato.";
+
+/* Banana Fritters Type 4 (VoiceOver) */
+"Banana.Type.4.Accessibility" = "Plantains are also okay because even though they hold their shapes, they have the same texture as cooked potato.";
+
+/* Banana Fritters Instructions Step 1 Part 1 */
+"BananaFritters.Instructions.Step.1.Part.1" = "Make the batter.";
+
+/* Banana Fritters Instructions Step 1 Part 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.1.Part.1.Accessibility" = "Make the batter.";
+
+/* Banana Fritters Instructions Step 1 Note 1 */
+"BananaFritters.Instructions.Step.1.Note.1" = "To save some time, you can use store-bought tempura batter mix.";
+
+/* Banana Fritters Instructions Step 1 Note 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.1.Note.1.Accessibility" = "To save some time, you can use store-bought tempura batter mix.";
+
+/* Banana Fritters Instructions Step 2 Part 1 */
+"BananaFritters.Instructions.Step.2.Part.1" = "Peel and cut the bananas lengthwise into 2-3 pieces.";
+
+/* Banana Fritters Instructions Step 2 Part 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.2.Part.1.Accessibility" = "Peel and cut the bananas lengthwise into 2 to 3 pieces.";
+
+/* Banana Fritters Instructions Step 2 Note 1 */
+"BananaFritters.Instructions.Step.2.Note.1" = "If you are regular sized bananas, cut them into halves crosswise first then lengthwise.";
+
+/* Banana Fritters Instructions Step 2 Note 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.2.Note.1.Accessibility" = "Peel and cut the bananas lengthwise into 2-3 pieces.";
+
+/* Banana Fritters Instructions Step 3 Part 1 */
+"BananaFritters.Instructions.Step.3.Part.1" = "In a wok, heat the oil on medium heat until the temperature is round 300ºF (150ºC).";
+
+/* Banana Fritters Instructions Step 3 Part 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Part.1.Accessibility" = "In a wok, heat the oil on medium heat until the temperature is round 300 degrees Fahrenheit or 150 degress Celsius.";
+
+/* Banana Fritters Instructions Step 3 Part 2 */
+"BananaFritters.Instructions.Step.3.Part.2" = "Evenly coat the sliced bananas with batter.";
+
+/* Banana Fritters Instructions Step 3 Part 2 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Part.2.Accessibility" = "Evenly coat the sliced bananas with batter.";
+
+/* Banana Fritters Instructions Step 3 Part 3 */
+"BananaFritters.Instructions.Step.3.Part.3" = "When the oil is ready, fry the bananas until golden brown, about 4-5 minutes.";
+
+/* Banana Fritters Instructions Step 3 Part 3 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Part.3.Accessibility" = "When the oil is ready, fry the bananas until golden brown, about 4 to 5 minutes.";
+
+/* Banana Fritters Instructions Step 3 Note 1 */
+"BananaFritters.Instructions.Step.3.Note.1" = "For super crispy fritters, fry the bananas for 2-3 minutes then coat them again in batter and refry.";
+
+/* Banana Fritters Instructions Step 3 Note 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Note.1.Accessibility" = "For super crispy fritters, fry the bananas for 2 to 3 minutes then coat them again in batter and refry.";
+
+/* Banana Fritters Instructions Step 3 Note 2 */
+"BananaFritters.Instructions.Step.3.Note.2" = "Continue this step 1-2 times to get a nice crispy shell.";
+
+/* Banana Fritters Instructions Step 3 Note 2 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Note.2.Accessibility" = "Continue this step 1 to 2 times to get a nice crispy shell.";
+
+/* Banana Fritters Instructions Step 4 Part 1 */
+"BananaFritters.Instructions.Step.4.Part.1" = "Remove the banana fritters and place them on a paper towel to absorb any excess oil.";
+
+/* Banana Fritters Instructions Step 4 Part 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.4.Part.1.Accessibility" = "Remove the banana fritters and place them on a paper towel to absorb any excess oil.";
+
+/* Banana Fritters Instructions Step 4 Part 2 */
+"BananaFritters.Instructions.Step.4.Part.2" = "Let the banana fritters cool a bit before serving.";
+
+/* Banana Fritters Instructions Step 4 Part 2 (VoiceOver) */
+"BananaFritters.Instructions.Step.4.Part.2.Accessibility" = "Let the banana fritters cool a bit before serving.";
+
+/* Banana Fritters How To 1 */
+"BananaFritters.HowTo.1" = "Enjoy the banana fritters the way they are.";
+
+/* Banana Fritters How To 1 (VoiceOver) */
+"BananaFritters.HowTo.1.Accessibility" = "Enjoy the banana fritters the way they are.";
+
+/* Banana Fritters How To 2 */
+"BananaFritters.HowTo.2" = "Or enjoy them with some ice cream on the side.";
+
+/* Banana Fritters How To 2 (VoiceOver) */
+"BananaFritters.HowTo.2.Accessibility" = "Or enjoy them with some ice cream on the side.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

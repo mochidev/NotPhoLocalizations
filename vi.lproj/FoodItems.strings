@@ -188,6 +188,11 @@
 "jicamaSpringRoll.AccessibilitySubtitle" = "Bò Bía";
 "jicamaSpringRoll.AccessibilityPageTitle" = "Bò Bía";
 
+/* Banana Fritters */
+"bananaFritters.Subtitle" = "Banana Fritters";
+"bananaFritters.AccessibilitySubtitle" = "Chuối Chiên";
+"bananaFritters.AccessibilityPageTitle" = "Chuối Chiên";
+
 
 // MARK: Recipes Tab
 

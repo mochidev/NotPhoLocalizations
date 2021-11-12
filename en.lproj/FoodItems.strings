@@ -155,6 +155,11 @@
 "jicamaSpringRoll.Subtitle" = "Jicama Spring Roll";
 "jicamaSpringRoll.AccessibilityPageTitle" = "Jicama Spring Roll";
 
+/* Banana Fritters */
+"bananaFritters.Subtitle" = "Banana Fritters";
+"bananaFritters.AccessibilityPageTitle" = "Banana Fritters";
+
+
 
 // MARK: Recipes Tab
 

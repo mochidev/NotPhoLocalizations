@@ -4251,6 +4251,141 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "JicamaSpringRoll.HowTo.2.Accessibility" = "Bạn có thể cho một chút tương ớt vào tương đậu phỏng nếu bạn thích ăn cay.";
 
 
+// MARK: Chuoi Chien (Banana Fritters) Page
+
+/* Banana Fritters Introduction 1 */
+"BananaFritters.Introduction.1" = "##Chuối Chiên## (banana fritter) là một món tráng miệng. Tôi rất thích món này nhưng rất ít nơi bán. Bây giờ với công thức này, tôi có thể làm nó khi tôi thèm ăn.";
+
+/* Banana Fritters Introduction 1 (VoiceOver) */
+"BananaFritters.Introduction.1.Accessibility" = "Chuối chiên là một món tráng miệng. Tôi rất thích món này nhưng rất ít nơi bán. Bây giờ với công thức này, tôi có thể làm nó khi tôi thèm ăn.";
+
+/* Banana Fritters Introduction 2 */
+"BananaFritters.Introduction.2" = "Công thức này làm 6-8 miếng.";
+
+/* Banana Fritters Ingredients Thai Banana Amount */
+"BananaFritters.Ingredients.ThaiBanana.Amount" = "3-4 trái chuối chín";
+
+/* Banana Fritters Ingredients Thai Banana Amount (VoiceOver) */
+"BananaFritters.Ingredients.ThaiBanana.AccessibilityAmount" = "3 đến 4 trái chuối chín";
+
+/* Banana Fritters Ingredients Tempura Batter Amount */
+"BananaFritters.Ingredients.TempuraBatter.Amount" = "1 phần";
+
+/* Banana Fritters Ingredients Tempura Batter Amount (VoiceOver) */
+"BananaFritters.Ingredients.TempuraBatter.AccessibilityAmount" = "1 phần";
+
+/* Banana Fritters Ingredients Oil Amount */
+"BananaFritters.Ingredients.Oil.Amount" = "đủ để chiên";
+
+/* Banana Fritters Ingredients Oil Amount (VoiceOver) */
+"BananaFritters.Ingredients.Oil.AccessibilityAmount" = "đủ để chiên";
+
+/* Banana Fritters Header Banana Types */
+"Header.BananaTypes" = "Các Loại Chuối";
+
+/* Banana Fritters Type 1 */
+"Banana.Type.1" = "Chuối Thailand rất ngon vì đủ ngọt và giữ được hình dáng khi chiên.";
+
+/* Banana Fritters Type 1 (VoiceOver) */
+"Banana.Type.1.Accessibility" = "Chuối Thailand rất ngon vì đủ ngọt và giữ được hình dáng khi chiên.";
+
+/* Banana Fritters Type 2 */
+"Banana.Type.2" = "Chuối con (Ladyfinger) cũng ngon nhưng không thơm bằng chuối Thailand.";
+
+/* Banana Fritters Type 2 (VoiceOver) */
+"Banana.Type.2.Accessibility" = "Chuối con (Ladyfinger) cũng ngon nhưng không thơm bằng chuối Thailand.";
+
+/* Banana Fritters Type 3 */
+"Banana.Type.3" = "Chuối thường (Chiquita) cũng được nhưng không giữ được hình dáng khi chiên lâu.";
+
+/* Banana Fritters Type 3 (VoiceOver) */
+"Banana.Type.3.Accessibility" = "Chuối thường (Chiquita) cũng được nhưng không giữ được hình dáng khi chiên lâu.";
+
+/* Banana Fritters Type 4 */
+"Banana.Type.4" = "Chuối tá quạ hoặc chuối mễ cũng được vì giữ được hình dáng nhưng ăn giống khoai tây.";
+
+/* Banana Fritters Type 4 (VoiceOver) */
+"Banana.Type.4.Accessibility" = "Chuối tá quạ hoặc chuối mễ cũng được vì giữ được hình dáng nhưng ăn giống khoai tây.";
+
+/* Banana Fritters Instructions Step 1 Part 1 */
+"BananaFritters.Instructions.Step.1.Part.1" = "Pha trộn bột.";
+
+/* Banana Fritters Instructions Step 1 Part 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.1.Part.1.Accessibility" = "Pha trộn bột.";
+
+/* Banana Fritters Instructions Step 1 Note 1 */
+"BananaFritters.Instructions.Step.1.Note.1" = "Để tiết kiệm thời gian, bạn có thể dùng bột chiên pha sẵn.";
+
+/* Banana Fritters Instructions Step 1 Note 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.1.Note.1.Accessibility" = "Để tiết kiệm thời gian, bạn có thể dùng bột chiên pha sẵn.";
+
+/* Banana Fritters Instructions Step 2 Part 1 */
+"BananaFritters.Instructions.Step.2.Part.1" = "Lột vỏ và cắt chuối theo chiều dài thành 2-3 miếng.";
+
+/* Banana Fritters Instructions Step 2 Part 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.2.Part.1.Accessibility" = "Lột vỏ và cắt chuối theo chiều dài thành 2 đến 3 miếng.";
+
+/* Banana Fritters Instructions Step 2 Note 1 */
+"BananaFritters.Instructions.Step.2.Note.1" = "Nếu sử dụng chuối thường thì bạn có thể cắt nó làm hai chữ sau đó mới cắt thành miếng.";
+
+/* Banana Fritters Instructions Step 2 Note 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.2.Note.1.Accessibility" = "Nếu sử dụng chuối thường thì bạn có thể cắt nó làm hai chữ sau đó mới cắt thành miếng.";
+
+/* Banana Fritters Instructions Step 3 Part 1 */
+"BananaFritters.Instructions.Step.3.Part.1" = "Hâm nóng dầu chiên đến khi nhiệt độ khoảng 300 độ F hoặc 150 độ C.";
+
+/* Banana Fritters Instructions Step 3 Part 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Part.1.Accessibility" = "Hâm nóng dầu chiên đến khi nhiệt độ khoảng 300 độ F hoặc 150 độ C.";
+
+/* Banana Fritters Instructions Step 3 Part 2 */
+"BananaFritters.Instructions.Step.3.Part.2" = "Nhúng chuối vào bột cho đều.";
+
+/* Banana Fritters Instructions Step 3 Part 2 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Part.2.Accessibility" = "Nhúng chuối vào bột cho đều.";
+
+/* Banana Fritters Instructions Step 3 Part 3 */
+"BananaFritters.Instructions.Step.3.Part.3" = "Khi dầu đã đủ nóng, chiên chuối từ 4 đến 5 phút hoặc cho đến khi chín vàng.";
+
+/* Banana Fritters Instructions Step 3 Part 3 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Part.3.Accessibility" = "Khi dầu đã đủ nóng, chiên chuối từ 4 đến 5 phút hoặc cho đến khi chín vàng.";
+
+/* Banana Fritters Instructions Step 3 Note 1 */
+"BananaFritters.Instructions.Step.3.Note.1" = "Nếu muốn chuối giòn thì chiên chuối vài lần.";
+
+/* Banana Fritters Instructions Step 3 Note 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Note.1.Accessibility" = "Nếu muốn chuối giòn thì chiên chuối vài lần.";
+
+/* Banana Fritters Instructions Step 3 Note 2 */
+"BananaFritters.Instructions.Step.3.Note.2" = "Chuối chiên giòn ăn ngon hơn.";
+
+/* Banana Fritters Instructions Step 3 Note 2 (VoiceOver) */
+"BananaFritters.Instructions.Step.3.Note.2.Accessibility" = "Chuối chiên giòn ăn ngon hơn.";
+
+/* Banana Fritters Instructions Step 4 Part 1 */
+"BananaFritters.Instructions.Step.4.Part.1" = "Khi chiên chuối xong đặt lên khăn giấy để thấm bớt dầu.";
+
+/* Banana Fritters Instructions Step 4 Part 1 (VoiceOver) */
+"BananaFritters.Instructions.Step.4.Part.1.Accessibility" = "Khi chiên chuối xong đặt lên khăn giấy để thấm bớt dầu.";
+
+/* Banana Fritters Instructions Step 4 Part 2 */
+"BananaFritters.Instructions.Step.4.Part.2" = "Để chuối chiên nguội một chút trước khi ăn.";
+
+/* Banana Fritters Instructions Step 4 Part 2 (VoiceOver) */
+"BananaFritters.Instructions.Step.4.Part.2.Accessibility" = "Để chuối chiên nguội một chút trước khi ăn.";
+
+/* Banana Fritters How To 1 */
+"BananaFritters.HowTo.1" = "Ăn chuối chiên như thế.";
+
+/* Banana Fritters How To 1 (VoiceOver) */
+"BananaFritters.HowTo.1.Accessibility" = "Ăn chuối chiên như thế.";
+
+/* Banana Fritters How To 2 */
+"BananaFritters.HowTo.2" = "Hoặc ăn với kem.";
+
+/* Banana Fritters How To 2 (VoiceOver) */
+"BananaFritters.HowTo.2.Accessibility" = "Hoặc ăn với kem.";
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */
