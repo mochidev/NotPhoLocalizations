@@ -6699,6 +6699,88 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PeanutSauce.Tips.5.Accessibility" = "Nếu Tương Đậu Phộng trở thành hơi đặc sau khi chứa trong tủ lạnh thì có thể pha thêm một ít nước để tương lỏng lại.";
 
 
+// MARK: Bot Chien (Tempura Batter) Page
+
+/* Tempura Batter Introduction 1 */
+"TempuraBatter.Introduction.1" = "Loại ##Bột Chiên## (tempura batter) này thường dùng để chiên tôm hoặc chuối, nhưng bạn cũng có thể dùng để chiên rau.";
+
+/* Tempura Batter Introduction 1 (VoiceOver) */
+"TempuraBatter.Introduction.1.Accessibility" = "Loại bột chiên này thường dùng để chiên tôm hoặc chuối, nhưng bạn cũng có thể dùng để chiên rau.";
+
+/* Tempura Batter Ingredients Rice Flour Amount */
+"TempuraBatter.Ingredients.RiceFlour.Amount.us" = "¼ cốc";
+"TempuraBatter.Ingredients.RiceFlour.Amount.metric" = "35 gờ ram";
+
+/* Tempura Batter Ingredients Rice Flour Amount (VoiceOver) */
+"TempuraBatter.Ingredients.RiceFlour.AccessibilityAmount.us" = "¼ cốc";
+"TempuraBatter.Ingredients.RiceFlour.AccessibilityAmount.metric" = "35 gờ ram";
+
+/* Tempura Batter Ingredients All Purpose Flour Amount */
+"TempuraBatter.Ingredients.AllPurposeFlour.Amount.us" = "¼ cốc";
+"TempuraBatter.Ingredients.AllPurposeFlour.Amount.metric" = "40 gờ ram";
+
+/* Tempura Batter Ingredients All Purpose Flour Amount (VoiceOver) */
+"TempuraBatter.Ingredients.AllPurposeFlour.AccessibilityAmount.us" = "¼ cốc";
+"TempuraBatter.Ingredients.AllPurposeFlour.AccessibilityAmount.metric" = "40 gờ ram";
+
+/* Tempura Batter Ingredients Cornstarch Amount */
+"TempuraBatter.Ingredients.Cornstarch.Amount.us" = "1 tsp";
+"TempuraBatter.Ingredients.Cornstarch.Amount.metric" = "1 muỗng cà phê";
+
+/* Tempura Batter Ingredients Cornstarch Amount (VoiceOver) */
+"TempuraBatter.Ingredients.Cornstarch.AccessibilityAmount" = "1 muỗng cà phê";
+
+/* Tempura Batter Ingredients Baking Powder Amount */
+"TempuraBatter.Ingredients.BakingPowder.Amount.us" = "⅛ tsp";
+"TempuraBatter.Ingredients.BakingPowder.Amount.metric" = "⅛ muỗng cà phê";
+
+/* Tempura Batter Ingredients Baking Powder Amount (VoiceOver) */
+"TempuraBatter.Ingredients.BakingPowder.AccessibilityAmount" = "⅛ muỗng cà phê";
+
+/* Tempura Batter Ingredients Salt Amount */
+"TempuraBatter.Ingredients.Salt.Amount" = "1-2 nhúm";
+
+/* Tempura Batter Ingredients Salt Amount (VoiceOver) */
+"TempuraBatter.Ingredients.Salt.AccessibilityAmount" = "1 đến 2 nhúm";
+
+/* Tempura Batter Ingredients Water Amount */
+"TempuraBatter.Ingredients.Water.Amount.us" = "½ cốc";
+"TempuraBatter.Ingredients.Water.Amount.metric" = "120 ml";
+
+/* Tempura Batter Ingredients Water Amount (VoiceOver) */
+"TempuraBatter.Ingredients.Water.AccessibilityAmount.us" = "½ cốc";
+"TempuraBatter.Ingredients.Water.AccessibilityAmount.metric" = "120 mililít";
+
+/* Tempura Batter Heading Additional Ingredients */
+"Heading.Additional.Ingredients" = "Nguyên Liệu Bổ Sung";
+
+/* Tempura Batter Ingredients Sugar Amount */
+"TempuraBatter.Ingredients.Sugar.Amount.us" = "2 tsp";
+"TempuraBatter.Ingredients.Sugar.Amount.metric" = "2 muỗng cà phê";
+
+/* Tempura Batter Ingredients Sugar Amount (VoiceOver) */
+"TempuraBatter.Ingredients.Sugar.AccessibilityAmount" = "2 muỗng cà phê";
+
+/* Tempura Batter Ingredients Sesame Seeds Amount */
+"TempuraBatter.Ingredients.SesameSeeds.Amount.us" = "1 tbsp";
+"TempuraBatter.Ingredients.SesameSeeds.Amount.metric" = "1 muỗng canh";
+
+/* Tempura Batter Ingredients Sesame Seeds Amount (VoiceOver) */
+"TempuraBatter.Ingredients.SesameSeeds.AccessibilityAmount" = "1 muỗng canh";
+
+/* Tempura Batter Instructions 1 */
+"TempuraBatter.Instructions.1" = "Cho món chiên mặn, dụng tất cả nguyên liệu nhưng loại trừ ##Đường## (sugar) và ##Hạt Mè## (sesame seeds).";
+
+/* Tempura Batter Instructions 1 (VoiceOver) */
+"TempuraBatter.Instructions.1.Accessibility" = "Cho món chiên mặn, dụng tất cả nguyên liệu nhưng loại trừ đường và hạt mè.";
+
+/* Tempura Batter Instructions 2 */
+"TempuraBatter.Instructions.2" = "Cho món chiên ngọt, dụng tất cả nguyên liệu bao gồm ##Đường## (sugar) và ##Hạt Mè## (sesame seeds).";
+
+/* Tempura Batter Instructions 2 (VoiceOver) */
+"TempuraBatter.Instructions.2.Accessibility" = "Cho món chiên ngọt, dụng tất cả nguyên liệu bao gồm đường và hạt mè.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */
