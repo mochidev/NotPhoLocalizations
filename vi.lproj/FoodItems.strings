@@ -296,6 +296,11 @@
 "peanutSauce.AccessibilitySubtitle" = "Tương Đậu Phộng";
 "peanutSauce.AccessibilityPageTitle" = "Tương Đậu Phộng";
 
+/* Tempura Batter */
+"tempuraBatter.Subtitle" = "Tempura Batter";
+"tempuraBatter.AccessibilitySubtitle" = "Bột Chiên";
+"tempuraBatter.AccessibilityPageTitle" = "Bột Chiên";
+
 
 // MARK: Ingredients Tab
 

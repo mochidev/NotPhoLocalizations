@@ -6598,6 +6598,84 @@
 "PeanutSauce.Tips.5.Accessibility" = "If the peanut sauce gets too thick after being in the refrigerator, mix in some water to lighten it.";
 
 
+// MARK: Bot Chien (Tempura Batter) Page
+
+/* Tempura Batter Introduction 1 */
+"TempuraBatter.Introduction.1" = "##Bột Chiên## (tempura batter) can be used to make any deep fried fritters. For convenience, I normally use store bought tempura batter mix, and only use this recipe when I don’t have any on hand.";
+
+/* Tempura Batter Introduction 1 (VoiceOver) */
+"TempuraBatter.Introduction.1.Accessibility" = "Tempura batter can be used to make any deep fried fritters. For convenience, I normally use store bought tempura batter mix, and only use this recipe when I don’t have any on hand.";
+
+/* Tempura Batter Ingredients Rice Flour Amount */
+"TempuraBatter.Ingredients.RiceFlour.Amount.us" = "¼ cup";
+"TempuraBatter.Ingredients.RiceFlour.Amount.metric" = "35 g";
+
+/* Tempura Batter Ingredients Rice Flour Amount (VoiceOver) */
+"TempuraBatter.Ingredients.RiceFlour.AccessibilityAmount.us" = "a quarter cup";
+"TempuraBatter.Ingredients.RiceFlour.AccessibilityAmount.metric" = "35 grams";
+
+/* Tempura Batter Ingredients All Purpose Flour Amount */
+"TempuraBatter.Ingredients.AllPurposeFlour.Amount.us" = "¼ cup";
+"TempuraBatter.Ingredients.AllPurposeFlour.Amount.metric" = "40 g";
+
+/* Tempura Batter Ingredients All Purpose Flour Amount (VoiceOver) */
+"TempuraBatter.Ingredients.AllPurposeFlour.AccessibilityAmount.us" = "a quarter cup";
+"TempuraBatter.Ingredients.AllPurposeFlour.AccessibilityAmount.metric" = "40 grams";
+
+/* Tempura Batter Ingredients Cornstarch Amount */
+"TempuraBatter.Ingredients.Cornstarch.Amount" = "1 tsp";
+
+/* Tempura Batter Ingredients Cornstarch Amount (VoiceOver) */
+"TempuraBatter.Ingredients.Cornstarch.AccessibilityAmount" = "1 tsp";
+
+/* Tempura Batter Ingredients Baking Powder Amount */
+"TempuraBatter.Ingredients.BakingPowder.Amount" = "⅛ tsp";
+
+/* Tempura Batter Ingredients Baking Powder Amount (VoiceOver) */
+"TempuraBatter.Ingredients.BakingPowder.AccessibilityAmount" = "⅛ tsp";
+
+/* Tempura Batter Ingredients Salt Amount */
+"TempuraBatter.Ingredients.Salt.Amount" = "1-2 pinches";
+
+/* Tempura Batter Ingredients Salt Amount (VoiceOver) */
+"TempuraBatter.Ingredients.Salt.AccessibilityAmount" = "1 to 2 pinches";
+
+/* Tempura Batter Ingredients Water Amount */
+"TempuraBatter.Ingredients.Water.Amount.us" = "½ cup";
+"TempuraBatter.Ingredients.Water.Amount.metric" = "120 ml";
+
+/* Tempura Batter Ingredients Water Amount (VoiceOver) */
+"TempuraBatter.Ingredients.Water.AccessibilityAmount.us" = "½ cup";
+"TempuraBatter.Ingredients.Water.AccessibilityAmount.metric" = "120 ml";
+
+/* Tempura Batter Heading Additional Ingredients */
+"Heading.Additional.Ingredients" = "Additional Ingredients";
+
+/* Tempura Batter Ingredients Sugar Amount */
+"TempuraBatter.Ingredients.Sugar.Amount" = "2 tsp";
+
+/* Tempura Batter Ingredients Sugar Amount (VoiceOver) */
+"TempuraBatter.Ingredients.Sugar.AccessibilityAmount" = "2 teaspoons";
+
+/* Tempura Batter Ingredients Sesame Seeds Amount */
+"TempuraBatter.Ingredients.SesameSeeds.Amount" = "1 tbsp";
+
+/* Tempura Batter Ingredients Sesame Seeds Amount (VoiceOver) */
+"TempuraBatter.Ingredients.SesameSeeds.AccessibilityAmount" = "1 tablespoon";
+
+/* Tempura Batter Instructions 1 */
+"TempuraBatter.Instructions.1" = "For savory fritters, mix just the main ingredients together, leaving out the ##Đường## (sugar) and ##Hạt Mè## (sesame seeds).";
+
+/* Tempura Batter Instructions 1 (VoiceOver) */
+"TempuraBatter.Instructions.1.Accessibility" = "For savory fritters, mix just the main ingredients together, leaving out the sugar and sesame seeds.";
+
+/* Tempura Batter Instructions 2 */
+"TempuraBatter.Instructions.2" = "For sweet fritters, mix all the ingredients together, including the ##Đường## (sugar) and ##Hạt Mè## (sesame seeds).";
+
+/* Tempura Batter Instructions 2 (VoiceOver) */
+"TempuraBatter.Instructions.2.Accessibility" = "For sweet fritters, mix all the ingredients together, including the sugar and sesame seeds.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

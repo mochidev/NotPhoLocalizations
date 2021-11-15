@@ -160,7 +160,6 @@
 "bananaFritters.AccessibilityPageTitle" = "Banana Fritters";
 
 
-
 // MARK: Recipes Tab
 
 /* Crepe Batter */
@@ -242,6 +241,10 @@
 /* Peanut Sauce */
 "peanutSauce.Subtitle" = "Peanut Sauce";
 "peanutSauce.AccessibilityPageTitle" = "Peanut Sauce";
+
+/* Tempura Batter */
+"tempuraBatter.Subtitle" = "Tempura Batter";
+"tempuraBatter.AccessibilityPageTitle" = "Tempura Batter";
 
 
 // MARK: Ingredients Tab
