@@ -6601,10 +6601,10 @@
 // MARK: Bot Chien (Tempura Batter) Page
 
 /* Tempura Batter Introduction 1 */
-"TempuraBatter.Introduction.1" = "##Bột Chiên## (tempura batter) can be used to make any deep fried fritters. For convenience, I normally use store bought tempura batter mix, and only use this recipe when I don’t have any on hand.";
+"TempuraBatter.Introduction.1" = "##Bột Chiên## (tempura batter) can be used to make many types of deep fried fritters. For convenience, I normally use store bought tempura batter mix, and only use this recipe when I don’t have any on hand.";
 
 /* Tempura Batter Introduction 1 (VoiceOver) */
-"TempuraBatter.Introduction.1.Accessibility" = "Tempura batter can be used to make any deep fried fritters. For convenience, I normally use store bought tempura batter mix, and only use this recipe when I don’t have any on hand.";
+"TempuraBatter.Introduction.1.Accessibility" = "Tempura batter can be used to make many types of deep fried fritters. For convenience, I normally use store bought tempura batter mix, and only use this recipe when I don’t have any on hand.";
 
 /* Tempura Batter Ingredients Rice Flour Amount */
 "TempuraBatter.Ingredients.RiceFlour.Amount.us" = "¼ cup";
