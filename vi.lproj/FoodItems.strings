@@ -193,6 +193,11 @@
 "bananaFritters.AccessibilitySubtitle" = "Chuối Chiên";
 "bananaFritters.AccessibilityPageTitle" = "Chuối Chiên";
 
+/* Hot Pot */
+"hotPot.Subtitle" = "Hot Pot";
+"hotPot.AccessibilitySubtitle" = "Lẩu";
+"hotPot.AccessibilityPageTitle" = "Lẩu";
+
 
 // MARK: Recipes Tab
 

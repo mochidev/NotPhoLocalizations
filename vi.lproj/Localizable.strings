@@ -4386,6 +4386,171 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BananaFritters.HowTo.2.Accessibility" = "Hoặc ăn với kem.";
 
 
+// MARK: Hot Pot (Lau) Page
+
+/* Hot Pot Introduction 1 */
+"HotPot.Introduction.1" = "##Lẩu## (hot pot) is a way of cooking that originated from China, and it became so popular that nearly everyone in Southeast Asia loves it. Just like the name suggests, ##Lẩu## (hot pot) involves a pot of simmering soup stock, raw vegetables and meats, and dipping sauce.";
+
+/* Hot Pot Introduction 1 (VoiceOver) */
+"HotPot.Introduction.1.Accessibility" = "Hot pot is a way of cooking that originated from China, and it became so popular that nearly everyone in Southeast Asia loves it. Just like the name suggests, hot pot involves a pot of simmering soup stock, raw vegetables and meats, and dipping sauce.";
+
+/* Hot Pot Introduction 2 */
+"HotPot.Introduction.2" = "The ingredients that go into  ##Lẩu## (hot pot) varies from region to region. Some places have very simple soups like chicken broth or beef broth, and some have more complex soups like miso based broth, seafood, preserved-fish, soy milk or coconut milk, and chili broth. Some common raw vegetables and meats are cabbage, spinach, carrots, noodles, tofu, thinly-sliced pork or beef, shrimps, fish balls, and etc. The dipping sauce can be a sweet caramelized soy sauce, herb sauce, chili sauce, and/or raw egg.";
+
+/* Hot Pot Introduction 2 (VoiceOver) */
+"HotPot.Introduction.2.Accessibility" = "The ingredients that go into hot pot varies from region to region. Some places have very simple soups like chicken broth or beef broth, and some have more complex soups like miso based broth, seafood, preserved-fish, soy milk or coconut milk, and chili broth. Some common raw vegetables and meats are cabbage, spinach, carrots, noodles, tofu, thinly-sliced pork or beef, shrimps, fish balls, and etc. The dipping sauce can be a sweet caramelized soy sauce, herb sauce, chili sauce, and/or raw egg.";
+
+/* Hot Pot Ingredients 1 */
+"HotPot.Ingredients.1" = "The main idea of ##Lẩu## (hot pot) is you eat as you cook so all the ingredients can be raw to start.";
+
+/* Hot Pot Ingredients 1 (VoiceOver) */
+"HotPot.Ingredients.1.Accessibility" = "The main idea of hot pot is you eat as you cook so all the ingredients can be raw to start.";
+
+/* Hot Pot Ingredients Broth Header */
+"HotPot.Ingredients.Broth.Header" = "Broth";
+
+/* Hot Pot Ingredients Broth Part 1 */
+"HotPot.Ingredients.Broth.Part.1" = "For a basic soup, you can use chicken broth or beef broth.";
+
+/* Hot Pot Ingredients Broth Part 2 */
+"HotPot.Ingredients.Broth.Part.2" = "For a more complex soup, you can buy soup base that is intended for hot pot to make the broth. There are many flavors to choose from, such as spicy miso, pork bone, seafood, Mongolian, and Sichuan spicy.";
+
+/* Hot Pot Ingredients Broth Note 1 */
+"HotPot.Ingredients.Broth.Note.1" = "You can find most soup bases at most Asian supermarkets, such as Chinese, Japanese, or Korean.";
+
+/* Hot Pot Ingredients Broth Note 2 */
+"HotPot.Ingredients.Broth.Note.2" = "I don’t know if Thai or Filipino markets have hot pot soup bases, but you can always check.";
+
+/* Hot Pot Ingredients Meats Header */
+"HotPot.Ingredients.Meats.Header" = "Meats";
+
+/* Hot Pot Ingredients Meats Part 1 */
+"HotPot.Ingredients.Meats.Part.1" = "You can buy pre-cut pork or beef meat at most Asian supermarkets, and they are sometimes labeled as Shabu-Shabu (meat used for Japanese style hot pot).";
+
+/* Hot Pot Ingredients Meats Part 2 */
+"HotPot.Ingredients.Meats.Part.2" = "Besides regular meat, you can also have seafood, such as fish, shrimp, squid, octopus, clam, mussel, fish balls, and etc.";
+
+/* Hot Pot Ingredients Vegetables Header */
+"HotPot.Ingredients.Vegetables.Header" = "Vegetables";
+
+/* Hot Pot Ingredients Vegetables Part 1 */
+"HotPot.Ingredients.Vegetables.Part.1" = "There are so many vegetables to choose from, but usually any vegetables that you can cook can be used in hot pot.";
+
+/* Hot Pot Ingredients Vegetables Part 2 */
+"HotPot.Ingredients.Vegetables.Part.2" = "I usually buy Napa cabbage, carrots, spring onions, daikon, and mushrooms.";
+
+/* Hot Pot Ingredients Sides Header */
+"HotPot.Ingredients.Sides.Header" = "Sides";
+
+/* Hot Pot Ingredients Sides Part 1 */
+"HotPot.Ingredients.Sides.Part.1" = "Sides are anything extra, such as rice noodles, ramen, tofu, rice, dumplings, wontons, and etc.";
+
+/* Hot Pot Ingredients Dipping Sauce Header */
+"HotPot.Ingredients.DippingSauce.Header" = "Dipping Sauce";
+
+/* Hot Pot Ingredients Dipping Sauce Part 1 */
+"HotPot.Ingredients.DippingSauce.Part.1" = "Soy sauce and chili oil are the basics, but you can also buy hot pot (Shabu-Shabu) sauce.";
+
+/* Hot Pot Equipment Header */
+"HotPot.Equipment.Header" = "Equipment";
+
+/* Hot Pot Details 1 */
+"HotPot.Details.1" = "##Lẩu## (hot pot) is a very fun and lively way of enjoying a meal with the family. Normally, everyone would gather around the table, then at the center of the table would be the hot pot, and plates of vegetables and meats around the pot. The hot pot can be an electric pot that is plugged in or a regular pot on top of a portable gas burner that way the soup is hot and simmering at all time. The hot pot is a shared soup that everyone can dip the meat or vegetables in to cook and serve themselves. Some nice things about ##Lẩu## (hot pot) are that you can pace yourself and cook as you eat, enjoy a conversation without worrying about the food getting cold, and best of all it takes very low effort to prepare.";
+
+/* Hot Pot Details 1 (VoiceOver) */
+"HotPot.Details.1" = "Hot pot is a very fun and lively way of enjoying a meal with the family. Normally, everyone would gather around the table, then at the center of the table would be the hot pot, and plates of vegetables and meats around the pot. The hot pot can be an electric pot that is plugged in or a regular pot on top of a portable gas burner that way the soup is hot and simmering at all time. The hot pot is a shared soup that everyone can dip the meat or vegetables in to cook and serve themselves. Some nice things about hot pot are that you can pace yourself and cook as you eat, enjoy a conversation without worrying about the food getting cold, and best of all it takes very low effort to prepare.";
+
+/* Hot Pot Instructions Step 1 Part 1 */
+"HotPot.Instructions.Step.1.Part.1" = "Cook the broth in a decent sized pot that you plan to use as a hot pot until it boils.";
+
+/* Hot Pot Instructions Step 1 Part 2 */
+"HotPot.Instructions.Step.1.Part.2" = "Prepare the broth on your normal stove, and add some cut carrots, daikon, onions, and mushrooms to enhance the flavor of the broth.";
+
+/* Hot Pot Instructions Step 1 Part 3 */
+"HotPot.Instructions.Step.1.Part.3" = "Once the broth boils, move the entire pot over to a portable gas stove that you have set up on the dining table.";
+
+/* Hot Pot Instructions Step 1 Part 4 */
+"HotPot.Instructions.Step.1.Part.4" = "Turn on the portable gas stove and keep the broth simmering the entire time you eat.";
+
+/* Hot Pot Instructions Step 1 Note 1 */
+"HotPot.Instructions.Step.1.Note.1" = "Follow the instructions on the soup base package to make the broth if you are using a soup mix.";
+
+/* Hot Pot Instructions Step 1 Note 2 */
+"HotPot.Instructions.Step.1.Note.2" = "There is a special type of pot with a divider in the middle you can buy that lets you have two different type of broth in one pot.";
+
+/* Hot Pot Instructions Step 1 Note 3 */
+"HotPot.Instructions.Step.1.Note.3" = "For an electric pot, cook the broth directly in there at the table.";
+
+/* Hot Pot Instructions Step 2 Part 1 */
+"HotPot.Instructions.Step.2.Part.1" = "Prepare the vegetables and sides.";
+
+/* Hot Pot Instructions Step 2 Part 2 */
+"HotPot.Instructions.Step.2.Part.2" = "Wash, peel, and cut vegetables into small pieces so they can cook easily.";
+
+/* Hot Pot Instructions Step 2 Part 3 */
+"HotPot.Instructions.Step.2.Part.3" = "For ingredients that don’t require washing, like noodles, tofu, dumplings, and etc, just remove them from their packages and arrange them on plates.";
+
+/* Hot Pot Instructions Step 3 Part 1 */
+"HotPot.Instructions.Step.3.Part.1" = "Prepare the meats and seafood.";
+
+/* Hot Pot Instructions Step 3 Part 2 */
+"HotPot.Instructions.Step.3.Part.2" = "Most pre-cut meats are sold frozen so be sure to defrost them that way they are easy to handle when arranging on plates.";
+
+/* Hot Pot Instructions Step 3 Part 3 */
+"HotPot.Instructions.Step.3.Part.3" = "For shrimps, peel, devein, and wash if they are not yet prepared.";
+
+/* Hot Pot Instructions Step 3 Part 4 */
+"HotPot.Instructions.Step.3.Part.4" = "For clams and mussels, keep them in a bowl with cold water for 30 minutes so they can filter out any sand. Then careful pluck them from the water so you don’t mix the sand back in. Before cooking, discard any that are opened or cracked. Once cooked, don’t eat any that are still closed.";
+
+/* Hot Pot Instructions Step 4 Part 1 */
+"HotPot.Instructions.Step.4.Part.1" = "Prepare the dipping sauce.";
+
+/* Hot Pot Instructions Step 4 Part 2 */
+"HotPot.Instructions.Step.4.Part.2" = "There are many flavors and brands to choose from so check your local Asian supermarkets.";
+
+/* Hot Pot Instructions Step 4 Part 3 */
+"HotPot.Instructions.Step.4.Part.3" = "I usually buy a Japanese brand dipping sauce called Mizkan Shabu-Shabu, which comes in two flavors: sesame and citrus soy sauce.";
+
+/* Hot Pot How To 1 */
+"HotPot.HowTo.1" = "Arrange the portable gas stove in the center of the table.";
+
+/* Hot Pot How To 2 */
+"HotPot.HowTo.2" = "Place the pot of boiling broth on top of the stove.";
+
+/* Hot Pot How To 3 */
+"HotPot.HowTo.3" = "Turn the stove on and keep the broth at a simmer. Adjust the heat upward if there is a lot of food in the pot needing to cook.";
+
+/* Hot Pot How To 4 */
+"HotPot.HowTo.4" = "Arrange plates of meat, vegetables, and sides around the table so everyone can access.";
+
+/* Hot Pot How To 5 */
+"HotPot.HowTo.5" = "Cook a bunch of ingredients at once and eat when they’re cooked, or cook as you eat.";
+
+/* Hot Pot How To 6 */
+"HotPot.HowTo.6" = "I usually start by adding some vegetables to the broth.";
+
+/* Hot Pot How To 7 */
+"HotPot.HowTo.7" = "Cook the seafood for as long as they need.";
+
+/* Hot Pot How To 8 */
+"HotPot.HowTo.8" = "For the sliced meat, using chopsticks or tongs, take a slice of meat and dip it into the hot broth until the meat is cooked to your preference. Keep an eye on your meat or someone might steal it (free meat).";
+
+/* Hot Pot How To 9 */
+"HotPot.HowTo.9" = "Dip the cooked ingredients in any dipping sauce to enjoy.";
+
+/* Hot Pot How To 10 */
+"HotPot.HowTo.10" = "A unique thing that our Japanese friends enjoy is dip the cooked meat in raw beaten up egg, so if you are comfortable with raw egg give it a try.";
+
+
+
+
+
+
+
+
+
+
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

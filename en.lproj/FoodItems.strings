@@ -159,6 +159,10 @@
 "bananaFritters.Subtitle" = "Banana Fritters";
 "bananaFritters.AccessibilityPageTitle" = "Banana Fritters";
 
+/* Hot Pot */
+"hotPot.Subtitle" = "Hot Pot";
+"hotPot.AccessibilityPageTitle" = "Hot Pot";
+
 
 // MARK: Recipes Tab
 
