@@ -3749,10 +3749,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 // MARK: Goi Cuon Thit Nuong (Grilled Pork Spring Roll) Page
 
 /* Grilled Pork Spring Roll Introduction 1 */
-"GrilledPorkSpringRoll.Introduction.1" = "##Gỏi Cuốn Thịt Nướng## (grilled pork spring roll) là một món khai vị nổi tiếng. Món này không chỉ giới hạn ở thịt heo, dụng thịt gà hoặc thịt bò cũng ngon.";
+"GrilledPorkSpringRoll.Introduction.1" = "##Gỏi Cuốn Thịt Nướng## (grilled pork spring roll) là một món khai vị nổi tiếng. Món này không loại trừ thịt gà hoặc thịt bò.";
 
 /* Grilled Pork Spring Roll Introduction 1 (VoiceOver) */
-"GrilledPorkSpringRoll.Introduction.1.Accessibility" = "Gỏi Cuốn Thịt Nướng là một món khai vị nổi tiếng. Món này không chỉ giới hạn ở thịt heo, dụng thịt gà hoặc thịt bò cũng ngon.";
+"GrilledPorkSpringRoll.Introduction.1.Accessibility" = "Gỏi Cuốn Thịt Nướng là một món khai vị nổi tiếng. Món này không loại trừ thịt gà hoặc thịt bò.";
 
 /* Grilled Pork Spring Roll Introduction 1 */
 "GrilledPorkSpringRoll.Introduction.2" = "Công thức này làm 10 cuốn.";
