@@ -18,6 +18,10 @@
 
 // MARK: Vietnamese Food Tab
 
+/* Banh Mi Main */
+"banhMiMain.Subtitle" = "Sandwiches";
+"banhMiMain.AccessibilityPageTitle" = "Sandwiches";
+
 /* Grilled Pork Sandwich */
 "grilledPorkBanhMi.Subtitle" = "Grilled Pork Sandwich";
 "grilledPorkBanhMi.AccessibilityPageTitle" = "Grilled Pork Sandwich";

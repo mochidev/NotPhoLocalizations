@@ -21,6 +21,9 @@
 /* The Heading for Instructions sections */
 "Heading.Instructions" = "Instructions";
 
+/* The Heading for Terminology (VoiceOver) */
+"Heading.Terminology" = "Terminology";
+
 /* The Heading for Variants sections */
 "Heading.Variants" = "Variants";
 
@@ -114,7 +117,38 @@
 /* Vietnamese Food Tab Title */
 "VietnameseFood.TabTitle" = "Vietnamese Food";
 
-// MARK: Banh Mi Thit Nuong (Grilled Pork Bánh Mì) Page
+
+// MARK: Banh Mi (Banh Mi Thit) Main Page
+
+/* Meat Banh Mi Introduction 1 */
+"BanhMiMain.Introduction.1" = "##Bánh Mì Thịt## (meat sandwiches) are a very popular dish amongst street vendors in Vietnam. There are many versions of ##Bánh Mì Thịt## (meat sandwich); the traditional  ##Bánh Mì Thịt## (meat sandwich) is typically made of cold cuts along with mayonnaise or liver pâté, but ##Thịt Heo Nướng## (grilled pork) is also very popular.";
+
+/* Banh Mi Introduction 1 (VoiceOver) */
+"BanhMiMain.Introduction.1.Accessibility" = "Banh mi thit (meat sandwiches) are a very popular dish amongst street vendors in Vietnam. There are many versions of Banh mi thit (meat sandwich); the traditional  Banh mi thit (meat sandwich) is typically made of cold cuts along with mayonnaise or liver pâté, but grilled pork is also very popular.";
+
+/* Banh Mi Introduction 2 */
+"BanhMiMain.Introduction.2" = "What makes ##Bánh Mì Thịt## (meat sandwich) unique though is not just the meat and spread, but the iconic ##Đồ Chua## (pickled carrots and daikon). It gives ##Bánh Mì Thịt## (meat sandwich) a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make ##Bánh Mì Thịt## (meat sandwich) a great food item to be enjoyed any time of the day.";
+
+/* Banh Mi Introduction 2 (VoiceOver) */
+"BanhMiMain.Introduction.2.Accessibility" = "What makes banh mi unique though is not just the meat and spread, but the iconic pickled carrot and daikon. It gives banh mi a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make banh mi a great food item to be enjoyed any time of the day.";
+
+/* Banh Mi Introduction 3 */
+"BanhMiMain.Introduction.3" = "If you’re feeling adventurous, give all the variations a try!";
+
+/* Banh Mi Terminology 1 */
+"BanhMiMain.Terminology.1" = "The term ##Bánh Mì## is used to refer to both a sandwich and French baguette, so to avoid any ambiguity, the words ##Thịt## (meat) and ##Không## (no/not) can be added to the end of ##Bánh Mì## to mean ##Bánh Mì Thịt## (meat sandwich) or ##Bánh Mì Không## (baguette).";
+
+/* Banh Mi Terminology 1 (VoiceOver) */
+"BanhMiMain.Terminology.1.Accessibility" = "The term banh mi is used to refer to both a sandwich and French baguette, so to avoid any ambiguity, the words Tit (meat) and caomb (no/not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi caomb (baguette).";
+
+/* Banh Mi Terminology 2 */
+"BanhMiMain.Terminology.2" = "From here, the term ##Thịt## (meat) can be expanded further to specify the types of meat; for instance, ##Bánh Mì Thịt Heo Nướng## (grilled pork sandwich) with ##Heo## (pig) often being optional, ##Bánh Mì Thịt Bò Nướng## (grilled beef sandwich), ##Bánh Mì Lạp Xưởng Trứng## (Chinese sausage and egg sandwich), and ##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich).";
+
+/* Banh Mi Terminology 2 (VoiceOver) */
+"BanhMiMain.Terminology.2.Accessibility" = "From here, the term Thit (meat) can be expanded further to specify the types of meat; for instance,  Banh Mi Thit Heo Nuong (grilled pork sandwich) with Heo (pig) often being optional, Banh Mi Thit Bo Nuong (grilled beef sandwich), Banh Mi Lap Xuong Trung (Chinese sausage and egg sandwich), and Banh Mi Xiu Mai (Vietnamese meatball sandwich).";
+
+
+// MARK: Banh Mi Thit Nuong (Grilled Pork Banh Mi) Page
 
 /*
  Notes: Banh mi as a sandwhich has entered the english vocabulary, so we use it as is in the VoiceOver trnascriptions, but if your language does not have a word for this specific type of sandwhich, you should use the word for "sandwhich" in the VoiceOver trnascription instead.
