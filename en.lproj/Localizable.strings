@@ -121,13 +121,19 @@
  */
 
 /* Banh Mi Introduction 1 */
-"BanhMi.Introduction.1" = "##Bánh Mì## (sandwiches) are a very popular dish among the street vendors in Vietnam. There are many versions of ##Bánh Mì## (sandwich); the traditional ##Bánh Mì## (sandwich) is typically made with cold cuts along with mayo or liver pâté, but ##Thịt Nướng## (grilled pork) is also very popular. What makes ##Bánh Mì## (sandwich) unique though is not just the meat and spread, but the iconic ##Đồ Chua## (pickled carrot and daikon). It gives ##Bánh Mì## (sandwich) a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make ##Bánh Mì## (sandwich) a great food item to be enjoyed any time of the day.";
+"BanhMi.Introduction.1" = "##Bánh Mì Thịt Heo Nướng## (grilled pork sandwich) is a very popular sandwich that can be enjoyed any time. This recipe isn’t just limited to pork; chicken and beef will also work well.";
 
 /* Banh Mi Introduction 1 (VoiceOver) */
-"BanhMi.Introduction.1.Accessibility" = "Banh mi are a very popular dish among the street vendors in Vietnam. There are many versions of banh mi; the traditional banh mi is typically made with cold cuts along with mayo or liver pâté, but grilled pork is also very popular. What makes banh mi unique though is not just the meat and spread, but the iconic pickled carrot and daikon. It gives banh mi a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make banh mi a great food item to be enjoyed any time of the day.";
+"BanhMi.Introduction.1.Accessibility" = "Grilled pork sandwich is a very popular sandwich that can be enjoyed any time. This recipe isn’t just limited to pork; chicken and beef will also work well.";
 
 /* Banh Mi Introduction 2 */
 "BanhMi.Introduction.2" = "This recipe yields 1 sandwich.";
+
+/* Banh Mi Terminology 1 */
+"BanhMi.Terminology.1" = "The term ##Heo## (pig) in ##Thịt Heo Nướng## (grilled pork) is often dropped making it ##Thịt Nướng## (grilled pork). However, for ##Thịt Gà Nướng## (grilled chicken) or ##Thịt Bò Nướng## (grilled beef), chicken and beef cannot be dropped because then it would be ambiguous. I think this might be because ##Thịt Nướng## (grilled pork) is more popular than the other meats.";
+
+/* Banh Mi Terminology 1 (VoiceOver) */
+"BanhMi.Terminology.1.Accessibility" = "The term Heo (pig) in Thit Heo Nuong (grilled pork) is often dropped making it Thit Nuong (grilled pork). However, for Thit Ga Nuong (grilled chicken) or Thit Bo Nuong (grilled beef), chicken and beef cannot be dropped because then it would be too ambiguous. I think this might be because Thit Nuong (grilled pork) is more popular than the other meats.";
 
 /* Banh Mi Ingredients Baguette Amount */
 "BanhMi.Ingredients.Baguette.Amount.us" = "One 10-in long loaf";

@@ -122,13 +122,19 @@
  */
 
 /* Banh Mi Introduction 1 */
-"BanhMi.Introduction.1" = "##Bánh Mì## là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. ##Bánh Mì## có rất nhiều loại - thông thường là làm với thịt nguội và ##Sốt Mayo## hoặc pâté, nhưng ##Thịt Nướng## cũng rất là quan nghiên. Điều độc đáo của ##Bánh Mì## là sự ghép hợp của ##Đồ Chua## làm từ ##Cà Rốt## và ##Củ Cải Trắng##. ##Đồ Chua## tạo cho ##Bánh Mì## một hương vị ngọt ngào và thơm, cùng với ##Dưa Leo##, ##Ngò##, và ##Ớt##, ##Bánh Mì## là món ăn tuyệt vời có thể thưởng thức bất cứ lúc nào.";
+"BanhMi.Introduction.1" = "##Bánh Mì Thịt Heo Nướng## (grilled pork sandwich) là một món khai vị nổi tiếng. Món này không loại trừ thịt gà hoặc thịt bò.";
 
 /* Banh Mi Introduction 1 (VoiceOver) */
-"BanhMi.Introduction.1.Accessibility" = "Bánh Mì là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Bánh Mì có rất nhiều loại - thông thường là làm với thịt nguội và Sốt Mayo hoặc pâté, nhưng Thịt Nướng cũng rất là quan nghiên. Điều độc đáo của Bánh Mì là sự ghép hợp của Đồ Chua làm từ Cà Rốt và Củ Cải Trắng. Đồ Chua tạo cho Bánh Mì một hương vị ngọt ngào và thơm, cùng với Dưa Leo, Ngò, và Ớt, Bánh Mì là món ăn tuyệt vời có thể thưởng thức bất cứ lúc nào.";
+"BanhMi.Introduction.1.Accessibility" = "Bánh Mì Thịt Heo Nướng là một món khai vị nổi tiếng. Món này không loại trừ thịt gà hoặc thịt bò.";
 
 /* Banh Mi Introduction 2 */
 "BanhMi.Introduction.2" = "Công thức này làm một phần bánh mì.";
+
+/* Banh Mi Terminology 1 */
+"BanhMi.Terminology.1" = "The term ##Heo## (pig) in ##Thịt Heo Nướng## (grilled pork) is often dropped making it ##Thịt Nướng## (grilled pork). As for ##Thịt Gà Nướng## (grilled chicken) or ##Thịt Bò Nướng## (grilled beef), chicken and beef cannot be dropped because then it would be too confusing. I think this might be because ##Thịt Nướng## (grilled pork) is more popular than the other meats.";
+
+/* Banh Mi Terminology 1 (VoiceOver) */
+"BanhMi.Terminology.1.Accessibility" = "The term Heo (pig) in Thit Heo Nuong (grilled pork) is often dropped making it Thit Nuong (grilled pork). As for Thit Ga Nuong (grilled chicken) or Thit Bo Nuong (grilled beef), chicken and beef cannot be dropped because then it would be too confusing. I think this might be because Thit Nuong (grilled pork) is more popular than the other meats.";
 
 /* Banh Mi Ingredients Baguette Amount */
 "BanhMi.Ingredients.Baguette.Amount.us" = "một khúc khoảng 10 in";
