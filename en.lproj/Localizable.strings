@@ -5146,11 +5146,11 @@
 "Pickles.Ingredients.Sugar.AccessibilityAmount.metric" = "4 tablespoons";
 
 /* Pickles Ingredients Vinegar Amount */
-"Pickles.Ingredients.Vinegar.Amount.us" = "⅔ cups";
+"Pickles.Ingredients.Vinegar.Amount.us" = "⅓ cups";
 "Pickles.Ingredients.Vinegar.Amount.metric" = "80 mL";
 
 /* Pickles Ingredients Vinegar Amount (VoiceOver) */
-"Pickles.Ingredients.Vinegar.AccessibilityAmount.us" = "two thirds of a cup";
+"Pickles.Ingredients.Vinegar.AccessibilityAmount.us" = "one third of a cup";
 "Pickles.Ingredients.Vinegar.AccessibilityAmount.metric" = "80 milliliters";
 
 /* Pickles Ingredients Water Amount */

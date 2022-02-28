@@ -187,8 +187,8 @@
 "annattoOil.AccessibilityPageTitle" = "Annatto Oil";
 
 /* Pickled Carrot and Daikon */
-"pickles.Subtitle" = "Pickled Carrot and Daikon";
-"pickles.AccessibilityPageTitle" = "Pickled Carrot and Daikon";
+"pickledCarrotDaikon.Subtitle" = "Pickled Carrot and Daikon";
+"pickledCarrotDaikon.AccessibilityPageTitle" = "Pickled Carrot and Daikon";
 
 /* Scallion & Oil Garnish */
 "scallionsOil.Subtitle" = "Scallion & Oil Garnish";

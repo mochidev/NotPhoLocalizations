@@ -5207,11 +5207,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Pickles.Ingredients.Sugar.AccessibilityAmount.metric" = "4 muỗng canh";
 
 /* Pickles Ingredients Vinegar Amount */
-"Pickles.Ingredients.Vinegar.Amount.us" = "⅔ cups";
+"Pickles.Ingredients.Vinegar.Amount.us" = "⅓ cups";
 "Pickles.Ingredients.Vinegar.Amount.metric" = "80 mL";
 
 /* Pickles Ingredients Vinegar Amount (VoiceOver) */
-"Pickles.Ingredients.Vinegar.AccessibilityAmount.us" = "hai phần ba cốc";
+"Pickles.Ingredients.Vinegar.AccessibilityAmount.us" = "một phần ba cốc";
 "Pickles.Ingredients.Vinegar.AccessibilityAmount.metric" = "80 mi li lít";
 
 /* Pickles Ingredients Water Amount */

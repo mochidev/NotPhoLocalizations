@@ -227,9 +227,9 @@
 "annattoOil.AccessibilityPageTitle" = "Dầu Hạt Điều";
 
 /* Pickled Carrot and Daikon */
-"pickles.Subtitle" = "Pickled Carrot and Daikon";
-"pickles.AccessibilitySubtitle" = "Đồ Chua";
-"pickles.AccessibilityPageTitle" = "Đồ Chua";
+"pickledCarrotDaikon.Subtitle" = "Pickled Carrot and Daikon";
+"pickledCarrotDaikon.AccessibilitySubtitle" = "Đồ Chua";
+"pickledCarrotDaikon.AccessibilityPageTitle" = "Đồ Chua";
 
 /* Scallion & Oil Garnish */
 "scallionsOil.Subtitle" = "Scallion & Oil Garnish";
