@@ -254,6 +254,10 @@
 "tempuraBatter.Subtitle" = "Tempura Batter";
 "tempuraBatter.AccessibilityPageTitle" = "Tempura Batter";
 
+/* Pickled Shallots */
+"pickledShallots.Subtitle" = "Pickled Shallots";
+"pickledShallots.AccessibilityPageTitle" = "Pickled Shallots";
+
 
 // MARK: Ingredients Tab
 

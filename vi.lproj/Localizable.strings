@@ -15,6 +15,15 @@
 /* The Heading for Ingredients sections */
 "Heading.Ingredients" = "Nguyên Liệu";
 
+/* The Heading for All Dishes sections */
+"Heading.AllDishes" = "Món Ăn";
+
+/* The Heading for New and Updated sections */
+"Heading.NewAndUpdated" = "Món Ăn Mới";
+
+/* The Heading for All Recipes sections */
+"Heading.AllRecipes" = "Món Ăn";
+
 /* The Heading for Dipping Sauces sections */
 "Heading.DippingSauces" = "Nước Chấm";
 
@@ -5317,6 +5326,183 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 /* Pickles How To 3 (VoiceOver) */
 "Pickles.HowTo.3.Accessibility" = "Đổ bỏ nước trong Đồ Chua trước khi ăn.";
+
+
+// MARK: Pickled Shallots (Dua Hanh Tim) Page
+
+/* Pickled Shallots Introduction 1 */
+"PickledShallots.Introduction.1" = "##Dưa Hành Tím## (pickled shallots) is a tangy and spicy garnish that goes well with almost any meat dishes.";
+
+/* Pickled Shallots Introduction 1 (VoiceOver) */
+"PickledShallots.Introduction.1.Accessibility" = "pickled shallots is a tangy and spicy garnish that goes well with almost any meat dishes.";
+
+/* Pickled Shallots Ingredients Shallot Amount */
+"PickledShallots.Ingredients.Shallot.Amount.us" = "½ lb";
+"PickledShallots.Ingredients.Shallot.Amount.metric" = "200 g";
+
+/* Pickled Shallots Ingredients Shallot Amount (VoiceOver) */
+"PickledShallots.Ingredients.Shallot.AccessibilityAmount.us" = "Half a pound";
+"PickledShallots.Ingredients.Shallot.AccessibilityAmount.metric" = "200 grams";
+
+/* Pickled Shallots Ingredients Shallot Amount */
+"PickledShallots.Ingredients.Shallot.Amount.us" = "½ lb";
+"PickledShallots.Ingredients.Shallot.Amount.metric" = "200 g";
+
+/* Pickled Shallots Ingredients Shallot Amount (VoiceOver) */
+"PickledShallots.Ingredients.Shallot.AccessibilityAmount.us" = "Half a pound";
+"PickledShallots.Ingredients.Shallot.AccessibilityAmount.metric" = "200 grams";
+
+/* Pickled Shallots Ingredients White Vinegar Amount */
+"PickledShallots.Ingredients.WhiteVinegar.Amount.us" = "½ cup";
+"PickledShallots.Ingredients.WhiteVinegar.Amount.metric" = "100 mL";
+
+/* Pickled Shallots Ingredients White Vinegar Amount (VoiceOver) */
+"PickledShallots.Ingredients.WhiteVinegar.AccessibilityAmount.us" = "Half a cup";
+"PickledShallots.Ingredients.WhiteVinegar.AccessibilityAmount.metric" = "100 milliliters";
+
+/* Pickled Shallots Ingredients Water Amount */
+"PickledShallots.Ingredients.Water.Amount.us" = "⅔ cups";
+"PickledShallots.Ingredients.Water.Amount.metric" = "150 mL";
+
+/* Pickled Shallots Ingredients Water Amount (VoiceOver) */
+"PickledShallots.Ingredients.Water.AccessibilityAmount.us" = "Two third cups";
+"PickledShallots.Ingredients.Water.AccessibilityAmount.metric" = "150 milliliters";
+
+/* Pickled Shallots Ingredients Salt Amount */
+"PickledShallots.Ingredients.Salt.Amount.us" = "1 tbsp";
+"PickledShallots.Ingredients.Salt.Amount.metric" = "20 g";
+
+/* Pickled Shallots Ingredients Salt Amount (VoiceOver) */
+"PickledShallots.Ingredients.Salt.AccessibilityAmount.us" = "1 tablespoon";
+"PickledShallots.Ingredients.Salt.AccessibilityAmount.metric" = "20 grams";
+
+/* Pickled Shallots Ingredients Sugar Amount */
+"PickledShallots.Ingredients.Sugar.Amount.us" = "6½ tbsp";
+"PickledShallots.Ingredients.Sugar.Amount.metric" = "100 g";
+
+/* Pickled Shallots Ingredients Sugar Amount (VoiceOver) */
+"PickledShallots.Ingredients.Sugar.AccessibilityAmount.us" = "6 and a half tablespoons";
+"PickledShallots.Ingredients.Sugar.AccessibilityAmount.metric" = "100 grams";
+
+/* Pickled Shallots Instructions Step 1 Part 1 */
+"PickledShallots.Instructions.Step.1.Part.1" = "Prepare the ##Hành Tím## (shallots).";
+
+/* Pickled Shallots Instructions Step 1 Part 1 (VoiceOver) */
+"PickledShallots.Instructions.Step.1.Part.1.Accessibility" = "Prepare the shallots.";
+
+/* Pickled Shallots Instructions Step 1 Part 2 */
+"PickledShallots.Instructions.Step.1.Part.2" = "Peel and cut off the ends of the ##Hành Tím## (shallots).";
+
+/* Pickled Shallots Instructions Step 1 Part 2 (VoiceOver) */
+"PickledShallots.Instructions.Step.1.Part.2.Accessibility" = "Peel and cut off the ends of the shallots.";
+
+/* Pickled Shallots Instructions Step 1 Part 3 */
+"PickledShallots.Instructions.Step.1.Part.3" = "Wash and drain the ##Hành Tím## (shallots).";
+
+/* Pickled Shallots Instructions Step 1 Part 3 (VoiceOver) */
+"PickledShallots.Instructions.Step.1.Part.3.Accessibility" = "Wash and drain the shallots.";
+
+/* Pickled Shallots Instructions Step 1 Part 4 */
+"PickledShallots.Instructions.Step.1.Part.4" = "Cut each ##Hành Tím## (shallot) into small slices.";
+
+/* Pickled Shallots Instructions Step 1 Part 4 (VoiceOver) */
+"PickledShallots.Instructions.Step.1.Part.4.Accessibility" = "Cut each shallot into small slices.";
+
+/* Pickled Shallots Instructions Step 1 Part 5 */
+"PickledShallots.Instructions.Step.1.Part.5" = "In a cleaned glass jar, add the cut ##Hành Tím## (shallots).";
+
+/* Pickled Shallots Instructions Step 1 Part 5 (VoiceOver) */
+"PickledShallots.Instructions.Step.1.Part.5.Accessibility" = "In a cleaned glass jar, add the cut shallots.";
+
+/* Pickled Shallots Instructions Step 1 Note 1 */
+"PickledShallots.Instructions.Step.1.Note.1" = "Soaking the ##Hành Tím## (shallots) in hot water will soften the skin so they can be peeled easily.";
+
+/* Pickled Shallots Instructions Step 1 Note 1 (VoiceOver) */
+"PickledShallots.Instructions.Step.1.Note.1.Accessibility" = "Soaking the shallots in hot water will soften the skin so they can be peeled easily.";
+
+/* Pickled Shallots Instructions Step 1 Note 2 */
+"PickledShallots.Instructions.Step.1.Note.2" = "Depending on how large the ##Hành Tím## (shallots) are, you might need to cut them four or five times.";
+
+/* Pickled Shallots Instructions Step 1 Note 2 (VoiceOver) */
+"PickledShallots.Instructions.Step.1.Note.2.Accessibility" = "Depending on how large the shallots are, you might need to cut them four or five times.";
+
+/* Pickled Shallots Instructions Step 1 Note 3 */
+"PickledShallots.Instructions.Step.1.Note.3" = "The thinner the ##Hành Tím## (shallot) slices are the less spicy they will be.";
+
+/* Pickled Shallots Instructions Step 1 Note 3 (VoiceOver) */
+"PickledShallots.Instructions.Step.1.Note.3.Accessibility" = "The thinner the shallot slices are the less spicy they will be.";
+
+/* Pickled Shallots Instructions Step 2 Part 1 */
+"PickledShallots.Instructions.Step.2.Part.1" = "In a saucepan, mix the ##Giấm Trắng## (white vinegar), ##Nước## (water), ##Muối## (salt), and ##Đường## (sugar) together.";
+
+/* Pickled Shallots Instructions Step 2 Part 1 (VoiceOver) */
+"PickledShallots.Instructions.Step.2.Part.1.Accessibility" = "In a saucepan, mix the white vinegar, water, salt, and sugar together.";
+
+/* Pickled Shallots Instructions Step 2 Part 2 */
+"PickledShallots.Instructions.Step.2.Part.2" = "Cook until the liquid begin to simmer.";
+
+/* Pickled Shallots Instructions Step 2 Part 2 (VoiceOver) */
+"PickledShallots.Instructions.Step.2.Part.2.Accessibility" = "Cook until the liquid begin to simmer.";
+
+/* Pickled Shallots Instructions Step 3 Part 1 */
+"PickledShallots.Instructions.Step.3.Part.1" = "Pour the hot liquid into the glass jar containing the ##Hành Tím## (shallots).";
+
+/* Pickled Shallots Instructions Step 3 Part 1 (VoiceOver) */
+"PickledShallots.Instructions.Step.3.Part.1.Accessibility" = "Pour the hot liquid into the glass jar containing the shallots.";
+
+/* Pickled Shallots Instructions Step 3 Part 2 */
+"PickledShallots.Instructions.Step.3.Part.2" = "Let the jar sit with the lid cracked until its contents have cooled.";
+
+/* Pickled Shallots Instructions Step 3 Part 2 (VoiceOver) */
+"PickledShallots.Instructions.Step.3.Part.2.Accessibility" = "Let the jar sit with the lid cracked until its contents have cooled.";
+
+/* Pickled Shallots Instructions Step 3 Part 3 */
+"PickledShallots.Instructions.Step.3.Part.3" = "Seal the jar and refrigerate it for a couple days before eating.";
+
+/* Pickled Shallots Instructions Step 3 Part 3 (VoiceOver) */
+"PickledShallots.Instructions.Step.3.Part.3.Accessibility" = "Seal the jar and refrigerate it for a couple days before eating.";
+
+/* Pickled Shallots Instructions Step 3 Part 4 */
+"PickledShallots.Instructions.Step.3.Part.4" = "The longer you let the ##Hành Tím## (shallots) pickled, the stronger the flavor.";
+
+/* Pickled Shallots Instructions Step 3 Part 4 (VoiceOver) */
+"PickledShallots.Instructions.Step.3.Part.4.Accessibility" = "The longer you let the shallots pickled, the stronger the flavor.";
+
+/* Pickled Shallots Instructions Step 3 Part 5 */
+"PickledShallots.Instructions.Step.3.Part.5" = "Label and date your pickles so they don’t overstay their welcome in your refrigerator.";
+
+/* Pickled Shallots Instructions Step 3 Part 5 (VoiceOver) */
+"PickledShallots.Instructions.Step.3.Part.5.Accessibility" = "Label and date your pickles so they don’t overstay their welcome in your refrigerator.";
+
+/* Pickled Shallots Instructions Step 3 Note 1 */
+"PickledShallots.Instructions.Step.3.Note.1" = "The ##Dưa Hành Tím## (pickled shallots) should last 4-6 weeks in the refrigerator.";
+
+/* Pickled Shallots Instructions Step 3 Note 1 (VoiceOver) */
+"PickledShallots.Instructions.Step.3.Note.1.Accessibility" = "The pickled shallots should last 4-6 weeks in the refrigerator.";
+
+/* Pickled Shallots Instructions Step 3 Note 2 */
+"PickledShallots.Instructions.Step.3.Note.2" = "Always use a clean utensil every time you take the pickles out of the jar so you don’t contaminate the inside of the jar and its contents.";
+
+/* Pickled Shallots Instructions Step 3 Note 2 (VoiceOver) */
+"PickledShallots.Instructions.Step.3.Note.2.Accessibility" = "Always use a clean utensil every time you take the pickles out of the jar so you don’t contaminate the inside of the jar and its contents.";
+
+/* Pickled Shallots How To 1 */
+"PickledShallots.HowTo.1" = "##Dưa Hành Tím## (pickled shallots) are used as a garnish in many Vietnamese dishes.";
+
+/* Pickled Shallots How To 1 (VoiceOver) */
+"PickledShallots.HowTo.1.Accessibility" = "Pickled shallots are used as a garnish in many Vietnamese dishes.";
+
+/* Pickled Shallots How To 2 */
+"PickledShallots.HowTo.2" = "They are a great addition to greasy or fatty dishes.";
+
+/* Pickled Shallots How To 2 (VoiceOver) */
+"PickledShallots.HowTo.2.Accessibility" = "They are a great addition to greasy or fatty dishes.";
+
+/* Pickled Shallots How To 3 */
+"PickledShallots.HowTo.3" = "Try them in any of the ##Bánh Mì## variations along with the ##Đồ Chua## (pickled carrot and daikon).";
+
+/* Pickled Shallots How To 3 (VoiceOver) */
+"PickledShallots.HowTo.3.Accessibility" = "Try them in any of the Banh Mi variations along with the pickled carrot and daikon.";
 
 
 // MARK: Mo Hanh (Scallion and Oil Garnish) Page

@@ -311,6 +311,11 @@
 "tempuraBatter.AccessibilitySubtitle" = "Bột Chiên";
 "tempuraBatter.AccessibilityPageTitle" = "Bột Chiên";
 
+/* Pickled Shallots */
+"pickledShallots.Subtitle" = "Pickled Shallots";
+"pickledShallots.AccessibilitySubtitle" = "Dưa Hành Tím";
+"pickledShallots.AccessibilityPageTitle" = "Dưa Hành Tím";
+
 
 // MARK: Ingredients Tab
 
