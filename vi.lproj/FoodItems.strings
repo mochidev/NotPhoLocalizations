@@ -321,8 +321,8 @@
 
 /* Baguette */
 "baguette.Subtitle" = "Baguette";
-"baguette.AccessibilitySubtitle" = "Bánh Mì";
-"baguette.AccessibilityPageTitle" = "Bánh Mì";
+"baguette.AccessibilitySubtitle" = "Bánh Mì Không";
+"baguette.AccessibilityPageTitle" = "Bánh Mì Không";
 
 /* Carrot */
 "carrot.Subtitle" = "Carrot";

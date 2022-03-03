@@ -7179,16 +7179,28 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Ingredients.TabTitle" = "Nguyên Liệu";
 
 
-// MARK: Banh Mi - Ingredient (Baguette) Page
+// MARK: Banh Mi Khong - Ingredient (Baguette) Page
 
 /* Baguette Main Image (VoiceOver) */
 "Baguette.Main.Image" = "Thông tin.";
 
 /* Baguette Introduction */
-"Baguette.Introduction" = "##Bánh Mì## là làm từ lúa mì và là món giới thiệu đến Việt Nam từ nước Pháp. ##Bánh Mì## có thể dùng trong rất nhiều mối ở Việt Nam như là ##Bánh Mì Thịt Nướng##, ##Cà Ri Gà## và ##Bo Kho##. Trong tất cả món liên quan đến ##Bánh Mì## món mình thích nhất là ##Bánh Mì## chấm với ##Xì Dầu##. Có một lần mình sơ ý nghĩ là ##Nước Mắm## là ##Xì Dầu## khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+"Baguette.Introduction" = "##Bánh Mì Không## là làm từ lúa mì và là món giới thiệu đến Việt Nam từ nước Pháp. ##Bánh Mì Không## có thể dùng trong rất nhiều mối ở Việt Nam như là ##Bánh Mì Thịt Nướng##, ##Cà Ri Gà## và ##Bo Kho##. Trong tất cả món liên quan đến ##Bánh Mì## món mình thích nhất là ##Bánh Mì Không## chấm với ##Xì Dầu##. Có một lần mình sơ ý nghĩ là ##Nước Mắm## là ##Xì Dầu## khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
 
 /* Baguette Introduction (VoiceOver) */
-"Baguette.Introduction.Accessibility" = "Bánh Mì là làm từ lúa mì và là món giới thiệu đến Việt Nam từ nước Pháp. Bánh Mì có thể dùng trong rất nhiều mối ở Việt Nam như là Bánh Mì Thịt Nướng, Cà Ri Gà và Bo Kho (beef stew). Trong tất cả món liên quan đến Bánh Mì món mình thích nhất là Bánh Mì chấm với Xì Dầu. Có một lần mình sơ ý nghĩ là Nước Mắm là Xì Dầu khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+"Baguette.Introduction.Accessibility" = "Bánh Mì Không là làm từ lúa mì và là món giới thiệu đến Việt Nam từ nước Pháp. Bánh Mì Không có thể dùng trong rất nhiều mối ở Việt Nam như là Bánh Mì Thịt Nướng, Cà Ri Gà và Bo Kho (beef stew). Trong tất cả món liên quan đến Bánh Mì món mình thích nhất là Bánh Mì Không chấm với Xì Dầu. Có một lần mình sơ ý nghĩ là Nước Mắm là Xì Dầu khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+
+/* Baguette Introduction 2 */
+"Baguette.Introduction.2" = "Trong tất cả món liên quan đến ##Bánh Mì## món mình thích nhất là ##Bánh Mì Không## chấm với ##Xì Dầu##. Có một lần mình sơ ý nghĩ là ##Nước Mắm## là ##Xì Dầu## khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+
+/* Baguette Introduction 2 (VoiceOver) */
+"Baguette.Introduction.2.Accessibility" = " Trong tất cả món liên quan đến Bánh Mì món mình thích nhất là Bánh Mì Không chấm với Xì Dầu. Có một lần mình sơ ý nghĩ là Nước Mắm là Xì Dầu khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+
+/* Baguette Terminology */
+"Baguette.Terminology" = "The term ##Bánh Mì## is used to refer to both a sandwich and French baguette, so to avoid any ambiguity, the words ##Thịt## (meat) and ##Không## (no/not) can be added to the end of ##Bánh Mì## to mean ##Bánh Mì Thịt## (meat sandwich) or ##Bánh Mì Không## (baguette). Sometimes depending on the context, ##Bánh Mì## is enough to get the meaning across.";
+
+/* Baguette Terminology (VoiceOver) */
+"Baguette.Terminology.Accessibility" = "The term banh mi is used to refer to both a sandwich and French baguette, so to avoid any ambiguity, the words Tit (meat) and caomb (no/not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi caomb (baguette). Sometimes depending on the context, banh mi is enough to get the meaning across.";
 
 /* Baguette Tips Header */
 "Baguette.Tips.Header" = "Chú Ý";
