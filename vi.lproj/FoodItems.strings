@@ -203,6 +203,11 @@
 "hotPot.AccessibilitySubtitle" = "Lẩu";
 "hotPot.AccessibilityPageTitle" = "Lẩu";
 
+/* Vietnamese Meatballs */
+"meatballs.Subtitle" = "Vietnamese Meatballs";
+"meatballs.AccessibilitySubtitle" = "Xíu Mại";
+"meatballs.AccessibilityPageTitle" = "Xíu Mại";
+
 
 // MARK: Recipes Tab
 

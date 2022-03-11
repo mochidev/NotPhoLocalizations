@@ -4589,6 +4589,284 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "HotPot.HowTo.10" = "A unique thing that our Japanese friends enjoy is to dip the cooked meat in raw beaten up egg, so if you are comfortable with raw egg, please give it a try.";
 
 
+// MARK: Vietnamese Meatballs (Xiu Mai) Page
+
+/* Vietnamese Meatballs Introduction 1 */
+"Meatballs.Introduction.1" = "##Xíu Mại## is a juicy pork meatball that is cooked in a sweet and tangy tomato sauce. This dish is definitely inspired by the western-style meatball and has become a very popular item amongst the Vietnamese community. Although the term ##Xíu Mại## sounds very much like the Chinese ##shumai## (dim sum) and they share some similar ingredients, they are two different recipes and do taste different as well.";
+
+/* Vietnamese Meatballs Introduction 1 (VoiceOver) */
+"Meatballs.Introduction.1.Accessibility" = "Vietnamese meatball is a juicy pork meatball that is cooked in a sweet and tangy tomato sauce. This dish is definitely inspired by the western-style meatball and has become a very popular item amongst the Vietnamese community. Although the name for Vietnamese meatballs sounds very much like the Chinese shu-mai (dim sum) and they share some similar ingredients, they are two different recipes and do taste different as well.";
+
+/* Vietnamese Meatballs Introduction 2 */
+"Meatballs.Introduction.2" = "This recipe serves 2 portions.";
+
+/* Vietnamese Meatballs Ingredients */
+"Meatballs.Ingredients" = "The list of ingredients might seem large but they are mostly ingredients that you would already have at home.";
+
+/* Vietnamese Meatballs Ingredients Meatballs Header */
+"Meatballs.Ingredients.Meatballs.Header" = "Meatballs";
+
+/* Vietnamese Meatballs Ingredients Meatballs Ground Pork Amount */
+"Meatballs.Ingredients.Meatballs.GroundPork.Amount.us" = "½ lb";
+"Meatballs.Ingredients.Meatballs.GroundPork.Amount.metric" = "230 g";
+
+/* Vietnamese Meatballs Ingredients Meatballs Ground Pork Amount (VoiceOver) */
+"Meatballs.Ingredients.Meatballs.GroundPork.AccessibilityAmount.us" = "Half a pound";
+"Meatballs.Ingredients.Meatballs.GroundPork.AccessibilityAmount.metric" = "230 grams";
+
+/* Vietnamese Meatballs Ingredients Meatballs Jicama Amount */
+"Meatballs.Ingredients.Meatballs.Jicama.Amount" = "30 g";
+
+/* Vietnamese Meatballs Ingredients Meatballs Jicama Amount (VoiceOver) */
+"Meatballs.Ingredients.Meatballs.Jicama.AccessibilityAmount" = "30 grams";
+
+/* Vietnamese Meatballs Ingredients Meatballs Sweet Onion Amount */
+"Meatballs.Ingredients.Meatballs.SweetOnion.Amount" = "30 g";
+
+/* Vietnamese Meatballs Ingredients Meatballs Sweet Onion Amount (VoiceOver) */
+"Meatballs.Ingredients.Meatballs.Jicama.AccessibilityAmount" = "30 grams";
+
+/* Vietnamese Meatballs Ingredients Meatballs Garlic Amount */
+"Meatballs.Ingredients.Meatballs.Garlic.Amount.us" = "2-3 cloves";
+"Meatballs.Ingredients.Meatballs.Garlic.Amount.metric" = "1 tsp";
+
+/* Vietnamese Meatballs Ingredients Meatballs Garlic Amount (VoiceOver) */
+"Meatballs.Ingredients.Meatballs.Garlic.AccessibilityAmount.us" = "2-3 cloves";
+"Meatballs.Ingredients.Meatballs.Garlic.AccessibilityAmount.metric" = "1 teaspoon";
+
+/* Vietnamese Meatballs Ingredients Meatballs Egg Amount */
+"Meatballs.Ingredients.Meatballs.Egg.Amount.us" = "1 (large)";
+"Meatballs.Ingredients.Meatballs.Egg.Amount.metric" = "50 g";
+
+/* Vietnamese Meatballs Ingredients Meatballs Egg Amount (VoiceOver) */
+"Meatballs.Ingredients.Meatballs.Egg.AccessibilityAmount.us" = "1 large";
+"Meatballs.Ingredients.Meatballs.Egg.AccessibilityAmount.metric" = "50 grams";
+
+/* Vietnamese Meatballs Ingredients Meatballs Chicken Bouillon Amount */
+"Meatballs.Ingredients.Meatballs.ChickenBouillon.Amount" = "1 tsp";
+
+/* Vietnamese Meatballs Ingredients Meatballs Chicken Bouillon Amount (VoiceOver) */
+"Meatballs.Ingredients.Meatballs.ChickenBouillon.AccessibilityAmount" = "1 teaspoon";
+
+/* Vietnamese Meatballs Ingredients Meatballs Fish Sauce Amount */
+"Meatballs.Ingredients.Meatballs.FishSauce.Amount" = "1 tsp";
+
+/* Vietnamese Meatballs Ingredients Meatballs Fish Sauce Amount (VoiceOver) */
+"Meatballs.Ingredients.Meatballs.FishSauce.AccessibilityAmount" = "1 teaspoon";
+
+/* Vietnamese Meatballs Ingredients Meatballs Black Pepper Amount */
+"Meatballs.Ingredients.Meatballs.BlackPepper.Amount" = "¼ tsp";
+
+/* Vietnamese Meatballs Ingredients Meatballs Black Pepper Amount (VoiceOver) */
+"Meatballs.Ingredients.Meatballs.BlackPepper.AccessibilityAmount" = "one quarter teaspoon";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Header */
+"Meatballs.Ingredients.TomatoSauce.Header" = "Tomato Sauce";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Tomato Amount */
+"Meatballs.Ingredients.TomatoSauce.Tomato.Amount.us" = "2 (large)";
+"Meatballs.Ingredients.TomatoSauce.Tomato.Amount.metric" = "230-250 g";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Tomato Amount (VoiceOver) */
+"Meatballs.Ingredients.TomatoSauce.Tomato.AccessibilityAmount.us" = "2 large";
+"Meatballs.Ingredients.TomatoSauce.Tomato.AccessibilityAmount.metric" = "230 to 250 grams";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Tomato Paste Amount */
+"Meatballs.Ingredients.TomatoSauce.TomatoPaste.Amount" = "1 tbsp";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Tomato Paste Amount (VoiceOver) */
+"Meatballs.Ingredients.TomatoSauce.TomatoPaste.AccessibilityAmount" = "1 tablespoon";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Garlic Amount */
+"Meatballs.Ingredients.TomatoSauce.Garlic.Amount.us" = "2-3 cloves";
+"Meatballs.Ingredients.TomatoSauce.Garlic.Amount.metric" = "1 tsp";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Garlic Amount (VoiceOver) */
+"Meatballs.Ingredients.TomatoSauce.Garlic.AccessibilityAmount.us" = "2 to 3 cloves";
+"Meatballs.Ingredients.TomatoSauce.Garlic.AccessibilityAmount.metric" = "1 teaspoon";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Water Amount */
+"Meatballs.Ingredients.TomatoSauce.Water.Amount.us" = "1 cup";
+"Meatballs.Ingredients.TomatoSauce.Water.Amount.metric" = "240 ml";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Water Amount (VoiceOver) */
+"Meatballs.Ingredients.TomatoSauce.Water.AccessibilityAmount.us" = "1 cup";
+"Meatballs.Ingredients.TomatoSauce.Water.AccessibilityAmount.metric" = "240 milliliters";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Chicken Bouillon Amount */
+"Meatballs.Ingredients.TomatoSauce.ChickenBouillon.Amount" = "1 tsp";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Chicken Bouillon Amount (VoiceOver) */
+"Meatballs.Ingredients.TomatoSauce.ChickenBouillon.AccessibilityAmount" = "1 teaspoon";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Fish Sauce Amount */
+"Meatballs.Ingredients.TomatoSauce.FishSauce.Amount" = "1 tsp";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Fish Sauce Amount (VoiceOver) */
+"Meatballs.Ingredients.TomatoSauce.FishSauce.AccessibilityAmount" = "1 teaspoon";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Black Pepper Amount */
+"Meatballs.Ingredients.TomatoSauce.BlackPepper.Amount" = "¼ tsp";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Black Pepper Amount (VoiceOver) */
+"Meatballs.Ingredients.TomatoSauce.BlackPepper.AccessibilityAmount" = "one quarter teaspoon";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Oil Amount */
+"Meatballs.Ingredients.TomatoSauce.Oil.Amount" = "1 tsp";
+
+/* Vietnamese Meatballs Ingredients Tomato Sauce Oil Amount (VoiceOver) */
+"Meatballs.Ingredients.TomatoSauce.Oil.AccessibilityAmount" = "one teaspoon";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 1 */
+"Meatballs.Instructions.Step.1.Part.1" = "Prepare the meatballs.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 1 (VoiceOver) */
+"Meatballs.Instructions.Step.1.Part.1.Accessibility" = "Prepare the meatballs.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 2 */
+"Meatballs.Instructions.Step.1.Part.2" = "Peel and rinse the ##Củ Sắn## (jicama), then finely dice the ##Củ Sắn## (jicama).";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 2 (VoiceOver) */
+"Meatballs.Instructions.Step.1.Part.2.Accessibility" = "Peel and rinse the jicama, then finely dice the jicama.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 3 */
+"Meatballs.Instructions.Step.1.Part.3" = "Peel the ##Củ Hành## (sweet onion), then finely dice the ##Củ Hành## (sweet onion).";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 3 (VoiceOver) */
+"Meatballs.Instructions.Step.1.Part.3.Accessibility" = "Peel the sweet onion, then finely dice the sweet onion.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 4 */
+"Meatballs.Instructions.Step.1.Part.4" = "Peel, then minced the ##Tỏi## (garlic).";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 4 (VoiceOver) */
+"Meatballs.Instructions.Step.1.Part.4.Accessibility" = "Peel, then minced the garlic.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 5 */
+"Meatballs.Instructions.Step.1.Part.5" = "In a bowl, mix all the meatball ingredients together.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 5 (VoiceOver) */
+"Meatballs.Instructions.Step.1.Part.5.Accessibility" = "In a bowl, mix all the meatball ingredients together.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 6 */
+"Meatballs.Instructions.Step.1.Part.6" = "Divide up the meat mixture so they make 10 meatballs.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 6 (VoiceOver) */
+"Meatballs.Instructions.Step.1.Part.6.Accessibility" = "Divide up the meat mixture so they make 10 meatballs.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 7 */
+"Meatballs.Instructions.Step.1.Part.7" = "Set the meatballs aside.";
+
+/* Vietnamese Meatballs Instructions Step 1 Part 7 (VoiceOver) */
+"Meatballs.Instructions.Step.1.Part.7.Accessibility" = "Set the meatballs aside.";
+
+/* Vietnamese Meatballs Instructions Step 2 Part 1 */
+"Meatballs.Instructions.Step.2.Part.1" = "Prepare the tomato sauce.";
+
+/* Vietnamese Meatballs Instructions Step 2 Part 1 (VoiceOver) */
+"Meatballs.Instructions.Step.2.Part.1.Accessibility" = "Prepare the tomato sauce.";
+
+/* Vietnamese Meatballs Instructions Step 2 Part 2 */
+"Meatballs.Instructions.Step.2.Part.2" = "Wash the ##Cà Chua## (tomatoes), then dice them into small chunks.";
+
+/* Vietnamese Meatballs Instructions Step 2 Part 2 (VoiceOver) */
+"Meatballs.Instructions.Step.2.Part.2.Accessibility" = "Wash the tomatoes, then dice them into small chunks.";
+
+/* Vietnamese Meatballs Instructions Step 2 Part 3 */
+"Meatballs.Instructions.Step.2.Part.3" = "Peel, then minced the ##Tỏi## (garlic).";
+
+/* Vietnamese Meatballs Instructions Step 2 Part 3 (VoiceOver) */
+"Meatballs.Instructions.Step.2.Part.3.Accessibility" = "Peel, then minced the garlic.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 1 */
+"Meatballs.Instructions.Step.3.Part.1" = "Cook the meatballs with tomato sauce.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 1 (VoiceOver) */
+"Meatballs.Instructions.Step.3.Part.1.Accessibility" = "Cook the meatballs with tomato sauce.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 2 */
+"Meatballs.Instructions.Step.3.Part.2" = "In a medium heat wok/pan, add ##Dầu## (oil).";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 2 (VoiceOver) */
+"Meatballs.Instructions.Step.3.Part.2.Accessibility" = "In a medium heat wok/pan, add oil.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 3 */
+"Meatballs.Instructions.Step.3.Part.3" = "Add the minced ##Tỏi## (garlic), then sauté until they are lightly brown.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 3 (VoiceOver) */
+"Meatballs.Instructions.Step.3.Part.3.Accessibility" = "Add the minced garlic, then sauté until they are lightly brown.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 4 */
+"Meatballs.Instructions.Step.3.Part.4" = "Add the ##Cà Chua## (tomatoes) and ##Tương Cà Chua## (tomato paste).";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 4 (VoiceOver) */
+"Meatballs.Instructions.Step.3.Part.4.Accessibility" = "Add the tomato and tomato paste.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 5 */
+"Meatballs.Instructions.Step.3.Part.5" = "Add the ##Nước## (water) and stir until the ##Tương Cà Chua## (tomato paste) is dissolved.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 5 (VoiceOver) */
+"Meatballs.Instructions.Step.3.Part.5.Accessibility" = "Add the water and stir until the tomato paste is dissolved.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 6 */
+"Meatballs.Instructions.Step.3.Part.6" = "When the sauce starts to lightly boil, add the meatballs, then cover the wok/pan.";
+
+/* Vietnamese Meatballs Instructions Step 3 Part 6 (VoiceOver) */
+"Meatballs.Instructions.Step.3.Part.6.Accessibility" = "When the sauce starts to lightly boil, add the meatballs, then cover the wok/pan.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 1 */
+"Meatballs.Instructions.Step.4.Part.1" = "Reduce the heat to medium-low, and cook the meatballs for 5 minutes.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 1 (VoiceOver) */
+"Meatballs.Instructions.Step.4.Part.1.Accessibility" = "Reduce the heat to medium-low, and cook the meatballs for 5 minutes.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 2 */
+"Meatballs.Instructions.Step.4.Part.2" = "Uncover the pan, rotate the meatballs around to cook the other side.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 2 (VoiceOver) */
+"Meatballs.Instructions.Step.4.Part.2.Accessibility" = "Uncover the pan, rotate the meatballs around to cook the other side.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 3 */
+"Meatballs.Instructions.Step.4.Part.3" = "Cover the pan again, and cook the meatballs for another 5 minutes.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 3 (VoiceOver) */
+"Meatballs.Instructions.Step.4.Part.3.Accessibility" = "Cover the pan again, and cook the meatballs for another 5 minutes.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 4 */
+"Meatballs.Instructions.Step.4.Part.4" = "Uncover the pan, and give the meatballs and sauce a quick stir.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 4 (VoiceOver) */
+"Meatballs.Instructions.Step.4.Part.4.Accessibility" = "Uncover the pan, and give the meatballs and sauce a quick stir.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 5 */
+"Meatballs.Instructions.Step.4.Part.5" = "Add the rest of the tomato sauce seasonings.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 5 (VoiceOver) */
+"Meatballs.Instructions.Step.4.Part.5.Accessibility" = "Add the rest of the tomato sauce seasonings.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 6 */
+"Meatballs.Instructions.Step.4.Part.6" = "Gently stir everything together.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 6 (VoiceOver) */
+"Meatballs.Instructions.Step.4.Part.6.Accessibility" = "Gently stir everything together.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 7 */
+"Meatballs.Instructions.Step.4.Part.7" = "Plate the meatballs with tomato sauce and serve.";
+
+/* Vietnamese Meatballs Instructions Step 4 Part 7 (VoiceOver) */
+"Meatballs.Instructions.Step.4.Part.7.Accessibility" = "Plate the meatballs with tomato sauce and serve.";
+
+/* Vietnamese Meatballs How To 1 */
+"Meatballs.HowTo.1" = "Garnish the ##Xíu Mại## (Vietnamese meatballs) with some chopped spring onions and served them with a side of ##Bánh Mì Không## (baguette) or white rice.";
+
+/* Vietnamese Meatballs How To 1 (VoiceOver) */
+"Meatballs.HowTo.1.Accessibility" = "Garnish the Vietnamese meatballs with some chopped spring onions and served them with a side of baguette or white rice.";
+
+/* Vietnamese Meatballs How To 2 */
+"Meatballs.HowTo.2" = "Or, use the ##Xíu Mại## (Vietnamese meatballs) as the protein in a ##Bánh Mì Thịt## (meat sandwich).";
+
+/* Vietnamese Meatballs How To 2 (VoiceOver) */
+"Meatballs.HowTo.2.Accessibility" = "Or, use the Vietnamese meatballs as the protein in a sandwich.";
+
 // MARK: - # Recipes Tab:
 
 /* Recipes Tab Page Title */

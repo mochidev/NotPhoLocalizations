@@ -167,6 +167,10 @@
 "hotPot.Subtitle" = "Hot Pot";
 "hotPot.AccessibilityPageTitle" = "Hot Pot";
 
+/* Vietnamese Meatballs */
+"meatballs.Subtitle" = "Vietnamese Meatballs";
+"meatballs.AccessibilityPageTitle" = "Vietnamese Meatballs";
+
 
 // MARK: Recipes Tab
 
