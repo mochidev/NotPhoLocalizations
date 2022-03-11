@@ -4713,7 +4713,7 @@
 "EggRollsComponent.EggRollWrappers.Amount" = "1 pack";
 
 /* Egg Rolls Component Instructions Step 1 Part 1 */
-"EggRollsComponent.Instructions.Step.1.Part.1" = "Place the ##Thịt Băm## (ground pork) into a large bowl.";
+"EggRollsComponent.Instructions.Step.1.Part.1" = "Place the ##Thịt Xay## (ground pork) into a large bowl.";
 
 /* Egg Rolls Component Instructions Step 1 Part 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.1.Part.1.Accessibility" = "Place the ground pork into a large bowl.";
@@ -4915,7 +4915,7 @@
 "EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "2 to 3 teaspoons (optional)";
 
 /* Egg Meatloaf Instructions Step 1 Part 1 */
-"EggMeatloaf.Instructions.Step.1.Part.1" = "Place the ##Thịt Băm## (ground pork) into a bowl.";
+"EggMeatloaf.Instructions.Step.1.Part.1" = "Place the ##Thịt Xay## (ground pork) into a bowl.";
 
 /* Egg Meatloaf Instructions Step 1 Part 1 (VoiceOver) */
 "EggMeatloaf.Instructions.Step.1.Part.1.Accessibility" = "Place the ground pork into a bowl.";

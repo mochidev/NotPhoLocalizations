@@ -4772,10 +4772,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "EggRollsComponent.EggRollWrappers.Amount" = "1 gói";
 
 /* Egg Rolls Component Instructions Step 1 Part 1 */
-"EggRollsComponent.Instructions.Step.1.Part.1" = "Cho ##Thịt Bầm## (ground pork) vào tô.";
+"EggRollsComponent.Instructions.Step.1.Part.1" = "Cho ##Thịt Xay## (ground pork) vào tô.";
 
 /* Egg Rolls Component Instructions Step 1 Part 1 (VoiceOver) */
-"EggRollsComponent.Instructions.Step.1.Part.1.Accessibility" = "Cho Thịt Bầm vào tô.";
+"EggRollsComponent.Instructions.Step.1.Part.1.Accessibility" = "Cho Thịt Xay vào tô.";
 
 /* Egg Rolls Component Instructions Step 1 Part 2 */
 "EggRollsComponent.Instructions.Step.1.Part.2" = "Bầm nhiễn ##Tôm## (shrimp) và cho vào tô.";
@@ -4977,10 +4977,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "EggMeatloaf.Ingredients.AnnattoOil.AccessibilityAmount" = "2 đến 3 muỗng cà phê (tùy ý)";
 
 /* Egg Meatloaf Instructions Step 1 Part 1 */
-"EggMeatloaf.Instructions.Step.1.Part.1" = "Cho ##Thịt Băm## vào tô.";
+"EggMeatloaf.Instructions.Step.1.Part.1" = "Cho ##Thịt Xay## vào tô.";
 
 /* Egg Meatloaf Instructions Step 1 Part 1 (VoiceOver) */
-"EggMeatloaf.Instructions.Step.1.Part.1.Accessibility" = "Cho Thịt Băm vào tô.";
+"EggMeatloaf.Instructions.Step.1.Part.1.Accessibility" = "Cho Thịt Xay vào tô.";
 
 /* Egg Meatloaf Instructions Step 1 Part 2 */
 "EggMeatloaf.Instructions.Step.1.Part.2" = "Cắt nhỏ ##Củ Hành##, ##Nấm Mèo## và ##Bún Miến##.";
