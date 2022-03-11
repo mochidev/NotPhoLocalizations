@@ -371,7 +371,7 @@
 "Crepe.Instructions.Step.2.Part.1.Accessibility" = "Dùng chảo không dính để làm Bánh Xèo. Đầu tiên là mở lửa lên, nhiệt độ trung bình đến cao và cho một ít Dầu vào trên chảo.";
 
 /* Crepe Instructions Step 2 Part 2 */
-"Crepe.Instructions.Step.2.Part.2" = "Thêm ##Củ Hành## (onions) lát vào chảo và xào 10 tới 20 giây.";
+"Crepe.Instructions.Step.2.Part.2" = "Thêm ##Củ Hành## (sweet onions) lát vào chảo và xào 10 tới 20 giây.";
 
 /* Crepe Instructions Step 2 Part 2 (VoiceOver) */
 "Crepe.Instructions.Step.2.Part.2.Accessibility" = "Thêm Củ Hàn lát vào chảo và xào 10 tới 20 giây.";
@@ -1172,7 +1172,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpFriedRice.Ingredients.Oil.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Shrimp Fried Rice Instructions Step 1 Part 1 */
-"ShrimpFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+"ShrimpFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (sweet onion) thành từng lát.";
 
 /* Shrimp Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
 "ShrimpFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cắt Củ Hành thành từng lát.";
@@ -1202,7 +1202,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Cho một nửa dầu vào chảo ở nhiệt độ trung bình đến cao.";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 2 */
-"ShrimpFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Tôm## (shrimps), ##Củ Hành## (onion), và ##Bông Cải Xanh## (broccoli).";
+"ShrimpFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Tôm## (shrimps), ##Củ Hành## (sweet onion), và ##Bông Cải Xanh## (broccoli).";
 
 /* Shrimp Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
 "ShrimpFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Tôm, Củ Hành, và Bông Cải Xanh.";
@@ -1247,7 +1247,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShrimpFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
 
 /* Shrimp Fried Rice Instructions Step 4 Part 1 */
-"ShrimpFriedRice.Instructions.Step.4.Part.1" = "Cho ##Tôm## (shrimps), ##Củ Hành## (onion), và ##Bông Cải Xanh## (broccoli) vào chảo trở lại.";
+"ShrimpFriedRice.Instructions.Step.4.Part.1" = "Cho ##Tôm## (shrimps), ##Củ Hành## (sweet onion), và ##Bông Cải Xanh## (broccoli) vào chảo trở lại.";
 
 /* Shrimp Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
 "ShrimpFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Tôm, Củ Hành, và Bông Cải Xanh vào chảo trở lại.";
@@ -1364,7 +1364,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenFriedRice.Ingredients.Oil.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Chicken Fried Rice Instructions Step 1 Part 1 */
-"ChickenFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+"ChickenFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (sweet onion) thành từng lát.";
 
 /* Chicken Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
 "ChickenFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cắt Củ Hành thành từng lát.";
@@ -1400,7 +1400,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Cho một nửa dầu vào chảo ở nhiệt độ trung bình đến cao.";
 
 /* Chicken Fried Rice Instructions Step 2 Part 2 */
-"ChickenFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Thịt Gà## (chicken), ##Củ Hành## (onion), và ##Đậu Và Cà Rốt## (peas and carrots).";
+"ChickenFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Thịt Gà## (chicken), ##Củ Hành## (sweet onion), và ##Đậu Và Cà Rốt## (peas and carrots).";
 
 /* Chicken Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
 "ChickenFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Gà, Củ Hành, Đậu Và Cà Rốt.";
@@ -1445,7 +1445,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
 
 /* Chicken Fried Rice Instructions Step 4 Part 1 */
-"ChickenFriedRice.Instructions.Step.4.Part.1" = "Cho ##Thịt Gà## (chicken), ##Củ Hành## (onion), ##Đậu Và Cà Rốt## (peas and carrots) vào chảo trở lại";
+"ChickenFriedRice.Instructions.Step.4.Part.1" = "Cho ##Thịt Gà## (chicken), ##Củ Hành## (sweet onion), ##Đậu Và Cà Rốt## (peas and carrots) vào chảo trở lại";
 
 /* Chicken Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
 "ChickenFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Thịt Gà, Củ Hành, Đậu Và Cà Rốt vào chảo trở lại.";
@@ -1562,7 +1562,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BeefFriedRice.Ingredients.Oil.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Beef Fried Rice Instructions Step 1 Part 1 */
-"BeefFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+"BeefFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (sweet onion) thành từng lát.";
 
 /* Beef Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
 "BeefFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cắt Củ Hành thành từng lát.";
@@ -1592,7 +1592,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BeefFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Cho một nửa dầu vào chảo ở nhiệt độ trung bình đến cao.";
 
 /* Beef Fried Rice Instructions Step 2 Part 2 */
-"BeefFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Thịt Bò Phi-Lê## (filet mignon), ##Củ Hành## (onion), và ##Đậu Que## (green beans).";
+"BeefFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Thịt Bò Phi-Lê## (filet mignon), ##Củ Hành## (sweet onion), và ##Đậu Que## (green beans).";
 
 /* Beef Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
 "BeefFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Thịt Bò Phi-Lê, Củ Hành, và Đậu Que.";
@@ -1637,7 +1637,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BeefFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
 
 /* Beef Fried Rice Instructions Step 4 Part 1 */
-"BeefFriedRice.Instructions.Step.4.Part.1" = "Cho ##Thịt Bò Phi-Lê## (filet mignon), ##Củ Hành## (onion), và ##Đậu Que## (green beans) vào chảo trở lại";
+"BeefFriedRice.Instructions.Step.4.Part.1" = "Cho ##Thịt Bò Phi-Lê## (filet mignon), ##Củ Hành## (sweet onion), và ##Đậu Que## (green beans) vào chảo trở lại";
 
 /* Beef Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
 "BeefFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Thịt Bò Phi-Lê, Củ Hành, và Đậu Que vào chảo trở lại.";
@@ -1752,7 +1752,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChineseSausageFriedRice.Ingredients.Oil.AccessibilityAmount" = "2 muỗng cà phê";
 
 /* Chinese Sausage Fried Rice Instructions Step 1 Part 1 */
-"ChineseSausageFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+"ChineseSausageFriedRice.Instructions.Step.1.Part.1" = "Cắt ##Củ Hành## (sweet onion) thành từng lát.";
 
 /* Chinese Sausage Fried Rice Instructions Step 1 Part 1 (VoiceOver) */
 "ChineseSausageFriedRice.Instructions.Step.1.Part.1.Accessibility" = "Cắt Củ Hành thành từng lát.";
@@ -1788,7 +1788,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChineseSausageFriedRice.Instructions.Step.2.Part.1.Accessibility" = "Cho một nửa dầu vào chảo ở nhiệt độ trung bình đến cao.";
 
 /* Chinese Sausage Fried Rice Instructions Step 2 Part 2 */
-"ChineseSausageFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Lạp Xưởng## (Chinese sausage), ##Củ Hành## (onion), và ##Đậu Và Cà Rốt## (peas and carrots).";
+"ChineseSausageFriedRice.Instructions.Step.2.Part.2" = "Thêm ##Lạp Xưởng## (Chinese sausage), ##Củ Hành## (sweet onion), và ##Đậu Và Cà Rốt## (peas and carrots).";
 
 /* Chinese Sausage Fried Rice Instructions Step 2 Part 2 (VoiceOver) */
 "ChineseSausageFriedRice.Instructions.Step.2.Part.2.Accessibility" = "Thêm Lạp Xưởng, Củ Hành, Đậu Và Cà Rốt.";
@@ -1833,7 +1833,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChineseSausageFriedRice.Instructions.Step.3.Part.4.Accessibility" = "Xào cơm và trứng cho đến khi cơm mềm trở lại.";
 
 /* Chinese Sausage Fried Rice Instructions Step 4 Part 1 */
-"ChineseSausageFriedRice.Instructions.Step.4.Part.1" = "Cho ##Lạp Xưởng## (Chinese sausage), ##Củ Hành## (onion), ##Đậu Và Cà Rốt## (peas and carrots) vào chảo trở lại";
+"ChineseSausageFriedRice.Instructions.Step.4.Part.1" = "Cho ##Lạp Xưởng## (Chinese sausage), ##Củ Hành## (sweet onion), ##Đậu Và Cà Rốt## (peas and carrots) vào chảo trở lại";
 
 /* Chinese Sausage Fried Rice Instructions Step 4 Part 1 (VoiceOver) */
 "ChineseSausageFriedRice.Instructions.Step.4.Part.1.Accessibility" = "Cho Lạp Xưởng, Củ Hành, Đậu Và Cà Rốt vào chảo trở lại.";
@@ -2471,7 +2471,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.1.Accessibility" = "Cắt Ớt Chuông thành từng lát.";
 
 /* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 2 */
-"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.2" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.2" = "Cắt ##Củ Hành## (sweet onion) thành từng lát.";
 
 /* Pork Belly with Bell Pepper and Onion Instructions Step 1 Part 2 (Voiceover) */
 "PorkBellyWithBellPepperAndOnion.Instructions.Step.1.Part.2.Accessibility" = "Cắt Củ Hành thành từng lát.";
@@ -2501,13 +2501,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "PorkBellyWithBellPepperAndOnion.Instructions.Step.2.Part.3.Accessibility" = "Xào cho đến khi Thịt Ba Rọi gần chín.";
 
 /* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 1 */
-"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.1" = "Thêm ##Ớt Chuông## (bell pepper) và ##Củ Hành## (onion).";
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.1" = "Thêm ##Ớt Chuông## (bell pepper) và ##Củ Hành## (sweet onion).";
 
 /* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 1 (VoiceOver) */
 "PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.1.Accessibility" = "Thêm Ớt Chuông và Củ Hành.";
 
 /* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 2 */
-"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.2" = "Tiếp tục xào cho đến khi ##Thịt Ba Rọi## (pork belly) chín hoàn toàn và ##Ớt Chuông## (bell pepper) và ##Củ Hành## (onion) vừa ăn.";
+"PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.2" = "Tiếp tục xào cho đến khi ##Thịt Ba Rọi## (pork belly) chín hoàn toàn và ##Ớt Chuông## (bell pepper) và ##Củ Hành## (sweet onion) vừa ăn.";
 
 /* Pork Belly with Bell Pepper and Onion Instructions Step 3 Part 2 (VoiceOver) */
 "PorkBellyWithBellPepperAndOnion.Instructions.Step.3.Part.2.Accessibility" = "Tiếp tục xào cho đến khi Thịt Ba Rọi chín hoàn toàn và Ớt Chuông và Củ Hành vừa ăn.";
@@ -2692,7 +2692,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BeefPho.Instructions.Step.2.Part.1.Accessibility" = "Cho xương bò và thịt bò nạm vào một cái nồi sạch.";
 
 /* Beef Pho Instructions Step 2 Part 2 */
-"BeefPho.Instructions.Step.2.Part.2" = "Thêm ##Củ Hành## (onion), ##Gừng## (ginger) slices, vào ##Củ Cải Trắng## (daikon).";
+"BeefPho.Instructions.Step.2.Part.2" = "Thêm ##Củ Hành## (sweet onion), ##Gừng## (ginger) slices, vào ##Củ Cải Trắng## (daikon).";
 
 /* Beef Pho Instructions Step 2 Part 2 (VoiceOver) */
 "BeefPho.Instructions.Step.2.Part.2.Accessibility" = "Thêm Củ Hành, Gừng, và Củ Cải Trắng.";
@@ -2746,7 +2746,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BeefPho.Instructions.Step.2.Part.10.Accessibility" = "Nấu sôi liu riu và thêm Nước Mắm và Bột Ngọt.";
 
 /* Beef Pho Instructions Step 2 Note 1 */
-"BeefPho.Instructions.Step.2.Note.1" = "Để có hương vị đậm đà hơn, hãy nướng ##Củ Hành## (onion) và ##Gừng## (ginger).";
+"BeefPho.Instructions.Step.2.Note.1" = "Để có hương vị đậm đà hơn, hãy nướng ##Củ Hành## (sweet onion) và ##Gừng## (ginger).";
 
 /* Beef Pho Instructions Step 2 Note 1 (VoiceOver) */
 "BeefPho.Instructions.Step.2.Note.1.Accessibility" = "Để có hương vị đậm đà hơn, hãy nướng củ hành và gừng.";
@@ -2818,7 +2818,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "BeefPho.Instructions.Step.5.Part.2.Accessibility" = "Đặt các lát Thịt Bò lên trên Bánh Phở.";
 
 /* Beef Pho Instructions Step 5 Part 3 */
-"BeefPho.Instructions.Step.5.Part.3" = "Cho ##Củ Hành## (onion) lát và ##Ngò## (cilantro).";
+"BeefPho.Instructions.Step.5.Part.3" = "Cho ##Củ Hành## (sweet onion) lát và ##Ngò## (cilantro).";
 
 /* Beef Pho Instructions Step 5 Part 3 (VoiceOver) */
 "BeefPho.Instructions.Step.5.Part.3.Accessibility" = "Cho Củ Hành lát và Ngò.";
@@ -4511,7 +4511,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "HotPot.Instructions.Step.1.Part.1" = "Cook the broth in a decent sized pot that you plan to use as a hot pot until it boils.";
 
 /* Hot Pot Instructions Step 1 Part 2 */
-"HotPot.Instructions.Step.1.Part.2" = "Prepare the broth on your normal stove, and add some cut carrots, daikon, onions, and mushrooms to enhance the flavor of the broth.";
+"HotPot.Instructions.Step.1.Part.2" = "Prepare the broth on your normal stove, and add some cut carrots, daikon, sweet onions, and mushrooms to enhance the flavor of the broth.";
 
 /* Hot Pot Instructions Step 1 Part 3 */
 "HotPot.Instructions.Step.1.Part.3" = "Once the broth boils, move the entire pot over to a portable gas stove that you have set up on the dining table.";
@@ -4784,7 +4784,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "EggRollsComponent.Instructions.Step.1.Part.2.Accessibility" = "Bầm nhiễn Tôm và cho vào tô.";
 
 /* Egg Rolls Component Instructions Step 2 Part 1 */
-"EggRollsComponent.Instructions.Step.2.Part.1" = "Cắt nhỏ ##Củ Hành## (onion), ##Nấm Mèo## (dried wood ear mushrooms) và ##Bún Miến## (glass noodles).";
+"EggRollsComponent.Instructions.Step.2.Part.1" = "Cắt nhỏ ##Củ Hành## (sweet onion), ##Nấm Mèo## (dried wood ear mushrooms) và ##Bún Miến## (glass noodles).";
 
 /* Egg Rolls Component Instructions Step 2 Part 1 (VoiceOver) */
 "EggRollsComponent.Instructions.Step.2.Part.1.Accessibility" = "Cắt nhỏ Củ Hành, Nấm Mèo và Bún Miến.";
@@ -6088,7 +6088,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShakenBeefEntree.Instructions.Step.1.Part.1.Accessibility" = "Cắt thịt bò và ớt chuông thành miếng vừa ăn.";
 
 /* Shaken Beef Entree Instructions Step 1 Part 2 */
-"ShakenBeefEntree.Instructions.Step.1.Part.2" = "Cắt ##Củ Hành## (onion) thành từng lát.";
+"ShakenBeefEntree.Instructions.Step.1.Part.2" = "Cắt ##Củ Hành## (sweet sweet onion) thành từng lát.";
 
 /* Shaken Beef Entree Instructions Step 1 Part 2 (VoiceOver) */
 "ShakenBeefEntree.Instructions.Step.1.Part.2.Accessibility" = "Cắt hành tây thành từng lát.";
@@ -6112,13 +6112,13 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ShakenBeefEntree.Instructions.Step.1.Note.2.Accessibility" = "Tôi thấy rằng sử dụng Rượu Sake Nhật Bản sẽ làm tăng thêm độ đậm đà cho hương vị, nhưng bạn có thể dùng nước nếu không có Rượu Sake Nhật Bản.";
 
 /* Shaken Beef Entree Instructions Step 2 Part 1 */
-"ShakenBeefEntree.Instructions.Step.2.Part.1" = "Cho ##Dầu## (oil), ##Củ Hành## (onion) và ##Ớt Chuông## (bell pepper) vào chảo ở lửa vừa đến cao.";
+"ShakenBeefEntree.Instructions.Step.2.Part.1" = "Cho ##Dầu## (oil), ##Củ Hành## (sweet onion) và ##Ớt Chuông## (bell pepper) vào chảo ở lửa vừa đến cao.";
 
 /* Shaken Beef Entree Instructions Step 2 Part 1 (VoiceOver) */
 "ShakenBeefEntree.Instructions.Step.2.Part.1.Accessibility" = "Cho dầu, Củ Hành và ớt chuông vào chảo ở lửa vừa đến cao.";
 
 /* Shaken Beef Entree Instructions Step 2 Part 2 */
-"ShakenBeefEntree.Instructions.Step.2.Part.2" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi ##Củ Hành## (onion) và ##Ớt Chuông## (bell pepper) đủ chín.";
+"ShakenBeefEntree.Instructions.Step.2.Part.2" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi ##Củ Hành## (sweet onion) và ##Ớt Chuông## (bell pepper) đủ chín.";
 
 /* Shaken Beef Entree Instructions Step 2 Part 2 (VoiceOver) */
 "ShakenBeefEntree.Instructions.Step.2.Part.2.Accessibility" = "Xào khoảng 1 đến 2 phút hoặc cho đến khi Củ Hành và ớt chuông đủ chín.";
@@ -6658,7 +6658,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenCurryEntree.Instructions.Step.1.Part.2.Accessibility" = "Băm nhỏ Sả.";
 
 /* Chicken Curry Instructions Step 1 Part 3 */
-"ChickenCurryEntree.Instructions.Step.1.Part.3" = "Cắt ##Củ Hành## (onion) thành miếng vừa ăn.";
+"ChickenCurryEntree.Instructions.Step.1.Part.3" = "Cắt ##Củ Hành## (sweet onion) thành miếng vừa ăn.";
 
 /* Chicken Curry Instructions Step 1 Part 3 (VoiceOver) */
 "ChickenCurryEntree.Instructions.Step.1.Part.3.Accessibility" = "Cắt Củ Hành thành miếng vừa ăn.";
@@ -6730,7 +6730,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "ChickenCurryEntree.Instructions.Step.3.Part.3.Accessibility" = "Xào khoảng 2 đến 3 phút hoặc đến khi gà bắt đầu vàng.";
 
 /* Chicken Curry Instructions Step 4 Part 1 */
-"ChickenCurryEntree.Instructions.Step.4.Part.1" = "Thêm ##Củ Hành## (onion), ##Cà Rốt## (carrot), và ##Khoai Lang## (sweet potato).";
+"ChickenCurryEntree.Instructions.Step.4.Part.1" = "Thêm ##Củ Hành## (sweet onion), ##Cà Rốt## (carrot), và ##Khoai Lang## (sweet potato).";
 
 /* Chicken Curry Instructions Step 4 Part 1 (VoiceOver) */
 "ChickenCurryEntree.Instructions.Step.4.Part.1.Accessibility" = "Thêm Củ Hành, Cà Rốt và Khoai Lang.";
