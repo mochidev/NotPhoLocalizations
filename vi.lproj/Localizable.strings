@@ -129,32 +129,33 @@
 
 // MARK: Banh Mi (Banh Mi Thit) Main Page
 
-/* Banh Mi Introduction 1 */
-"BanhMiMain.Introduction.1" = "##Bánh Mì Thịt## (meat sandwiches) là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. ##Bánh Mì Thịt## có rất nhiều loại - thông thường là làm với thịt nguội và ##Sốt Mayo## (mayonnaise) hoặc pâté, nhưng ##Thịt Nướng## (grilled pork) cũng rất là quan nghiên.";
+/* Meat Banh Mi Introduction 1 */
+"BanhMiMain.Introduction.1" = "##Bánh Mì Thịt## (meat sandwiches) up a variety of popular dishes amongst street vendors in Vietnam. There are many versions of ##Bánh Mì Thịt## (meat sandwich); the traditional ##Bánh Mì Thịt## (meat sandwich) is typically made of cold cuts along with mayonnaise or liver pâté, but ##Thịt Heo Nướng## (grilled pork) is also very popular.";
 
 /* Banh Mi Introduction 1 (VoiceOver) */
-"BanhMiMain.Introduction.1.Accessibility" = "Bánh Mì Thịt là một món ăn rất nổi tiếng trên đường phố ở Việt Nam. Bánh Mì Thịt có rất nhiều loại - thông thường là làm với thịt nguội và Sốt Mayo hoặc pâté, nhưng Thịt Nướng cũng rất là quan nghiên.";
+"BanhMiMain.Introduction.1.Accessibility" = "Banh mi thit (meat sandwiches) up a variety of popular dishes amongst street vendors in Vietnam. There are many versions of Banh mi thit (meat sandwich); the traditional Banh mi thit (meat sandwich) is typically made of cold cuts along with mayonnaise or liver pâté, but grilled pork is also very popular.";
 
 /* Banh Mi Introduction 2 */
-"BanhMiMain.Introduction.2" = "Điều độc đáo của ##Bánh Mì Thịt## là sự ghép hợp của ##Đồ Chua## (pickled carrots and daikon) làm từ ##Cà Rốt## (carrot) và ##Củ Cải Trắng## (daikon). ##Đồ Chua## tạo cho ##Bánh Mì Thịt## một hương vị ngọt ngào và thơm, cùng với ##Dưa Leo## (cucumber), ##Ngò## (cilantro), và ##Ớt## (jalapeno), ##Bánh Mì Thịt## là món ăn tuyệt vời có thể thưởng thức bất cứ lúc nào.";
+"BanhMiMain.Introduction.2" = "What makes ##Bánh Mì Thịt## (meat sandwich) unique though is not just the meat and spread, but the iconic ##Đồ Chua## (pickled carrots and daikon). It gives ##Bánh Mì Thịt## (meat sandwich) a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make ##Bánh Mì Thịt## (meat sandwich) a great food item to be enjoyed any time of the day.";
 
 /* Banh Mi Introduction 2 (VoiceOver) */
-"BanhMiMain.Introduction.2.Accessibility" = "Điều độc đáo của Bánh Mì là sự ghép hợp của ##Đồ Chua## (pickled carrots and daikon)  làm từ Cà Rố và Củ Cải Trắng. Đồ Chua tạo cho Bánh Mì Thịt một hương vị ngọt ngào và thơm, cùng với Dưa Leo, Ngò, và Ớt, Bánh Mì Thị là món ăn tuyệt vời có thể thưởng thức bất cứ lúc nào.";
+"BanhMiMain.Introduction.2.Accessibility" = "What makes banh mi unique though is not just the meat and spread, but the iconic pickled carrot and daikon. It gives banh mi a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make banh mi a great food item to be enjoyed any time of the day.";
 
 /* Banh Mi Introduction 3 */
-"BanhMiMain.Introduction.3" = "Nếu bạn cảm thấy hiếu kỳ thì nên thử tất cả các biến thể!";
+"BanhMiMain.Introduction.3" = "If you’re feeling adventurous, give all the variations a try!";
 
 /* Banh Mi Terminology 1 */
-"BanhMiMain.Terminology.1" = "The term ##Bánh Mì## is used to refer to both sandwich and French baguette, so to avoid any ambiguity, the words ##Thịt## (meat) and ##Không## (no/not) can be added to the end of ##Bánh Mì## to mean ##Bánh Mì Thịt## (meat sandwich) or ##Bánh Mì Không## (baguette).";
+"BanhMiMain.Terminology.1" = "The term ##Bánh Mì## refers to both a sandwich and a plain baguette, so to avoid any ambiguity, the word ##Thịt## (meat) or ##Không## (no/not) can be added to the end of ##Bánh Mì## to mean ##Bánh Mì Thịt## (meat sandwich) or ##Bánh Mì Không## (baguette).";
 
 /* Banh Mi Terminology 1 (VoiceOver) */
-"BanhMiMain.Terminology.1.Accessibility" = "The term banh mi is used to refer to both sandwich and French baguette, so to avoid any ambiguity, the words Thit (meat) and khong (no/not) can be added to the end of banh mi to mean banh mi thit (meat sandwich) or banh mi khong (baguette).";
+"BanhMiMain.Terminology.1.Accessibility" = "The term banh mi refers to both a sandwich and a plain baguette, so to avoid any ambiguity, the word Tit (meat) or caomb (no/not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi caomb (baguette).";
 
 /* Banh Mi Terminology 2 */
-"BanhMiMain.Terminology.2" = "From here, the term ##Thịt## (meat) can be expanded further to specify the types of meat, for instance,  ##Bánh Mì Thịt Heo Nướng## (grilled pork sandwich) with ##Heo## (pig) often being optional, ##Bánh Mì Thịt Bò Nướng## (grilled beef sandwich), ##Bánh Mì Lạp Xưởng Trứng## (Chinese sausage and egg sandwich), and ##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich).";
+"BanhMiMain.Terminology.2" = "Most specifically, the term ##Thịt## (meat) can be expanded further to specify the type of meat; for instance, ##Bánh Mì Thịt Heo Nướng## (grilled pork sandwich) with ##Heo## (pig) often being optional, ##Bánh Mì Thịt Bò Nướng## (grilled beef sandwich), ##Bánh Mì Lạp Xưởng Trứng## (Chinese sausage and egg sandwich), and ##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich).";
 
 /* Banh Mi Terminology 2 (VoiceOver) */
-"BanhMiMain.Terminology.2.Accessibility" = "From here, the term Thit (meat) can be expanded further to specify the types of meat, for instance,  Banh Mi Thit Heo Nuong (grilled pork sandwich) with Heo (pig) often being optional, Banh Mi Thit Bo Nuong (grilled beef sandwich), Banh Mi Lap Xuong Trung (Chinese sausage and egg sandwich), and Banh Mi Xiu Mai (Vietnamese meatball sandwich).";
+"BanhMiMain.Terminology.2.Accessibility" = "Most specifically, the term Thit (meat) can be expanded further to specify the type of meat; for instance,  Banh Mi Thit Heo Nuong (grilled pork sandwich) with Heo (pig) often being optional, Banh Mi Thit Bo Nuong (grilled beef sandwich), Banh Mi Lap Xuong Trung (Chinese sausage and egg sandwich), and Banh Mi Xiu Mai (Vietnamese meatball sandwich).";
+
 
 // MARK: Banh Mi Thit Heo Nuong (Grilled Pork Banh Mi) Page
 
@@ -172,10 +173,10 @@
 "BanhMi.Introduction.2" = "Công thức này làm một phần bánh mì.";
 
 /* Banh Mi Terminology 1 */
-"BanhMi.Terminology.1" = "The term ##Heo## (pig) in ##Thịt Heo Nướng## (grilled pork) is often dropped making it ##Thịt Nướng## (grilled pork). As for ##Thịt Gà Nướng## (grilled chicken) or ##Thịt Bò Nướng## (grilled beef), chicken and beef cannot be dropped because then it would be too confusing. I think this might be because ##Thịt Nướng## (grilled pork) is more popular than the other meats.";
+"BanhMi.Terminology.1" = "The term ##Heo## (pig) in ##Thịt Heo Nướng## (grilled pork) is often dropped making it ##Thịt Nướng## (grilled pork). However, for ##Thịt Gà Nướng## (grilled chicken) or ##Thịt Bò Nướng## (grilled beef), chicken and beef cannot be dropped because it would become ambiguous. I think this might be because ##Thịt Nướng## (grilled pork) is more popular than the other variations.";
 
 /* Banh Mi Terminology 1 (VoiceOver) */
-"BanhMi.Terminology.1.Accessibility" = "The term Heo (pig) in Thit Heo Nuong (grilled pork) is often dropped making it Thit Nuong (grilled pork). As for Thit Ga Nuong (grilled chicken) or Thit Bo Nuong (grilled beef), chicken and beef cannot be dropped because then it would be too confusing. I think this might be because Thit Nuong (grilled pork) is more popular than the other meats.";
+"BanhMi.Terminology.1.Accessibility" = "The term Heo (pig) in Thit Heo Nuong (grilled pork) is often dropped making it Thit Nuong (grilled pork). However, for Thit Ga Nuong (grilled chicken) or Thit Bo Nuong (grilled beef), chicken and beef cannot be dropped because it would become ambiguous. I think this might be because Thit Nuong (grilled pork) is more popular than the other variations.";
 
 /* Banh Mi Ingredients Baguette Amount */
 "BanhMi.Ingredients.Baguette.Amount.us" = "một khúc khoảng 10 in";
@@ -7462,23 +7463,23 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* Baguette Main Image (VoiceOver) */
 "Baguette.Main.Image" = "Thông tin.";
 
-/* Baguette Introduction */
-"Baguette.Introduction" = "##Bánh Mì Không## là làm từ lúa mì và là món giới thiệu đến Việt Nam từ nước Pháp. ##Bánh Mì Không## có thể dùng trong rất nhiều mối ở Việt Nam như là ##Bánh Mì Thịt Nướng##, ##Cà Ri Gà## và ##Bo Kho##. Trong tất cả món liên quan đến ##Bánh Mì## món mình thích nhất là ##Bánh Mì Không## chấm với ##Xì Dầu##. Có một lần mình sơ ý nghĩ là ##Nước Mắm## là ##Xì Dầu## khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+/* Baguette Introduction 1 */
+"Baguette.Introduction.1" = "##Bánh Mì Không## (baguette) means bread made from wheat; but we all know it as a French baguette. However, the crust tends to be a bit softer than the French baguette that you may find at your local supermarket. It was introduced to Vietnam when Vietnam was part of French Indochina. ##Bánh Mì Không## (baguette) is a staple food and is used in several other dishes, like ##Bánh Mì Thịt Heo Nướng## (grilled pork sandwich), ##Cà Ri Gà## (chicken curry), and ##Bo Kho## (beef stew).";
 
-/* Baguette Introduction (VoiceOver) */
-"Baguette.Introduction.Accessibility" = "Bánh Mì Không là làm từ lúa mì và là món giới thiệu đến Việt Nam từ nước Pháp. Bánh Mì Không có thể dùng trong rất nhiều mối ở Việt Nam như là Bánh Mì Thịt Nướng, Cà Ri Gà và Bo Kho (beef stew). Trong tất cả món liên quan đến Bánh Mì món mình thích nhất là Bánh Mì Không chấm với Xì Dầu. Có một lần mình sơ ý nghĩ là Nước Mắm là Xì Dầu khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+/* Baguette Introduction 1 (VoiceOver) */
+"Baguette.Introduction.1.Accessibility" = "A baguette is a type of French bread made from wheat that was introduced to Vietnam when Vietnam was part of French Indochina. However, the crust tends to be a bit softer than the French baguette that you may find at your local supermarket. Baguette is a staple food and is used in several other dishes, like grilled pork sandwich, chicken curry, and beef stew.";
 
 /* Baguette Introduction 2 */
-"Baguette.Introduction.2" = "Trong tất cả món liên quan đến ##Bánh Mì## món mình thích nhất là ##Bánh Mì Không## chấm với ##Xì Dầu##. Có một lần mình sơ ý nghĩ là ##Nước Mắm## là ##Xì Dầu## khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+"Baguette.Introduction.2" = "Of all these delicious dishes, my favorite and go to snack is soy sauce on a piece of toasted ##Bánh Mì Không## (baguette) — though one time, I mistook fish sauce (that happened to be in a soy sauce-labeled bottle) for soy sauce and the outcome was not very pleasant.";
 
 /* Baguette Introduction 2 (VoiceOver) */
-"Baguette.Introduction.2.Accessibility" = " Trong tất cả món liên quan đến Bánh Mì món mình thích nhất là Bánh Mì Không chấm với Xì Dầu. Có một lần mình sơ ý nghĩ là Nước Mắm là Xì Dầu khi ăn vô rồi mới biết là không phải kinh nghiệm đó thật đáng sợ.";
+"Baguette.Introduction.2.Accessibility" = "Of all these delicious dishes, my favorite and go to snack is soy sauce on a piece of toasted baguette — though one time, I mistook fish sauce (that happened to be in a soy sauce-labeled bottle) for soy sauce and the outcome was not very pleasant.";
 
 /* Baguette Terminology */
-"Baguette.Terminology" = "The term ##Bánh Mì## is used to refer to both a sandwich and French baguette, so to avoid any ambiguity, the words ##Thịt## (meat) and ##Không## (no/not) can be added to the end of ##Bánh Mì## to mean ##Bánh Mì Thịt## (meat sandwich) or ##Bánh Mì Không## (baguette). Sometimes depending on the context, ##Bánh Mì## is enough to get the meaning across.";
+"Baguette.Terminology" = "The term ##Bánh Mì## refers to both a sandwich and French baguette, so to avoid any ambiguity, the words ##Thịt## (meat) and ##Không## (no/not) can be added to the end of ##Bánh Mì## to mean ##Bánh Mì Thịt## (meat sandwich) or ##Bánh Mì Không## (baguette). Sometimes depending on the context, ##Bánh Mì## is enough to get the meaning across.";
 
 /* Baguette Terminology (VoiceOver) */
-"Baguette.Terminology.Accessibility" = "The term banh mi is used to refer to both a sandwich and French baguette, so to avoid any ambiguity, the words Tit (meat) and caomb (no/not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi caomb (baguette). Sometimes depending on the context, banh mi is enough to get the meaning across.";
+"Baguette.Terminology.Accessibility" = "The term banh mi refers to both a sandwich and French baguette, so to avoid any ambiguity, the words Tit (meat) and caomb (no/not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi caomb (baguette). Sometimes depending on the context, banh mi is enough to get the meaning across.";
 
 /* Baguette Tips Header */
 "Baguette.Tips.Header" = "Chú Ý";
