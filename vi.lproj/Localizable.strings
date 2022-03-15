@@ -4592,14 +4592,21 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 
 // MARK: Vietnamese Meatballs (Xiu Mai) Page
 
+
 /* Vietnamese Meatballs Introduction 1 */
-"Meatballs.Introduction.1" = "##Xíu Mại## is a juicy pork meatball that is cooked in a sweet and tangy tomato sauce. This dish is definitely inspired by the western-style meatball and has become a very popular item amongst the Vietnamese community. Although the term ##Xíu Mại## sounds very much like the Chinese ##shumai## (dim sum) and they share some similar ingredients, they are two different recipes and do taste different as well.";
+"Meatballs.Introduction.1" = "##Xíu Mại## is a juicy pork meatball that is cooked in a sweet and tangy tomato sauce. This dish is definitely inspired by the western-style meatball and has become a very popular item amongst the Vietnamese community.";
 
 /* Vietnamese Meatballs Introduction 1 (VoiceOver) */
-"Meatballs.Introduction.1.Accessibility" = "Vietnamese meatball is a juicy pork meatball that is cooked in a sweet and tangy tomato sauce. This dish is definitely inspired by the western-style meatball and has become a very popular item amongst the Vietnamese community. Although the name for Vietnamese meatballs sounds very much like the Chinese shu-mai (dim sum) and they share some similar ingredients, they are two different recipes and do taste different as well.";
+"Meatballs.Introduction.1.Accessibility" = "Vietnamese meatball is a juicy pork meatball that is cooked in a sweet and tangy tomato sauce. This dish is definitely inspired by the western-style meatball and has become a very popular item amongst the Vietnamese community.";
 
 /* Vietnamese Meatballs Introduction 2 */
-"Meatballs.Introduction.2" = "This recipe serves 2 portions.";
+"Meatballs.Introduction.2" = "Although the term ##Xíu Mại## sounds very much like the Chinese ##shumai## (dim sum) and they share some similar ingredients, they are two different recipes and do taste different as well.";
+
+/* Vietnamese Meatballs Introduction 2 (VoiceOver) */
+"Meatballs.Introduction.2.Accessibility" = "Although the term siu-mai sounds very much like the Chinese shu-mai (dim sum) and they share some similar ingredients, they are two different recipes and do taste different as well.";
+
+/* Vietnamese Meatballs Introduction 3 */
+"Meatballs.Introduction.3" = "This recipe serves 2 portions.";
 
 /* Vietnamese Meatballs Ingredients */
 "Meatballs.Ingredients" = "The list of ingredients might seem large but they are mostly ingredients that you would already have at home.";
