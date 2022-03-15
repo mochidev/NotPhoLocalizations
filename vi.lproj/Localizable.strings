@@ -148,7 +148,7 @@
 "BanhMiMain.Terminology.1" = "The term ##Bánh Mì## refers to both a sandwich and a plain baguette, so to avoid any ambiguity, the word ##Thịt## (meat) or ##Không## (no/not) can be added to the end of ##Bánh Mì## to mean ##Bánh Mì Thịt## (meat sandwich) or ##Bánh Mì Không## (baguette).";
 
 /* Banh Mi Terminology 1 (VoiceOver) */
-"BanhMiMain.Terminology.1.Accessibility" = "The term banh mi refers to both a sandwich and a plain baguette, so to avoid any ambiguity, the word Tit (meat) or caomb (no/not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi caomb (baguette).";
+"BanhMiMain.Terminology.1.Accessibility" = "The term banh mi refers to both a sandwich and a plain baguette, so to avoid any ambiguity, the word Tit (meat) or kong (no or not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi kong (baguette).";
 
 /* Banh Mi Terminology 2 */
 "BanhMiMain.Terminology.2" = "Most specifically, the term ##Thịt## (meat) can be expanded further to specify the type of meat; for instance, ##Bánh Mì Thịt Heo Nướng## (grilled pork sandwich) with ##Heo## (pig) often being optional, ##Bánh Mì Thịt Bò Nướng## (grilled beef sandwich), ##Bánh Mì Lạp Xưởng Trứng## (Chinese sausage and egg sandwich), and ##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich).";
@@ -4603,7 +4603,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Meatballs.Introduction.2" = "Although the term ##Xíu Mại## sounds very much like the Chinese ##shumai## (dim sum) and they share some similar ingredients, they are two different recipes and do taste different as well.";
 
 /* Vietnamese Meatballs Introduction 2 (VoiceOver) */
-"Meatballs.Introduction.2.Accessibility" = "Although the term siu-mai sounds very much like the Chinese shu-mai (dim sum) and they share some similar ingredients, they are two different recipes and do taste different as well.";
+"Meatballs.Introduction.2.Accessibility" = "Although the term xiumai sounds very much like the Chinese shumai (dim sum) and they share some similar ingredients, they are two different recipes and do taste different as well.";
 
 /* Vietnamese Meatballs Introduction 3 */
 "Meatballs.Introduction.3" = "This recipe serves 2 portions.";
@@ -7486,7 +7486,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Baguette.Terminology" = "The term ##Bánh Mì## refers to both a sandwich and French baguette, so to avoid any ambiguity, the words ##Thịt## (meat) and ##Không## (no/not) can be added to the end of ##Bánh Mì## to mean ##Bánh Mì Thịt## (meat sandwich) or ##Bánh Mì Không## (baguette). Sometimes depending on the context, ##Bánh Mì## is enough to get the meaning across.";
 
 /* Baguette Terminology (VoiceOver) */
-"Baguette.Terminology.Accessibility" = "The term banh mi refers to both a sandwich and French baguette, so to avoid any ambiguity, the words Tit (meat) and caomb (no/not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi caomb (baguette). Sometimes depending on the context, banh mi is enough to get the meaning across.";
+"Baguette.Terminology.Accessibility" = "The term banh mi refers to both a sandwich and French baguette, so to avoid any ambiguity, the words Tit (meat) and kong (no/not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi kong (baguette). Sometimes depending on the context, banh mi is enough to get the meaning across.";
 
 /* Baguette Tips Header */
 "Baguette.Tips.Header" = "Chú Ý";
