@@ -28,6 +28,11 @@
 "grilledPorkBanhMi.AccessibilitySubtitle" = "Bánh Mì Thịt Heo Nướng";
 "grilledPorkBanhMi.AccessibilityPageTitle" = "Bánh Mì Thịt Heo Nướng";
 
+/* Vietnamese Meatball Sandwich */
+"meatballBanhMi.Subtitle" = "Vietnamese Meatball Sandwich";
+"meatballBanhMi.AccessibilitySubtitle" = "Bánh Mì Xíu Mại";
+"meatballBanhMi.AccessibilityPageTitle" = "Bánh Mì Xíu Mại";
+
 /* Vietnamese Crepes */
 "crepe.Subtitle" = "Vietnamese Crêpes";
 "crepe.AccessibilitySubtitle" = "Bánh Xèo";

@@ -129,31 +129,31 @@
 
 // MARK: Banh Mi (Banh Mi Thit) Main Page
 
-/* Meat Banh Mi Introduction 1 */
+/* Meat Banh Mi Main Introduction 1 */
 "BanhMiMain.Introduction.1" = "##Bánh Mì Thịt## (meat sandwiches) up a variety of popular dishes amongst street vendors in Vietnam. There are many versions of ##Bánh Mì Thịt## (meat sandwich); the traditional ##Bánh Mì Thịt## (meat sandwich) is typically made of cold cuts along with mayonnaise or liver pâté, but ##Thịt Heo Nướng## (grilled pork) is also very popular.";
 
-/* Banh Mi Introduction 1 (VoiceOver) */
+/* Banh Mi Main Introduction 1 (VoiceOver) */
 "BanhMiMain.Introduction.1.Accessibility" = "Banh mi thit (meat sandwiches) up a variety of popular dishes amongst street vendors in Vietnam. There are many versions of Banh mi thit (meat sandwich); the traditional Banh mi thit (meat sandwich) is typically made of cold cuts along with mayonnaise or liver pâté, but grilled pork is also very popular.";
 
-/* Banh Mi Introduction 2 */
+/* Banh Mi Main Introduction 2 */
 "BanhMiMain.Introduction.2" = "What makes ##Bánh Mì Thịt## (meat sandwich) unique though is not just the meat and spread, but the iconic ##Đồ Chua## (pickled carrots and daikon). It gives ##Bánh Mì Thịt## (meat sandwich) a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make ##Bánh Mì Thịt## (meat sandwich) a great food item to be enjoyed any time of the day.";
 
-/* Banh Mi Introduction 2 (VoiceOver) */
+/* Banh Mi Main Introduction 2 (VoiceOver) */
 "BanhMiMain.Introduction.2.Accessibility" = "What makes banh mi unique though is not just the meat and spread, but the iconic pickled carrot and daikon. It gives banh mi a sweet and tangy flavor that, along with some fresh cucumber, cilantro, and jalapeño, make banh mi a great food item to be enjoyed any time of the day.";
 
-/* Banh Mi Introduction 3 */
+/* Banh Mi Main Introduction 3 */
 "BanhMiMain.Introduction.3" = "If you’re feeling adventurous, give all the variations a try!";
 
-/* Banh Mi Terminology 1 */
+/* Banh Mi Main Terminology 1 */
 "BanhMiMain.Terminology.1" = "The term ##Bánh Mì## refers to both a sandwich and a plain baguette, so to avoid any ambiguity, the word ##Thịt## (meat) or ##Không## (no/not) can be added to the end of ##Bánh Mì## to mean ##Bánh Mì Thịt## (meat sandwich) or ##Bánh Mì Không## (baguette).";
 
 /* Banh Mi Terminology 1 (VoiceOver) */
 "BanhMiMain.Terminology.1.Accessibility" = "The term banh mi refers to both a sandwich and a plain baguette, so to avoid any ambiguity, the word Tit (meat) or kong (no or not) can be added to the end of banh mi to mean banh mi tit (meat sandwich) or banh mi kong (baguette).";
 
-/* Banh Mi Terminology 2 */
+/* Banh Mi Main Terminology 2 */
 "BanhMiMain.Terminology.2" = "Most specifically, the term ##Thịt## (meat) can be expanded further to specify the type of meat; for instance, ##Bánh Mì Thịt Heo Nướng## (grilled pork sandwich) with ##Heo## (pig) often being optional, ##Bánh Mì Thịt Bò Nướng## (grilled beef sandwich), ##Bánh Mì Lạp Xưởng Trứng## (Chinese sausage and egg sandwich), and ##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich).";
 
-/* Banh Mi Terminology 2 (VoiceOver) */
+/* Banh Mi Main Terminology 2 (VoiceOver) */
 "BanhMiMain.Terminology.2.Accessibility" = "Most specifically, the term Thit (meat) can be expanded further to specify the type of meat; for instance,  Banh Mi Thit Heo Nuong (grilled pork sandwich) with Heo (pig) often being optional, Banh Mi Thit Bo Nuong (grilled beef sandwich), Banh Mi Lap Xuong Trung (Chinese sausage and egg sandwich), and Banh Mi Xiu Mai (Vietnamese meatball sandwich).";
 
 
@@ -274,6 +274,141 @@
 
 /* Banh Mi HowTo 3 Accessibility (VoiceOver) */
 "BanhMi.HowTo.3.Accessibility" = "Nếu mà Bánh Mì cứng quá thì có thể dùng tay bóp Bánh Mì để mềm lại.";
+
+
+// MARK: Banh Mi Xiu Mai (Vietnamese Meatball Banh Mi) Page
+
+/* Meatball Banh Mi Introduction 1 */
+"MeatballBanhMi.Introduction.1" = "##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich) is inspired by the western-style meatball sub, but the flavor is quite different. This ##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich) is savory, but also sweet and tangy with a nice hint of freshness and spicy from the garnishes.";
+
+/* Meatball Banh Mi Introduction 1 (VoiceOver) */
+"MeatballBanhMi.Introduction.1.Accessibility" = "Vietnamese meatball sandwich is inspired by the western-style meatball sub, but the flavor is quite different. This Vietnamese meatball sandwich is savory, but also sweet and tangy with a nice hint of freshness and spicy from the garnishes.";
+
+/* Meatball Banh Mi Introduction 2 */
+"MeatballBanhMi.Introduction.2" = "This recipe makes 1 sandwich.";
+
+/* Meatball Banh Mi Ingredients Baguette Amount */
+"MeatballBanhMi.Ingredients.Baguette.Amount.us" = "One 10-in long loaf";
+"MeatballBanhMi.Ingredients.Baguette.Amount.metric" = "One 25-cm long loaf";
+
+/* Meatball Banh Mi Ingredients Baguette Amount (VoiceOver) */
+"MeatballBanhMi.Ingredients.Baguette.AccessibilityAmount.us" = "1 10 inch long loaf";
+"MeatballBanhMi.Ingredients.Baguette.AccessibilityAmount.metric" = "1 25 centimeter long loaf";
+
+/* Meatball Banh Mi Ingredients Meatballs Amount */
+"MeatballBanhMi.Ingredients.Meatballs.Amount" = "½ portion";
+
+/* Meatball Banh Mi Ingredients Meatballs Amount (VoiceOver) */
+"MeatballBanhMi.Ingredients.Meatballs.AccessibilityAmount" = "half a portion";
+
+/* Meatball Banh Mi Ingredients Pickled Shallots Amount */
+"MeatballBanhMi.Ingredients.PickledShallots.Amount.us" = "1 oz, drained";
+"MeatballBanhMi.Ingredients.PickledShallots.Amount.metric" = "30 g, drained";
+
+/* Meatball Banh Mi Ingredients Pickles Amount (VoiceOver) */
+"MeatballBanhMi.Ingredients.Pickles.AccessibilityAmount.us" = "1 ounce, drained";
+"MeatballBanhMi.Ingredients.Pickles.AccessibilityAmount.metric" = "30 grams, drained";
+
+/* Meatball Banh Mi Ingredients Golden Mountain Soy Sauce Amount */
+"MeatballBanhMi.Ingredients.GoldenMountainSoySauce.Amount" = "1-2 tsp";
+
+/* Meatball Banh Mi Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"MeatballBanhMi.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "1 to 2 teaspoons";
+
+/* Meatball Banh Mi Ingredients Spring Onion Amount */
+"MeatballBanhMi.Ingredients.SpringOnion.Amount" = "1 stalk, chopped";
+
+/* Meatball Banh Mi Ingredients Spring Onion Amount (VoiceOver) */
+"MeatballBanhMi.Ingredients.SpringOnion.AccessibilityAmount.us" = "1 stalk, chopped";
+
+/* Meatball Banh Mi Ingredients Cilantro Amount */
+"MeatballBanhMi.Ingredients.Cilantro.Amount" = "2-3 stems with leaves";
+
+/* Meatball Banh Mi Ingredients Cilantro Amount (VoiceOver) */
+"MeatballBanhMi.Ingredients.Cilantro.AccessibilityAmount.us" = "2 to 3 stems with leaves";
+
+/* Meatball Banh Mi Ingredients Jalapeno Amount */
+"MeatballBanhMi.Ingredients.Jalapeno.Amount" = "3-4 slices (optional)";
+
+/* Meatball Banh Mi Instructions Step 1 Part 1 */
+"MeatballBanhMi.Instructions.Step.1.Part.1" = "Make the ##Xíu Mại## (Vietnamese meatballs) according to the recipe listed above.";
+
+/* Meatball Banh Mi Instructions Step 1 Part 1 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.1.Part.1.Accessibility" = "Make the Vietnamese meatballs according to the recipe listed above.";
+
+/* Meatball Banh Mi Instructions Step 2 Part 1 */
+"MeatballBanhMi.Instructions.Step.2.Part.1" = "Make the ##Dưa Hành Tím## (pickled shallots) according to the recipe listed above.";
+
+/* Meatball Banh Mi Instructions Step 2 Part 1 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.2.Part.1.Accessibility" = "Make the pickled shallots according to the recipe listed above.";
+
+/* Meatball Banh Mi Instructions Step 3 Part 1 */
+"MeatballBanhMi.Instructions.Step.3.Part.1" = "Wash, then chop the ##Hành Lá## (spring onion) into small pieces.";
+
+/* Meatball Banh Mi Instructions Step 3 Part 1 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.3.Part.1.Accessibility" = "Wash, then chop the spring onion into small pieces.";
+
+/* Meatball Banh Mi Instructions Step 3 Part 2 */
+"MeatballBanhMi.Instructions.Step.3.Part.2" = "Wash and dry the ##Ngò## (cilantro). Cut off the stems if they are too long.";
+
+/* Meatball Banh Mi Instructions Step 3 Part 2 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.3.Part.2.Accessibility" = "Wash and dry the cilantro. Cut off the stems if they are too long.";
+
+/* Meatball Banh Mi Instructions Step 3 Part 3 */
+"MeatballBanhMi.Instructions.Step.3.Part.3" = "Wash, then cut a ##Ớt## (jalapeño) into thin slices.";
+
+/* Meatball Banh Mi Instructions Step 3 Part 3 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.3.Part.3.Accessibility" = "Wash, then chop a jalapeño into thin pieces.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 1 */
+"MeatballBanhMi.Instructions.Step.4.Part.1" = "Assemble the sandwich.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 1 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.4.Part.1.Accessibility" = "Assemble the sandwich.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 2 */
+"MeatballBanhMi.Instructions.Step.4.Part.2" = "Lightly toast the ##Bánh Mì Không## (baguette) until it is warm and crispy.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 2 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.4.Part.2.Accessibility" = "Lightly toast the baguette until it is warm and crispy.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 3 */
+"MeatballBanhMi.Instructions.Step.4.Part.3" = "Cut the ##Bánh Mì Không## (baguette) in half lengthwise; the ##Bánh Mì Không## (baguette) doesn’t need to be cut all the way through.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 3 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.4.Part.3.Accessibility" = "Cut the baguette in half lengthwise; the baguette doesn’t need to be cut all the way through.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 4 */
+"MeatballBanhMi.Instructions.Step.4.Part.4" = "Part the ##Bánh Mì Không## (baguette) open like an opened book.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 4 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.4.Part.4.Accessibility" = "Part the baguette open like an opened book.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 5 */
+"MeatballBanhMi.Instructions.Step.4.Part.5" = "Drizzle some soy sauce on the inside of the opened ##Bánh Mì Không## (baguette).";
+
+/* Meatball Banh Mi Instructions Step 4 Part 5 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.4.Part.5.Accessibility" = "Drizzle some soy sauce on the inside of the opened baguette.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 6 */
+"MeatballBanhMi.Instructions.Step.4.Part.6" = "Place some ##Xíu Mại## (Vietnamese meatballs) on the inside of the opened ##Bánh Mì Không## (baguette).";
+
+/* Meatball Banh Mi Instructions Step 4 Part 6 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.4.Part.6.Accessibility" = "Place some Vietnamese meatballs on the inside of the opened baguette.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 7 */
+"MeatballBanhMi.Instructions.Step.4.Part.7" = "Add some ##Dưa Hành Tím## (pickled shallots), ##Hành Lá## (spring onion), ##Ngò## (cilantro), and ##Ớt## (jalapeño) slices on top of the ##Xíu Mại## (Vietnamese meatballs).";
+
+/* Meatball Banh Mi Instructions Step 4 Part 7 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.4.Part.7.Accessibility" = "Add some pickled shallots, spring onion, cilantro, and jalapeño slices on top of the Vietnamese meatballs.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 8 */
+"MeatballBanhMi.Instructions.Step.4.Part.8" = "Close the ##Bánh Mì## (sandwich) up and enjoy.";
+
+/* Meatball Banh Mi Instructions Step 4 Part 8 (VoiceOver) */
+"MeatballBanhMi.Instructions.Step.4.Part.8.Accessibility" = "Close the Banh Mi up and enjoy.";
+
+/* Meatball Banh Mi HowTo -- same as Grilled Pork Banh Mi */
 
 
 // MARK: Banh Xeo (Vietnamese Crepes) Page
