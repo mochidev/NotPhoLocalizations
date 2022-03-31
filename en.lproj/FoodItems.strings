@@ -321,6 +321,10 @@
 "taro.Subtitle" = "Taro";
 "taro.AccessibilityPageTitle" = "Taro";
 
+/* Tofu */
+"tofu.Subtitle" = "Tofu";
+"tofu.AccessibilityPageTitle" = "Tofu";
+
 /* Chinese Sausage */
 "chineseSausage.Subtitle" = "Chinese Sausage";
 "chineseSausage.AccessibilityPageTitle" = "Chinese Sausage";

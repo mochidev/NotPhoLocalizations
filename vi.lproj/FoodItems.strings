@@ -394,6 +394,10 @@
 "taro.AccessibilitySubtitle" = "Khoai Môn";
 "taro.AccessibilityPageTitle" = "Khoai Môn";
 
+/* Tofu */
+"tofu.Subtitle" = "Tofu";
+"tofu.AccessibilitySubtitle" = "Đậu Hũ";
+"tofu.AccessibilityPageTitle" = "Đậu Hũ";
 
 /* Chinese Sausage */
 "chineseSausage.Subtitle" = "Chinese Sausage";

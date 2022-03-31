@@ -7726,6 +7726,57 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Cucumber.UsedIn.Header" = "Dùng Trong";
 
 
+// MARK: Tofu (Dau Hu) Page
+
+/* Tofu Introduction 1 */
+"Tofu.Introduction.1" = "##Đậu Hũ## (tofu) is invented in China about 2000 years ago and introduced to Vietnam during the 10th and 11th centuries. ##Đậu Hũ## (tofu) is also known as ##bean curd## because it is made by curdling soy bean milk and pressing the curds into a block shape with coagulant to help it set. The softness of the tofu depends on how much water is pressed out of the curds, and they are categorized as silken, soft, firm, or extra firm.";
+
+/* Tofu Introduction 1 (VoiceOver) */
+"Tofu.Introduction.1.Accessibility" = "Tofu is invented in China about 2000 years ago and introduced to Vietnam during the 10th and 11th centuries. Tofu is also known as ##bean curd## because it is made by curdling soy bean milk and pressing the curds into a block shape with coagulant to help it set. The softness of the tofu depends on how much water is pressed out of the curds, and they are categorized as silken, soft, firm, or extra firm.";
+
+/* Tofu Introduction 2 */
+"Tofu.Introduction.2" = "##Đậu Hũ## (tofu) is a great substitute for meat because it is high in protein and low in calories. It also has a subtle flavor so it can be made into a sweet or savory dish.";
+
+/* Tofu Introduction 2 (VoiceOver) */
+"Tofu.Introduction.2.Accessibility" = "Tofu is a great substitute for meat because it is high in protein and low in calories. It also has a subtle flavor so it can be made into a sweet or savory dish.";
+
+/* Tofu Types */
+"Tofu.Types" = "##Đậu Hũ## (tofu) can be found at any local grocery stores, but you will find more varieties at an Asian supermarket. As mentioned above, there are many types of ##Đậu Hũ## (tofu) and the common ones are silken, soft, firm, or extra firm. However, depending on the manufactures there will be another variety called medium, which is between soft and firm.";
+
+/* Tofu Types (VoiceOver) */
+"Tofu.Types.Accessibility" = "Tofu can be found at any local grocery stores, but you will find more varieties at an Asian supermarket. As mentioned above, there are many types of tofu and the common ones are silken, soft, firm, or extra firm. However, depending on the manufactures there will be another variety called medium, which is between soft and firm.";
+
+/* Tofu Types Silken Accessibility Label */
+"Tofu.Types.Silken.AccessibilityLabel" = "Silken tofu";
+
+/* Tofu Types Silken */
+"Tofu.Types.Silken" = "Silken tofu is custard-like so it is a great dairy substitute for making desserts.";
+
+/* Tofu Types Soft Accessibility Label */
+"Tofu.Types.Soft.AccessibilityLabel" = "Soft tofu";
+
+/* Tofu Types Soft */
+"Tofu.Types.Soft" = "Soft tofu is slightly firmer than silken tofu, but it is still very delicate, so it is great in soups.";
+
+/* Tofu Types Medium Accessibility Label */
+"Tofu.Types.Medium.AccessibilityLabel" = "Medium tofu";
+
+/* Tofu Types Medium */
+"Tofu.Types.Medium" = "Medium tofu is the variety I used the most because it is not as delicate as soft tofu and not as dense as firm tofu. This variety can be used in soups and stir-fry dishes.";
+
+/* Tofu Types Firm Accessibility Label */
+"Tofu.Types.Firm.AccessibilityLabel" = "Firm tofu";
+
+/* Tofu Types Firm */
+"Tofu.Types.Firm" = "Firm tofu has more liquid pressed out of it making the tofu more dense so it is great for almost any dishes where you don’t have to worry about the tofu falling apart while cooking.";
+
+/* Tofu Types Extra Firm Accessibility Label */
+"Tofu.Types.ExtraFirm.AccessibilityLabel" = "Extra firm tofu";
+
+/* Tofu Types Extra Firm */
+"Tofu.Types.ExtraFirm" = "Extra firm tofu has a very dense texture so it is great for frying and grilling as it will keep its shape well.";
+
+
 // MARK: Nuoc Mam (Fish Sauce) Page
 
 /* Fish Sauce Main Image (VoiceOver) */
