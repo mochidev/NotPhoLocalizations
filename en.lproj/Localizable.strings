@@ -7595,10 +7595,10 @@
 // MARK: Tofu (Dau Hu) Page
 
 /* Tofu Introduction 1 */
-"Tofu.Introduction.1" = "##Đậu Hũ## (tofu) is invented in China about 2000 years ago and introduced to Vietnam during the 10th and 11th centuries. ##Đậu Hũ## (tofu) is also known as ##bean curd## because it is made by curdling soy bean milk and pressing the curds into a block shape with coagulant to help it set. The softness of the tofu depends on how much water is pressed out of the curds, and they are categorized as silken, soft, firm, or extra firm.";
+"Tofu.Introduction.1" = "##Đậu Hũ## (tofu) was invented in China about 2000 years ago and introduced to Vietnam during the 10th and 11th centuries. ##Đậu Hũ## (tofu) is also known as ##bean curd## because it is made by curdling soy bean milk and pressing the curds into a block shape with coagulant to help it set. The softness of the tofu depends on how much water is pressed out of the curds, and they are categorized as silken, soft, firm, or extra firm.";
 
 /* Tofu Introduction 1 (VoiceOver) */
-"Tofu.Introduction.1.Accessibility" = "Tofu is invented in China about 2000 years ago and introduced to Vietnam during the 10th and 11th centuries. Tofu is also known as ##bean curd## because it is made by curdling soy bean milk and pressing the curds into a block shape with coagulant to help it set. The softness of the tofu depends on how much water is pressed out of the curds, and they are categorized as silken, soft, firm, or extra firm.";
+"Tofu.Introduction.1.Accessibility" = "Tofu was invented in China about 2000 years ago and introduced to Vietnam during the 10th and 11th centuries. Tofu is also known as ##bean curd## because it is made by curdling soy bean milk and pressing the curds into a block shape with coagulant to help it set. The softness of the tofu depends on how much water is pressed out of the curds, and they are categorized as silken, soft, firm, or extra firm.";
 
 /* Tofu Introduction 2 */
 "Tofu.Introduction.2" = "##Đậu Hũ## (tofu) is a great substitute for meat because it is high in protein and low in calories. It also has a subtle flavor so it can be made into a sweet or savory dish.";
@@ -7607,10 +7607,10 @@
 "Tofu.Introduction.2.Accessibility" = "Tofu is a great substitute for meat because it is high in protein and low in calories. It also has a subtle flavor so it can be made into a sweet or savory dish.";
 
 /* Tofu Types */
-"Tofu.Types" = "##Đậu Hũ## (tofu) can be found at any local grocery stores, but you will find more varieties at an Asian supermarket. As mentioned above, there are many types of ##Đậu Hũ## (tofu) and the common ones are silken, soft, firm, or extra firm. However, depending on the manufactures there will be another variety called medium, which is between soft and firm.";
+"Tofu.Types" = "##Đậu Hũ## (tofu) can be found at any local grocery stores, but you will find more varieties at an Asian supermarket. As mentioned above, there are many types of ##Đậu Hũ## (tofu) and the common ones are silken, soft, firm, or extra firm. However, depending on the manufacturers there is also another variety called medium, which is between soft and firm.";
 
 /* Tofu Types (VoiceOver) */
-"Tofu.Types.Accessibility" = "Tofu can be found at any local grocery stores, but you will find more varieties at an Asian supermarket. As mentioned above, there are many types of tofu and the common ones are silken, soft, firm, or extra firm. However, depending on the manufactures there will be another variety called medium, which is between soft and firm.";
+"Tofu.Types.Accessibility" = "Tofu can be found at any local grocery stores, but you will find more varieties at an Asian supermarket. As mentioned above, there are many types of tofu and the common ones are silken, soft, firm, or extra firm. However, depending on the manufacturers there is also another variety called medium, which is between soft and firm.";
 
 /* Tofu Types Silken Accessibility Label */
 "Tofu.Types.Silken.AccessibilityLabel" = "Silken tofu";
@@ -7634,7 +7634,7 @@
 "Tofu.Types.Firm.AccessibilityLabel" = "Firm tofu";
 
 /* Tofu Types Firm */
-"Tofu.Types.Firm" = "Firm tofu has more liquid pressed out of it making the tofu more dense so it is great for almost any dishes where you don’t have to worry about the tofu falling apart while cooking.";
+"Tofu.Types.Firm" = "Firm tofu has more liquid pressed out of it making the tofu more dense so it is great for almost any dish where you don’t want to worry about the tofu falling apart while cooking.";
 
 /* Tofu Types Extra Firm Accessibility Label */
 "Tofu.Types.ExtraFirm.AccessibilityLabel" = "Extra firm tofu";
