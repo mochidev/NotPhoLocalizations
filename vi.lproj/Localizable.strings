@@ -279,10 +279,10 @@
 // MARK: Banh Mi Xiu Mai (Vietnamese Meatball Banh Mi) Page
 
 /* Meatball Banh Mi Introduction 1 */
-"MeatballBanhMi.Introduction.1" = "##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich) is inspired by the western-style meatball sub, but the flavor is quite different. This ##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich) is savory, but also sweet and tangy with a nice hint of freshness and spicy from the garnishes.";
+"MeatballBanhMi.Introduction.1" = "##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich) is inspired by the Italian-style meatball sub, but the flavor is quite different. This ##Bánh Mì Xíu Mại## (Vietnamese meatball sandwich) is savory, but also sweet and tangy with a nice hint of freshness and spiciness from the garnishes.";
 
 /* Meatball Banh Mi Introduction 1 (VoiceOver) */
-"MeatballBanhMi.Introduction.1.Accessibility" = "Vietnamese meatball sandwich is inspired by the western-style meatball sub, but the flavor is quite different. This Vietnamese meatball sandwich is savory, but also sweet and tangy with a nice hint of freshness and spicy from the garnishes.";
+"MeatballBanhMi.Introduction.1.Accessibility" = "Vietnamese meatball sandwich is inspired by the Italian-style meatball sub, but the flavor is quite different. This Vietnamese meatball sandwich is savory, but also sweet and tangy with a nice hint of freshness and spiciness from the garnishes.";
 
 /* Meatball Banh Mi Introduction 2 */
 "MeatballBanhMi.Introduction.2" = "This recipe makes 1 sandwich.";
@@ -358,7 +358,7 @@
 "MeatballBanhMi.Instructions.Step.3.Part.3" = "Wash, then cut a ##Ớt## (jalapeño) into thin slices.";
 
 /* Meatball Banh Mi Instructions Step 3 Part 3 (VoiceOver) */
-"MeatballBanhMi.Instructions.Step.3.Part.3.Accessibility" = "Wash, then chop a jalapeño into thin pieces.";
+"MeatballBanhMi.Instructions.Step.3.Part.3.Accessibility" = "Wash, then chop a jalapeño into thin slices.";
 
 /* Meatball Banh Mi Instructions Step 4 Part 1 */
 "MeatballBanhMi.Instructions.Step.4.Part.1" = "Assemble the sandwich.";
@@ -379,10 +379,10 @@
 "MeatballBanhMi.Instructions.Step.4.Part.3.Accessibility" = "Cut the baguette in half lengthwise; the baguette doesn’t need to be cut all the way through.";
 
 /* Meatball Banh Mi Instructions Step 4 Part 4 */
-"MeatballBanhMi.Instructions.Step.4.Part.4" = "Part the ##Bánh Mì Không## (baguette) open like an opened book.";
+"MeatballBanhMi.Instructions.Step.4.Part.4" = "Part the ##Bánh Mì Không## (baguette) open like an open book.";
 
 /* Meatball Banh Mi Instructions Step 4 Part 4 (VoiceOver) */
-"MeatballBanhMi.Instructions.Step.4.Part.4.Accessibility" = "Part the baguette open like an opened book.";
+"MeatballBanhMi.Instructions.Step.4.Part.4.Accessibility" = "Part the baguette open like an open book.";
 
 /* Meatball Banh Mi Instructions Step 4 Part 5 */
 "MeatballBanhMi.Instructions.Step.4.Part.5" = "Drizzle some soy sauce on the inside of the opened ##Bánh Mì Không## (baguette).";
