@@ -7582,6 +7582,183 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "TempuraBatter.Instructions.2.Accessibility" = "Cho món chiên ngọt, dụng tất cả nguyên liệu bao gồm đường và hạt mè.";
 
 
+// MARK: Dau Hu Chien (Fried Tofu) Page
+
+/* Fried Tofu Introduction 1 */
+"FriedTofu.Introduction.1" = "##Đậu Hũ Chiên## (fried tofu) is a flavorful vegetarian entree that you can make any time when you want to take a break from meat.";
+
+/* Fried Tofu Introduction 1 (VoiceOver) */
+"FriedTofu.Introduction.1.Accessibility" = "Fried tofu is a flavorful vegetarian entree that you can make any time when you want to take a break from meat.";
+
+/* Fried Tofu Introduction 2 */
+"FriedTofu.Introduction.2" = "This recipe makes 2 portions.";
+
+/* Fried Tofu Ingredients */
+"FriedTofu.Ingredients" = "The ingredients are broken up into two parts; fried tofu and dipping sauce.";
+
+/* Fried Tofu Ingredients Fried Tofu Header */
+"FriedTofu.Ingredients.FriedTofu.Header" = "Fried Tofu";
+
+/* Fried Tofu Ingredients Tofu Amount */
+"FriedTofu.Ingredients.Tofu.Amount" = "1 pack, medium or firm";
+
+/* Fried Tofu Ingredients Tofu Amount (VoiceOver) */
+"FriedTofu.Ingredients.Tofu.AccessibilityAmount" = "1 pack, medium or firm";
+
+/* Fried Tofu Ingredients Oil Amount */
+"FriedTofu.Ingredients.Oil.Amount" = "enough to fry";
+
+/* Fried Tofu Ingredients Oil Amount (VoiceOver) */
+"FriedTofu.Ingredients.Oil.AccessibilityAmount" = "enough to fry";
+
+/* Fried Tofu Ingredients Salt Amount */
+"FriedTofu.Ingredients.Salt.Amount" = "⅛ tsp";
+
+/* Fried Tofu Ingredients Salt Amount (VoiceOver) */
+"FriedTofu.Ingredients.Salt.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Fried Tofu Ingredients Black Pepper Amount */
+"FriedTofu.Ingredients.BlackPepper.Amount" = "⅛ tsp";
+
+/* Fried Tofu Ingredients Black Pepper Amount (VoiceOver) */
+"FriedTofu.Ingredients.BlackPepper.AccessibilityAmount" = "one eighth teaspoon";
+
+/* Fried Tofu Ingredients Sweet Soy Sauce Header */
+"FriedTofu.Ingredients.SweetSoySauce.Header" = "Sweet Soy Sauce";
+
+/* Fried Tofu Ingredients Golden Mountain Soy Sauce Amount */
+"FriedTofu.Ingredients.GoldenMountainSoySauce.Amount" = "1 tsp";
+
+/* Fried Tofu Ingredients Golden Mountain Soy Sauce Amount (VoiceOver) */
+"FriedTofu.Ingredients.GoldenMountainSoySauce.AccessibilityAmount" = "one teaspoon";
+
+/* Fried Tofu Ingredients Sugar Amount */
+"FriedTofu.Ingredients.Sugar.Amount" = "1 tsp";
+
+/* Fried Tofu Ingredients Sugar Amount (VoiceOver) */
+"FriedTofu.Ingredients.Sugar.AccessibilityAmount" = "one teaspoon";
+
+/* Fried Tofu Ingredients Water Amount */
+"FriedTofu.Ingredients.Water.Amount" = "2 tsp";
+
+/* Fried Tofu Ingredients Water Amount (VoiceOver) */
+"FriedTofu.Ingredients.Water.AccessibilityAmount" = "two teaspoons";
+
+/* Fried Tofu Ingredients SpringOnion Amount */
+"FriedTofu.Ingredients.SpringOnion.Amount" = "small handful, chopped";
+
+/* Fried Tofu Ingredients SpringOnion Amount (VoiceOver) */
+"FriedTofu.Ingredients.SpringOnion.AccessibilityAmount" = "small handful, chopped";
+
+/* Fried Tofu Ingredients Chili Amount */
+"FriedTofu.Ingredients.Chili.Amount" = "optional";
+
+/* Fried Tofu Ingredients Chili Amount (VoiceOver) */
+"FriedTofu.Ingredients.Chili.AccessibilityAmount" = "optional";
+
+/* Fried Tofu Instructions Step 1 Part 1 */
+"FriedTofu.Instructions.Step.1.Part.1" = "Prepare the ##Đậu Hũ## (tofu).";
+
+/* Fried Tofu Instructions Step 1 Part 1 (VoiceOver) */
+"FriedTofu.Instructions.Step.1.Part.1.Accessibility" = "Prepare the tofu.";
+
+/* Fried Tofu Instructions Step 1 Part 2 */
+"FriedTofu.Instructions.Step.1.Part.2" = "Remove the ##Đậu Hũ## (tofu) from its package.";
+
+/* Fried Tofu Instructions Step 1 Part 2 (VoiceOver) */
+"FriedTofu.Instructions.Step.1.Part.2.Accessibility" = "Remove the tofu from its package.";
+
+/* Fried Tofu Instructions Step 1 Part 3 */
+"FriedTofu.Instructions.Step.1.Part.3" = "Cut the ##Đậu Hũ## (tofu) into 12 even pieces.";
+
+/* Fried Tofu Instructions Step 1 Part 3 (VoiceOver) */
+"FriedTofu.Instructions.Step.1.Part.3.Accessibility" = "Cut the tofu into 12 even pieces.";
+
+/* Fried Tofu Instructions Step 1 Part 4 */
+"FriedTofu.Instructions.Step.1.Part.4" = "Lay the ##Đậu Hũ## (tofu) pieces on some paper towels to absorb any remaining water.";
+
+/* Fried Tofu Instructions Step 1 Part 4 (VoiceOver) */
+"FriedTofu.Instructions.Step.1.Part.4.Accessibility" = "Lay the tofu pieces on some paper towels to absorb any remaining water.";
+
+/* Fried Tofu Instructions Step 2 Part 1 */
+"FriedTofu.Instructions.Step.2.Part.1" = "Fry the ##Đậu Hũ## (tofu).";
+
+/* Fried Tofu Instructions Step 2 Part 1 (VoiceOver) */
+"FriedTofu.Instructions.Step.2.Part.1.Accessibility" = "Fry the tofu.";
+
+/* Fried Tofu Instructions Step 2 Part 2 */
+"FriedTofu.Instructions.Step.2.Part.2" = "In a medium-high heat pan, heat up the ##Dầu## (oil).";
+
+/* Fried Tofu Instructions Step 2 Part 2 (VoiceOver) */
+"FriedTofu.Instructions.Step.2.Part.2.Accessibility" = "In a medium-high heat pan, heat up the oil.";
+
+/* Fried Tofu Instructions Step 2 Part 3 */
+"FriedTofu.Instructions.Step.2.Part.3" = "Pat each ##Đậu Hũ## (tofu) slices dry once more with paper towel before placing them into the hot ##Dầu## (oil).";
+
+/* Fried Tofu Instructions Step 2 Part 3 (VoiceOver) */
+"FriedTofu.Instructions.Step.2.Part.3.Accessibility" = "Pat each tofu slices dry once more with paper towel before placing them into the hot oil.";
+
+/* Fried Tofu Instructions Step 2 Part 4 */
+"FriedTofu.Instructions.Step.2.Part.4" = "Fry the sliced ##Đậu Hũ## (tofu) until they are golden brown (about 5-6 minutes).";
+
+/* Fried Tofu Instructions Step 2 Part 4 (VoiceOver) */
+"FriedTofu.Instructions.Step.2.Part.4.Accessibility" = "Fry the sliced tofu until they are golden brown (about 5-6 minutes).";
+
+/* Fried Tofu Instructions Step 2 Part 5 */
+"FriedTofu.Instructions.Step.2.Part.5" = "Remove the ##Đậu Hũ Chiên## (fried tofu) from the ##Dầu## (oil).";
+
+/* Fried Tofu Instructions Step 2 Part 5 (VoiceOver) */
+"FriedTofu.Instructions.Step.2.Part.5.Accessibility" = "Remove the fried tofu from the oil.";
+
+/* Fried Tofu Instructions Step 3 Part 1 */
+"FriedTofu.Instructions.Step.3.Part.1" = "Plate the ##Đậu Hũ Chiên## (fried tofu), and sprinkle on some ##Muối## (salt) and ##Tiêu Đen## (black pepper).";
+
+/* Fried Tofu Instructions Step 3 Part 1 (VoiceOver) */
+"FriedTofu.Instructions.Step.3.Part.1.Accessibility" = "Plate the fried tofu, and sprinkle on some salt and black pepper.";
+
+/* Fried Tofu Instructions Step 4 Part 1 */
+"FriedTofu.Instructions.Step.4.Part.1" = "Make the sweet soy sauce.";
+
+/* Fried Tofu Instructions Step 4 Part 1 (VoiceOver) */
+"FriedTofu.Instructions.Step.4.Part.1.Accessibility" = "Make the sweet soy sauce.";
+
+/* Fried Tofu Instructions Step 4 Part 2 */
+"FriedTofu.Instructions.Step.4.Part.2" = "Mix the ##Nước Tương## (soy sauce), ##Đường## (sugar), and ##Nước## (water) together until the sugar is dissolved.";
+
+/* Fried Tofu Instructions Step 4 Part 2 (VoiceOver) */
+"FriedTofu.Instructions.Step.4.Part.2.Accessibility" = "Mix the soy sauce, sugar, and water together until the sugar is dissolved.";
+
+/* Fried Tofu Instructions Step 4 Part 3 */
+"FriedTofu.Instructions.Step.4.Part.3" = "Mix in the chopped ##Hành Lá## (spring onion).";
+
+/* Fried Tofu Instructions Step 4 Part 3 (VoiceOver) */
+"FriedTofu.Instructions.Step.4.Part.3.Accessibility" = "Mix in the chopped spring onion.";
+
+/* Fried Tofu Instructions Step 4 Part 4 */
+"FriedTofu.Instructions.Step.4.Part.4" = "Add a little bit of ##Ớt## (chili) to spice it up.";
+
+/* Fried Tofu Instructions Step 4 Part 4 (VoiceOver) */
+"FriedTofu.Instructions.Step.4.Part.4.Accessibility" = "Add a little bit of chili to spice it up.";
+
+/* Fried Tofu Instructions Step 5 Part 1 */
+"FriedTofu.Instructions.Step.5.Part.1" = "Drizzle the sweet soy sauce over the ##Đậu Hũ Chiên## (fried tofu) and serve.";
+
+/* Fried Tofu Instructions Step 5 Part 1 (VoiceOver) */
+"FriedTofu.Instructions.Step.5.Part.1.Accessibility" = "Drizzle the sweet soy sauce over the fried tofu and serve.";
+
+/* Fried Tofu Instructions Step 5 Part 2 */
+"FriedTofu.Instructions.Step.5.Part.2" = "Or serve it on the side as a dipping sauce.";
+
+/* Fried Tofu Instructions Step 5 Part 2 (VoiceOver) */
+"FriedTofu.Instructions.Step.5.Part.2.Accessibility" = "Or serve it on the side as a dipping sauce.";
+
+/* Fried Tofu How To 1 */
+"FriedTofu.HowTo.1" = "Enjoy the ##Đậu Hũ Chiên## (fried tofu) as is or over white rice.";
+
+/* Fried Tofu How To 1 (VoiceOver) */
+"FriedTofu.HowTo.1.Accessibility" = "Enjoy the fried tofu as is or over white rice.";
+
+
 // MARK: - # Ingredients Tab:
 
 /* Ingredients Tab Page Title */

@@ -266,6 +266,10 @@
 "pickledShallots.Subtitle" = "Pickled Shallots";
 "pickledShallots.AccessibilityPageTitle" = "Pickled Shallots";
 
+/* Fried Tofu */
+"friedTofu.Subtitle" = "Fried Tofu";
+"friedTofu.AccessibilityPageTitle" = "Fried Tofu";
+
 
 // MARK: Ingredients Tab
 

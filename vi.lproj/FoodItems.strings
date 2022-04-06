@@ -326,6 +326,11 @@
 "pickledShallots.AccessibilitySubtitle" = "Dưa Hành Tím";
 "pickledShallots.AccessibilityPageTitle" = "Dưa Hành Tím";
 
+/* Fried Tofu */
+"friedTofu.Subtitle" = "Fried Tofu";
+"friedTofu.AccessibilitySubtitle" = "Đậu Hũ Chiên";
+"friedTofu.AccessibilityPageTitle" = "Đậu Hũ Chiên";
+
 
 // MARK: Ingredients Tab
 
