@@ -410,6 +410,106 @@
 /* Meatball Banh Mi HowTo -- same as Grilled Pork Banh Mi */
 
 
+// MARK: Banh Mi Dau Hu (Tofu Banh Mi) Page
+
+/* Tofu Banh Mi Introduction 1 */
+"TofuBanhMi.Introduction.1" = "##Bánh Mì Đậu Hũ## (tofu sandwich) is a great alternative for when you want to take a break from meat, but still crave the flavor of a ##Bánh Mì##. The ##Đậu Hũ Chiên## (fried tofu) in this recipe is very easy to make, and you can even enjoy it in a ##Bánh Mì##, as is, or even over white rice.";
+
+/* Tofu Banh Mi Introduction 1 (VoiceOver) */
+"TofuBanhMi.Introduction.1.Accessibility" = "Tofu sandwich is a great alternative for when you want to take a break from meat, but still crave the flavor of a Banh mi. The fried tofu in this recipe is very easy to make, and you can even enjoy it in a Banh mi, as is, or even over white rice.";
+
+/* Tofu Banh Mi Introduction 2 */
+"TofuBanhMi.Introduction.2" = "This recipe makes 1 sandwich.";
+
+/* Tofu Banh Mi Ingredients Fried Tofu Amount */
+"TofuBanhMi.Ingredients.FriedTofu.Amount" = "½ portion";
+"TofuBanhMi.Ingredients.FriedTofu.AccessibilityAmount" = "half a portion";
+
+/* Tofu Banh Mi Instructions Step 1 Part 1 */
+"TofuBanhMi.Instructions.Step.1.Part.1" = "Make the ##Đậu Hũ Chiên## (fried tofu) according to the recipe above.";
+
+/* Tofu Banh Mi Instructions Step 1 Part 1 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.1.Part.1.Accessibility" = "Make the fried tofu according to the recipe listed above.";
+
+/* Tofu Banh Mi Instructions Step 2 Part 1 */
+"TofuBanhMi.Instructions.Step.2.Part.1" = "Make the ##Đồ Chua## (pickled carrot and daikon) according to the recipe above.";
+
+/* Tofu Banh Mi Instructions Step 2 Part 1 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.2.Part.1.Accessibility" = "Make the pickled carrot and daikon according to the recipe listed above.";
+
+/* Tofu Banh Mi Instructions Step 3 Part 1 */
+"TofuBanhMi.Instructions.Step.3.Part.1" = "Wash and dry the ##Dưa Leo## (cucumber), ##Ngò## (cilantro), and ##Ớt## (jalapeño).";
+
+/* Tofu Banh Mi Instructions Step 3 Part 1 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.3.Part.1.Accessibility" = "Wash and dry the cucumber, cilantro and jalapeño.";
+
+/* Tofu Banh Mi Instructions Step 3 Part 2 */
+"TofuBanhMi.Instructions.Step.3.Part.2" = "Cut the ##Dưa Leo## (cucumber) into thin slices.";
+
+/* Tofu Banh Mi Instructions Step 3 Part 2 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.3.Part.2.Accessibility" = "Cut the cucumber into thin slices.";
+
+/* Tofu Banh Mi Instructions Step 3 Part 3 */
+"TofuBanhMi.Instructions.Step.3.Part.3" = "Trim off excess ##Ngò## (cilantro) stems. You want a good proportion of leaves and stems.";
+
+/* Tofu Banh Mi Instructions Step 3 Part 3 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.3.Part.3.Accessibility" = "Trim off excess cilantro stems. You want a good proportion of leaves and stems.";
+
+/* Tofu Banh Mi Instructions Step 3 Part 4 */
+"TofuBanhMi.Instructions.Step.3.Part.4" = "Cut the ##Ớt## (jalapeño) into thin slices.";
+
+/* Tofu Banh Mi Instructions Step 3 Part 4 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.3.Part.4.Accessibility" = "Cut the jalapeño into thin slices.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 1 */
+"TofuBanhMi.Instructions.Step.4.Part.1" = "Assemble the sandwich.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 1 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.4.Part.1.Accessibility" = "Assemble the sandwich.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 2 */
+"TofuBanhMi.Instructions.Step.4.Part.2" = "Lightly toast the ##Bánh Mì Không## (baguette) until it is warm and crispy.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 2 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.4.Part.2.Accessibility" = "Lightly toast the baguette until it is warm and crispy.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 3 */
+"TofuBanhMi.Instructions.Step.4.Part.3" = "Cut the ##Bánh Mì Không## (baguette) in half lengthwise, and flip the top half over and place it next to the bottom half.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 3 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.4.Part.3.Accessibility" = "Cut the baguette in half lengthwise, and flip the top half over and place it next to the bottom half.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 4 */
+"TofuBanhMi.Instructions.Step.4.Part.4" = "Drizzle some sweet soy sauce from the ##Đậu Hũ Chiên## (fried tofu) recipe on the bottom half of the ##Bánh Mì Không## (baguette).";
+
+/* Tofu Banh Mi Instructions Step 4 Part 4 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.4.Part.4.Accessibility" = "Drizzle some sweet soy sauce from the fried tofu recipe on the bottom half of the baguette.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 5 */
+"TofuBanhMi.Instructions.Step.4.Part.5" = "Place the ##Đậu Hũ Chiên## (fried tofu) on the bottom half of the ##Bánh Mì Không## (baguette).";
+
+/* Tofu Banh Mi Instructions Step 4 Part 5 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.4.Part.5.Accessibility" = "Place the fried tofu on the bottom half of the baguette.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 6 */
+"TofuBanhMi.Instructions.Step.4.Part.6" = "Add some ##Đồ Chua## (pickled carrot and daikon), sliced ##Dưa Leo## (cucumbers), and ##Ngò## (cilantro) on top of the ##Đậu Hũ Chiên## (fried tofu).";
+
+/* Tofu Banh Mi Instructions Step 4 Part 6 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.4.Part.6.Accessibility" = "Add some pickled carrot and daikon, sliced cucumbers, and cilantro on top of the fried tofu.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 7 */
+"TofuBanhMi.Instructions.Step.4.Part.7" = "Add a few slices of ##Ớt## (jalapeño) on top of the pickles and veggies.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 7 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.4.Part.7.Accessibility" = "Add a few slices of jalapeño on top of the pickles and veggies.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 8 */
+"TofuBanhMi.Instructions.Step.4.Part.8" = "Flip the top half of the ##Bánh Mì Không## (baguette) back over and place it on top of the assembled sandwich to complete it.";
+
+/* Tofu Banh Mi Instructions Step 4 Part 8 (VoiceOver) */
+"TofuBanhMi.Instructions.Step.4.Part.8.Accessibility" = "Flip the top half of the baguette back over and place it on top of the assembled sandwich to complete it.";
+
+
 // MARK: Banh Xeo (Vietnamese Crepes) Page
 
 /* Crepe Introduction 1 */

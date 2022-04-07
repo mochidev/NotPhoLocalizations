@@ -30,6 +30,10 @@
 "meatballBanhMi.Subtitle" = "Vietnamese Meatball Sandwich";
 "meatballBanhMi.AccessibilityPageTitle" = "Vietnamese Meatball Sandwich";
 
+/* Tofu Sandwich */
+"tofuBanhMi.Subtitle" = "Tofu Sandwich";
+"tofuBanhMi.AccessibilityPageTitle" = "Tofu Sandwich";
+
 /* Vietnamese Crepes */
 "crepe.Subtitle" = "Vietnamese Crêpes";
 "crepe.AccessibilityPageTitle" = "Vietnamese Crepes";
