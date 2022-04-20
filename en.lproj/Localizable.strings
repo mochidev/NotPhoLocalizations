@@ -18,6 +18,9 @@
 /* The Heading for All Dishes sections */
 "Heading.AllDishes" = "All Dishes";
 
+/* The Heading for Recipe Of The Week sections */
+"Heading.RecipeOfTheWeek" = "Recipe of the Week";
+
 /* The Heading for New and Updated sections */
 "Heading.NewAndUpdated" = "New and Updated";
 
@@ -108,6 +111,73 @@
 
 /* Share View Content (VoiceOver) */
 "ShareView.AccessibilityContent" = "Did you try the recipe? Don't forget to share photos of it using hashtag Not Pho!";
+
+/* Coming Soon Message */
+"ComingSoon.Message" = "Coming Soon!";
+
+
+// MARK: - # Home Screen:
+
+/* Home Screen Page Title */
+"HomeScreen.Page.Title" = "Not Phở";
+
+/* Home Screen Page Subtitle */
+"HomeScreen.Page.Subtitle" = "";
+
+/* Home Screen Page Accessibility Title */
+"HomeScreen.Page.AccessibilityTitle" = "Not Pho";
+
+/* Home Screen Page Content Accessibility */
+"HomeScreen.Page.Content.Accessibility" = "Map of Vietnam";
+
+
+// MARK: - # Regions:
+
+/* North Vietnam Page Title */
+"NorthernDishes.Page.Title" = "North Vietnam";
+
+/* North Vietnam Page Subtitle */
+"NorthernDishes.Page.Subtitle" = "";
+
+/* North Vietnam Page Accessibility Title */
+"NorthernDishes.Page.AccessibilityTitle" = "North Vietnam";
+
+/* North Vietnam Page Content Accessibility */
+"NorthernDishes.Page.Content.Accessibility" = "These are some popular dishes from Northern Vietnam.";
+
+/* North Vietnam Content Accessibility */
+"NorthernDishes.Content.Accessibility" = "Dishes from Northern Vietnam.";
+
+/* Central Vietnam Page Title */
+"CentralDishes.Page.Title" = "Central Vietnam";
+
+/* Central Vietnam Page Subtitle */
+"CentralDishes.Page.Subtitle" = "";
+
+/* Central Vietnam Page Accessibility Title */
+"CentralDishes.Page.AccessibilityTitle" = "Central Vietnam";
+
+/* Central Vietnam Page Content Accessibility */
+"CentralDishes.Page.Content.Accessibility" = "These are some popular dishes from Central Vietnam.";
+
+/* Central Vietnam Content Accessibility */
+"CentralDishes.Content.Accessibility" = "Dishes from Central Vietnam.";
+
+/* South Vietnam Page Title */
+"SouthernDishes.Page.Title" = "South Vietnam";
+
+/* South Vietnam Page Subtitle */
+"SouthernDishes.Page.Subtitle" = "";
+
+/* South Vietnam Page Accessibility Title */
+"SouthernDishes.Page.AccessibilityTitle" = "South Vietnam";
+
+/* South Vietnam Page Content Accessibility */
+"SouthernDishes.Page.Content.Accessibility" = "These are some popular dishes from Southern Vietnam.";
+
+/* South Vietnam Content Accessibility */
+"SouthernDishes.Content.Accessibility" = "Dishes from Southern Vietnam.";
+
 
 // MARK: - # Vietnamese Food Tab:
 

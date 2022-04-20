@@ -18,6 +18,9 @@
 /* The Heading for All Dishes sections */
 "Heading.AllDishes" = "Món Ăn";
 
+/* The Heading for Recipe Of The Week sections */
+"Heading.RecipeOfTheWeek" = "Món Ăn Của Tuần";
+
 /* The Heading for New and Updated sections */
 "Heading.NewAndUpdated" = "Món Ăn Mới";
 
@@ -108,6 +111,70 @@
 
 /* Share View Content (VoiceOver) */
 "ShareView.AccessibilityContent" = "Bạn có thử món ăn này chưa? Đừng quên chia sẻ hình ảnh của món ăn trên mạng và dùng #NotPho!";
+
+
+// MARK: - # Home Screen:
+
+/* Home Screen Page Title */
+"HomeScreen.Page.Title" = "Not Phở";
+
+/* Home Screen Page Subtitle */
+"HomeScreen.Page.Subtitle" = "";
+
+/* Home Screen Page Accessibility Title */
+"HomeScreen.Page.AccessibilityTitle" = "Not Pho";
+
+/* Home Screen Page Content Accessibility */
+"HomeScreen.Page.Content.Accessibility" = "Map of Vietnam";
+
+
+// MARK: - # Regions:
+
+/* North Vietnam Page Title */
+"NorthernDishes.Page.Title" = "Miền Bắc Việt Nam";
+
+/* North Vietnam Page Subtitle */
+"NorthernDishes.Page.Subtitle" = "";
+
+/* North Vietnam Page Accessibility Title */
+"NorthernDishes.Page.AccessibilityTitle" = "Miền Bắc Việt Nam";
+
+/* North Vietnam Page Content Accessibility */
+"NorthernDishes.Page.Content.Accessibility" = "những món ăn sau đây có nguồn gốc từ miền bắc việt nam.";
+
+/* North Vietnam Content Accessibility */
+"NorthernDishes.Content.Accessibility" = "món ăn từ miền bắc việt nam.";
+
+/* Central Vietnam Page Title */
+"CentralDishes.Page.Title" = "Miền Trung Việt Nam";
+
+/* Central Vietnam Page Subtitle */
+"CentralDishes.Page.Subtitle" = "";
+
+/* Central Vietnam Page Accessibility Title */
+"CentralDishes.Page.AccessibilityTitle" = "Miền Trung Việt Nam";
+
+/* Central Vietnam Page Content Accessibility */
+"CentralDishes.Page.Content.Accessibility" = "những món ăn sau đây có nguồn gốc từ miền trung việt nam.";
+
+/* Central Vietnam Content Accessibility */
+"CentralDishes.Content.Accessibility" = "món ăn từ miền trung việt nam.";
+
+/* South Vietnam Page Title */
+"SouthernDishes.Page.Title" = "Miền Nam Việt Nam";
+
+/* South Vietnam Page Subtitle */
+"SouthernDishes.Page.Subtitle" = "";
+
+/* South Vietnam Page Accessibility Title */
+"SouthernDishes.Page.AccessibilityTitle" = "Miền Nam Việt Nam";
+
+/* South Vietnam Page Content Accessibility */
+"SouthernDishes.Page.Content.Accessibility" = "những món ăn sau đây có nguồn gốc từ miền nam việt nam.";
+
+/* South Vietnam Content Accessibility */
+"SouthernDishes.Content.Accessibility" = "món ăn từ miền nam việt nam.";
+
 
 // MARK: - # Vietnamese Food Tab:
 
