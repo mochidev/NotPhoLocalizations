@@ -179,19 +179,19 @@
 // MARK: - # Vietnamese Food Tab:
 
 /* Vietnamese Food Tab Page Title */
-"VietnameseFood.Page.Title" = "Đồ Ăn";
+"VietnameseFood.Page.Title" = "Món Ăn";
 
 /* Vietnamese Food Tab Page Subtitle */
 "VietnameseFood.Page.Subtitle" = "Việt Nam";
 
 /* Vietnamese Food Tab Page Accessibility Title */
-"VietnameseFood.Page.AccessibilityTitle" = "Đồ Ăn Việt Nam";
+"VietnameseFood.Page.AccessibilityTitle" = "Món Ăn Việt Nam";
 
 /* Vietnamese Food Page Content Accessibility */
 "VietnameseFood.Page.Content.Accessibility" = "Tất cả món ăn sau đây rất nổi tiếng ở Việt Nam.";
 
 /* Vietnamese Food Tab Title */
-"VietnameseFood.TabTitle" = "Đồ Ăn";
+"VietnameseFood.TabTitle" = "Món Ăn";
 
 
 // MARK: Banh Mi (Banh Mi Thit) Main Page
@@ -5189,7 +5189,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Recipes.Page.AccessibilityTitle" = "Công Thức, Hướng Dẫn Từng Bước Một";
 
 /* Recipes Page Content Accessibility */
-"Recipes.Page.Content.Accessibility" = "Tất cả công thức sau đây rất là quan trọng trong đồ ăn Việt Nam.";
+"Recipes.Page.Content.Accessibility" = "Tất cả công thức sau đây rất là quan trọng trong món ăn Việt Nam.";
 
 /* Recipes Tab Title */
 "Recipes.TabTitle" = "Công Thức";
@@ -5898,10 +5898,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Pickles.Instructions.Step.4.Note.2" = "Đừng quên viết ngày lên trên bìa của cái hủ để nhớ khi ##Đồ Chua## hết hạn.";
 
 /* Pickles How To 1 */
-"Pickles.HowTo.1" = "##Đồ Chua## là một món thường dùng trong đồ ăn Việt Nam.";
+"Pickles.HowTo.1" = "##Đồ Chua## là một món thường dùng trong món ăn Việt Nam.";
 
 /* Pickles How To 1 (VoiceOver) */
-"Pickles.HowTo.1.Accessibility" = "Đồ Chua là một món thường dùng trong đồ ăn Việt Nam.";
+"Pickles.HowTo.1.Accessibility" = "Đồ Chua là một món thường dùng trong món ăn Việt Nam.";
 
 /* Pickles How To 2 */
 "Pickles.HowTo.2" = "##Đồ Chua## đôi khi cũng có thể kèm chung với ##Nước Mắm Chấm##.";
@@ -7938,7 +7938,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Ingredients.Page.AccessibilityTitle" = "Nguyên Liệu, Mùi Vị Quê Hương";
 
 /* Ingredients Page Content Accessibility */
-"Ingredients.Page.Content.Accessibility" = "Tất cả nguyên liệu sau đây rất là quan trọng trong đồ ăn Việt Nam. Nếu không có đủ nguyên liệu thì nấu ăn sẽ khó thành công.";
+"Ingredients.Page.Content.Accessibility" = "Tất cả nguyên liệu sau đây rất là quan trọng trong món ăn Việt Nam. Nếu không có đủ nguyên liệu thì nấu ăn sẽ khó thành công.";
 
 /* Ingredients Tab Title */
 "Ingredients.TabTitle" = "Nguyên Liệu";
@@ -8037,10 +8037,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "Cucumber.Main.Image" = "Thông tin.";
 
 /* Cucumber Introduction 1 */
-"Cucumber.Introduction.1" = "##Dưa Leo## là một món rau thường dùng trong đồ ăn Việt Nam. ##Dưa Leo## có thể ăn sống với ##Nước Mắm Chấm## hoặc phối hợp với những món khác.";
+"Cucumber.Introduction.1" = "##Dưa Leo## là một món rau thường dùng trong món ăn Việt Nam. ##Dưa Leo## có thể ăn sống với ##Nước Mắm Chấm## hoặc phối hợp với những món khác.";
 
 /* Cucumber Introduction 1 (VoiceOver) */
-"Cucumber.Introduction.1.Accessibility" = "Dưa Leo là một món rau thường dùng trong đồ ăn Việt Nam. Dưa Leo có thể ăn sống với Nước Mắm Chấm hoặc phối hợp với những món khác.";
+"Cucumber.Introduction.1.Accessibility" = "Dưa Leo là một món rau thường dùng trong món ăn Việt Nam. Dưa Leo có thể ăn sống với Nước Mắm Chấm hoặc phối hợp với những món khác.";
 
 /* Cucumber Introduction 2 */
 "Cucumber.Introduction.2" = "##Dưa Leo## cũng có thể ăn nóng trong món ##Mực Xào Cà Chua Và Dưa Leo## và ăn với cơm.";
@@ -8397,10 +8397,10 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 // MARK: Lap Xuong (Chinese Sausage) Page
 
 /* Chinese Sausage Introduction */
-"ChineseSausage.Introduction" = "##Lạp Xưởng## (Chinese sausage) là một loại xúc xích. Nguyên gốc của ##Lạp Xưởng## (Chinese sausage) đến từ đồ ăn Quảng Châu và thông thường làm từ thịt heo xay và mở sau đó phơi khô. Mùi vị của ##Lạp Xưởng## (Chinese sausage) là mặn và ngọt và dùng trong những món ăn như là cơm chiên, gỏi cuốn, và thậm chí cả bánh trung thu.";
+"ChineseSausage.Introduction" = "##Lạp Xưởng## (Chinese sausage) là một loại xúc xích. Nguyên gốc của ##Lạp Xưởng## (Chinese sausage) đến từ món ăn Quảng Châu và thông thường làm từ thịt heo xay và mở sau đó phơi khô. Mùi vị của ##Lạp Xưởng## (Chinese sausage) là mặn và ngọt và dùng trong những món ăn như là cơm chiên, gỏi cuốn, và thậm chí cả bánh trung thu.";
 
 /* Chinese Sausage Introduction (VoiceOVer) */
-"ChineseSausage.Introduction.Accessibility" = "Lạp Xưởng là một loại xúc xích. Nguyên gốc của lập xưởng đến từ đồ ăn Quảng Châu và thông thường làm từ thịt heo xay và mở sau đó phơi khô. Mùi vị của lập xưởng là mặn và ngọt và dùng trong những món ăn như là cơm chiên, gỏi cuốn, và thậm chí cả bánh trung thu.";
+"ChineseSausage.Introduction.Accessibility" = "Lạp Xưởng là một loại xúc xích. Nguyên gốc của lập xưởng đến từ món ăn Quảng Châu và thông thường làm từ thịt heo xay và mở sau đó phơi khô. Mùi vị của lập xưởng là mặn và ngọt và dùng trong những món ăn như là cơm chiên, gỏi cuốn, và thậm chí cả bánh trung thu.";
 
 /* Chinese Sausage Brands */
 "ChineseSausage.Brands" = "##Lạp Xưởng## (Chinese sausage) có rất nhiều hiểu những loại thông thường mình thường mua gọi là ##Kam Yen Jan##. Lạp xưởng hiệu này không phải là loại ngon nhất nhưng nó có thể tìm được ở rất nhiều siêu thị lớn hoặc nhỏ. Nhãn hiệu ##Kam Yen Jan## có hai loại; một loại có bao bì màu trắng còn một loại kia có bao bì màu đỏ. Loại có bao bì màu đỏ thì ngon hơn tại vì nó làm bằng thịt heo và thịt gà và nó có ít mỡ.";
@@ -8433,7 +8433,7 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 "About.Introduction.1.Accessibility" = "Xin chào, mình tên là Linh. Đây là cái APP thứ hai của mình và mình muốn dùng cơ hội này để chia sẻ sự yêu thương ẩm thực của mình với bạn.";
 
 /* About Introduction 2 */
-"About.Introduction.2" = "Có rất nhiều người khi nghe đến đồ ăn Việt Nam chỉ biết đến Phở nhưng đồ ăn Việt Nam không chỉ có vậy. Mình muốn dùng cái APP này để chia sẽ những món ăn độc đáo khác của Việt Nam. Công thức nấu ăn viết trong APP là qua sự trải nghiệm của mình nhưng mình không phải là đầu bếp chuyên nghiệp cho nên nếu có sự xây xước gì thì xin bạn thông cảm cho.";
+"About.Introduction.2" = "Có rất nhiều người khi nghe đến món ăn Việt Nam chỉ biết đến Phở nhưng món ăn Việt Nam không chỉ có vậy. Mình muốn dùng cái APP này để chia sẽ những món ăn độc đáo khác của Việt Nam. Công thức nấu ăn viết trong APP là qua sự trải nghiệm của mình nhưng mình không phải là đầu bếp chuyên nghiệp cho nên nếu có sự xây xước gì thì xin bạn thông cảm cho.";
 
 /* About Subscription Header */
 "About.Subscription.Header" = "Câu Lạc Bộ Đầu Bếp";
