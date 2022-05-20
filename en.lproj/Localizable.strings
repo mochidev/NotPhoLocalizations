@@ -122,7 +122,7 @@
 "HomeScreen.Page.Title" = "Not Phở";
 
 /* Home Screen Page Subtitle */
-"HomeScreen.Page.Subtitle" = "";
+"HomeScreen.Page.Subtitle" = "An Exploration of Vietnamese Cuisine";
 
 /* Home Screen Page Accessibility Title */
 "HomeScreen.Page.AccessibilityTitle" = "Not Pho";
@@ -148,6 +148,12 @@
 /* North Vietnam Content Accessibility */
 "NorthernDishes.Content.Accessibility" = "Dishes from Northern Vietnam.";
 
+/* North Vietnam Introduction 1 */
+"NorthernDishes.Introduction.1" = "In Northern Vietnam, due to colder climate, production of spices is limited. As a result, the food in this region is lighter and more well-balanced in flavor. In the past when meats like chicken, pork, and beef were not readily available, the locals would use seafood and crab was a favorite.";
+
+/* North Vietnam Introduction 2 */
+"NorthernDishes.Introduction.2" = "Most of Vietnamese cuisine originated from Northern and Central Vietnam, and as people immigrated to the South, they brought with them their native dishes. As time passes, the people from the South adopted those dishes and added their own flavors. Most Vietnamese dishes that are sold outside of Vietnam today have the Southern twists to them because right after the Vietnam War many people from the South immigrated aboard in hoping for a better life.";
+
 /* Central Vietnam Page Title */
 "CentralDishes.Page.Title" = "Central Vietnam";
 
@@ -163,6 +169,9 @@
 /* Central Vietnam Content Accessibility */
 "CentralDishes.Content.Accessibility" = "Dishes from Central Vietnam.";
 
+/* Central Vietnam Introduction */
+"CentralDishes.Introduction" = "In Central Vietnam, due to its mountainous terrain, production of spices is abundance which give rise to much spicier food compared to other regions. Hue in Central Vietnam was the capital of the last dynasty so the food in this region was heavily influenced by the royal cuisine making the food more decorative and colorful.";
+
 /* South Vietnam Page Title */
 "SouthernDishes.Page.Title" = "South Vietnam";
 
@@ -177,6 +186,12 @@
 
 /* South Vietnam Content Accessibility */
 "SouthernDishes.Content.Accessibility" = "Dishes from Southern Vietnam.";
+
+/* South Vietnam Introduction */
+"SouthernDishes.Introduction" = "In Southern Vietnam, the warm climate and fertile soil make it the perfect condition for growing fruits, vegetables, and livestock. As a result, the food in this region is very flavorful with a focus on vegetable and fresh herbs. Southern Vietnam is also influenced by its neighbors like Thailand and Cambodia, which introduced the usage of coconut milk in the cuisine giving rise to sweeter food.";
+
+/* Dishes Suggestion */
+"Dishes.Suggestion" = "Below are the dishes that originated from this region so give them a try!";
 
 
 // MARK: - # Vietnamese Food Tab:

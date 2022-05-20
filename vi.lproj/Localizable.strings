@@ -119,13 +119,13 @@
 "HomeScreen.Page.Title" = "Not Phở";
 
 /* Home Screen Page Subtitle */
-"HomeScreen.Page.Subtitle" = "";
+"HomeScreen.Page.Subtitle" = "Ẩm Thực Việt Nam";
 
 /* Home Screen Page Accessibility Title */
 "HomeScreen.Page.AccessibilityTitle" = "Not Pho";
 
 /* Home Screen Page Content Accessibility */
-"HomeScreen.Page.Content.Accessibility" = "Map of Vietnam";
+"HomeScreen.Page.Content.Accessibility" = "bản đồ Việt Nam";
 
 
 // MARK: - # Regions:
@@ -145,6 +145,12 @@
 /* North Vietnam Content Accessibility */
 "NorthernDishes.Content.Accessibility" = "món ăn từ miền bắc việt nam.";
 
+/* North Vietnam Introduction 1 */
+"NorthernDishes.Introduction.1" = "Ẩm thực miền Bắc chủ yếu là đậm đà mà không quá chức vị cay, béo, ngọt và thức ăn rất là cân bằng.";
+
+/* North Vietnam Introduction 2 */
+"NorthernDishes.Introduction.2" = "Hầu hết các món ăn Việt Nam có nguồn gốc từ miền Bắc và miền Trung Việt Nam, và khi người dân di cư vào miền Nam, họ đã mang theo những món ăn quê hương của họ. Thời gian trôi qua, người dân phương Nam đã tiếp thu những món ăn đó và thêm vào những hương vị riêng. Hầu hết các món ăn Việt Nam được bán bên ngoài Việt Nam ngày nay đều có sự kết hợp của miền Nam vì ngay sau Chiến tranh Việt Nam, nhiều người từ miền Nam đã di cư lên tàu với hy vọng có một cuộc sống tốt đẹp hơn.";
+
 /* Central Vietnam Page Title */
 "CentralDishes.Page.Title" = "Miền Trung Việt Nam";
 
@@ -160,6 +166,9 @@
 /* Central Vietnam Content Accessibility */
 "CentralDishes.Content.Accessibility" = "món ăn từ miền trung việt nam.";
 
+/* Central Vietnam Introduction */
+"CentralDishes.Introduction" = "Ấm thực miền Trung chủ yếu là đậm đà và cây hơn ẩm thực miền khác. Vì được ảnh hưởng của triều đại cuối cùng cho nên thức ăn của miền này được trang trí với nhiều màu sắc hơn.";
+
 /* South Vietnam Page Title */
 "SouthernDishes.Page.Title" = "Miền Nam Việt Nam";
 
@@ -174,6 +183,12 @@
 
 /* South Vietnam Content Accessibility */
 "SouthernDishes.Content.Accessibility" = "món ăn từ miền nam việt nam.";
+
+/* South Vietnam Introduction */
+"SouthernDishes.Introduction" = "Ấm thực miền Nam tập trung vào việc sử dụng rau tươi. Vì được ảnh hưởng của nước Thái Lan và Campuchia vào việc sử dụng đường và sữa dừa cho nên thức ăn miền này ngọt hơn các miền khác.";
+
+/* Dishes Suggestion */
+"Dishes.Suggestion" = "Dưới đây là những món ăn của nguồn gốc từ miền này, bạn hãy thử nhé!";
 
 
 // MARK: - # Vietnamese Food Tab:
