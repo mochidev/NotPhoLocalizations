@@ -100,6 +100,12 @@
 /* The Heading for Step 10 (VoiceOver) */
 "Heading.Step.10" = "Bước 10";
 
+/* The Heading for April Fools Recipe */
+"Heading.AprilFools" = "Món Ăn April Fools";
+
+/* The Heading for July Fourth Recipe */
+"Heading.JulyFourth" = "Món Ăn July 4th";
+
 /* Back Button */
 "Page.Navigation.Back" = "Quay Lại";
 
