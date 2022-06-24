@@ -101,10 +101,10 @@
 "Heading.Step.10" = "Step 10";
 
 /* The Heading for April Fools Recipe */
-"Heading.AprilFools" = "April Fools Special Recipe";
+"Heading.AprilFools" = "Not Phở? April Fools!";
 
 /* The Heading for July Fourth Recipe */
-"Heading.JulyFourth" = "July 4th Special Recipe";
+"Heading.JulyFourth" = "Happy 4th of July!";
 
 /* Back Button */
 "Page.Navigation.Back" = "Back";
