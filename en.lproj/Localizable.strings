@@ -8263,8 +8263,11 @@
 /* About Tab Page Accessibility Title */
 "About.Page.AccessibilityTitle" = "About, Not Pho";
 
-/* About Tab Title */
-"About.TabTitle" = "About";
+/* About Navigation Item Title */
+"About.NavigationItem.Title" = "About";
+
+/* About Navigation Item Description */
+"About.NavigationItem.Description" = "Learn more, manage subscription, settings…";
 
 /* About Profile Image Accessibility */
 "About.Profile.Image.Accessibility" = "Profile";

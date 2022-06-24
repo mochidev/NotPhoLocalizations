@@ -8438,8 +8438,11 @@ Bạn cũng có thể sử dụng công thức dầu hào với ##Tôm## (shrimp
 /* About Tab Page Accessibility Title */
 "About.Page.AccessibilityTitle" = "Giới Thiệu, Not Phở";
 
-/* About Tab Title */
-"About.TabTitle" = "Giới Thiệu";
+/* About Navigation Item Title */
+"About.NavigationItem.Title" = "Giới Thiệu";
+
+/* About Navigation Item Description */
+"About.NavigationItem.Description" = "Learn more, manage subscription, settings…";
 
 /* About Profile Image Accessibility */
 "About.Profile.Image.Accessibility" = "Thông tin về tác giả.";
