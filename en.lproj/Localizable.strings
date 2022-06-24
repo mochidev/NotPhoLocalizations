@@ -136,6 +136,9 @@
 
 // MARK: - # Regions:
 
+/* Regional Introduction Extra */
+"Regional.Introduction.Extra" = "Most of Vietnamese cuisine originated from Northern and Central Vietnam, and as people immigrated to the South, they brought with them their native dishes. As time passes, the people from the South adopted those dishes and added their own flavors. Most Vietnamese dishes that are sold outside of Vietnam today have the Southern twists to them because right after the Vietnam War many people from the South immigrated aboard in hoping for a better life.";
+
 /* North Vietnam Page Title */
 "NorthernDishes.Page.Title" = "North Vietnam";
 
@@ -169,11 +172,8 @@
 /* South Vietnam Page Accessibility Title */
 "SouthernDishes.Page.AccessibilityTitle" = "South Vietnam";
 
-/* South Vietnam Introduction 1 */
-"SouthernDishes.Introduction.1" = "In Southern Vietnam, the warm climate and fertile soil make it the perfect condition for growing fruits, vegetables, and livestock. As a result, the food in this region is very flavorful with a focus on vegetable and fresh herbs. Southern Vietnam is also influenced by its neighbors like Thailand and Cambodia, which introduced the usage of coconut milk in the cuisine giving rise to sweeter food.";
-
-/* South Vietnam Introduction 2 */
-"SouthernDishes.Introduction.2" = "Most of Vietnamese cuisine originated from Northern and Central Vietnam, and as people immigrated to the South, they brought with them their native dishes. As time passes, the people from the South adopted those dishes and added their own flavors. Most Vietnamese dishes that are sold outside of Vietnam today have the Southern twists to them because right after the Vietnam War many people from the South immigrated aboard in hoping for a better life.";
+/* South Vietnam Introduction */
+"SouthernDishes.Introduction" = "In Southern Vietnam, the warm climate and fertile soil make it the perfect condition for growing fruits, vegetables, and livestock. As a result, the food in this region is very flavorful with a focus on vegetable and fresh herbs. Southern Vietnam is also influenced by its neighbors like Thailand and Cambodia, which introduced the usage of coconut milk in the cuisine giving rise to sweeter food.";
 
 
 /* Dishes Suggestion */

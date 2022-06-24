@@ -133,6 +133,9 @@
 
 // MARK: - # Regions:
 
+/* Regional Introduction Extra */
+"Regional.Introduction.Extra" = "Hầu hết các món ăn Việt Nam có nguồn gốc từ miền Bắc và miền Trung Việt Nam, và khi người dân di cư vào miền Nam, họ đã mang theo những món ăn quê hương của họ. Thời gian trôi qua, người dân phương Nam đã tiếp thu những món ăn đó và thêm vào những hương vị riêng. Hầu hết các món ăn Việt Nam được bán bên ngoài Việt Nam ngày nay đều có sự kết hợp của miền Nam vì ngay sau Chiến tranh Việt Nam, nhiều người từ miền Nam đã di cư lên tàu với hy vọng có một cuộc sống tốt đẹp hơn.";
+
 /* North Vietnam Page Title */
 "NorthernDishes.Page.Title" = "Miền Bắc Việt Nam";
 
@@ -148,11 +151,8 @@
 /* North Vietnam Content Accessibility */
 "NorthernDishes.Content.Accessibility" = "món ăn từ miền bắc việt nam.";
 
-/* North Vietnam Introduction 1 */
-"NorthernDishes.Introduction.1" = "Ẩm thực miền Bắc chủ yếu là đậm đà mà không quá chức vị cay, béo, ngọt và thức ăn rất là cân bằng.";
-
-/* North Vietnam Introduction 2 */
-"NorthernDishes.Introduction.2" = "Hầu hết các món ăn Việt Nam có nguồn gốc từ miền Bắc và miền Trung Việt Nam, và khi người dân di cư vào miền Nam, họ đã mang theo những món ăn quê hương của họ. Thời gian trôi qua, người dân phương Nam đã tiếp thu những món ăn đó và thêm vào những hương vị riêng. Hầu hết các món ăn Việt Nam được bán bên ngoài Việt Nam ngày nay đều có sự kết hợp của miền Nam vì ngay sau Chiến tranh Việt Nam, nhiều người từ miền Nam đã di cư lên tàu với hy vọng có một cuộc sống tốt đẹp hơn.";
+/* North Vietnam Introduction */
+"NorthernDishes.Introduction" = "Ẩm thực miền Bắc chủ yếu là đậm đà mà không quá chức vị cay, béo, ngọt và thức ăn rất là cân bằng.";
 
 /* Central Vietnam Page Title */
 "CentralDishes.Page.Title" = "Miền Trung Việt Nam";
